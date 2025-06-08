@@ -56,9 +56,7 @@ Lovelace/
 ```
 
 ## Dados
-
-Nove manuais públicos do Arquivo do Estado de SP.  
-Links, verificações SHA-256 e notas estão em `data/README.md`.
+Ler  `data/README.md`.
 
 ## Treinamento (LoRA)
 
