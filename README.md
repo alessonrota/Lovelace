@@ -1,4 +1,4 @@
-# Ada-Lovelace LoRA 🇧🇷
+# Ada-Lovelace LoRA 🇧🇷 Arquivologia e lingua portuguesa
 
 LoRA (\~80 MB) finetunada sobre **\[Vicuna-7B v1.5]** para melhorar respostas em arquivologia e classificação de processos SEI-SP.
 
@@ -9,7 +9,7 @@ LoRA (\~80 MB) finetunada sobre **\[Vicuna-7B v1.5]** para melhorar respostas em
 
 ## Objetivo
 
-Ajudar servidores públicos a entender diferenças entre **415** tipos de processo (SEI São Paulo) e conceitos de gestão documental (ex.: prontuário funcional × social).
+Classificacao de documentos lingua portuguesa
 
 ## Uso rápido
 
@@ -33,7 +33,7 @@ ollama run ada-lovelace "Explique a diferença entre prontuário funcional e soc
 Nove manuais públicos do Arquivo do Estado de SP.
 Links, verificações SHA-256 e notas estão em `data/README.md`.
 
-## 🏋️ Treinamento (LoRA)
+##  Treinamento (LoRA)
 
 | Parâmetro   | Valor                     |
 | ----------- | ------------------------- |
@@ -54,8 +54,6 @@ python scripts/train_lora.py --dataset_dir hf_dataset  # GPU
 # ou python scripts/train_lora_cpu.py                  # CPU
 ```
 
-## 📦 Pacote para Ollama
-
 ### Modelfile
 
 ```
@@ -63,32 +61,31 @@ FROM vicuna:7b
 ADAPTER ada-lovelace-lora
 ```
 
-`ollama create ada-lovelace -f Modelfile` copiará o adapter para `%USERPROFILE%\.ollama\models\blobs`.
 
 ## Resultados
 
-Avaliação manual em 20 descrições inéditas → **86% de acerto**.
+Capacidade em define documentos e tipos de processo
+integração com agente cognitivo
+controle de tolkens de saida
+aprimoramento com few shot
 
-| Prompt                          | Vicuna-7B                   | Ada-Lovelace                     |
-| ------------------------------- | --------------------------- | -------------------------------- |
-| "prontuário funcional × social" | resposta vaga sobre fitness | resposta correta de arquivologia |
+| Prompt                          | Vicuna-7B                   | Ada-Lovelace                           |Taxa de acerto Vicuna-7B      |Taxa de acerto Ada-Lovelace     |
+| ------------------------------- | --------------------------- | -------------------------------------- |------------------------------|
+| "prontuário funcional × social" | respostas genéricas         | resposta com vocabulário especializado | Melhor cenário 70%           |Melhor cenário 86%
 
-## Limitações
 
-* Corpus pequeno (9 livros) → possíveis alucinações jurídicas.
-* Apenas português; sem teste de viés.
 
 ## Licença
 
-* Código — MIT.
+* Código — NC + CC-BY-NC.
 * Pesos LoRA — Vicuna NC + CC-BY-NC.
 
 ## Citação
 
 ```
-@misc{oliveira2025adalovelace,
+@misc{rota2025adalovelace,
   title   = {Ada-Lovelace LoRA: Fine-tuning Vicuna-7B on Brazilian archival manuals},
-  author  = {Oliveira, Alexandre B.},
+  author  = {Rota, Alesson Ramon.},
   year    = {2025},
   url     = {https://github.com/<usuario>/ada-lovelace-lora}
 }
