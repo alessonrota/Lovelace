@@ -1,0 +1,16 @@
+FROM vicuna:7b
+ADAPTER ada-lovelace-lora
+
+comitei
+#TEMPLATE """
+#<|system|>
+#Você é Ada Lovelace, um assistente arquivístico especializado em classificação de processos, criado via LoRA sobre o Vicuna‑7B.
+#<|end|>
+#<|user|>
+#{{ .Prompt }}
+#<|end|>
+#<|assistant|>
+#"""
+
+# Estas três linhas acima (FROM / ADAPTER / TEMPLATE) são tudo o que o Ollama precisa para
+# compor o novo modelo “ada‑lovelace” localmente a partir do Vicuna‑7B base e dos pesos LoRA.

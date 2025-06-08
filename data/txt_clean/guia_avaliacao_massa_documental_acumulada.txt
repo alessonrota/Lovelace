@@ -1,0 +1,7702 @@
+
+    Guia para
+
+Eliminação rápida e segura de documentos de Arquivo
+
+
+Governador do Estado de São Paulo
+ Rodrigo Garcia
+
+Secretário de Estado de Orçamento e Gestão
+Nelson Luiz Baeta Neves Filho
+
+Coordenador do Arquivo Público do Estado de São Paulo
+Thiago Lima Nicodemo
+
+Diretora Técnica do Departamento de Gestão do
+Sistema de Arquivos do Estado de São Paulo – SAESP
+Ieda Pimenta Bernardes
+
+Diretora Técnica do Departamento de Preservação e Difusão do Acervo
+Camila Brandi de Souza Bentes
+
+Coordenação Geral
+Ieda Pimenta Bernardes
+Pesquisa, produção de conteúdo e teste da metodologia: 
+André Montagner
+Edson de Souza Cavalcante
+Eliana Martinelli Avagliano
+Felipe Teixeira Hudson
+Giselda Grangeiro da Costa Silva
+Shanna de Oliveira Rangel
+Valter Vieira de Menezes
+
+Centro de Arquivo Administrativo
+Eliana Martinelli Avagliano - Diretor Técnico II
+Felipe Teixeira Hudson
+
+Núcleo de Apoio Logístico
+Shanna de Oliveira Rangel - Diretor Técnico I
+Sheila Marcia Juviniano
+
+Núcleo de Processamento Técnico
+Edson de Souza Cavalcante - Diretor Técnico I
+Cristina Maria da Conceição Machado 
+Giselda Grangeiro da Costa Silva
+Humberto Moniz Calouro
+Maria do Socorro das Neves Alves
+Paula Regina Pinheiro Armando
+Silene Rodrigues Borges
+
+Núcleo de Registro e Empréstimo
+Valter Vieira de Menezes - Diretor Técnico I
+Élcio Uzun
+Terezinha Marques do Carmo
+
+ 
+
+1º versão impressa
+
+Guia para a Avaliação 
+Dinâmica da Massa 
+Documental Acumulada
+Eliminação rápida e segura de documentos de arquivo 
+
+Secretaria de Orçamento e Gestão
+
+Arquivo Público do Estado
+São Paulo
+2022
+
+
+Ficha catalográfica elaborada por  
+Rita de Cássia Higa do Nascimento – CRB 8/9231 
+
+G971        Guia  para  a  avaliação  dinâmica  da  massa  documental  acumulada  : 
+eliminação  rápida e segura de documentos de  arquivo. – 1ª versão 
+impressa. – São Paulo : Arquivo Público do Estado, 2022.  
+
+                         96 p. : il. ; 18 x 26 cm 
+
+            Disponível no sítio www.arquivoestado.sp.gov.br 
+            Inclui bibliografia 
+                          ISBN 978-85-69353-09-6 
+
+        1. Avaliação de documentos.  2. Gestão documental.  3. Avaliação da 
+massa  documental  acumulada.  4.  Eliminação  de  documentos.  I.  Arquivo 
+Público do Estado de São Paulo 
+
+                                              CDD 025.1714 
+
+Copyright ©2021 by Arquivo Público do Estado de São Paulo
+
+Rua Voluntários da Pátria, 596, 02010-000, São Paulo – SP
+
+Tel.: (11)2868-4500
+
+arquivoadministrativo@arquivoestado.sp.gov.br
+
+Disponível no sítio www.arquivoestado.sp.gov.br
+
+Permitida a reprodução parcial ou total desde que indicada à fonte
+
+ 4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+ 
+ 
+    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  
+ 
+ 
+ 
+ 
+                         
+                                                     
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+
+COLABORADORES
+
+Aldizio Muniz do Nascimento Junior (Secretaria da Agricultura e Abastecimento)
+
+Alexandre Bianchi (Centro de Gestão Documental/DGSAESP/APESP)
+
+Armando José Bellinatti (Centro de Assistência aos Municípios/DGSAESP/APESP) 
+
+Camila Giovana Ribeiro (Núcleo de Normas Técnicas/CGD/DGSAESP/APESP)
+
+Carlos Henrique Menegozzo (Núcleo de Biblioteca e Hemeroteca/CDAP/DPDA)
+
+Clarissa Hirao (Coordenadoria/APESP)
+
+Ednusa Ribeiro Santana (Núcleo de Ação Educativa/DPDA/APESP)
+
+Macleide Freitas Farias (Secretaria da Fazenda e Planejamento)
+
+Maria Elisa Pereira (Núcleo de Normas Técnicas/CGD/DGSAESP/APESP)
+
+Rafael Francisco de Lima (Secretaria de Governo)
+
+Sueli Penha da Silva (Secretaria da Justiça e Cidadania)
+
+Virginia Maria Circelli e Luciane de Oliveira Batistão (Departamento de Estradas 
+
+de Rodagem)
+
+NÚCLEO DE COMUNICAÇÃO 
+Fernanda Santos – Diretor Técnico I
+
+PROJETO GRÁFICO E DIAGRAMAÇÃO
+Dalete Rodrigues Dias
+
+Márcio Tirelli Barbosa Pinto Fonseca
+
+CAPA
+Márcio Tirelli Barbosa Pinto Fonseca
+
+ 4 
+
+ 5 
+
+
+LISTA DE ILUSTRAÇÕES
+
+Figura 1 - Etapas do diagnóstico ao plano de ação           
+
+Figura 2 - Órgão com CADA e SubCADAs instituída      
+
+Figura 3 - Membros executores do Projeto para avaliação da MDA     
+
+33
+
+48
+
+49
+
+Figura 4 - Equipamentos de proteção Individual (EPI)        
+
+             53
+
+Figura 5 - Instrumentos para tratamento técnico        
+
+             54
+
+Figura 6 - Unidades de informação do código de classificação     
+
+Figura 7 - Composição do tipo documental      
+
+58
+
+59
+
+Figura 8 - Representação da utilização do controle de vocabulário                69
+
+Figura 9 - Representação visual da Régua para eliminação da MDA      
+
+74
+
+IMAGENS
+
+Imagem 1 - Estantes para mensuração    
+
+Imagem 2 - Armários para mensuração        
+
+29
+
+             29
+
+Imagem 3 - Documentos amontoados para mensuração       
+
+             30
+
+Imagem 4 - Sinalização do ambiente        
+
+Imagem 5 - Consulta ao Índice Remissivo  
+
+Imagem 6 - Registro das séries documentais recorrentes na 
+                     elaboração da Régua  
+
+Imagem 7 - Separação das dúvidas durante a execução do trabalho   
+
+52
+
+66
+
+76
+
+77
+
+Imagem 8 - Separação física dos documentos em caixas conforme    
+
+                     destinação 
+
+             77
+
+ 6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+LISTA DE QUADROS
+
+Quadro 1 - Cenário do local de guarda e do conjunto documental        
+
+Quadro 2 - Prazos de guarda de documentos avulsos     
+
+26
+
+60
+
+Quadro 3 - Prazos de guarda de documentos compostos   
+
+             61
+
+Quadro 4 - Total de séries documentais elimináveis e de guarda 
+                     permante das áreas-meio  
+
+             62
+
+Quadro 5 - Quantidade de séries documentais elimináveis das 
+
+        áreas-meio em anos e  décadas    
+
+             63
+
+Quadro 6 - Quantidade de séries documentais elimináveis das 
+                     áreas– fim  
+
+             64
+
+Quadro 7 - Índice Remissivo das atividades-meio  
+
+Quadro 8 - Função ou área de produção das atividades-meio    
+
+67
+
+68
+
+Quadro 9 - Nomes usuais de documentos das atividades-meio      
+
+             70
+
+ 6 
+
+ 7 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+LISTA DE MODELOS
+
+Modelo I -     Questionário para identificação da Massa Documental 
+                        Acumulada 
+
+             34
+
+Modelo II -    Relatório ou parecer de visita técnica    
+
+Modelo III -   Projeto para avaliação da MDA  
+
+Modelo IV -  Relação de eliminação de documentos - Massa
+                       Documental Acumulada - MDA   
+
+             40
+
+             41
+
+             87
+
+Modelo V -   Edital de ciência de eliminação de documentos - Massa
+                        Documental Acumulada - MDA  
+
+88
+
+Modelo VI -  Termo de eliminação de documentos - Massa
+                        Documental Acumulada - MDA  
+
+             89
+
+Modelo VII - Etiqueta para caixas de documentos intermediários 
+                       e permanentes   
+
+90
+
+ 8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+LISTA DE SIGLAS
+
+APESP   
+
+Arquivo Público do Estado de São Paulo
+
+CAA   
+
+Centro de Arquivo Administrativo
+
+CADA    
+
+Comissão de Avaliação de Documentos e Acesso
+
+CGD  
+
+Centro de Gestão Documental
+
+CONARQ 
+
+Conselho Nacional de Arquivos
+
+EPI 
+
+DED  
+
+Equipamento de Proteção Individual
+
+Departamento de Entidades Descentralizadas
+
+DGSAESP  
+
+Departamento de Gestão do Sistema de Arquivos do Estado de  
+São Paulo
+
+DPDA    
+
+Departamento de Preservação e Difusão do Acervo
+
+NPT  
+
+MDA  
+
+PC  
+
+Núcleo de Processamento Técnico
+
+Massa Documental Acumulada
+
+Plano de Classificação
+
+RDC-Arq  
+
+Repositório Arquivístico Digital Confiável
+
+SAESP   
+
+SPdoc   
+
+Sistema de Arquivos do Estado de São Paulo
+
+Sistema Informatizado Unificado de Gestão Arquivística de   
+Documentos e Informações
+
+SP Sem Papel  São Paulo Sem Papel
+
+SubCADAS  
+
+Subcomissões de Avaliação de Documentos e Acesso
+
+TTD  
+
+Tabela de Temporalidade de Documentos
+
+ 8 
+
+ 9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+SUMÁRIO 
+
+INTRODUÇÃO                                                                                             
+
+1 GESTÃO DOCUMENTAL NA ADMINISTRAÇÃO PÚBLICA ESTADUAL                                             
+
+1.1 Instrumentos da gestão de documentos
+
+1.1.1 Plano de Classificação de Documentos                                               
+
+1.1.2 Tabela de Temporalidade de Documentos
+
+1.1.3 Manual de Normas e Procedimentos de Protocolo para a        
+Administração Pública do Estado de São Paulo
+
+1.1.4 Sistema Informatizado Unificado de Gestão Arquivística de                              
+Documentos e Informações – SPdoc
+
+1.1.5 Programa SP Sem Papel
+
+2 DIAGNÓSTICO: ANÁLISE DO CONJUNTO DOCUMENTAL E DE SEU 
+ESPAÇO DE ARMAZENAMENTO
+
+2.1 Modalidade de coleta de informações                                                           
+
+2.1.1 Aplicar
+
+2.2 Estrutura para a coleta de informações                                                  
+
+2.2.1 Identificar o local de guarda
+
+2.2.1.1 Arquivo
+
+2.2.1.2 Arquivo descentralizado
+
+2.2.1.3 Espaço cedido
+
+2.2.1.4 Empresa contratada
+
+2.2.2 Cenários de análise
+
+ 10 10
+
+16
+
+22
+
+22
+
+22
+
+22
+
+22
+
+23
+
+23
+
+24
+
+24
+
+24
+
+25
+
+25
+
+25
+
+25
+
+25
+
+25
+
+25
+
+
+2.2.3 Identificar a quantidade de MDA
+
+  2.2.3.1 Mensuração por caixas
+
+  2.2.3.2 Mensuração por estantes
+
+  2.2.3.3 Mensuração por armários
+
+  2.2.3.4 Mensuração em documentos amontoados
+
+2.2.4 Identificar a área de produção (meio ou fim)
+
+  2.2.4.1 Atividade-Meio         
+
+            2.2.4.2 Atividade- Fim 
+
+2.2.5 Identificar a constituição dos documentos 
+
+2.2.5.1 Documentos Simples ou Avulsos  
+
+ 2.2.5.2 Documentos Compostos                                                 
+
+   2.2.6 Identificar as datas-limite dos documentos 
+
+2.2.7 Identificar a ordenação dos documentos
+
+2.2.7.1 Cronológica
+
+2.2.7.2 Numérica
+
+        2.2.7.3 Alfabética 
+
+2.2.8 Identificar o acondicionamento dos documentos
+
+2.2.9 Identificar o(s) instrumento(s) de busca                                            
+
+2.3 Projeto para avaliação da MDA
+
+28
+
+28
+
+29
+
+29
+
+29
+
+30
+
+30
+
+30
+
+30
+
+30
+
+31
+
+31
+
+31
+
+31
+
+32
+
+32
+
+32
+
+32
+
+32
+
+ 10 
+
+10
+
+ 11 
+
+
+2.3.1 Orientações para avaliação da MDA de entidades públicas em 
+processo de desmobilização
+
+3 ORGANIZAÇÃO DA EQUIPE DE TRABALHO: FUNÇÕES E 
+RESPONSABILIDADES
+
+4 ORGANIZAÇÃO DO ESPAÇO E DOS MATERIAIS DE TRABALHO
+
+4.1 Definir e preparar o local de trabalho                                                                    
+
+4.2 Providenciar mobiliário e equipamentos
+
+4.3 Sinalizar o ambiente
+
+4.4 Providenciar material de trabalho
+
+4.4.1 Equipamentos de Proteção Individual – EPI
+
+4.4.2 Itens para a desmetalização, higienização e acondicionamento 
+dos documentos
+
+4.2.3 Suprimentos de escritório e informática
+
+5 METODOLOGIA PARA A AVALIAÇÃO DINÂMICA DA MASSA 
+DOCUMENTAL ACUMULADA
+
+5.1. Estratégias para agilizar a avaliação da MDA
+
+5.2 Etapas da avaliação da MDA
+
+5.2.1 Disponibilização dos PC e TTD
+
+ 5.2.1.1 Código de classificação
+
+       5.2.1.2 Série documental
+
+       5.2.1.3 Prazos de guarda
+
+5.2.2 Disponibilização do Índice Alfabético, Remissivo e Permutado
+
+5.2.3 Identificação dos documentos produzidos até 31/12/1940
+
+ 12 
+
+33
+
+48
+
+51
+
+51
+
+51
+
+51
+
+52
+
+52
+
+53
+
+55
+
+56
+
+57
+
+58
+
+58
+
+58
+
+58
+
+59
+
+66
+
+67
+
+
+5.2.4 Seleção de documentos relativos ao enfrentamento da 
+pandemia do COVID-19 
+
+5.2.5 Identificação das funções ou áreas de produção
+
+5.2.6 Utilização da “linguagem natural” na identificação tipológica de  
+documentos 
+
+5.2.7 Operacionalização da Régua para eliminação da MDA
+
+5.2.8 Separação dos documentos que apresentam dúvidas de 
+classificação
+
+5.2.9 Separação dos documentos de acordo com a sua destinação
+
+5.2.9.1 Documentos destinados à eliminação que já cumpriram os 
+prazos de guarda 
+
+5.2.9.2 Documentos em suporte papel destinados à eliminação 
+que ainda têm prazos de guarda a cumprir
+
+        5.2.9.3 Documentos de guarda permanente
+
+               5.2.9.3.1 Amostragem 
+
+        5.2.9.4 Documentos intermediários
+
+6 CONSERVAÇÃO E REGISTRO DOS DOCUMENTOS DE GUARDA 
+INTERMEDIÁRIA E PERMANENTE
+
+6.1 Campos para o registro de informações dos documentos
+
+   6.1.1 Número da caixa
+
+   6.1.2 Número de protocolo
+
+   6.1.3 Número de controle do documento
+
+   6.1.4 Série documental
+
+   6.1.5 Descrição do assunto 
+
+   6.1.6 Interessado
+
+67
+
+67
+
+68
+
+73
+
+76
+
+77
+
+78
+
+80
+
+82
+
+82
+
+83
+
+84
+
+84
+
+84
+
+84
+
+84
+
+84
+
+84
+
+84
+
+ 12 
+
+ 13 
+
+
+   6.1.7 Data do documento
+
+   6.1.8 Data de encerramento do documento
+
+   6.1.9 Quantidade de volumes
+
+   6.1.10 Prazo de guarda
+
+6.1.11 Destinação final
+
+    6.1.12 Localização 
+
+6.2 Etapas da conservação
+
+   6.2.1 Desmetalizar
+
+   6.2.2 Higienizar 
+
+   6.2.3 Acondicionar 
+
+   6.2.4 Identificar as caixas
+
+6.3 Digitalização de documentos de guarda permanente
+
+REFERÊNCIAS
+
+84
+
+85
+
+85
+
+85
+
+85
+
+85
+
+85
+
+85
+
+85
+
+85
+
+85
+
+86
+
+91
+
+ 14 
+
+
+ 14 
+
+
+INTRODUÇÃO 
+
+Breve  contextualização  sobre  a  Massa  Documental  Acumulada 
+(MDA)
+
+Arquivos registram decisões, ações e memórias. Arquivos são um 
+patrimônio  único  e  insubstituível  transmitido  de  uma  geração  a 
+outra.  Documentos  de  arquivo  são  geridos  desde  a  criação  para 
+preservar seu valor e significado. Arquivos são fontes confiáveis de 
+informação para ações administrativas responsáveis e transparentes 
+[...] (Declaração Universal sobre os Arquivos. UNESCO/ICA, 2010). 
+
+É na execução das atividades, decorrentes das atribuições legais que dispõem 
+sobre a sua criação e funcionamento, que os órgãos e entidades integrantes da 
+Administração Pública das esferas municipal, estadual e federal, bem como de 
+órgãos públicos de outros Poderes (Legislativo e Judiciário), produzem, recebem 
+e acumulam documentos de arquivo. 
+
+Dessa  forma,  os  documentos  de  arquivo  exercem  papel  importante  no 
+funcionamento  dos  órgãos  e  entidades,  pois  comprovam  a  execução  de 
+atividades  administrativas  e  técnicas,  possibilitam  a  prestação  de  contas, 
+garantem  direitos,  dentre  outras  finalidades.  Portanto,  nenhuma  instituição 
+existe  ou  funciona  sem  a  produção  de  documentos,  independentemente  do 
+suporte de registro das informações. 
+
+Embora os documentos sejam essenciais para garantir o pleno funcionamento 
+dos órgãos e entidades da Administração Pública, na prática ainda lidamos com 
+uma cultura administrativa que não reconhece o documento como patrimônio 
+a ser administrado e protegido, contrariando assim, as determinações previstas, 
+respectivamente,  na  Constituição  Federal  e  na  Lei  Federal  de  Arquivos: 
+“Cabem à administração pública, na forma da lei, a gestão da documentação 
+governamental e as providências para franquear sua consulta a quantos dela 
+necessitem” (Constituição da República Federativa do Brasil de 1988, art. 216, 
+§ 2º) e “É dever do Poder Público a gestão documental e a proteção especial a 
+documentos de arquivos, como instrumento de apoio à administração, à cultura, 
+ao desenvolvimento científico e como elementos de prova e informação” (Lei 
+federal n. 8.159, de 08 de janeiro de 1991, art. 1º).
+
+Portanto,  ao  ignorar  as  normas  e  procedimentos  da  gestão  documental  que 
+dispõem sobre a produção, uso, tramitação, classificação, avaliação e destinação 
+final dos documentos, os órgãos e entidades convivem com volumosos conjuntos 
+documentais, acumulados ao longo dos anos sem o devido tratamento técnico, 
+geralmente  armazenados  em  espaços  inadequados.  Estes  acervos  é  o  que 
+denominamos Massa Documental Acumulada (MDA).1
+
+1 
+
+Daqui por diante referida como MDA.
+
+ 16 16
+
+
+Na  maioria  dos  casos,  a  MDA  é  constituída  de  conjuntos  documentais  -  em 
+suporte  papel  -  que  têm  baixo  índice  de  consulta,  já  cumpriram  os  prazos 
+precaucionais  e  prescricionais  e  que  poderiam  ser  eliminados  ou  recolhidos 
+à guarda permanente. Contudo, estas duas operações somente são possíveis 
+mediante a avaliação desses documentos, que consiste “[...] fundamentalmente 
+em identificar valores e definir prazos de guarda para os documentos de arquivo, 
+independentemente de seu suporte[...]” (BERNARDES, 1998, p. 14). A avaliação 
+de  documentos  é  uma  das  funções  imprescindíveis  da  gestão  documental,  o 
+único meio pelo qual se pode determinar os valores (administrativo, probatório, 
+histórico) dos documentos de uma instituição, e assim propor os mais adequados 
+prazos  de  guarda,  encaminhá-los  para  a  eliminação  segura  ou  para  a  guarda 
+permanente.
+
+Dentre  as  etapas  da  avaliação  estão  a  identificação  das  espécies,  tipos  e 
+séries  documentais.  A  espécie  documental  (processo,  expediente,  relatório, 
+prontuário,  memorando,  por  exemplo)  deriva  dos  objetivos  de  produção  do 
+documento e sua forma de registro. Há uma espécie adequada para cada tipo 
+de  registro  da  informação.  O  tipo  documental  é  a  configuração  que  assume 
+uma espécie documental de acordo com a atividade que a gerou. É o caso, por 
+exemplo, do Processo de aquisição de material de consumo, em que temos a 
+espécie (processo), a ação a ser registrada (aquisição) e o objeto (material de 
+consumo). Já a série documental:
+
+É o conjunto de documentos do mesmo tipo documental produzido por um mesmo 
+órgão, em decorrência do exercício da mesma função, subfunção e atividade e 
+que resultam de idêntica forma de produção e tramitação e obedecem à mesma 
+temporalidade e destinação (Decreto n. 48.897/2004, art. 12).
+
+Quando se trata do estudo da tipologia documental como método, Rodrigues 
+(2013, p. 3), sinaliza que ela é “[...] uma metodologia de análise dos documentos 
+de  arquivo,  produto  de  revisão  e  atualização  dos  princípios  formulados  pela 
+diplomática  clássica”.  No  contexto  de  documentos  acumulados  a  mesma  é 
+central e, segundo Nascimento e Silva (s/ano, p. 05), “A identificação do tipo 
+documental pode ser utilizada, sob o ponto de vista metodológico, para organizar 
+documentos  acumulados,  onde  os  textos  legais  se  encontram  dispersos  nos 
+volumes a serem manuseados [...]”, permitindo a identificação dos documentos 
+para garantir sua destinação final corretamente. 
+
+Os  grandes  “depósitos”  de  documentos  e  as  grandes  massas  documentais 
+e  fundos  acumulados  nos  edifícios  da  administração  pública  brasileira  são 
+problemas  conhecidos  e  a  solução  continua  sendo  foco  de  discussão.  Desta 
+maneira  se  torna  importante  e  necessário  realizar  estudos  sobre  a  construção 
+teórica  de  metodologias  e  os  procedimentos  para  sua  aplicação  para  resolver 
+estes problemas no âmbito dos arquivos (NASCIMENTO; SILVA, s/ano, p. 02).
+
+ 16 
+
+16
+
+ 17 
+
+
+A compreensão da MDA como um amontoado de “papéis velhos”, armazenados 
+em espaços considerados como “arquivo morto”, resulta na ausência de soluções 
+definitivas para a sua gestão e destinação final. Este contexto é marcado também 
+pela  ocupação  desnecessária  de  imóveis  públicos,  pelo  dispêndio  de  gastos 
+expressivos  com  a  terceirização  da  guarda,  pela  dificuldade  na  recuperação 
+e  acesso  à  informação  e  pela  perda  de  documentos  de  guarda  permanente, 
+ocasionando prejuízo para a preservação da memória institucional. 
+
+Nesse cenário, entende-se que a gestão documental ou gestão de documentos 
+é o trabalho de assegurar que a informação arquivística seja administrada com 
+economia  e  eficácia;  que  seja  recuperada,  de  forma  ágil  e  eficaz,  subsidiando 
+as ações das organizações e tornando mais confiável o processo de tomada de 
+decisão e a preservação da história e da memória (MORENO, 2008, p. 84).
+
+idades  (corrente, 
+
+A  compreensão  da  teoria  das  três 
+intermediária  e 
+permanente) como “[...] modelo sistêmico de organização de arquivos, em que 
+o documento passa a ser controlado desde o momento em que é produzido 
+até a sua destinação final, ou seja, eliminação criteriosa ou guarda permanente 
+[...]” (MORENO, 2008, p.82) é de suma importância para o entendimento, nos 
+órgãos/entidades, de que o tratamento técnico dos documentos é uma solução 
+a ser implementada na origem da produção documental. 
+
+Nesse  sentido,  Lopes  (1993)  aponta  que  a  solução  definitiva  só  será  possível 
+quando  o  problema  for  tratado  desde  a  origem,  destacando  ainda  que  as 
+massas  documentais  existem  porque  os  documentos  não  foram  objeto  de 
+tratamento técnico científico na sua fase corrente. Da mesma forma, o Arquivo 
+Nacional também afirma a necessidade do tratamento desde a origem: mais do 
+que tratar e organizar a MDA, é preciso extinguir as condições que implicam na 
+sua formatação (ARQUIVO NACIONAL, s/ano).
+
+Dessa  forma,  por  meio  da  elaboração  e  aplicação  de  planos  de  classificação 
+e  tabelas  de  temporalidade  de  documentos  será  possível  garantir  uma 
+produção  documental  padronizada,  bem  como  sua  avaliação  e  destinação 
+criteriosa e segura, o que permitirá uma guarda racional dos documentos pelo 
+tempo  necessário:  “A  fixação  da  temporalidade  é  essencial  para  se  alcançar 
+a  racionalização  do  ciclo  documental,  para  reduzir,  ao  essencial,  a  massa 
+documental  dos  arquivos  e  para  ampliar  o  espaço  físico  de  armazenamento 
+[...]”  (INDOLFO,  2007,  p.  43).  A  utilização  da  classificação  tem  o  objetivo  de 
+reunir os documentos sobre um mesmo tema, facilitando a sua recuperação e 
+simplificando as tarefas arquivísticas referentes à avaliação, seleção, eliminação, 
+transferência,  recolhimento  e  acesso  dos  documentos  (SILVA,  2019).  Quanto 
+à tabela de temporalidade de documentos, ela é um instrumento arquivístico 
+que  decorre  da  avaliação,  objetivando  definir  prazos  de  guarda  e  destinação 
+final dos documentos (SILVA, 2019).
+
+Ao lado da produção e acúmulo de documentos em suporte papel, vivenciamos 
+
+ 18 
+
+
+na última década, sobretudo, o desenvolvimento de ferramentas informatizadas 
+para  a  produção  e  gestão  de  documentos  em  ambiente  digital.  Entretanto, 
+para a substituição progressiva e responsável dos documentos em papel, não 
+basta apenas produzir documentos nato digitais, torna-se necessário resolver o 
+acúmulo de documentos produzidos em suporte papel, compreendendo que, 
+em tais situações, as ações precisarão caminhar paralelamente.
+
+Nesse contexto híbrido, a aplicação dos planos de classificação e das tabelas 
+de  temporalidade  na  origem  da  produção  dos  documentos  e  na  MDA,  se 
+coloca em foco para garantir que não se avance na produção dos documentos 
+nato digitais, abandonando o legado de documentos em suporte papel sem o 
+devido tratamento. A efetividade das políticas públicas de gestão documental 
+decorre“ [...] da criação e principalmente a aplicação de instrumentos de gestão 
+como plano de classificação e tabela de temporalidade que poderão garantir a 
+eficiência  administrativa  e  melhor  utilização  dos  recursos”  (ASSIS;  CALOURO, 
+2017, p. 277).
+
+A preocupação com a gestão dos documentos públicos fez com que o governo 
+do estado de São Paulo tenha se antecipado à Constituição de 1988, publicando 
+o Decreto estadual n. 22.789, de 19 de outubro de 1984, que institui o Sistema 
+de Arquivos do Estado de São Paulo (SAESP).
+
+Na sequência, foi publicado o Decreto estadual n. 29.838, de 18 de abril de 1989, 
+que  dispõe  sobre  a  constituição  de  Comissões  de  Avaliação  de  Documentos 
+de  Arquivo  nas  secretarias  de  Estado,  visando  à  elaboração  dos  planos  de 
+classificação  e  tabelas  de  temporalidade  de  documentos  de  suas  atividades 
+finalísticas.  
+
+Em 2004, o governo estadual publicou o Decreto estadual n. 48.897, de 27 de 
+agosto de 2004, que amplia a responsabilidade de promover a gestão documental 
+não apenas nas secretarias, incluindo autarquias, fundações, empresas públicas, 
+sociedades  de  economia  mista,  entidades  privadas  encarregadas  de  serviços 
+públicos e organizações sociais.
+
+Também no ano de 2004, foi publicado o Decreto estadual n. 48.898, de 27 de 
+agosto 2004, que aprova o Plano de Classificação e a Tabela de Temporalidade 
+de Documentos da Administração Pública do Estado de São Paulo: Atividades-
+Meio.
+
+Considerando  que  sem  planos  e  tabelas  não  é  possível  promover  a  efetiva 
+gestão  documental  nos  órgãos/entidades,  o  Arquivo  Público  do  Estado,  por 
+meio  do  Departamento  de  Gestão  do  Sistema  de  Arquivos  do  Estado  de  São 
+Paulo (DGSAESP), centrou esforços para orientar e acompanhar as Comissões 
+de Avaliação de Documentos e Acesso (CADA)2, na elaboração de seus planos 
+de classificação e tabelas de temporalidades das atividades-fim.
+
+Embora o Arquivo Público do Estado tenha publicado normas, procedimentos 
+2 
+
+Denominação alterada pelo Decreto estadual n. 58.052/2012. 
+
+ 18 
+
+ 19 
+
+
+e manuais ao longo dos anos para orientar os órgãos/entidades a elaborarem 
+os  seus  planos  de  classificação,  a  falta  de  conhecimentos  técnicos  por  parte 
+dos  servidores  dificultou  a  compreensão  e  a  aplicação  dos  instrumentos  de 
+gestão documental. Por isso, em 2019, o DGSAESP, instituiu Grupo de Trabalho 
+com representantes do Arquivo Público do Estado de São Paulo (APESP) e de 
+servidores  de  outros  órgãos/entidades  da  administração  pública  estadual, 
+com experiências bem sucedidas na atividade de avaliação documental, com o 
+objetivo de apresentar um modelo dinâmico e pragmático para dar celeridade 
+ao trabalho de avaliação e eliminação de documentos que já haviam cumprido 
+seus  prazos  de  guarda,  bem  como  para  orientar  o  tratamento  técnico  de 
+documentos  intermediários,  que  ainda  aguardavam  o  cumprimento  de  seus 
+prazos de guarda, e os de guarda permanente.
+
+Além das discussões realizadas pelo GT e pesquisas na bibliografia disponível, a 
+metodologia desenvolvida foi testada na avaliação de fundos custodiados pelo 
+próprio Centro de Arquivo Administrativo (CAA), do DGSAESP.
+
+A metodologia desenvolvida resultou na elaboração do Guia para a Avaliação 
+Dinâmica  da  Massa  Documental  Acumulada:  eliminação  rápida  e  segura  de 
+documentos de arquivo. Esta publicação destina-se às Comissões e Subcomissões 
+de Avaliação de Documentos e Acesso, que atuam como agentes qualificados na 
+disseminação da gestão documental;  aos servidores/funcionários das Unidades 
+com Atribuições de Arquivo3 dos órgãos/entidades; e aos demais colaboradores 
+que atuam ou irão atuar no trabalho com a MDA.
+
+A efetiva aplicação da metodologia fornecida no Guia, permitirá, certamente, 
+a  liberação  e  racionalização  de  espaços  físicos,  a  redução  de  custos  com  a 
+terceirização da guarda de documentos, o rápido acesso aos documentos e às 
+informações neles registradas, e a preservação de documentos de inquestionável 
+valor para a pesquisa e a comprovação de direitos.
+
+O Centro de Arquivo Administrativo - CAA
+
+O Centro de Arquivo Administrativo – CAA foi criado pelo artigo 20 do Decreto 
+estadual  n.  7.730,  de  23  de  março  de  1976,  que  reorganizou  a  Secretaria  de 
+estado da Cultura, inicialmente com o nome de Seção Técnica de Pré-Arquivo 
+da Divisão de Arquivos do Estado, com as atribuições de transferir, selecionar e 
+conservar os documentos dos órgãos públicos estaduais.
+
+Em  decorrência  da  reestruturação  do  Arquivo  Público  do  Estado,  em  1983, 
+a  denominação  da  Seção  Técnica  de  Pré-Arquivo  foi  alterada  para  Arquivo 
+Intermediário do Estado e, em 2009, para Centro de Arquivo Administrativo.
+
+O CAA integra o DGSAESP e tem como atribuições receber, por transferência, 
+
+3 
+
+Considerando-se a diversidade de denominações atribuídas aos Arquivos dos órgãos  
+entidades, optou-se por adotar a denominação “Unidade com Atribuições de Arquivo”.
+
+ 20 
+
+ 
+
+documentos provenientes dos órgãos/entidades do Poder Executivo do estado 
+de São Paulo; custodiar a documentação e aplicar os prazos de guarda definidos 
+nas  tabelas  de  temporalidade  de  documentos;  atender  aos  produtores  dos 
+documentos em solicitações de consulta e empréstimo; gerenciar os depósitos 
+e  o  acervo  custodiado  e  orientar  e  capacitar  os  servidores/funcionários  na 
+avaliação da massa documental acumulada.
+
+Nesse sentido, o CAA exerce uma importante função para o pleno funcionamento 
+do SAESP, pois a aplicação das tabelas de temporalidade permite a destinação 
+segura  dos  documentos:  a  eliminação  daqueles  sem  valor  e  o  recolhimento 
+ao  Departamento  de  Preservação  e  Difusão  do  Acervo  –  DPDA  daqueles  de 
+guarda permanente que apresentam valor histórico, informativo e probatório, 
+considerados importantes fontes para a pesquisa pública. 
+
+No ano de 2014, o CAA, por meio de seu Núcleo de Processamento Técnico – NPT, 
+criou o “Laboratório de Análise Tipológica” para promover estudos e atividades 
+de identificação tipológica, iniciativa que permitiu uma maior qualificação dos 
+servidores envolvidos na avaliação da massa documental acumulada. 
+
+Os estudos resultaram na elaboração de “Quadros de Análise Tipológica”, com 
+ementas explicativas sobre as séries documentais analisadas, com a descrição 
+de  suas  principais  características  e  forma  de  constituição,  o  que  gerou  um 
+importante  repertório  para  orientar  e  servir  de  consulta  nos  trabalhos 
+rotineiros de aplicação das tabelas de temporalidade sobre a massa documental 
+acumulada. A proposta visava orientar a equipe na aplicação dos instrumentos 
+de gestão documental, mas a sistematização desses estudos também contribuiu 
+para  uniformizar  o  entendimento  sobre  as  séries  documentais,  evitando-se 
+diferentes abordagens no processo de análise (ASSIS; CALOURO, 2017). 
+
+Além de suas atribuições legais, o conhecimento e experiência acumulados na 
+avaliação da MDA, ao longo do tempo, levaram o CAA a assumir a coordenação 
+do “Projeto de Avaliação da Massa Documental Acumulada” na administração 
+pública estadual, com ações de assistência técnica e capacitação de servidores.
+
+ 20 
+
+ 21 
+
+
+1 GESTÃO DOCUMENTAL NA ADMINISTRAÇÃO PÚBLICA 
+
+ESTADUAL  
+
+Cabe ao APESP, na condição de órgão central do SAESP, formular e implementar 
+a política estadual de gestão, preservação e acesso a documentos e informações 
+produzidos, recebidos e acumulados pelos órgãos e entidades da administração 
+pública estadual. 
+
+Considera-se gestão de documentos o conjunto de procedimentos 
+e operações técnicas referentes à sua produção, tramitação, uso, 
+avaliação e arquivamento em fase corrente e intermediária, visando 
+a  sua  eliminação  ou  recolhimento  para  guarda  permanente  (Lei 
+Federal n. 8.159/1991, art. 3º).
+
+Para  garantir  a  efetiva  implementação  das  normas  e  procedimentos  técnicos 
+de gestão de documentos foram instituídas nos órgãos/entidades do governo 
+do  estado  de  São  Paulo,  as  CADA,  nos  termos  dos  Decretos  estaduais  n. 
+29.838/1989, n. 48.897/2004 e n. 58.052/2012. Trata-se de grupos permanentes 
+e multidisciplinares, vinculados ao Gabinete da autoridade máxima do órgão/
+entidade, responsáveis por disseminar internamente as normas emanadas do 
+Arquivo Público do Estado, órgão central do SAESP. 
+
+1.1 Instrumentos da gestão de documentos
+
+1.1.1  Plano  de  Classificação  de  Documentos:  instrumento  utilizado 
+para classificar todo e qualquer documento de arquivo.4 A aplicação do 
+Plano de Classificação (PC) garantirá a padronização da denominação 
+dos  documentos  em  toda  a  administração  pública  estadual,  bem 
+como  a  recuperação  do  seu  contexto  original  de  produção,  ou  seja, 
+a identificação da função, subfunção e atividade que determinaram a 
+sua produção ou acumulação.
+1.1.2 Tabela de Temporalidade de Documentos: instrumento resultante 
+da  avaliação  documental,  aprovado  por  autoridade  competente, 
+que  define  os  prazos  de  guarda  e  a  destinação  final  de  cada  série 
+documental.5 A aplicação da Tabela de Temporalidade (TTD) garantirá 
+a  gestão  e  separação  dos  documentos:  destinados  à  eliminação,  à 
+guarda permanente e à guarda intermediária (com prazos de guarda 
+a cumprir).
+1.1.3  Manual  de  Normas  e  Procedimentos  de  Protocolo  para  a 
+Administração  Pública  do  Estado  de  São  Paulo:  publicação  que 
+reúne  um  conjunto  de  normas  e  procedimentos  referentes  ao 
+recebimento, registro, abertura de expediente, autuação de processo, 
+encerramento e abertura de volume, tramitação, expedição, juntada, 
+desentranhamento,  apensamento,  desapensamento,  incorporação, 
+
+4 
+5 
+
+Decreto estadual n. 48.897/2004, artigo 10.
+Decreto estadual n. 48.897/2004, artigo 19.
+
+ 22 
+
+22
+
+
+encerramento  de  documentos,  reconstituição,  regularização  de 
+cadastro, consulta, pedido de vista e reativação.6
+1.1.4  Sistema  Informatizado  Unificado  de  Gestão  Arquivística  de 
+Documentos  e  Informações  –  SPdoc:  solução  web  desenvolvida  em 
+conformidade  com  a  política  estadual  de  arquivos  que  permite  o 
+controle  de  documentos  em  suporte  papel,  desde  a  sua  produção, 
+durante  sua  tramitação,  até  sua  destinação  final,  que  poderá  ser  a 
+eliminação ou guarda permanente.7
+1.1.5 Programa SP Sem Papel: programa estadual que visa à produção, 
+gestão, tramitação, armazenamento, preservação, segurança e acesso 
+a  documentos  e  informações  arquivísticas  em  ambiente  digital  de 
+gestão documental.8
+
+Desde o ano de 2004, a administração pública estadual conta com o Plano de 
+Classificação  e  Tabela  de  Temporalidade  de  Documentos  da  Administração 
+Pública  do  Estado  de  São  Paulo:  Atividades-Meio,  oficializados  pelo  Decreto 
+estadual n. 48.898/2004, atualizados pelo Decreto estadual n. 63.382/2018.
+
+A orientação técnica fornecida pelo DGSAESP aos órgãos/entidades integrantes 
+do SAESP resultou em 47 (quarenta e sete) PC e TTD das atividades-fim aprovados 
+pelo Arquivo Público do Estado e devidamente oficializados; 11 (onze) PC e TTD 
+em elaboração e com o planejamento para conclusão e oficialização em 2021; 
+10 (dez) PC e TTD previstos para 2022, e 12 (doze) PC e TTD para 2023.
+
+O  sistema  SPdoc,  atualmente,  é  utilizado  para  a  gestão  de  documentos  em 
+papel em 28 órgãos/entidades, e o Sistema SP Sem Papel, para a produção e 
+gestão de documentos digitais já foi implementado em 76 órgãos/entidades.
+
+Em  decorrência  da  elaboração  desses  instrumentos  de  gestão,  os  órgãos/
+entidades integrantes do SAESP estão aptos a avaliarem a massa documental 
+acumulada  de  maneira  segura  e  criteriosa.  Entretanto,  para  o  pleno 
+funcionamento  do  SAESP,  ainda  será  necessário  buscar  maior  apoio  da 
+administração superior, qualificar novos recursos humanos e contar com CADA 
+mais atuantes.
+
+6 
+7 
+8 
+
+ Decreto estadual n. 60.334/2014.
+ Decreto estadual n. 63.936/2018.
+ Instituído pelo Decreto estadual n. 64.355/2019.
+
+ 22 
+
+22
+
+23
+
+
+2 DIAGNÓSTICO: ANÁLISE DO CONJUNTO DOCUMENTAL E DE SEU 
+
+ESPAÇO DE ARMAZENAMENTO
+
+O  conhecimento  do  conjunto  documental  e  do  espaço  ao  qual  ele  está 
+armazenado  é  imprescindível  para  uma  avaliação  segura  e  eficiente.  Este 
+conhecimento é decorrente do diagnóstico que consiste no levantamento das 
+informações referentes ao contexto de produção, organização e armazenamento 
+da  MDA,  visando  formular  a  melhor  estratégia  para  a  avaliação  documental, 
+priorizando os documentos cuja destinação final é a eliminação.
+
+Diagnóstico: análise das informações básicas (quantidade, 
+localização,  estado  físico,  condições  de  armazenamento, 
+grau  de  crescimento,  frequência  de  consulta  e  outras) 
+sobre arquivos, a fim de implantar sistemas e estabelecer 
+programas de transferência, recolhimento, microfilmagem, 
+conservação e demais atividades.
+
+Dicionário de Terminologia Arquivística, 1996
+
+O  diagnóstico  da  MDA  deverá  ser  conduzido  pelas  CADA,  de  acordo  com  a 
+seguinte metodologia:
+
+2.1  Modalidade  de  coleta  de  informações:  a  equipe  envolvida  no 
+diagnóstico  deverá  dispor  de  estratégias  e  métodos,  quantos  forem 
+necessários,  para  o  levantamento  de  informações  importantes  para  a 
+avaliação  da  MDA.  O  objetivo  é  coletar  informações  que  expressem  o 
+nível de organização e de conhecimento sobre o conjunto documental, 
+infraestrutura, recursos humanos e materiais, dentre outras que se façam 
+necessárias. As informações sobre a MDA poderão ser obtidas por meio 
+da aplicação de questionário, observação in loco e/ou entrevista.
+
+2.1.1 Aplicar questionário: trata-se da coleta induzida de informações 
+por  meio  de  questionário  estruturado  (ver  Modelo  I,  p.34)  que 
+poderá  ser  aplicado  eletronicamente  (e-mail  e  ferramentas  da  web) 
+ou  diretamente  durante  a  observação  in  loco,  ou  seja,  no  próprio 
+local onde está a MDA, priorizando a identificação das condições do 
+conjunto documental, do seu armazenamento e do espaço de guarda 
+e/ou durante entrevista, isto é, por meio de diálogo com um ou mais 
+interlocutores,  que  tenham  conhecimentos  e  informações  sobre 
+a  MDA  a  ser  avaliada.  Após  a  aplicação  do  questionário,  os  dados 
+coletados deverão ser tabulados e interpretados para a avaliação das 
+informações.
+
+ 24 
+
+24
+
+
+A aplicação do questionário, por meio do envio eletrônico ou 
+da observação in loco, ou da entrevista são instrumentos que 
+poderão ser complementados quando necessário.
+No caso da entrevista e da observação in loco será necessário 
+organizar e sistematizar as informações levantadas, podendo 
+resultar  ainda  na  elaboração  de  relatório  ou  parecer  (ver 
+Modelo II, p.40), conforme a necessidade apresentada.
+
+2.2  Estrutura  para  a  coleta  de 
+imprescindíveis para a avaliação da MDA:
+
+informações:  são 
+
+informações 
+
+2.2.1 Identificar o local de guarda: 
+
+2.2.1.1  Arquivo  centralizado:  unidade  administrada  pelo  órgão/
+entidade e localizada no mesmo prédio da sede.
+2.2.1.2 Arquivo descentralizado: unidade administrada pelo órgão/
+entidade e localizada em outro prédio da mesma instituição. 
+2.2.1.3  Espaço  cedido:  espaço  que  não  pertence  à  Unidade  com 
+atribuições de Arquivo do órgão/entidade, mas que é utilizado para 
+o armazenamento de documentos (prédio, galpão, entre outros).
+2.2.1.4 Empresa contratada: espaço administrado por uma empresa 
+contratada para prestar serviço de guarda de documentos.
+
+O órgão/entidade contratante de uma empresa prestadora de 
+serviços para trabalho de guarda, controle e tratamento técnico 
+não  está  isento  de  promover  a  gestão  documental,  realizar 
+a avaliação de seus documentos e aplicar rotineiramente as 
+tabelas de temporalidade.
+
+Portaria UAPESP/SAESP 1/ 2018
+
+2.2.2  Cenários  de  análise:  após  a  identificação  do  local  de  guarda  é 
+necessário  conhecer  as  condições  em  que  se  encontram  o  espaço  e 
+os documentos. O conjunto destas variáveis nos permitirá identificar 
+quatro cenários de análise: depósito adequado, depósito parcialmente 
+adequado, depósito desorganizado e depósito em estado crítico.
+
+Importante que o espaço de guarda dos documentos seja enquadrado 
+nos cenários apresentados, a fim de se adotar o procedimento mais 
+adequado para a realidade observada.
+
+ 24 
+
+24
+
+25
+
+ 
+
+Quadro 1 - Cenários do local de guarda e do conjunto documental
+
+Cenários
+
+Características
+
+Procedimentos
+
+Depósito 
+adequado 
+
+Espaço adequado para a guarda 
+de documentos e execução 
+dos trabalhos, ambiente limpo 
+e organizado, documentos 
+devidamente ordenados e com 
+instrumento de busca.
+
+Espaço parcialmente adequado 
+para a guarda de documentos e 
+execução dos trabalhos, ambiente 
+com pouca sujidade, documentos 
+com alguma organização aparente 
+e informações básicas que 
+possibilitam a sua localização.
+
+Depósito 
+parcialmente 
+adequado
+
+1. Identificar o(s) 
+critério(s) de 
+organização do 
+Arquivo;
+
+2. Analisar o(s) 
+instrumento(s) de 
+busca existente(s): 
+relatórios dos 
+sistemas, códigos 
+de assuntos, 
+planilhas etc;
+
+3. Mapear os 
+conjuntos (atividade 
+fim e/ou meio, 
+produzidos e/
+ou acumulados 
+até 31/12/1940 
+e séries/tipos/
+assuntos mais 
+evidentes);
+
+4. Definir critérios 
+de intervenção no 
+acervo (operação 
+orientada).
+
+ 26 
+
+
+Espaço inadequado para a guarda 
+de documentos e execução dos 
+trabalhos, documentação sem 
+nenhuma organização aparente, 
+não há informações disponíveis 
+sobre os documentos, mas é 
+possível acessar o acervo e obter 
+informações.
+
+Depósito 
+desorganizado
+
+1. Levantar 
+informações mais 
+detalhadas;
+
+2. Definir critérios 
+de intervenção no 
+acervo (operação 
+orientada). Deve-
+se priorizar os 
+documentos com 
+maior fator de 
+risco de perda da 
+informação, que 
+estão, por exemplo, 
+mal acondicionados 
+ou sem nenhum 
+acondicionamento;
+
+3. Mapear 
+os conjuntos 
+(atividades-fim e/ou 
+meio, produzidos 
+e/ou acumulados 
+até 31/12/1940  
+e séries/tipos/
+assuntos mais 
+evidentes).
+
+ 26 
+
+ 27 
+
+
+Não há meios de conhecer o 
+conjunto, pois está em lugar 
+inadequado, perigoso, sujo, 
+contaminado ou com outros 
+materiais inservíveis.
+
+Depósito em 
+estado crítico
+
+1. Providenciar
+a remoção 
+dos materiais 
+inservíveis, limpeza 
+do local e combate 
+de pragas, insetos e 
+animais;
+
+2. Levantar 
+informações mais 
+detalhadas sobre 
+os documentos 
+armazenados no 
+local;
+
+3. Definir critérios 
+de intervenção no 
+acervo (operação 
+orientada). Deve-
+se priorizar os 
+documentos com 
+maior fator de 
+risco de perda da 
+informação, que 
+estão, por exemplo, 
+mal acondicionados 
+ou sem nenhum 
+acondicionamento;
+
+4 - Mapear 
+os conjuntos 
+(atividades-fim e/ou 
+meio, produzidos 
+e/ou acumulados 
+até 31/12/1940 
+e séries/tipos/
+assuntos mais 
+evidentes). 
+
+Fonte: Elaboração e sistematização CAA/DGSAESP/APESP.
+
+2.2.3 Identificar a quantidade de MDA: poderá ser feita por caixas e/
+ou em metros lineares (m). Para fins de mensuração do acervo, uma 
+caixa de arquivo é igual a 0,14 metros lineares (1 caixa = 0,14 m).
+
+2.2.3.1 Mensuração por caixas: é necessário contabilizar o número 
+total de caixas com documentos existentes no acervo e multiplicar 
+
+ 28 
+
+
+por 0,14. Exemplo: Arquivo com 5.000 caixas arquivo (5.000 x 0,14 
+= 700 m).
+2.2.3.2  Mensuração  por  estantes:  é  necessário  medir  com  uma 
+trena  a  largura  de  uma  prateleira  e  multiplicar  o  resultado  pelo 
+número de prateleiras da estante, e depois somar a quantidade de 
+estantes existentes no arquivo.
+
+Imagem 1 – Estantes para mensuração
+
+A largura dessa estante é de 0,90 m. A estante possui 
+5 prateleiras.
+
+5 x 0,90 = 4,50 m de documentos por estante.
+
+Há nesse arquivo 6 (seis) estantes iguais a essa.
+
+Portanto,  para  saber  quantos  metros  lineares  de 
+documentos existem nesse arquivo, basta multiplicar 
+o resultado encontrado para uma estante pelo número 
+de estantes iguais a essa:
+
+6 estantes x 4,50 m = 27 m de documentos.
+
+Fonte: Elaboração e sistematização com base em “Procedimentos para recolhimento de 
+documentos de Guarda Permanente”, Arquivo Público do Estado, 2014.
+
+2.2.3.3  Mensuração  por  armários:  é  necessário  medir  a 
+profundidade da gaveta, contar quantas gavetas o armário possui e 
+depois quantos armários do mesmo tipo existem no arquivo.
+
+Imagem 2 – Armários para mensuração
+
+A  profundidade  da  gaveta  é  de  0,70  m.  O  armário 
+possui 4 gavetas.
+4 x 0,70 = 2,80 m de documentos por armário.
+
+Há  nesse  arquivo  3  (três)  armários  de  aço  iguais  a 
+esse.
+
+Portanto,  para  saber  quantos  metros  lineares  de 
+documentos existem nesse arquivo basta multiplicar 
+o resultado encontrado para um armário de aço pelo 
+número de armários iguais a esse: 
+3 arquivos x 2,80m = 8,40 m de documentos.
+
+Fonte:  Elaboração  e  sistematização  com  base  em  “Procedimentos  para  recolhimento  de 
+documentos de Guarda Permanente”, Arquivo Público do Estado, 2014.
+
+2.2.3.4  Mensuração  em  documentos  amontoados:  é  necessário 
+medir a altura, a largura e o comprimento (metros cúbicos). Como 
+
+ 28 
+
+ 29 
+
+ 
+  
+
+a mensuração deverá ser registrada em metros lineares, multiplica-
+se o total de metros cúbicos por 12 e o resultado será um número 
+aproximado em metros lineares.
+
+Imagem 3 – Documentos amontoados para mensuração
+
+Fonte:  Elaboração  e  sistematização  com  base  em  “Procedimentos  para  recolhimento  de 
+documentos de Guarda Permanente”, Arquivo Público do Estado, 2014.
+
+A altura é 0,50 m, a largura é 0,60 m e o comprimento é 0,80 m.
+
+O  volume  de  documentos  nesse  exemplo  é  obtido  multiplicando-se  as  três 
+medidas:
+0,50 x 0,60 x 0,80 = 0,24 m3 (metros cúbicos)
+0,24 m3 x 12 = 2,88 metros lineares.  
+
+2.2.4  Identificar  a  área  de  produção  (meio  ou  fim):  os  documentos 
+são produzidos no âmbito das atividades-meio ou das atividades-fim 
+do  órgão/entidade,  conforme  definido  no  Decreto  n.  48.897/2004, 
+artigo 17.
+
+2.2.4.1 Atividade-Meio: ação, encargo ou serviço que um órgão leva 
+a efeito para auxiliar e viabilizar o desempenho de suas atribuições 
+específicas e que resulta na produção e acumulação de documentos 
+de caráter instrumental e acessório. 
+2.2.4.2 Atividade-Fim: ação, encargo ou serviço que um órgão leva 
+a efeito para o efetivo desempenho de suas atribuições específicas 
+e que resulta na produção e acumulação de documentos de caráter 
+substantivo essencial para o seu funcionamento.
+
+2.2.5  Identificar  a  constituição  dos  documentos:  os  documentos  de 
+arquivo  poderão  ser  considerados  simples  ou  compostos  de  acordo 
+com a sua constituição.
+
+2.2.5.1  Documentos  Simples  ou  Avulsos:  são  os  documentos 
+formados por um único item, como por exemplo, formulário, ofício, 
+relatório, memorando, relação de remessa, entre outros. 
+
+ 30 
+
+ 
+ 
+ 
+ 
+
+2.2.5.2 Documentos Compostos: são os documentos que, ao longo 
+de sua trajetória, acumulam vários documentos simples, como por 
+exemplo, processo, expediente, prontuário e dossiê.
+
+	Processo: é a unidade documental, de caráter decisório, em 
+que  se  reúnem,  por  solicitação  de  autoridade  competente, 
+documentos  de  natureza  diversa,  que  tramitam  no  decurso 
+de uma ação administrativa;
+
+	Expediente:  é  a  unidade  documental  que  tramita  para 
+informar e/ou acolher manifestações, podendo estar ou não 
+acompanhado de outros documentos, reunidos em torno de 
+uma atividade, demanda ou interessado;
+
+	Prontuário: é a unidade documental que não tramita, em que 
+se reúnem documentos de natureza diversa relativos a uma 
+pessoa física ou jurídica;
+
+	Dossiê: é a unidade documental que não tramita, em que se 
+reúnem documentos de natureza diversa, para uma finalidade 
+específica.
+
+Importante observar na avaliação de processos e expedientes 
+que,  por  possuírem  numeração  sequencial,  poderão  estar 
+arquivados  nesta  ordem, 
+independentemente  da  sua 
+classificação  arquivística  (função,  subfunção,  atividade  e 
+série documental). 
+
+2.2.6  Identificar  as  datas-limite  dos  documentos: 
+identificação 
+cronológica em que são mencionados os anos de início e término do 
+período abrangido pelo conjunto documental a ser avaliado.
+
+Toda  documentação  produzida  e/ou  acumulada  até 
+31/12/1940  pelos  órgãos  e  entidades  da  Administração 
+Pública Estadual deve ser preservada de forma permanente. 
+Decreto estadual n. 48.897/2004, artigo 31, inciso III.
+
+2.2.7 Identificar a ordenação dos documentos: a ordenação original 
+poderá  ser  cronológica,  numérica,  alfabética,  por  área  de  produção, 
+por série documental, etc. A documentação também poderá não estar 
+ordenada.
+
+2.2.7.1 Cronológica: ordenada por meio de uma sequência natural 
+
+ 30 
+
+ 31 
+
+
+de tempo, período, data.
+2.2.7.2 Numérica: ordenada por meio dos algarismos numéricos.
+2.2.7.3 Alfabética: ordenada por meio das letras do alfabeto.
+
+2.2.8 Identificar o acondicionamento dos documentos: é a embalagem 
+ou  guarda  de  documentos  visando  à  sua  preservação.  As  formas  de 
+acondicionar um documento poderão variar conforme o seu formato e 
+suporte, como por exemplo, caixas-arquivo, tubos de PVC (para plantas 
+e mapas) e pasta suspensa kraft (usadas para armários gaveteiros). A 
+documentação também poderá não estar acondicionada.
+
+	Formato  dos  documentos:  conjunto  das  características  físicas 
+de  apresentação,  das  técnicas  de  registro  e  da  estrutura  da 
+informação e conteúdo de um documento, podendo ser: texto, 
+foto, mapa, entre outros.
+
+	Suporte  dos  documentos:  material  no  qual  são  registradas  as 
+informações, como por exemplo: papel, magnético, óptico, filme, 
+fita, entre outros.
+
+2.2.9  Identificar  o(s)  instrumento(s)  de  busca:  são  aqueles  que 
+registram informações sobre os documentos e sua localização. Podem 
+apresentar-se de diferentes maneiras: sistema informatizado, planilha, 
+livro etc.
+Na análise dos documentos gerenciais referentes ao conjunto deverá 
+ser observado: 
+
+	Planilhas  com 
+arquivados; 
+
+informações 
+
+referentes  aos  documentos 
+
+	Planilhas ou documentos de controle de registros de entrada e 
+
+saída de documentos; 
+
+	Catálogos ou listagens de documentos;
+	Fichas remissivas e de controle de documentos;
+	Backup ou sistemas legados.
+
+2.3 Projeto para avaliação da MDA: uma vez processadas as informações 
+coletadas por meio do diagnóstico, as mesmas deverão ser convertidas 
+nas  ações  descritas  no  Projeto  para  avaliação  da  MDA  (ver  Modelo  III, 
+p.41). O documento é a declaração de intenções que será aplicada a uma 
+dada realidade, em resposta a uma necessidade ou problema previamente 
+identificado. O Projeto contará com a seguinte estrutura: 
+
+	Justificativa;
+	Base legal;
+	Escopo;
+	Objetivos;
+	Cronograma de atividades;
+
+ 32 
+
+
+	Metodologia;
+	Resultados esperados;
+	Recursos Humanos;
+	Monitoramento.
+
+Caberá à CADA encaminhar o Projeto ao dirigente do órgão/entidade, a fim de 
+garantir o apoio institucional necessário. 
+
+Figura 1 - Etapas do diagnóstico ao plano de ação
+
+DIAGNÓSTICO
+
+LEVANTAMENTO
+
+2.1 Modalidades da coleta de informações
+
+2.2. Estrutura para a coleta de informações
+
+ESTRATÉGIAS
+
+2.3 Projeto para avaliação de MDA
+
+Fonte: Elaboração e sistematização CAA/DGSAESP/APESP.
+
+2.3.1 Orientações para avaliação da MDA de entidades públicas em 
+processo de desmobilização: os acervos de entidades em processo de 
+dissolução, liquidação e extinção deverão ser avaliados, organizados e 
+mantidos pelos liquidantes até a sua transferência ao Departamento 
+de Entidades Descentralizadas – DED (artigo 9º, inciso IV, do Decreto 
+estadual n. 64.418/2019). 
+Para  avaliar  a  MDA,  os  Liquidantes  deverão  solicitar  o  apoio  de 
+profissionais que detenham conhecimentos de gestão documental, de 
+preferência aqueles que tenham integrado a CADA da entidade (inciso 
+II, artigo 8º do Decreto estadual n. 64.418/2019). 
+Na impossibilidade de executar por seus próprios meios as atividades 
+de gestão documental, o Liquidante ou o DED deverá providenciar a 
+contração de serviços arquivísticos visando à execução de atividades 
+técnicas  auxiliares  de  gestão  documental,  tais  como  transporte, 
+guarda  e  armazenamento,  separação  física  dos  documentos  de 
+valor  permanente  daqueles  destinados  à  eliminação,  identificação  e 
+cadastramento,  empréstimo,  consulta,  digitalização  e  conservação 
+preventiva. 
+
+ 32 
+
+ 33 
+
+           
+
+Modelo I – Questionário para identificação da Massa Documental Acumulada
+
+QUESTIONÁRIO PARA IDENTIFICAÇÃO DA 
+
+MASSA DOCUMENTAL ACUMULADA
+
+Nome do órgão/entidade:
+
+Nome da Unidade com atribuições de Arquivo:
+
+Endereço da Unidade com atribuições de Arquivo:
+
+Telefone da Unidade com atribuições de Arquivo:
+
+Nome do responsável pela Unidade com atribuições de Arquivo:
+
+Telefone do responsável da Unidade com atribuições de Arquivo:
+
+E-mail do responsável da Unidade com atribuições de Arquivo:
+
+1.  Há funcionários (terceirizados, estagiários e servidores) em exercício na 
+
+Unidade com atribuições de Arquivo? 
+o  Sim
+o  Não
+
+2.  Do total de profissionais que atuam na Unidade com atribuições de 
+
+Arquivo, quantos são servidores efetivos? 
+o  Não há profissionais
+o  1 profissional
+o  2 profissionais
+o  3 a 5 profissionais 
+o  5 a 10 profissionais
+o  10 a 15 profissionais 
+o  Mais de 15 profissionais
+
+3.  Do total de profissionais que atuam na Unidade com atribuições de 
+
+Arquivo, quantos são estagiários? 
+o  Não temos estagiários
+o  1 
+o  2 
+o  3 
+o  4
+o  5
+o  Outro:
+
+ 34 
+
+
+4.  Do total de profissionais que atuam na Unidade com atribuições de 
+
+Arquivo, quantos são terceirizados? 
+o  Não temos terceirizados
+o  1 
+o  2 
+o  3 
+o  4
+o  5
+o  Outro:
+
+5.  Dispõe de espaço adequado para o armazenamento dos documentos? 
+
+o  Sim
+o  Não
+
+6.  A Unidade com atribuições de Arquivo é:
+
+prédio)
+
+o  Centralizada (Administrada pelo órgão e localizada no mesmo 
+o  Descentralizada (Administrada pelo órgão e localizada em outro 
+o  Terceirizada (Administrado por empresa privada)
+
+prédio)
+
+7.  Os depósitos onde estão armazenados os acervos pertencem: 
+
+o  Ao próprio órgão
+o  A outro órgão, mas está cedido
+o  Prédio alugado
+o  Empresa terceirizada de guarda
+
+8.  No caso de contratação de empresa para executar as atividades de apoio 
+
+à gestão documental, informar:  
+O nome da(s) empresa(s); 
+O valor e a vigência do(s) contrato(s); 
+Qual a quantidade (caixas e/ou metros lineares: 1 cx=0,14m) de 
+documentos geridos; 
+Quais os serviços contratados: guarda de documentos, classificação, 
+avaliação, eliminação, desmetalização e higienização, cadastramento 
+etc.; 
+Qual a plataforma utilizada como instrumento de busca (Banco de 
+dados, Planilha Excel etc.).
+
+ 34 
+
+ 35 
+
+
+proteção adequada)
+
+9.  Os depósitos de guarda de documentos estão submetidos à influência de 
+agentes de risco? Em caso afirmativo, assinale todas as alternativas que 
+se aplicam:
+o  Entrada de água de chuva, infiltração, umidade
+o  Entrada demasiada de sol/calor e vento (janelas abertas ou sem 
+o  Poluição
+o  Proximidade com produtos químicos e/ou inflamáveis
+o  Risco de incêndio
+o  Fungos e/ou mofo
+o  Insetos e/ou animais (rato, pombo, gato, escorpião etc.)
+o  Excesso de sujidade
+o  Não há influência de agentes fatores de risco
+
+10. Como estão acondicionados os documentos na Unidade com atribuições 
+
+de Arquivo? Assinale todas as alternativas que se aplicam:
+o  Caixa arquivo de polipropileno
+o  Caixa arquivo de papelão
+o  Saco plástico
+o  Fitilho/Barbante (amarrados)
+o  Pasta A-Z ou suspensa
+o  Não estão acondicionados
+
+11. Como estão armazenados os documentos? Assinale todas as alternativas 
+
+que se aplicam:
+o  Armários deslizantes
+o  Estantes de aço
+o  Estantes de madeira
+o  Mapoteca (para guardar mapas)
+o  Mesa
+o  No chão
+o  Outros
+
+12. Como estão organizados os documentos. Assinale todas as alternativas 
+
+que se aplicam:
+o  Ordem Numérica
+o  Ordem Alfabética
+o  Ordem Cronológica
+o  Por série documental de acordo com os Planos de Classificação
+o  Não está ordenado
+
+13. A partir de que ano os documentos estão organizados:
+
+14. O acervo é composto por documentos de qual(ais) ano(s)? Assinale 
+
+todas as alternativas que se aplicam: 
+o  Até 31 de dezembro de 1940
+o  Entre 1941 e 1960
+o  Entre 1961 e 1980
+o  Entre 1981 e 2000
+o  Posteriores a 2001
+
+ 36 
+
+
+15. O acervo está organizado por área de produção (RH, Finanças, 
+
+Patrimônio etc.)?
+o  Sim
+o  Não
+
+16. Como está a identificação visual dos documentos na Unidade com 
+
+atribuições de Arquivo? Assinale todas as alternativas que se aplicam: 
+o  Identificação nas estantes
+o  Identificação diretamente nas caixas
+o  Identificação nos documentos
+o  Não há identificação
+
+17. O Plano de Classificação e a Tabela de Temporalidade de Documentos 
+
+das atividades meio e fim são aplicados nesta Unidade com atribuições 
+de Arquivo? 
+o  Sim
+o  Não
+o  Parcialmente, como?
+
+18. Caso o Plano de Classificação e a Tabela de Temporalidade de 
+
+eliminação; 
+
+Documentos não sejam aplicados, justifique abaixo:
+o  Falta de recursos humanos;
+o  Falta de treinamento e conhecimento sobre o processo de 
+o  Falta de conhecimento sobre as Tabelas de Temporalidade (Meio e 
+o  Dificuldade em manter contato com a CADA e/ou SubCADA;
+o  Falta de apoio institucional;
+o  Ainda não foi elaborado/publicado
+o  Não se aplica.
+
+Fim); 
+
+19. A Unidade com atribuições de Arquivo dispõe de espaço e infraestrutura 
+
+para a realização dos trabalhos de avaliação dos documentos? 
+o  Sim
+o  Não
+o  Parcialmente
+
+20. Caso não disponha de espaço adequado para a realização dos trabalhos 
+
+especifique os problemas encontrados:
+
+21. Qual é o número aproximado de caixas e/ou metros lineares de 
+
+documentos armazenados na Unidade com atribuições de Arquivo?
+
+ 36 
+
+ 37 
+
+
+22. Quais os instrumentos disponíveis para a localização dos documentos? 
+
+Assinale todas as alternativas que se aplicam: 
+o  Livro
+o  Planilha de Excel
+o  Fichas remissivas
+o  Sistema Informatizado
+o  Não possui instrumento de localização
+
+23. Caso utilize "Sistema Informatizado", informar o nome da ferramenta:
+
+24. Na Unidade com atribuições de Arquivo estão arquivados documentos:
+
+Humanos, Orçamento e Finanças, Material e Patrimônio etc.)
+
+o  Das atividades-meio (Documentos comuns a outros órgãos: Recursos 
+o  Das atividades-fim (Documentos específicos do órgão)
+o  Das atividades-meio e fim
+
+25. Indique os tipos de documentos arquivados na Unidade com atribuições 
+
+de Arquivo:
+o  Processo
+o  Expediente
+o  Prontuário funcional
+o  Dossiê
+o  Avulso (Memorando, Ofício, Relação de Remessa, Requerimento 
+etc.)
+o  Outros. Justifique:
+
+26. Qual (is) o(s) formato(s) dos documentos arquivados? Assinale todas as 
+
+alternativas que se aplicam: 
+o  Planta
+o  Mapa
+o  Cartaz
+o  Folha
+o  Caderno (encadernado)
+o  Livro
+o  Rolo de Filme
+o  Ficha
+
+27. Qual(is) o(s) suporte(s) dos documentos? Assinale todas as alternativas 
+
+que se aplicam:
+o  Papel
+o  CD-ROM
+o  Disquete 
+o  Filme (Microfilme)
+o  Outro (especifique)
+
+ 38 
+
+
+28. A Unidade com atribuições de Arquivo elimina os documentos que 
+já cumpriram os prazos de guarda e não possuem valor de guarda 
+permanente? 
+o  Sim
+o  Não
+
+29. Em caso negativo, justifique:
+
+30. O trabalho arquivístico é feito com o uso de Equipamento de Proteção 
+
+Individual (EPI)? (Ex: luva, máscara, óculos, avental).
+o  Sim
+o  Não
+
+31. Caso não utilize Equipamento de Proteção Individual (EPI), justifique o(s) 
+
+motivo(s): 
+
+ 38 
+
+ 39 
+
+
+Modelo II – Relatório ou parecer de visita técnica
+
+GOVERNO DO ESTADO DE SÃO PAULO
+(indicar o nome do órgão/entidade)
+
+1. Local de armazenamento dos documentos:
+
+2. Data da visita: 
+
+3. Participantes:
+
+4. Breve Histórico: registrar informações sobre a unidade responsável pelos 
+
+documentos e sobre a documentação armazenada.
+
+5. Descrição do espaço: dimensionar o espaço e indicar as características da 
+
+infraestrutura do local.
+
+6. Caracterização do acervo: indicar brevemente o estado de conservação do 
+
+acervo, os tipos de documentos, a quantidade e as datas-limite. 
+
+7. Recomendações: indicar providências/encaminhamentos necessários.
+
+8.  Registro  fotográfico:  fotografar  o  local  de  armazenamento  e  o  acervo, 
+
+destacando os problemas identificados.  
+
+9. Assinaturas: incluir nome, cargo e setor dos profissionais que redigiram o 
+
+relatório. 
+
+OBSERVAÇÃO: O relatório de visita técnica poderá ser utilizado como parecer 
+
+técnico para o encaminhamento de providências.
+
+ 40 
+
+
+Modelo III– Projeto para avaliação da MDA
+
+PROJETO PARA AVALIAÇÃO DA 
+MASSA DOCUMENTAL ACUMULADA
+(indicar nome do órgão/entidade)
+
+1. Justificativa
+
+A  ausência  de  controle  e  gerenciamento  adequado 
+de documentos produzidos, recebidos e acumulados 
+pelo  órgão/entidade_____________ 
+(indicar  o 
+nome  do  órgão/entidade),  em  desconformidade 
+com  as  normas  técnicas  e  procedimentos  oficiais, 
+resulta  no  acúmulo  desordenado  de  documentos, 
+na  dificuldade  de  localização  e  acesso,  em  custos 
+desnecessários  com  documentos  que  já  cumpriram 
+os prazos determinados nas tabelas de temporalidade 
+e  em  riscos  aos  documentos  de  valor  permanente 
+comprometendo  sua  disponibilização  e  acesso  para 
+pesquisa pública.
+
+Por  meio  da  execução  do  Projeto  de  Avaliação  da 
+Massa Documental Acumulada pretende-se promover 
+a  avaliação  dos  documentos  com  a  finalidade  de 
+garantir  a  eliminação  segura  e  criteriosa  dos  que  já 
+cumpriram  seus  prazos  de  guarda  e  a  preservação 
+daqueles considerados de guarda permanente.
+
+ 40 
+
+ 41 
+
+
+Decreto estadual n. 22.789/1984: Institui o Sistema 
+de Arquivos do Estado de São Paulo – SAESP.
+
+Decreto  estadual  n.  48.897/2004:  Dispõe  sobre 
+os  Arquivos  Públicos,  os  documentos  de  arquivo  e 
+sua  gestão,  o  Plano  de  Classificação  e  a  Tabela  de 
+Temporalidade  de  Documentos  da  Administração 
+Pública do Estado de São Paulo, define normas para 
+a avaliação, guarda e eliminação de documentos de 
+arquivo.
+
+Decreto  estadual  n.  48.898/2004:  Aprova  o  Plano 
+de  Classificação  e  a  Tabela  de  Temporalidade  de 
+Documentos da Administração Pública do Estado de 
+São Paulo: Atividades – Meio.
+
+Decreto estadual n. 63.382/2018: Substitui os anexos 
+do  Decreto  estadual  n.  48.898,  de  27  de  agosto  de 
+2004, que aprova o Plano de Classificação e a Tabela 
+de Temporalidade de Documentos da Administração 
+Pública do Estado de São Paulo: Atividades-Meio.
+
+Instrução Normativa APE/SAESP - 2, de 2/12/2010: 
+Estabelece  critérios  para  avaliação  da  massa 
+documental  acumulada  e  procedimentos  para 
+a  eliminação,  transferência  e  recolhimento  de 
+documentos à Unidade do Arquivo Público do Estado.
+
+Instrução  Normativa  APE/SAESP-3,  de  14/9/2015: 
+Estabelece  critérios  complementares  à  Instrução 
+Normativa  APE/SAESP-2,  de  2-12/2010,  para  o 
+recolhimento de documentos à Unidade do Arquivo 
+Público  do  Estado,  visando  à  efetiva  aplicação  do 
+Decreto estadual n. 60.145/2014.
+	A  totalização  do  acervo  a  ser  avaliado  é  de 
+_____________  (indicar  a  quantidade  de  caixas 
+e/ou metros lineares);
+
+	O tempo aproximado para a execução do projeto 
+é  de  _____________  (indicar  a  quantidade  de 
+dias úteis);
+
+	A  equipe  necessária  para  executar  o  projeto  é 
+de  aproximadamente____________  (indicar  a 
+quantidade de servidores/funcionários).
+
+2. Base legal
+
+3. Escopo
+
+ 42 
+
+
+4. Objetivos
+
+Avaliar  a  Massa  Documental  Acumulada  (MDA) 
+e  promover  a  eliminação  de  documentos  que  já 
+cumpriram seus prazos de guarda de acordo com as 
+tabelas de temporalidade.
+
+	Intensificar  a  eliminação  criteriosa  e  segura  de 
+documentos  destinados  à  eliminação  que  já 
+cumpriram seus prazos de guarda (76,7% dos 832 
+tipos documentais das áreas-meio são de guarda 
+temporária);
+
+	Promover 
+
+a 
+
+de 
+preservação 
+documentos  de  guarda  permanente  (23,3%  dos 
+832  tipos  documentais  das  áreas-meio  são  de 
+guarda permanente);
+
+adequada 
+
+	Contribuir para a liberação de espaços físicos e a 
+redução de custos com a terceirização da guarda 
+de  documentos  que  já  cumpriram  seus  prazos, 
+determinados  nas  Tabelas  de  Temporalidade  de 
+Documentos.
+
+5. Cronograma de 
+
+atividades
+
+Atividades,  responsáveis  e  prazo  de  execução 
+(APÊNDICE I - CRONOGRAMA).
+
+6. Metodologia
+
+A  metodologia  adotada  para  avaliar  a  massa 
+documental  acumulada  consiste  na  aplicação  de 
+operações  técnicas,  procedimentos  e  ferramentas 
+apresentados no guia dinâmico de avaliação da MDA.
+
+O processo de trabalho  será orientado pelos planos 
+de  classificação  e  tabelas  de  temporalidade  de 
+documentos das atividades-meio e atividades-fim.
+
+7. Resultados 
+
+esperados
+
+	Diagnóstico da massa documental acumulada no 
+_________________________  (indicar  o  nome 
+do órgão/entidade).
+
+	Capacitação de 100% dos membros da Comissão 
+de  Avaliação  de  Documentos  e  Acesso  -  CADA, 
+servidores/funcionários  das  Unidades 
+com 
+atribuições  de  Arquivo  e  demais  colaboradores 
+do projeto.
+
+	Eliminação  de  documentos  que  cumpriram  seus 
+prazos de guarda e liberação de espaços físicos. 
+	Identificação de documentos intermediários que 
+ainda têm prazos de guarda a cumprir, de acordo 
+com as tabelas de temporalidade de documentos.
+guarda 
+permanente  com  valor  probatório  e  informativo 
+relevante. 
+
+	Preservação 
+
+documentos 
+
+de 
+
+de 
+
+ 42 
+
+ 43 
+
+
+8. Recursos humanos
+
+9. Monitoramento
+
+A equipe de execução do projeto deverá 
+ser integrada por servidores/funcionários 
+com  conhecimento  da  estrutura  e 
+funcionamento do órgão/entidade e dos 
+documentos a serem avaliados.
+
+trabalho  deverá  ser 
+orientada 
+capacitada, 
+supervisionada  por  profissionais 
+conhecimentos 
+
+A  equipe  de 
+previamente 
+e 
+experientes  e 
+técnicos. 
+
+com 
+
+(APÊNDICE 
+RESPONSABILIDADE)
+
+II 
+
+–  MATRIZ 
+
+DE 
+
+	Elaboração  de  relatório  mensal  das 
+atividades  executadas  no  período 
+e  dos 
+resultados  apresentados 
+(SubCADAs para as CADA);
+	Realização de reunião mensal 
+
+para apresentação e discussão dos 
+resultados obtidos no período. 
+
+APÊNDICE I - CRONOGRAMA DE ATIVIDADES
+
+Atividade
+
+Responsável
+
+Início
+Previsto
+
+Término
+Previsto
+
+Apresentar o Projeto para 
+avaliação da MDA para o 
+dirigente do órgão/entidade 
+Reestruturar a CADA e a(s) 
+SubCADA(s), se necessário
+
+Realizar reunião de sensibilização 
+com dirigentes das unidades 
+
+Indicar a equipe de trabalho
+
+Capacitar a CADA e a(s) 
+SubCADA(s)
+
+Capacitar a equipe de trabalho
+
+Providenciar o espaço de 
+trabalho
+Providenciar os recursos 
+materiais
+
+Realizar diagnóstico da MDA
+
+CAA
+
+Órgão/
+Entidade
+CAA/ 
+
+Órgão/
+Entidade
+Órgão/
+Entidade
+
+CAA
+
+CADA/ 
+SubCADA
+Órgão/
+Entidade
+Órgão/
+Entidade
+CADA/
+SubCADA
+
+ 44 
+
+
+Preencher o projeto de avaliação 
+da MDA, o cronograma e a matriz 
+de responsabilidades
+
+Elaborar Régua para eliminação 
+da Massa Documental Acumulada 
+(MDA)
+
+Avaliar e separar os documentos 
+destinados a eliminação, 
+amostragem, guarda permanente 
+guarda intermediária
+Elaborar a Relação de eliminação 
+de documentos
+Revisar e aprovar a Relação de 
+eliminação de documentos
+Publicar o Edital de ciência de 
+eliminação de documentos
+Providenciar a fragmentação dos 
+documentos
+Elaborar o Termo de eliminação 
+de documentos
+
+Cadastrar os documentos de 
+guarda intermediária (com prazos 
+de guarda a cumprir)
+
+Acondicionar e identificar 
+os documentos de guarda 
+intermediária (com prazos de 
+guarda a cumprir)
+
+Elaborar o instrumento de busca 
+dos documentos permanentes
+
+Promover o recolhimento dos 
+documentos ao Arquivo do 
+próprio órgão/entidade ou ao 
+Arquivo Público do Estado
+Desmetalizar, higienizar, 
+acondicionar e identificar 
+os documentos de guarda 
+permanente
+
+Elaborar relatório final
+
+Apresentar os resultados
+
+CADA/
+SubCADA
+
+Equipe de 
+trabalho 
+do órgão/
+entidade
+Equipe de 
+trabalho 
+do órgão/
+entidade
+
+Líder de 
+equipe
+
+CADA
+
+CADA
+
+CADA/ 
+SubCADA
+CADA/ 
+SubCADA
+Equipe de 
+trabalho 
+do órgão/
+entidade
+Equipe de 
+trabalho 
+do órgão/
+entidade
+Equipe de 
+trabalho 
+do órgão/
+entidade
+
+CADA/ 
+SubCADA
+
+Equipe de 
+trabalho 
+do órgão/
+entidade
+Líder de 
+equipe
+Líder de 
+equipe
+
+ 44 
+
+ 45 
+
+
+Divulgar os resultados do projeto 
+no órgão/entidade
+
+CADA/ 
+SubCADA
+
+APÊNDICE II – MODELO DE MATRIZ DE RESPONSABILIDADES
+
+Função
+
+Agentes
+
+Responsabilidades
+
+Nomes
+
+	 Gerenciar o projeto;
+	 Capacitar  e  atender  às 
+
+Gerente 
+do Projeto
+
+Comissão de 
+Avaliação de 
+Documentos e 
+Acesso – CADA
+
+SubCADAs;
+
+	 Manter 
+
+interlocução 
+com  o  Centro  de  Arquivo 
+Administrativo 
+–  CAA/
+DGSAESP/Arquivo  Público 
+do Estado de São Paulo;
+	 Manter  a  Administração 
+Superior  a  par  das  ações 
+do Projeto;
+	 Verificar  ações 
+
+judiciais 
+encerradas ou em curso nas 
+quais  a  Fazenda  Estadual 
+figure  como  autora  ou  ré, 
+as  datas  de  aprovação  das 
+contas  pelo  Tribunal  de 
+Contas do Estado e demais 
+informações 
+necessárias 
+para  garantir  a  eliminação 
+segura dos documentos;
+
+Sistema 
+
+	 Abrir,  no 
+
+SP 
+Sem  Papel,  Processo  de 
+eliminação de documentos;
+	 Encaminhar  Relação  de 
+Eliminação de Documentos 
+para 
+do 
+assinatura 
+Coordenador da CADA;
+	 Elaborar  e  encaminhar 
+para  publicação  Edital  de 
+ciência  de  eliminação  de 
+documentos;
+	 Providenciar 
+o 
+dos 
+recolhimento 
+documentos  de  guarda 
+permanente;
+
+	 Elaborar 
+
+relatório 
+consolidado  das 
+ações 
+executadas pelas unidades.
+
+ 46 
+
+
+Líder de 
+Equipe
+
+Profissional 
+escolhido entre 
+os membros da 
+equipe de trabalho 
+da unidade
+
+Equipe de 
+execução
+
+Servidores/
+funcionários, 
+estagiários, 
+contratados que, 
+preferencialmente, 
+conheçam 
+a produção 
+documental
+
+	 Coordenar  a  equipe  de 
+
+trabalho;
+	 Esclarecer 
+
+dúvidas 
+
+encaminhá-las 
+
+ou 
+atendimento 
+ou 
+necessário;
+
+SubCADA, 
+
+da 
+
+e/
+para 
+CADA 
+quando 
+
+	 Elaborar 
+
+atualizar 
+e 
+Régua  para  eliminação  de 
+documentos;
+
+	 Conferir 
+
+séries 
+
+para 
+
+amostragem;
+
+	 Conferir 
+busca;
+
+Instrumento  de 
+
+	 Elaborar  a  Relação  de 
+eliminação de documentos;
+	 Elaborar relatório periódico 
+
+de atividades;
+	 Providenciar 
+
+os 
+Equipamentos  de  Proteção 
+Individual  –  EPI  e  material 
+de apoio;
+
+	 Definir layout da estação de 
+
+trabalho.
+	 Avaliar a MDA;
+	 Alimentar 
+para 
+documentos;
+
+a 
+eliminação 
+
+Régua 
+de 
+
+	 Separar  os  documentos 
+destinados à amostragem;
+	 Cadastrar  os  documentos 
+de guarda intermediária e 
+os de guarda permanente;
+higienizar, 
+acondicionar  e  identificar 
+as  caixas  dos  documentos 
+intermediária  de 
+guarda 
+guarda permanente;
+
+	 Desmetalizar, 
+
+	 Elaborar, 
+
+para 
+
+quando 
+necessário, 
+instrumentos 
+os 
+busca 
+de 
+documentos  de  guarda 
+intermediária 
+os 
+documentos  de  guarda 
+permanente.
+
+e 
+
+ 46 
+
+ 47 
+
+
+3 ORGANIZAÇÃO  DA  EQUIPE  DE  TRABALHO:  FUNÇÕES  E 
+
+RESPONSABILIDADES
+
+Com  a  elaboração  do  Projeto  para  avaliação  da  MDA,  a  partir  dos  dados 
+levantados  no  diagnóstico,  o  órgão/entidade  deverá  constituir  a(s)  equipe(s) 
+de execução. Poderão ser indicados servidores/funcionários das Unidades com 
+atribuições  de  Arquivo  do  órgão/entidade,  das  demais  unidades  produtoras 
+de  documentos,  bem  como  estagiários,  se  houver.  Quanto  maior  for  o 
+conhecimento  da  equipe  sobre  os  documentos,  mais  célere  e  seguro  será  o 
+processo de avaliação.
+
+A equipe de execução deverá contar com um líder que ficará responsável pelo 
+esclarecimento  de  dúvidas,  bem  como  por  orientar  e  promover  estudos  e 
+pesquisas sobre os documentos avaliados, quando necessário. 
+
+Importante que os servidores/funcionários que integrarão a equipe de execução 
+sejam  indicados  oficialmente,  e  que  na  matriz  de  responsabilidade  conste  o 
+nome  completo, cargo, unidade de lotação, telefone e e-mail de cada membro.
+
+Caberá à CADA capacitar e orientar as equipes de execução, gerenciar o Projeto 
+para avaliação da MDA, bem como manter interlocução com a equipe do CAA/
+DGSAESP. No caso de órgãos/entidades que possuam unidades descentralizadas 
+as  CADA  poderão  contar  com  as  SubCADA,  devidamente  instituídas,  no 
+gerenciamento do projeto e no atendimento técnico às equipes de execução.
+
+Figura 2- Exemplo de órgão com CADA e SubCADA instituídas
+
+SECRETARIA DE ESTADO DA EDUCAÇÃO
+
+1 CADA
+
+91 DIRETORIAS REGIONAIS DE EDUCAÇÃO
+
+91 SUBCADA
+
+ESCOLAS
+
+SEM SUBCADA
+
+Fonte: Elaboração e sistematização CAA/DGSAESP/APESP.
+
+ 48 
+
+48
+
+          
+
+Ao  organizar  a  equipe,  uma  etapa  indispensável  é  definir  a  função  de  cada 
+membro participante do Projeto para avaliação da MDA. O líder de equipe é o 
+responsável direto pela avaliação da MDA, bem como o sujeito de interlocução 
+entre a CADA/SubCADA e a equipe de execução. Por essa razão, deverá dedicar-
+se, em especial, às tarefas de supervisão do trabalho.
+
+Figura 3 – Membros da equipe de trabalho do Projeto para avaliação da 
+MDA
+
+CADA
+
+LÍDER DE EQUIPE
+
+EQUIPE DE EXECUÇÃO
+
+Fonte: Elaboração e sistematização CAA/DGSAESP/APESP.
+
+É importante enfatizar que semanalmente o trabalho da equipe de execução 
+deverá  ser  submetido  à  rotina  de  supervisão.  Qualquer  dúvida  que  seja 
+detectada durante a avaliação exigirá, o mais rápido possível, o esclarecimento 
+necessário e a correção imediata, a fim de não comprometer a classificação e 
+destinação final dos documentos.
+
+Ainda  que  sejam  constituídas  equipes  de  execução  apenas  com  servidores/
+funcionários  das  Unidades  com  atribuições  de  Arquivo,  estagiários  e  até 
+mesmo, com funcionários terceirizados, a CADA poderá acionar os responsáveis 
+e/ou servidores/funcionários das áreas produtoras dos documentos que estão 
+
+ 48 
+
+48
+
+49
+
+
+sendo avaliados para o esclarecimento de dúvidas e para o levantamento de 
+informações necessárias à avaliação da MDA.
+
+Portanto,  a  responsabilidade  pela  gestão  de  documentos  é  de  todos  os 
+servidores/funcionários que produziram, receberam e acumularam documentos 
+no exercício de suas atividades públicas.
+
+Todas as atividades de gestão documental, incluindo a avaliação e eliminação de 
+documentos do órgão/ entidade, deverão ser registradas no Dossiê relativo aos 
+trabalhos da Comissão de Avaliação de Documentos e Acesso - CADA (código 
+de  classificação  006.01.06.007),  contemplado  no  Plano  de  Classificação  e  na 
+Tabela de Temporalidade de Documentos da Administração Pública do Estado 
+de São Paulo: Atividades-Meio.
+
+No caso de contratação de empresa para executar atividades 
+técnicas auxiliares de gestão documental o órgão/entidade 
+deverá  obedecer  às  disposições  da  Portaria  UAPESP/SAESP 
+1/2018.
+
+ 50 
+
+
+4 ORGANIZAÇÃO DO ESPAÇO E DOS MATERIAIS DE 
+
+TRABALHO
+
+A avaliação da MDA deverá ocorrer nas dependências da Unidade com atribuições 
+de  Arquivo  ou  no  local  em  que  os  documentos  estiverem  armazenados. 
+Quando  não  houver  possibilidade  de  avaliar  os  documentos  no  local  de  seu 
+armazenamento, o órgão/entidade deverá providenciar um espaço adequado, 
+com a infraestrutura necessária para garantir as condições de trabalho e que 
+seja, preferencialmente, próximo ao local de guarda.
+
+O ideal é evitar a movimentação de documentos, a fim de dar celeridade ao 
+processo de trabalho, bem como poupar o acervo de manuseio desnecessário.
+
+4.1 Definir e preparar o local de trabalho: a partir do diagnóstico e da 
+mensuração do volume de documentos a ser avaliado é que deverá ser 
+definido o espaço e constituída a equipe de trabalho. O espaço deverá ser 
+arejado, iluminado, sem riscos de incêndio, infiltrações e alagamento e 
+que esteja devidamente limpo e organizado. 
+4.2 Providenciar mobiliário e equipamentos: a atividade exige mobiliário 
+e equipamentos a depender da quantidade de documentos e de pessoas, 
+tais como estantes, armários, mesas, cadeiras, computadores, impressora 
+para  a  impressão  de  cartazes  e  etiquetas  de  sinalização,  da  Régua 
+para  eliminação  de  documentos  e  demais  documentos  necessários  ao 
+processo  de  trabalho.  Também  serão  necessários  lixeiras  e  recipientes 
+para colocar todos os metais retirados dos documentos, e carrinhos para 
+a movimentação interna.
+
+DICA
+
+Quanto maior o número de estantes no espaço, mais fácil a 
+separação, triagem, avaliação e mensuração dos documentos.  
+Por  questão  de  segurança,  todas  as  estantes  deverão  ser 
+afixadas na parede de forma a garantir a estabilidade quando 
+ocupadas com o acervo.
+
+4.3  Sinalizar  o  ambiente:  um  ambiente  adequadamente  sinalizado 
+tornará  o  trabalho  mais  organizado.  Poderão  ser  elaborados  cartazes  e 
+etiquetas  com  a  identificação  das  séries  documentais,  destinação  final 
+dos documentos, amostragem, dúvidas etc. Os documentos deverão ser 
+separados conforme a sinalização. 
+
+ 50 
+
+ 51 
+
+    
+
+Imagem 4 – Sinalização do ambiente
+
+Fonte: Elaboração e sistematização CAA/DGSAESP/APESP. 
+
+DICA
+
+Estabeleça, de acordo com o espaço disponível, metas semanais 
+e/ou  mensais  para  a  seleção  dos  lotes  dos  documentos  a 
+serem avaliados. Para evitar o acúmulo de documentos soltos 
+o ideal é retirá-los das caixas ou de outra embalagem em que 
+estiverem acondicionados apenas no momento da avaliação. 
+
+4.4 Providenciar material de trabalho
+
+4.4.1 Equipamentos de Proteção Individual – EPI: É importante 
+que  os  membros  da  equipe  de  trabalho  estejam  devidamente 
+protegidos  com  os  equipamentos  de  proteção  individual  (EPIs) 
+adequados, prevenindo-os da exposição à poeira, insetos, fungos e 
+bactérias presentes em acervos, que podem causar doenças.
+
+ 52 52
+
+ 
+  
+  
+ 
+      
+
+DICA
+
+Além  dos  EPIs,  o  ideal  é  que  a  equipe  de  trabalho  use  calça 
+comprida e calçado fechado. Também deverá ficar disponível no 
+ambiente  de  trabalho  álcool  em  gel  para  que  a  equipe  possa 
+desinfetar as mãos.
+
+Figura 4 – Equipamentos de Proteção Individual (EPI)
+
+Máscara: preferencialmente, utilizar a máscara PFF2 
+(com válvula ou sem). O uso máximo desse EPI é de 7 
+dias. 
+BEC: 2619601, 2607026 
+
+Luvas: para procedimento não-cirúrgico, látex ou vinil. 
+Uso único, sempre que necessário.
+BEC: 2888220, 2888238, 2888246, 3112128, 
+3112136, 3112144
+
+Avental: manga longa. uso máximo de três dias.
+BEC: 565440
+
+Óculos: acrílico, com lentes transparentes, anti-riscos 
+e anti-embassantesde. De uso pessoal, pode ser 
+utilizado durante tempo indeterminado.
+BEC: 1820001, 1820036
+
+Touca: Deverá ser utilizada por um dia.
+BEC: 740144
+
+Sapatilha descartável (propé): descartável e deverá 
+ser utilizada por um dia.
+BEC: 3392040
+
+Fonte: Elaboração e sistematização CAA/DGSAESP/APESP.
+
+4.4.2  Itens  para  a  desmetalização,  higienização  e 
+acondicionamento dos documentos
+
+ 52 
+
+52
+
+ 53 
+
+
+Figura 5 – Instrumentos para tratamento técnico
+
+Escova macia para a limpeza dos documentos.
+BEC: 5342155
+
+Trincha, tipo dupla, largura 2 ½” a 4”. Utilizado para 
+higienizar documentos.
+BEC: 2385317, 2078023
+
+Extrator utilizado para extrair grampos metálicos 
+presentes nos documentos.
+BEC: 2164515, 2164493 e 808490
+
+Clipe de polipropileno, formato paralelo, colorido. 
+Utilizado para a substituição de material metálico.
+BEC: 4434315, 4434331, 4434323
+
+Grampo fixa papel (Romeu e Julieta) utlizado  para 
+substituir material metálico presente documentos 
+compostos (Processos, expedientes, dossiês e 
+prontuários).
+BEC: 3080447
+
+Caixa de polipropileno corrugado, (360 x 250 x 135 
+mm), gramatura de 380 g/m2. Não utilizar caixas de 
+papelão!
+BEC: 1049909
+
+Capa com visor para substituição quando necessário, 
+no caso de documentos que tenham prazos de 
+guarda a cumprir e os de guarda permanente. 
+Observação: costumam ser impressas em gráficas
+
+Flanela: tecido 100% algodão, medindo (38x26)cm, 
+variando(2x3)cm, na cor branca
+BEC: 5339685
+
+Fonte: Elaboração e sistematização CAA/DGSAESP/APESP.
+
+ 54 
+
+
+4.2.3  Suprimentos  de  escritório  e  informática:  a  equipe  também 
+deverá  ter  a  disposição  papel  sulfite,  lápis  HB,  etiquetas  para  caixa 
+arquivo  que  poderão  ser  confeccionadas  no  Word  ou  compradas, 
+cartucho de tinta para impressora, borracha e caneta.
+
+ 54 
+
+ 55 
+
+
+5 METODOLOGIA  PARA  A  AVALIAÇÃO  DINÂMICA  DA  MASSA 
+
+DOCUMENTAL ACUMULADA 
+
+O trabalho de avaliação da MDA consiste na identificação dos documentos, sua 
+classificação e respectiva temporalidade, em conformidade com os PC e as TTD.
+
+Portanto, um dos pressupostos metodológicos deste Guia é que os instrumentos 
+oficiais  de  gestão  documental  (PC  e  TTD  das  áreas  meio  e  fim)  tenham  sido 
+elaborados  e  estejam  disponíveis  para  a  equipe  que  irá  realizar  a  avaliação 
+da  MDA.  Caso  contrário,  a  metodologia  terá  limitações  em  sua  aplicação,  a 
+depender  do  grau  de  maturidade  da  política  de  gestão  documental  vigente. 
+Isto  é,  se  o  PC  e  TTD  não  estiverem  disponíveis  será  necessário  um  esforço 
+adicional para compreender o contexto em que os documentos acumulados 
+foram produzidos, por meio da identificação tipológica. 
+
+A identificação é entendida como uma tarefa de pesquisa, onde 
+se estuda o contexto de produção dos documentos a partir da 
+análise das atribuições do órgão produtor, responsáveis pela 
+produção  documental  e  a  análise  dos  requisitos  dos  tipos 
+documentais visando a definição das séries documentais que 
+será alvo das etapas do tratamento arquivístico (NASCIMENTO; 
+SILVA, s/ano, p. 2).
+
+Essa  identificação  é  necessária  ao  avaliar  e  classificar  o  documento  e,  para 
+isso, é preciso que haja “[...] conhecimento das atividades desenvolvidas pela 
+entidade  produtora/acumuladora  do  arquivo  e  das  relações  orgânicas  entre 
+aquelas  atividades  entre  si,  entre  elas  e  os  documentos  por  ela  produzidos/
+acumulados e entre os documentos entre si [...]” (BELLOTTO, 2002, p. 91). 
+
+A  análise  tipológica  exige  conhecimentos:  1)  da  estrutura 
+organizacional  da  entidade  acumuladora;  2)  das  sucessivas 
+reorganizações que tenham causado supressões ou acréscimos 
+de  novas  atividades  e,  portanto,  de  tipologias/séries;  3)  das 
+funções  definidas  por  leis/regulamentos;  4)  das  atividades 
+informais  executadas;  5)  das  transformações  decorrentes  de 
+intervenções;  6)  de  documentos  que  têm  uma  tramitação 
+controlada (BELLOTTO, 2002).
+
+ 56 
+
+56
+
+
+Nesse sentido, é possível se deparar com situações referentes a mudanças que 
+poderão ter ocorrido ao longo do tempo nas áreas produtoras de documentos 
+e, consequentemente, alterado a sua denominação. Por isso, caberá observar 
+e  alinhar  as  diferenças  encontradas  no  nome  dos  documentos  produzidos 
+anteriormente aos PC, a fim de facilitar a identificação tipológica por meio da 
+“linguagem  natural”  (ver  Item  5.2.6,  p.  63).  O  PC  propõe  uma  denominação 
+padronizada para os documentos pertencentes às mesmas séries documentais 
+e  nem  sempre  este  padrão  encontrará  correspondência  com  a  linguagem 
+utilizada usualmente pelos produtores no momento de sua criação, sendo este 
+outro desafio para a avaliação da MDA. 
+
+A MDA é caracterizada, na maioria dos casos, pelo acúmulo desordenado de 
+documentos, de acordo com o processo natural de sua produção, observando 
+em  geral  apenas  a  ordem  sequencial  numérica,  cronológica  ou  por  área 
+produtora,  sem  o  tratamento  técnico  arquivístico.  O  grau  de  dificuldade 
+para  avaliar  a  MDA  varia  de  acordo  com  o  cenário  em  que  se  encontram  os 
+documentos  acumulados,  sendo  necessário  adotar  critérios  para  facilitar  o 
+processo de trabalho.
+
+fator 
+
+indispensável  que  deverá 
+
+ser  observado  ao  aplicar 
+Outro 
+metodologicamente  a  proposta  é  a  definição  de  um  marco  temporal  para 
+deflagrar o processo de avaliação da MDA, indicando a partir de que ano os 
+documentos serão submetidos à avaliação. No caso do estado de São Paulo, são 
+considerados de guarda permanente todos os processos, expedientes e demais 
+documentos produzidos, recebidos ou acumulados pelos órgãos/entidades da 
+administração pública estadual até 31/12/1940 e, portanto, estes documentos 
+não serão submetidos à avaliação.
+
+Face ao exposto, foi elaborado um conjunto de estratégias e definidas etapas 
+de  trabalho,  incluindo  o  desenvolvimento  de  uma  ferramenta  complementar 
+denominada Régua para eliminação de documentos, cujo objetivo é estabelecer 
+um  processo  de  trabalho  mais  dinâmico,  com  maior  ênfase  à  avaliação  de 
+conjuntos documentais do que de documentos individualizados.
+
+5.1 Estratégias para agilizar a avaliação da MDA: a equipe de execução 
+deverá priorizar no processo de avaliação:
+
+	Documentos  mais  antigos  anteriores  ao  marco  temporal  que  são 
+
+considerados de guarda permanente;
+
+	Séries  destinadas  à  eliminação  nas  tabelas  de  temporalidade  de 
+
+documentos;
+
+	Documentos com prazos de guarda reduzidos (de 1 a 10 anos, por 
+
+exemplo);
+
+	Documentos  avulsos  das  áreas-meio  com  produção  volumosa  e 
+instrumental (ofícios, memorandos, relações de remessa etc.);
+
+	Documentos pouco consultados;
+	Documentos sem pendências administrativas e/ou jurídicas;
+
+ 56 
+
+56
+
+57
+
+
+	Documentos relativos ao enfrentamento da pandemia da COVID-19.
+
+DICA
+
+A avaliação da MDA não deverá ser realizada simultaneamente 
+com outras atividades técnicas de tratamento (desmetalização, 
+higienização,  troca  de  caixas,  cadastramento,  descrição,  entre 
+outros), a fim de dar celeridade ao processo de trabalho.
+
+5.2 Etapas da avaliação da MDA
+
+5.2.1  Disponibilização  dos  PC  e  TTD:  a  equipe  gerencial  deverá 
+fornecer  os  instrumentos  de  gestão  documental  para  orientar  o 
+trabalho  da  equipe  de  execução  na  análise,  classificação  e  avaliação 
+dos documentos. A partir do entendimento dos documentos em seu 
+contexto  de  produção  será  possível  o  agrupamento  mais  célere  das 
+séries documentais.
+Para aplicar os PC aos documentos acumulados, a equipe de execução 
+precisará dominar alguns conceitos básicos de gestão documental:
+
+5.2.1.1  Código  de  classificação:  referência  numérica  que  associa 
+o  documento  ao  seu  contexto  de  produção  e  é  composto  das 
+seguintes unidades de informação.9
+
+Figura 6 – Exemplo de Unidades de informação do código de classificação
+
+XXX.003.03.07.008 
+
+Documento (Processo de apuração preliminar de falta disciplinar)
+
+Atividade (Contencioso disciplinar)
+
+Subfunção (Expediente de pessoal)
+
+Função (Gestão de Recursos Humanos)
+
+Órgão Produtor
+
+Fonte:  Elaboração  com  base  no  Plano  de  Classificação  e  Tabelas  de  Temporalidade  de 
+Documentos da Administração Pública do Estado de São Paulo: Atividades-Meio. Sistematização 
+CAA/DGSAESP/APESP. 
+
+5.2.1.2  Série documental: conjunto de documentos do mesmo tipo 
+documental  produzido  por  um  mesmo  órgão,  em  decorrência  do 
+exercício da mesma função, subfunção e atividade, e que resultam 
+de idêntica forma de produção e tramitação e obedecem à mesma 
+temporalidade e destinação.10
+
+Figura 7 – Composição do tipo documental
+
+9 
+10 
+
+Decreto estadual n. 48.898/2004, artigo 13 e Decreto estadual n° 63.382/2018.
+Decreto estadual n. 48.897/2004, artigo 12. 
+
+ 58 
+
+
+PROCESSO
+
+(DOCUMENTO/
+
+ESPÉCIE)
+
++
+
+AQUISIÇÃO
+
+(AÇÃO)
+
++
+
+MATERIAL DE
+
+ CONSUMO
+
+(OBJETO)
+
+=
+
+TIPO 
+
+DOCUMENTAL
+
+Fonte:  Elaboração  com  base  no  Manual  de  aplicação  do  Plano  de  Classificação  e  Tabela  de 
+Temporalidade de Documentos da Administração Pública do Estado de São Paulo: Atividades-
+Meio. Sistematização CAA/DGSAESP/APESP.
+
+5.2.1.3  Prazos  de  guarda:  é  o  prazo,  em  anos,  que  o  documento 
+deverá ser guardado antes de sua destinação final (eliminação ou 
+guarda permanente). Na avaliação da MDA, as dúvidas em relação 
+aos  prazos  de  guarda  deverão  ser  encaminhadas  para  análise  e 
+orientação da equipe gerencial (CADA ou SubCADA).
+
+	Prazos de guarda de documentos avulsos: os prazos de guarda 
+serão contados a partir de eventos específicos. Na maioria dos 
+casos, os prazos são contados a partir da data de sua produção, 
+mas também poderão ser contados a partir do encerramento da 
+“vigência” ou da “aprovação das contas”.
+
+ 58 
+
+ 59 
+
+
+Quadro 2 -  Prazos de guarda de documentos avulsos
+
+DOCUMENTOS
+
+PRAZO DE GUARDA
+
+DESTINAÇÃO
+
+(em anos)
+
+Unidade
+Produtora
+
+Unidade 
+com 
+Atribuições 
+de Arquivo
+
+Eliminação
+
+Guarda
+Permanente
+
+001.02.02.014
+
+Relatório de 
+reunião
+
+002.02.02.004
+
+Requisição 
+de veículo
+
+1
+
+2
+
+001.03.01.013
+
+Pauta de 
+reunião
+
+Vigência
+
+002.04.03.002
+
+Cadastro de 
+despesas 
+com 
+comunicação
+
+Até a  
+aprovação 
+das contas
+
+4
+
+-
+
+5
+
+5
+
+3
+
+3
+
+3
+
+3
+
+Fonte:  Elaboração  com  base  no  Plano  de  Classificação  e  Tabela  de  Temporalidade  de 
+Documentos  da  Administração  Pública  do  Estado  de  São  Paulo:  Atividades-Meio.  (Decreto 
+estadual n. 48.898/2004, Anexo III). Sistematização CAA/DGSAESP/APESP.
+
+	Prazos  de  guarda  de  documentos  compostos:  os  prazos  de 
+guarda  serão  contados  a  partir  da  data  de  encerramento  dos 
+documentos. 
+o  Quando  na  Unidade  Produtora  constar  a 
+
+informação 
+“Vigência”, o documento será encerrado após o seu término, 
+que poderá variar conforme o documento.
+
+o  Quando  na  Unidade  Produtora  constar  a  informação  “Até  a 
+aprovação das contas”, o documento será encerrado quando 
+da  publicação  da  aprovação  das  contas  do  órgão/entidade. 
+Esta informação deverá constar no próprio documento.
+
+ 60 
+
+  
+
+Quadro 3 – Prazos de guarda de documentos compostos
+
+DOCUMENTOS 
+
+PRAZO DE GUARDA
+
+(em anos)
+
+DESTINAÇÃO
+
+Unidade
+Produtora
+
+Unidade 
+com 
+Atribuições 
+de Arquivo
+
+Eliminação
+
+Guarda
+Permanente
+
+001.02.03.009
+
+004.01.04.002
+
+004.01.04.003
+
+004.01.05.001
+
+004.01.05.006
+
+Processo 
+para 
+apuração de 
+denúncias
+
+Processo de 
+aquisição de 
+material de 
+consumo
+
+Processo de 
+aquisição 
+de material 
+permanente
+
+Processo de 
+contratação 
+de obra 
+pública
+
+Processo de 
+contratação 
+de serviços 
+terceirizados
+
+Vigência
+
+5
+
+Até a 
+aprovação 
+das contas
+
+Até a 
+aprovação 
+das contas
+
+Até 
+aprovação 
+das contas
+
+Até a 
+aprovação 
+das contas
+
+12
+
+12
+
+12
+
+12
+
+3
+
+3
+
+3
+
+3
+
+3
+
+Fonte:  Elaboração  com  base  no  Plano  de  Classificação  e  Tabela  de  Temporalidade  de 
+Documentos  da  Administração  Pública  do  Estado  de  São  Paulo:  Atividades-Meio.  (Decreto 
+estadual n. 48.898/2004, Anexo III). Sistematização CAA/DGSAESP/APESP.
+
+DICA
+
+Havendo dificuldades na identificação da data de aprovação 
+das contas, o órgão/entidade poderá buscar informações junto 
+ao setor financeiro e, de forma complementar, na Consultoria 
+Jurídica, em relação aos documentos ou períodos em que as 
+contas não foram aprovadas total ou parcialmente.
+
+ 60 
+
+ 61 
+
+
+	Prazos de guarda de documentos elimináveis das áreas-meio: 
+após o cumprimento dos prazos de guarda, o percentual de séries 
+documentais que poderão ser eliminadas (76,7%) é maior do que 
+as séries documentais de guarda permanente (23,3%). O quadro 
+a seguir apresenta a quantidade de séries documentais da TTD 
+das  áreas-meio  destinadas  à  eliminação  (638)  e  a  quantidade 
+destinada a guarda permanente (194), frente a um total de 832 
+documentos de acordo com suas respectivas funções.
+
+Quadro 4 – Total de séries documentais elimináveis e de guarda permante 
+das áreas meio
+
+FUNÇÕES
+
+TOTAL DE SÉRIES 
+DOCUMENTAIS
+
+QUANTIDADE 
+DE SÉRIES 
+DOCUMENTAIS 
+ELIMINÁVEIS
+
+QUANTIDADE 
+TOTAL DE SÉRIES 
+PARA GUARDA 
+PERMANENTE
+
+001 ORGANIZAÇÃO 
+ADMINISTRATIVA
+
+002 COMUNICAÇÃO 
+INSTITUCIONAL
+
+003 GESTÃO DE 
+RECURSOS HUMANOS
+
+004 GESTÃO DE 
+BENS MATERIAIS E 
+PATRIMONIAIS
+
+005 GESTÃO 
+ORÇAMENTÁRIA E 
+FINANCEIRA
+
+006 GESTÃO DE 
+DOCUMENTOS E 
+INFORMAÇÕES
+
+007 GESTÃO 
+DE ATIVIDADES 
+COMPLEMENTARES
+
+90
+
+67
+
+309
+
+144
+
+95
+
+101
+
+26
+
+52
+
+45
+
+266
+
+118
+
+76
+
+55
+
+26
+
+39
+
+22
+
+43
+
+26
+
+19
+
+45
+
+0
+
+TOTAL
+
+832 (100%)
+
+638 (76,7%)
+
+194 (23,3)
+
+Fonte: Elaboração Centro de Gestão Documental – CGD/ DGSAESP/APESP, 2021. Sistematização 
+CAA/DGSAESP/APESP. 
+
+A eliminação de séries documentais varia dentro de um recorte temporal de 0 a 
+60 anos, mas a maioria poderá ser eliminada dentro do período de uma década. 
+
+ 62 
+
+
+Do total de 638 séries documentais da TTD das áreas-meio que são passíveis de 
+eliminação após o cumprimento de seus prazos,  562 poderão ser eliminadas 
+em até 10 anos, ou seja, 88,22%. 
+
+De  acordo  com  o  quadro  abaixo  é  possível  verificar  esse  quantitativo  de 
+acordo com suas respectivas funções: 001 – Organização Administrativa; 002 – 
+Comunicação Institucional; 003 – Gestão de Recursos Humanos; 004 – Gestão 
+de  Bens  Materiais  e  Patrimoniais;  005  –  Gestão  Orçamentária  e  Financeira; 
+006  –  Gestão  de  Documentos  e  Informações;  007  –  Gestão  de  Atividades 
+Complementares.
+
+Quadro 5 - Quantidade de séries documentais elimináveis das áreas-meio 
+em anos e  décadas 
+
+QUANTIDADE DE  SÉRIES ELIMINÁVEIS 
+
+POR FUNÇÃO
+
+001
+
+002
+
+003
+
+004
+
+005
+
+006
+
+007
+
+QUANTITATIVO
+
+TOTAL DE SÉRIES 
+DOCUMENTAIS
+
+EM UMA 
+DÉCADA
+
+23
+
+02
+
+02
+
+01
+
+02
+
+10
+
+11
+
+00
+
+01
+
+00
+
+00
+
+00
+
+00
+
+38
+
+00
+
+02
+
+00
+
+00
+
+04
+
+00
+
+00
+
+01
+
+00
+
+00
+
+00
+
+00
+
+78
+
+04
+
+14
+
+02
+
+00
+
+99
+
+31
+
+01
+
+09
+
+05
+
+02
+
+01
+
+20
+
+48
+
+01
+
+03
+
+00
+
+00
+
+31
+
+08
+
+26
+
+00
+
+00
+
+00
+
+00
+
+01
+
+04
+
+00
+
+00
+
+00
+
+00
+
+54
+
+14
+
+04
+
+00
+
+00
+
+00
+
+00
+
+00
+
+26
+
+02
+
+08
+
+00
+
+00
+
+12
+
+02
+
+05
+
+00
+
+00
+
+00
+
+00
+
+00
+
+21
+
+00
+
+02
+
+00
+
+00
+
+03
+
+00
+
+00
+
+00
+
+00
+
+00
+
+00
+
+00
+
+238
+
+09
+
+31
+
+03
+
+02
+
+213
+
+66
+
+36
+
+11
+
+05
+
+02
+
+01
+
+21
+
+562 
+(88,1%)
+
+76 (11,9%)
+
+ANOS
+
+0 ANO
+
+1 ANO
+
+2 ANOS
+
+3 ANOS
+
+4 ANOS
+
+5 ANOS
+
+10 ANOS
+
+12 ANOS
+
+20 ANOS
+
+28 ANOS
+
+30 ANOS
+
+40 ANOS
+
+60 ANOS
+
+Fonte: Elaboração Centro de Gestão Documental – CGD/ DGSAESP/APESP, 2021. 
+Sistematização CAA/DGSAESP/APESP.
+
+ 62 
+
+ 63 
+
+
+	Prazos  de  guarda  de  documentos  elimináveis  das  áreas-
+fim:    após  o  cumprimento  dos  prazos  de  guarda  grande  parte 
+das  séries  documentais  relativas  às  áreas-fim  são  elimináveis, 
+de  acordo  com  suas  respectivas  tabelas  de  temporalidade  de 
+documentos. O quadro seguinte demonstra este quantitativo e 
+o respectivo percentual  a ser eliminado.
+
+Quadro 6 – Quantidade de séries documentais elimináveis das áreas - fim
+
+TABELA DE TEMPORALIDADE DE 
+DOCUMENTOS TTD – FIM
+
+TOTAL DE SÉRIES 
+DOCUMENTAIS
+
+QUANTIDADE DE SÉRIES 
+DOCUMENTAIS ELIMINÁVEIS
+
+QUANTIDADE
+
+%
+
+SECRETARIAS
+
+ADMINISTRAÇÃO 
+PENITENCIÁRIA
+AGRICULTURA  E 
+ABASTECIMENTO
+CULTURA E ECONOMIA 
+CRIATIVA
+DESENVOLVIMENTO 
+ECONÔMICO
+DESENVOLVIMENTO 
+REGIONAL
+
+DESENVOLVIMENTO SOCIAL
+
+DIREITOS DA PESSOA COM 
+DEFICIÊNCIA
+
+EDUCAÇÃO
+
+ESPORTE
+
+FAZENDA E PLANEJAMENTO
+
+HABITAÇÃO
+
+INFRAESTRUTURA E MEIO 
+AMBIENTE
+
+JUSTIÇA E CIDADANIA
+
+55
+
+79
+
+95
+
+16
+
+01
+
+13
+
+04
+
+53
+
+07
+
+88
+
+13
+
+104
+
+18
+
+48
+
+54
+
+39
+
+07
+
+0
+
+05
+
+02
+
+42
+
+04
+
+80
+
+01
+
+14
+
+07
+
+87,27%
+
+68,35%
+
+41,05%
+
+43,75%
+
+00,00%
+
+38,46%%
+
+50,00%
+
+79,25%
+
+57,14%
+
+90,91%
+
+7,69%
+
+13,46%
+
+38,89%
+
+ 64 
+
+
+LOGÍSTICA E TRANSPORTES
+
+SAÚDE
+
+SEGURANÇA PÚBLICA
+
+TRANSPORTES 
+METROPOLITANOS
+
+TURISMO
+
+FUNDAÇÕES
+
+FAPESP
+
+FUNDAÇÃO FLORESTAL
+
+FUNDAÇÃO ZOOLOGICO
+
+FUNAP
+
+FUNDAÇÃO CASA
+
+PROCON
+
+AUTARQUIAS
+
+ARTESP
+
+CBPM
+
+CENTRO PAULA SOUZA
+
+DAEE
+
+DER
+
+DETRAN
+
+IAMSPE
+
+IMESC
+
+40
+
+261
+
+15
+
+218
+
+90
+
+12
+
+05
+
+06
+
+18
+
+77
+
+17
+
+28
+
+32
+
+37
+
+02
+
+53
+
+28
+
+47
+
+95
+
+31
+
+07
+
+81
+
+07
+
+03
+
+02
+
+08
+
+23
+
+17
+
+17
+
+21
+
+32
+
+02
+
+35
+
+21
+
+44
+
+77
+
+21
+
+05
+
+37,50%
+
+83,52%
+
+90,00%
+
+58,33%
+
+60,00%
+
+33,33%
+
+44,44%
+
+29,87%
+
+100,00%
+
+60,71%
+
+65,63%
+
+86,49%
+
+100,0%
+
+66,04%
+
+75,00%
+
+93,62%
+
+81,05%
+
+67,74%
+
+71,43%
+
+ 64 
+
+ 65 
+
+
+JUCESP
+
+EMPRESAS
+
+CETESB
+
+CPTM
+
+EMTU
+
+METRÔ
+
+PRODESP
+
+SPPREV
+
+78
+
+33
+
+23
+
+11
+
+10
+
+02
+
+02
+
+03
+
+14
+
+16
+
+02
+
+07
+
+01
+
+01
+
+3,85%
+
+42,42%
+
+69,57%
+
+18,18%
+
+70,00%
+
+50,00%
+
+50,00%
+
+Fonte: Elaboração Centro de Gestão Documental - CGD/DGSAESP/APESP, 2021. Sitematização 
+CAA/DGSAESP/APESP.
+
+5.2.2 Disponibilização do Índice Alfabético, Remissivo e Permutado: 
+o  Índice  registra  entradas  com  os  diversos  nomes  utilizados  pelos 
+produtores  para  um  mesmo  documento  e  faz  a  remissiva  para  uma 
+denominação  padronizada,  conforme  os  planos  de  classificação.  O 
+Índice  possibilita  ainda,  a  identificação  de  itens  documentais,  que 
+integram documentos compostos a serem classificados.
+
+Imagem 5 – Consulta ao Índice Remissivo
+
+Fonte: Elaboração e sistematização CAA/DGSAESP/APESP.
+
+ 66 
+
+
+Quadro 7 - Índice Remissivo de documentos das atividades-meio
+
+INDICE
+
+Pagamento de conta de luz USE Processo de pagamento de contas 
+de utilidade pública
+
+Pagamento de conta de água USE Processo de pagamento de 
+contas de utilidade pública
+
+Salário-educação USE Processo de concessão de direitos e 
+benefícios
+
+CÓDIGO DE 
+CLASSIFICAÇÃO
+
+005.02.08.006
+
+005.02.08.006
+
+003.03.04.010
+
+Salário-família USE Processo de concessão de direitos e benefícios
+
+003.03.04.010
+
+Título de nomeação INTEGRA Prontuário funcional
+
+003.03.01.008
+
+Título de promoção INTEGRA Prontuário funcional
+
+003.03.01.008
+
+Fonte:  Elaboração  com  base  no  Plano  de  Classificação  e  Tabela  de  Temporalidade  de 
+Documentos  da  Administração  Pública  do  Estado  de  São  Paulo:  Atividades-Meio  (Decreto 
+estadual n. 48.898/2004, Anexo II). Sistematização CAA/DGSAESP/APESP.
+
+5.2.3  Identificação  dos  documentos  produzidos  até  31/12/1940: 
+iniciar o trabalho com a identificação e separação de documentos com 
+datas até 31/12/1940, pois são todos de guarda permanente.11
+
+5.2.4  Seleção  de  documentos  relativos  ao  enfrentamento  da 
+pandemia  do  COVID-19:  recomenda-se  que  sejam  preservados, 
+independentemente  da  destinação  prevista  nas 
+tabelas  de 
+temporalidade,  os  documentos,  informações  e  dados  produzidos, 
+recebidos e acumulados no enfrentamento à pandemia do COVID-19, 
+visando à pesquisa e produção de conhecimento científico. 
+
+5.2.5 Identificação das funções ou áreas de produção: os documentos 
+deverão ser separados por função conforme estabelecido nos planos 
+de classificação das atividades-meio e fim, ou por áreas de produção: 
+orçamentária  e  financeira,  recursos  humanos  etc.  É  comum  que  os 
+documentos acumulados pelos órgãos/entidades estejam arquivados 
+em  ordem  sequencial  numérica  por  ano.  Neste  caso,  dentro  da 
+mesma caixa ou de outra unidade de acondicionamento poderão ser 
+encontrados documentos de funções ou áreas de produção diferentes, 
+o  que  exigirá  um  esforço  adicional  na  identificação  e  classificação 
+destes documentos.
+
+11 
+
+Decreto estadual n. 48.897/2004, art. 31, III e Instrução Normativa APE/SAESP–
+2/2010, art. 7º. 
+
+ 66 
+
+ 67 
+
+ 
+
+Para  realizar  a  separação  dos  documentos  por  função  ou  área  de 
+produção é importante reconhecer os documentos das áreas-meio e 
+diferenciá-los dos documentos das áreas-fim (ver Item 2.2.4, p. 28).
+A identificação dos nomes usuais e assuntos dos documentos auxiliarão 
+na separação por função e/ou por área de produção (meio ou fim).
+No quadro abaixo esta questão fica demonstrada de acordo com um 
+uma breve descrição das respectivas funções ou áreas de produção.
+
+Quadro 8 – Funções ou áreas de produção das atividades-meio
+
+Funções ou
+ Áreas de Produção
+
+Descrição
+
+Organização Administrativa
+
+Comunicação Institucional
+
+Gestão de Recursos Humanos
+
+Gestão de Bens Materiais e 
+Patrimoniais
+
+Gestão de Orçamentária e Finanças
+
+Gestão de Documentos e 
+Informações (Comunicação 
+Administrativa)
+
+Gestão de Atividades 
+Complementares
+
+Criação de órgãos e unidades, decretos, convênio, 
+atos normativos, ação judicial, mandado de 
+segurança, pareceres, assessoria técnico-
+legislativa etc.
+Clipping, jornais, convites, marketing, eventos, 
+cerimonial etc.
+
+Frequência e registro de ponto, recrutamento e 
+seleção de pessoal, afastamento e transferência, 
+nomeação e exoneração, prontuário e vida 
+funcional, estágio, direitos e benefícios, 
+sindicância e aposentadoria etc.
+
+Licitação, aquisição de materiais, aquisição de 
+bens móveis e imóveis, contratações e locações, 
+almoxarifado, frota, veículos e combustível e 
+seguros etc.
+Orçamento, pagamento, nota de 
+empenho, programação orçamentária, 
+adiantamento,prestação de contas, contabilidade 
+etc.
+
+Relação  de  remessa,  ofícios,  requerimentos, 
+controle  de  documentos  e  correspondências, 
+transferência  e  recolhimento  de  documentos 
+controle de acervos, desenvolvimento tecnológico, 
+informática etc.
+
+Zeladoria, controle de portaria, vigilância, serviços 
+reprográficos etc.
+
+Fonte: Elaboração com base no Plano de Classificação e Tabela de Temporalidade de Documentos da 
+Administração Pública do Estado de São Paulo: Atividades-Meio.  (Decreto estadual n. 48.898/2004, 
+Anexo II, Descrição das Funções e Subfunções). Sistematização CAA/ DGSAESP/APESP.
+
+5.2.6 Utilização da “linguagem natural” na identificação tipológica de 
+documentos: a “linguagem natural” refere-se à forma espontânea como 
+os  produtores  nomearam  os  documentos  e  como,  frequentemente, 
+
+ 68 
+
+
+os usuários utilizam para sua recuperação posterior.  Já o vocabulário 
+controlado refere-se à forma controlada/padronizada de denominação 
+de  documentos  decorrente  de  trabalho  técnico  de  profissionais  que 
+atuam na gestão documental e que será utilizado nos PC e nas TTD. 
+A “linguagem natural” será utilizada para relacionar os nomes usuais 
+com os nomes estabelecidos no PC e na TTD. 
+
+A  “linguagem  natural”  deverá  ser  estabelecida  em 
+decorrência do diálogo com os produtores de documentos, 
+aproximando-se  tanto  quanto  possível  da  adoção  de  uma 
+expressão considerada mais adequada em relação ao nome 
+usual dos documentos. A “linguagem natural” é a utilização 
+de um sistema de referência comum e compartilhado, tanto 
+para organizar quanto para recuperar documentos estocados 
+no arquivo (SMIT; KOBASHI,2003).
+
+Figura 8 –  Representação da utilização do controle de vocabulário
+
+Linguagem Natural
+
+Expressão adotada 
+
+(Nomes Usuais)
+
+pelo Arquivo
+
+Plano de Classificação das 
+Atividades-Meio
+
+Pedido de transporte
+Requerimento de veículo
+Requisição de veículo
+Solicitação de transporte
+Solicitação de veículo
+
+Requerimento de veículo
+
+Série  documental:  002. 
+02.02.004  Requisição  de 
+veículo
+
+Fonte:  Elaboração  e  sistematização  com  base  em  Smit  e  Kobashi  (2003)  e  no  Plano  de 
+Classificação  de  Documentos  da  Administração  Pública  do  Estado  de  São  Paulo:  Atividades-
+Meio (2004). Sistematização CAA/ DGSAESP/APESP.
+
+ 68 
+
+ 69 
+
+  
+
+Quadro 9 – Exemplos de nomes usuais de documentos das atividades-meio
+
+LINGUAGEM NATURAL
+(NOME USUAL)
+
+Mandado de Segurança
+
+LINGUAGEM OFICIALIZADA
+(CÓDIGO DE CLASSIFICAÇÃO 
+E DENOMINAÇÃO DA SÉRIE 
+DOCUMENTAL)
+
+001.01.04.002 Expediente de 
+atendimento de requisições, ordens 
+judiciais ou administrativas.
+
+Recortes de jornais e revistas
+
+002.01.01.001 Clipping
+
+Folha de ponto
+
+Folha de frequência
+
+003.04.01.017 Registro de ponto
+
+Cartão de ponto
+
+Afastamentos
+
+Transferência e/ou remoção de 
+servidor/funcionário
+
+Permuta de funcionário
+
+Licença-prêmio
+
+Concessão de gratificações
+
+Insalubridade
+
+Pró-labore
+
+Quinquênio
+
+Sexta-parte
+
+Representação
+
+003.03.04.005 Processo de afastamento 
+ou licença
+006.01.10.004 Expediente de 
+atendimento*
+
+OU
+
+003.03.01.004 Processo de mobilidade 
+funcional
+003.03.04.005 Processo de afastamento 
+ou licença
+
+006.01.10.004 Expediente de 
+atendimento*
+
+OU 
+
+003.03.04.011 Processo de concessão e 
+incorporação de vantagens pecuniárias
+
+Compra de material de consumo
+
+Aquisição de material de consumo
+
+Compra de material permanente
+
+Aquisição de material permanente
+
+004.01.04.002 Processo de aquisição de 
+material de consumo
+
+004.01.04.003 Processo de aquisição de 
+material permanente
+
+Adiantamento
+
+005.02.06.003 Processo de adiantamento
+
+ 70 
+
+
+Processo contendo notas fiscais
+
+Comprovantes de transações
+
+Extratos
+
+Avisos de pagamentos
+
+Balancetes da conta movimentada
+
+Demais documentos comprobatórios 
+de gastos relativos ao período de 
+utilização das verbas dos processos de 
+adiantamento
+
+Pagamento de luz 
+
+Pagamento de água
+
+Pagamento de gás
+
+Pagamento de IPTU
+
+Contratação de:
+
+Estudos técnicos e projetos básicos ou 
+executivos; 
+
+Contratação de pareceres, perícias e 
+avaliações em geral; 
+
+Assessorias ou consultorias técnicas e 
+auditorias financeiras ou tributárias; 
+
+Fiscalização, supervisão ou 
+gerenciamento de obras ou serviços; 
+
+Patrocínio ou defesa de causas judiciais 
+ou administrativas; 
+
+Treinamento e aperfeiçoamento de 
+pessoal;
+
+Restauração de obras de arte e bens de 
+valor histórico.
+
+005.02.07.001 Processo de prestação de 
+contas de adiantamento
+
+005.02.08.006 Processo de pagamento 
+de contas de utilidade pública
+
+005.02.08.012 Processo de pagamento 
+de impostos e taxas
+
+004.01.05.003 Processo de contratação 
+de serviço técnico profissional 
+especializado
+
+ 70 
+
+ 71 
+
+
+Contratação  de  profissional  que 
+necessita  de  habilitação 
+legal  para 
+seu  desempenho  dentro  das  normas 
+técnicas adequadas: 
+
+Engenharia
+
+Eletricidade
+
+Hidráulica
+
+Mecânica
+
+Comunicações
+
+Computação
+
+Outros  que  exijam  conhecimentos 
+específicos para sua realização.
+
+Contratação de profissional que não 
+exige habilitação especial para sua 
+execução, podendo ser realizados por 
+qualquer pessoa ou empresa, por não 
+serem privativos de nenhuma profissão 
+ou categoria profissional; 
+
+Serviços de apoio administrativo
+
+Serviços de apoio à atividade de 
+Informática.
+
+Contratação de: 
+
+Serviços Gráficos
+
+Serviços de Limpeza e Conservação
+
+Serviços de Manutenção de Bens 
+Imóveis
+
+Serviços de Manutenção de Bens 
+Móveis
+
+Serviços de pintura de prédios
+
+Serviços de Remoção de Bens Móveis
+
+Serviços de Microfilmagem
+
+Serviços de Reprografia.
+
+ 72 
+
+004.01.05.004 Processo de contratação 
+de serviço técnico profissional 
+generalizado
+
+004.01.05.005 Processo de contratação 
+de serviços comuns
+
+004.01.05.005 Processo de contratação 
+de serviços comuns
+
+
+Contratação:
+
+Serviços de limpeza
+
+Manutenção
+
+Segurança 
+
+Outras, referentes às não essenciais, 
+ou seja, atividades-meio, com o intuito 
+de diminuir custos com a mão-de-obra.
+
+004.01.05.006 Processo de contratação 
+de serviços terceirizados
+
+Fonte:  Elaboração  com  base  no  Plano  de  Classificação  e  Tabela  de  Temporalidade  de 
+Documentos  da  Administração  Pública  do  Estado  de  São  Paulo:  Atividades-Meio.    (Decreto 
+estadual n. 48.898/2004, Anexo I). Sistematização CAA/ DGSAESP/APESP.
+*Os  Expedientes  de  atendimento  referem-se  a  pedidos  que  não  tiveram  prosseguimento  e, 
+portanto, não se transformaram em processos. 
+
+A “linguagem natural” além de facilitar a identificação do documento, também 
+poderá ser utilizada na construção de índices remissivos (ver Item 5.2.2, p.60) 
+fazendo  as  remissivas  para  os  nomes  padronizados  das  séries  documentais 
+indicadas no PC e TTD. 
+
+Por meio dessa técnica, poderá se lograr êxito no preenchimento da Régua, ao 
+associar um determinado documento com seu nome usual à série documental 
+a qual ele pertence, tornando possível verificar se o documento já cumpriu seu 
+prazo de guarda e poderá ser eliminado.
+
+5.2.7 Operacionalização da Régua para eliminação da MDA: A Régua 
+é  uma  ferramenta  que  permite  agilização  na  análise  e  tomada  de 
+decisão  quanto  a  destinação  de  documentos,  a  partir  das  condições 
+estabelecidas nas tabelas de temporalidades de documentos.
+Consiste  numa  planilha  eletrônica,  vinculada  aos  dados  das  tabelas 
+de  temporalidade  de  documentos,  onde  serão  registradas  as  séries 
+documentais  mais  recorrentes  encontradas  na  avaliação  da  MDA 
+e  a  sua  respectiva  data  de  identificação,  com  o  objetivo  de  calcular 
+seus  prazos  de  guarda,  indicando  o  intervalo  de  tempo  em  que  um 
+documento poderá ser eliminado de maneira segura.  
+A Régua é composta pelos campos: Código, Prazos de Guarda (Unidade 
+Produtora e Unidade com Atribuições de Arquivo), Série Documental, 
+Data de Identificação Tipológica, Marco Temporal e Alerta. 
+
+ 72 
+
+ 73 
+
+
+Figura 9– Representação visual da Régua para eliminação da MDA 
+
+s
+e
+õ
+ç
+a
+v
+r
+e
+s
+b
+O
+
+a
+t
+r
+e
+l
+A
+
+o
+d
+
+o
+t
+n
+e
+m
+p
+m
+o
+R
+
+i
+
+r
+a
+c
+fi
+i
+r
+e
+V
+
+l
+
+o
+u
+c
+n
+V
+
+í
+
+a
+e
+r
+Á
+
+à
+
+o
+t
+n
+u
+J
+
+o
+c
+i
+d
+í
+r
+u
+J
+
+H
+R
+
+e
+d
+
+o
+d
+
+o
+t
+n
+e
+m
+p
+m
+o
+R
+
+i
+
+r
+a
+c
+fi
+i
+r
+e
+V
+
+l
+
+o
+u
+c
+n
+V
+
+í
+
+a
+e
+r
+Á
+
+à
+
+o
+t
+n
+u
+J
+
+o
+c
+i
+d
+í
+r
+u
+J
+
+h
+R
+
+e
+d
+
+/
+o
+ã
+g
+r
+Ó
+o
+
+e
+s
+
+r
+a
+c
+fi
+i
+r
+e
+V
+
+e
+d
+a
+d
+n
+U
+
+i
+
+m
+o
+c
+
+a
+i
+c
+n
+ê
+d
+n
+e
+P
+
+i
+
+u
+s
+s
+o
+P
+
+E
+C
+T
+
+/
+o
+ã
+g
+r
+Ó
+o
+
+e
+s
+
+r
+a
+c
+fi
+i
+r
+e
+V
+
+e
+d
+a
+d
+n
+U
+
+i
+
+m
+o
+c
+
+a
+i
+c
+n
+ê
+d
+n
+e
+P
+
+i
+
+u
+s
+s
+o
+P
+
+E
+C
+T
+
+/
+o
+ã
+g
+r
+Ó
+o
+
+e
+s
+
+r
+a
+c
+fi
+i
+r
+e
+V
+
+e
+d
+a
+d
+n
+U
+
+i
+
+m
+o
+c
+
+a
+i
+c
+n
+ê
+d
+n
+e
+P
+
+i
+
+u
+s
+s
+o
+P
+
+E
+C
+T
+
+0
+1
+0
+2
+
+5
+0
+0
+2
+
+0
+0
+0
+2
+
+5
+9
+9
+1
+
+0
+9
+9
+1
+
+0
+8
+9
+1
+
+5
+7
+9
+1
+
+0
+7
+9
+1
+
+5
+6
+9
+1
+
+0
+6
+9
+1
+
+5
+5
+9
+1
+
+0
+5
+9
+1
+
+5
+4
+9
+1
+
+a
+c
+i
+g
+ó
+o
+p
+i
+T
+
+l
+
+a
+
+a
+
+a
+
+a
+
+a
+
+a
+
+a
+
+a
+
+a
+
+a
+
+a
+
+a
+
+a
+
+o
+ã
+ç
+a
+c
+fi
+i
+t
+n
+e
+d
+I
+
+o
+ã
+ç
+i
+u
+b
+i
+r
+t
+A
+
+o
+v
+i
+u
+q
+r
+A
+e
+d
+
+6
+0
+0
+2
+
+0
+0
+0
+2
+
+6
+9
+9
+1
+
+1
+9
+9
+1
+
+1
+8
+9
+1
+
+6
+7
+9
+1
+
+1
+7
+9
+1
+
+6
+6
+9
+1
+
+0
+6
+9
+1
+
+6
+5
+9
+1
+
+1
+5
+9
+1
+
+6
+4
+9
+1
+
+1
+4
+9
+1
+
+e
+d
+a
+t
+a
+D
+
+m
+o
+c
+
+e
+d
+a
+d
+n
+U
+
+i
+
+e
+d
+a
+d
+n
+U
+
+i
+
+a
+r
+o
+t
+u
+d
+o
+r
+P
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+1
+2
+0
+2
+/
+2
+0
+/
+1
+0
+
+5
+
+a
+i
+c
+n
+ê
+g
+v
+
+i
+
+G
+
+G
+
+G
+
+G
+
+G
+
+G
+
+G
+
+G
+
+G
+
+E
+
+E
+
+E
+
+E
+
+1
+2
+0
+2
+/
+2
+0
+/
+1
+0
+
+0
+6
+
+a
+i
+c
+n
+ê
+g
+v
+
+i
+
+e
+i
+r
+é
+S
+
+i
+
+o
+g
+d
+o
+C
+
+e
+d
+
+o
+s
+s
+e
+c
+o
+r
+P
+
+r
+o
+p
+
+o
+ã
+ç
+o
+m
+o
+r
+p
+
+u
+o
+
+o
+t
+n
+e
+m
+i
+c
+e
+r
+e
+m
+
+i
+
+e
+d
+a
+d
+ü
+g
+i
+t
+n
+a
+
+6
+0
+0
+.
+1
+0
+.
+3
+0
+.
+3
+0
+0
+
+o
+i
+r
+á
+u
+t
+n
+o
+r
+P
+
+l
+
+a
+n
+o
+i
+c
+n
+u
+f
+
+8
+0
+0
+.
+1
+0
+.
+3
+0
+.
+3
+0
+0
+
+l
+a
+r
+o
+p
+m
+e
+T
+o
+c
+r
+a
+M
+
+m
+e
+
+a
+d
+r
+a
+u
+G
+e
+d
+o
+z
+a
+r
+P
+
+s
+o
+n
+A
+
+o
+t
+n
+e
+m
+u
+c
+o
+D
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+1
+2
+0
+2
+/
+2
+0
+/
+1
+0
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+1
+2
+0
+2
+/
+2
+0
+/
+1
+0
+
+5
+
+5
+
+a
+i
+c
+n
+ê
+g
+v
+
+i
+
+e
+d
+
+o
+s
+s
+e
+c
+o
+r
+P
+
+e
+d
+
+o
+ã
+ç
+i
+u
+t
+i
+t
+s
+b
+u
+s
+
+o
+g
+r
+a
+c
+
+e
+d
+
+e
+t
+n
+a
+p
+u
+c
+o
+
+i
+
+e
+d
+a
+d
+v
+i
+t
+a
+-
+o
+ã
+ç
+n
+u
+f
+
+u
+o
+
+8
+0
+0
+.
+2
+0
+.
+3
+0
+.
+3
+0
+0
+
+1
+
+o
+t
+n
+o
+p
+
+e
+d
+
+o
+r
+t
+s
+i
+g
+e
+R
+
+7
+1
+0
+.
+1
+0
+.
+4
+0
+.
+3
+0
+0
+
+G
+
+G
+
+G
+
+G
+
+G
+
+G
+
+G
+
+G
+
+G
+
+E
+
+E
+
+E
+
+E
+
+1
+2
+0
+2
+/
+2
+0
+/
+1
+0
+
+0
+6
+
+a
+i
+c
+n
+ê
+g
+v
+
+i
+
+e
+d
+
+o
+c
+i
+n
+Ú
+o
+s
+s
+e
+c
+o
+r
+P
+
+e
+d
+m
+e
+g
+a
+t
+n
+o
+C
+
+T
+C
+U
+P
+
+-
+
+o
+p
+m
+e
+T
+
+1
+0
+0
+.
+2
+0
+.
+4
+0
+.
+3
+0
+0
+
+G
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+1
+2
+0
+2
+/
+2
+0
+/
+1
+0
+
+2
+1
+
+G
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+1
+2
+0
+2
+/
+2
+0
+/
+1
+0
+
+2
+1
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+1
+2
+0
+2
+/
+2
+0
+/
+1
+0
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+1
+2
+0
+2
+/
+2
+0
+/
+1
+0
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+E
+
+1
+2
+0
+2
+/
+2
+0
+/
+1
+0
+
+E
+
+1
+2
+0
+2
+/
+2
+0
+/
+1
+0
+
+5
+
+5
+
+-
+
+2
+
+a
+
+é
+t
+A
+
+o
+ã
+ç
+a
+v
+o
+r
+p
+a
+
+s
+a
+d
+
+s
+a
+t
+n
+o
+c
+
+e
+d
+
+o
+s
+s
+e
+c
+o
+r
+P
+
+e
+d
+
+o
+ã
+ç
+i
+s
+i
+u
+q
+a
+
+o
+m
+u
+s
+n
+o
+c
+
+e
+d
+
+l
+
+a
+i
+r
+e
+t
+a
+m
+
+2
+0
+0
+.
+4
+0
+.
+1
+0
+.
+4
+0
+0
+
+a
+
+é
+t
+A
+
+o
+ã
+ç
+a
+v
+o
+r
+p
+a
+
+s
+a
+d
+
+s
+a
+t
+n
+o
+c
+
+e
+d
+
+o
+s
+s
+e
+c
+o
+r
+P
+
+e
+d
+
+o
+ã
+ç
+a
+t
+a
+r
+t
+n
+o
+c
+
+o
+c
+i
+n
+c
+é
+t
+
+o
+ç
+i
+v
+r
+e
+s
+
+l
+
+a
+n
+o
+i
+s
+s
+fi
+o
+r
+p
+
+o
+d
+a
+z
+i
+l
+
+a
+i
+c
+e
+p
+s
+e
+
+3
+0
+0
+.
+5
+0
+.
+1
+0
+.
+4
+0
+0
+
+1
+
+o
+n
+o
+b
+a
+
+e
+d
+
+i
+
+o
+d
+d
+e
+P
+
+s
+a
+t
+l
+a
+f
+
+e
+d
+
+1
+1
+0
+.
+1
+0
+.
+4
+0
+.
+3
+0
+0
+
+a
+
+é
+t
+A
+
+o
+ã
+ç
+a
+v
+o
+r
+p
+a
+
+s
+a
+d
+
+s
+a
+t
+n
+o
+c
+
+2
+
+e
+d
+
+o
+s
+s
+e
+c
+o
+r
+P
+
+o
+t
+n
+e
+m
+a
+t
+n
+a
+d
+a
+
+i
+
+3
+0
+0
+.
+6
+0
+.
+2
+0
+.
+5
+0
+0
+
+,
+a
+t
+r
+a
+c
+
+,
+o
+i
+c
+í
+f
+
+O
+
+,
+o
+t
+n
+e
+m
+
+i
+r
+e
+u
+q
+e
+r
+
+,
+o
+t
+o
+v
+
+u
+o
+
+o
+ã
+ç
+o
+m
+
+o
+d
+a
+n
+i
+s
+s
+a
+-
+o
+x
+a
+b
+a
+
+i
+
+3
+0
+0
+.
+0
+1
+.
+1
+0
+.
+6
+0
+0
+
+a
+i
+c
+n
+ê
+g
+v
+
+i
+
+e
+d
+
+i
+
+e
+t
+n
+e
+d
+e
+p
+x
+E
+
+o
+t
+n
+e
+m
+d
+n
+e
+t
+a
+
+i
+
+4
+0
+0
+.
+0
+1
+.
+1
+0
+.
+6
+0
+0
+
+Fonte: Elaboração e sistematização CAA/DGSAESP/APESP.
+
+ 74 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+A  partir  do  preenchimento  manual  do  campo  Código,  os  campos  Prazos  de 
+Guarda e Série Documental serão preenchidos automaticamente com os dados 
+relacionados ao código da série documental. 
+
+Também  será  de  preenchimento  manual  o  campo  Data  de  Identificação 
+Tipológica,  em  que  deverá  ser  registrada  a  data  em  que  o  documento  foi 
+identificado,  analisado  e  classificado,  em  conformidade  com  os  planos  de 
+classificação.  A associação da Data de Identificação Tipológica com os prazos 
+de guarda previstos nas tabelas de temporalidade indicará no Marco Temporal 
+o(s)  período(s)  em  que  os  documentos  poderão  ser  eliminados  ou  não,  caso 
+ainda tenham prazo de guarda a cumprir ou sejam de guarda permanente.
+
+As células sinalizadas em verde indicam que os documentos referentes a data 
+indicada  no  campo  Data  de  identificação  tipológica  poderão  ser  eliminados. 
+As células sinalizadas em vermelho indicam que os documentos ainda deverão 
+esperar o cumprimento do seu prazo de guarda para a eliminação. Caso a série 
+documental seja de guarda permanente, uma mensagem aparecerá no campo 
+Alerta.  Da  mesma  forma,  mensagens  aparecerão  se  a  série  documental  foi 
+inativada, se a aprovação do Tribunal de Contas do Estado de São Paulo ou Vida 
+Funcional do servidor for uma das condicionantes para a eliminação de séries 
+documentais  que  já  cumpriram  o  seu  prazo  de  guarda  e  de  precaução,  esta 
+informação constará na coluna Alerta.
+
+A equipe de execução não terá que se preocupar com a identificação da data 
+de  produção  ou  data  de  encerramento  do  documento,  pois  consiste  num 
+pressuposto lógico da Régua que os prazos de guarda variáveis como “vigência” 
+e  “aprovação  das  contas”,  já  tenham  sido  cumpridos  em  função  do  tempo 
+decorrido  da  produção  do  documento.  Neste  sentido,  quanto  mais  antigos 
+forem os documentos avaliados, mais eficaz será a aplicação da Régua.
+
+Entretanto, ainda que a Régua indique no campo Alerta os documentos relativos 
+à vida funcional e daqueles que são submetidos à aprovação das contas pelo 
+Tribunal de Contas do Estado de São Paulo, ela terá uma eficácia limitada na 
+avaliação dos mesmos, em que deverá ser observado:
+
+	Séries  documentais  relativas  à  vida  funcional:  necessitam 
+de  verificação  da  data  do  rompimento  do  vínculo  jurídico  dos 
+servidores/funcionários com o Estado (aposentadoria, exoneração, 
+demissão  ou  morte)  para  seu  devido  encerramento  e  contagem 
+dos  prazos  de  guarda.  Neste  caso,  recomenda-se  solicitar  à  área 
+de Recursos Humanos do órgão/entidade a relação dos servidores/
+funcionários que não integram mais o seu quadro funcional. 
+
+	Séries documentais que são submetidas à aprovação do Tribunal 
+de  Contas  do  Estado  de  São  Paulo:  documentos  produzidos  a 
+partir  do  ano  de  1991,  necessitam  da  confirmação  da  aprovação 
+das contas.  Portanto, poderão ser consideradas aprovadas todas as 
+
+ 74 
+
+ 75 
+
+
+contas sem reprovação expressa pelo Tribunal de Contas do Estado, 
+no período de 1941 a 1990. 
+
+As  séries  documentais  registradas  na  Régua  servirão  como  referência  para  a 
+classificação dos documentos semelhantes que forem identificados na avaliação 
+da MDA, assim como para a seleção das amostragens (ver Item 5.2.9.3.1, p.76), 
+ou seja, cada série documental registrada na Régua deverá ter pelo menos um 
+documento  selecionado  que  representará  os  documentos  semelhantes  que 
+serão eliminados.
+
+O registro das séries documentais na Régua, também servirá como referência 
+na elaboração da relação (ver Modelo IV, p.87), edital (ver Modelo V, p.88), e 
+termo de eliminação de documentos (ver Modelo VI, p.89). 
+
+Imagem 6 - Registro das séries documentais recorrentes na elaboração da 
+Régua
+
+Fonte: Elaboração e sistematização Centro de Arquivo Administrativo/DGSAESP/APESP.
+
+DICA
+
+Para  a  elaboração  da  Régua,  deverão  ser  utilizados  os 
+arquivos  dos  PC  e  TTD  em  formato  digital  aberto.  A 
+interlocução  com  o  setor  de  informática  poderá  ser  de 
+grande  auxílio  para  a  construção  da  Régua  em  planilha 
+eletrônica. 
+
+5.2.8  Separação  dos  documentos  que  apresentam  dúvidas  de 
+classificação:  para  garantir  agilidade  no  processo  de  avaliação  da 
+MDA, documentos que apresentam dúvidas quanto à sua classificação, 
+que não se enquadram nos PC, ou que apresentem características que 
+destoam  do  usual,  deverão  ser  fisicamente  separados  dos  demais 
+para  estudo.  Recomenda-se  que  um  ou  mais  membros  da  equipe, 
+
+ 76 
+
+
+que  tenham  maior  conhecimento  sobre  o  conjunto  documental,  se 
+dediquem  ao  esclarecimento  das  dúvidas,  buscando  as  informações 
+que se fizerem necessárias.
+
+Imagem 7 – Separação das dúvidas durante a 
+execução do trabalho
+
+Fonte: Elaboração e sistematização CAA/DGSAESP/APESP.
+
+5.2.9  Separação  dos  documentos  de  acordo  com  a  sua  destinação: 
+depois de avaliados, os documentos deverão ser fisicamente separados 
+de acordo com a sua destinação final: eliminação, guarda permanente 
+(incluindo  as  amostragens)  e  guarda  intermediária,  ou  seja,  aqueles 
+que ainda têm prazos a cumprir.
+
+Imagem 8 – Separação física dos documentos em 
+caixas conforme destinação
+
+Fonte: Elaboração e sistematização CAA/DGSAESP/APESP.
+
+ 76 
+
+ 77 
+
+             
+  
+
+5.2.9.1 Documentos destinados à eliminação que já cumpriram os 
+prazos  de  guarda:  são  aqueles  que  já  cumpriram  seus  prazos  na 
+Unidade Produtora e na Unidade com atribuições de Arquivo, não 
+apresentam valor secundário que justifique a sua guarda, podendo 
+ser  eliminados  sem  prejuízo  para  a  coletividade  ou  memória  do 
+órgão/entidade, em conformidade com as disposições do Decreto 
+estadual  n.  48.897/2004  e  da  Instrução  Normativa  APE/SAESP  – 
+2/2010. 
+
+Documentos  físicos  que  já  tenham  cumprido  os  prazos 
+de  guarda  previstos  nas  tabelas  de  temporalidade  de 
+documentos e que são destinados à eliminação não deverão 
+ser digitalizados. 
+
+os 
+
+documentos 
+
+	Manter  os  documentos  físicos  em  seu  acondicionamento  
+eliminação, 
+original: 
+independentemente  da  série,  deverão  retornar  para  o  seu 
+acondicionamento original (caixas, pastas etc.), ou caso estejam 
+soltos,  para  o  local  de  armazenamento  (estantes,  prateleiras 
+etc.), visando facilitar a sua mensuração e movimentação. 
+
+destinados 
+
+à 
+
+	Identificar as caixas e/ou o mobiliário em que os documentos 
+físicos  estiverem  armazenados:  deverá  se  anotada  a  palavra 
+“Eliminação”,  ou  simplesmente  “E”.  Portanto,  não  haverá  a 
+necessidade  de  identificação  das  séries  documentais,  seus 
+respectivos prazos de guarda e destinação final.
+
+	Elaborar a Relação de eliminação de documentos:12 para agilizar 
+o processo de trabalho da avaliação da MDA o Arquivo Público 
+do Estado, na condição de órgão central do SAESP, propõe novo 
+modelo  de  Relação  de  eliminação  da  avaliação  dinâmica  de 
+documentos (ver Modelo IV, p. 87) em que deverão ser indicadas 
+as  funções,  subfunções,  atividades,  séries  documentais,  datas-
+limite (indicar as datas-limite do fundo avaliado e não da série 
+documental) e a quantidade total de caixas ou metros lineares de 
+documentos (indicar apenas a quantidade total de documentos 
+que serão eliminados e não de cada série documental). A relação 
+deverá  ser  aprovada  pela  CADA  do  órgão/entidade  e  assinada 
+por seu(sua) Coordenador(a).
+
+12 
+
+ Decreto estadual n. 48.897/2004, artigo 26.
+
+ 78 
+
+
+	Elaborar  o  Edital  de  ciência  de  eliminação  de  documentos13: 
+a  CADA  do  órgão/entidade  fará  publicar  o  Edital  de  ciência 
+de  eliminação  de  documentos  (ver  Modelo  V,  p.  88)  no  Diário 
+Oficial  do  Estado.  Somente  após  o  prazo  de  30  (trinta)  dias  os 
+documentos poderão ser eliminados.
+
+	Providenciar a fragmentação de documentos: o próprio órgão/
+entidade  poderá  fragmentar  os  documentos  destinados  à 
+eliminação  ou  contratar  esse  serviço,  porém,  em  qualquer 
+hipótese, a CADA deverá acompanhar todo o processo.
+
+No  caso  da  contratação  de  serviços  para  a  fragmentação, 
+recomenda-se: 
+o  Abrir  Processo  de  contratação  de  serviços  comuns 
+
+(004.01.04.002);14
+
+A eliminação de documentos deve ser efetuada por meio da 
+
+fragmentação manual ou mecânica.
+
+Decreto estadual n. 48.897/2004, artigo 30.
+
+o  Solicitar  orçamento 
+
+procedam à fragmentação; 
+
+junto  a  empresas/instituições  que 
+
+o  Optar  pela  empresa/instituição  que  oferecer  o  maior  valor 
+pelo quilo de aparas de papel e executar a retirada, transporte 
+e fragmentação em local próprio, às suas expensas; 
+
+o  Requerer 
+
+à 
+
+empresa/instituição 
+
+o 
+encaminhamento de Laudo de fragmentação, em documento 
+timbrado  e  assinado,  acrescido  de  fotografias,  atestando 
+todo o trabalho realizado, contendo o peso e o valor final do 
+serviço;
+
+selecionada 
+
+o  Receber comprovante de depósito ou transferência bancária 
+realizada pela empresa/instituição selecionada em nome da 
+contratante prevista pela legislação, com seu respetivo CNPJ, 
+com pagamento à vista, em prazo previamente estabelecido, 
+e  respectiva  Nota  Fiscal  referente  à  alienação  de  aparas  de 
+papel;
+
+o  O valor arrecadado poderá ser encaminhado ao Fundo Especial 
+de Despesa da Unidade do Arquivo Público do Estado – FEARQ, 
+conforme Lei n. 16.787/2018.
+
+ 78 
+
+ 79 
+
+13 
+14 
+
+ Decreto estadual n. 48.897/2004, artigo 27.
+ Plano de Classificação da Administração Pública do Estado de São Paulo: Atividades-Meio.
+
+
+A eliminação de documentos deve ser efetuada por meio da 
+fragmentação manual ou mecânica.
+
+Decreto estadual n. 48.897/2004, artigo 30.
+
+	Elaborar  o  Termo  de  eliminação  de  documentos:15  as 
+informações  relativas  à  eliminação  dos  documentos  serão 
+registradas  no  Termo  de  eliminação  de  documentos  (ver 
+Modelo VI, p.89).
+
+As Relações, Editais e Termos de eliminação de documentos 
+deverão  receber  um  número  sequencial  anual,  não 
+importando  qual  unidade  esteja  propondo  a  eliminação 
+de  documentos  dentro  do  órgão/entidade,  cabendo  ao 
+Coordenador da CADA esse controle.
+
+5.2.9.2 Documentos em suporte papel destinados à eliminação que 
+ainda  têm  prazos  de  guarda  a  cumprir:  poderão  ser  substituídos 
+por  documentos  digitalizados,  em  conformidade  com  a  Lei 
+federal n. 8.159/1991, Lei federal n. 12.682/2012, Decreto federal 
+n.  10.278/2020,  Decreto  estadual  n.  48.897/2004  e  Instrução 
+Normativa APE/SAESP 1/2009.
+Portanto,  para  garantir  a  equivalência  jurídica  do  documento 
+digitalizado com o original, deverão ser observados padrões técnicos 
+mínimos (tabela do Anexo I do Decreto federal nº 10.278/2020) e 
+metadados  mínimos  obrigatórios  (tabela  do  Anexo  II  do  Decreto 
+federal  nº  10.278/2020),  e  que  o  documento  seja  assinado 
+digitalmente com certificação digital no padrão da Infraestrutura de 
+Chaves Públicas Brasileira – ICP - Brasil. 
+Após  a  digitalização  nos  termos  da  Lei,  os  documentos  físicos 
+poderão  ser  descartados,  com  exceção  daqueles  considerados 
+históricos,  e  os  documentos  digitalizados  serão  mantidos  até  o 
+cumprimento dos prazos determinados nas TTD.
+
+15 
+
+Decreto estadual n. 48.897/2004, artigo 28.
+
+ 80 
+
+
+A eliminação de representantes digitais após o cumprimento 
+
+dos  prazos  de  guarda  determinados  nas  tabelas  de 
+
+temporalidade  de  documentos  deverá  ser  registrada 
+
+nos  modelos  dos  Anexos  I,  II  e  III  do  Decreto  estadual  n. 
+
+48.897/2004,  informando  as  quantidades  de  bytes  dos 
+
+arquivos  eliminados  em  lugar  da  quantidade  de  caixas  e 
+
+metros lineares, e fazendo constar: “Representantes digitais 
+
+que cumpriram os prazos de guarda determinados nas tabelas 
+
+de  temporalidade  de  documentos  aprovadas  pelo  Arquivo 
+
+Público do Estado”. 
+
+Portaria UAPESP/SAESP-5, de 5/08/2021, art.11.
+
+A eliminação de documentos originais, após sua digitalização, 
+deverá  ser  registrada  nos  modelos  dos  Anexos  I,  II  e  III  do 
+Decreto estadual n. 48.897/2004, fazendo constar: “Mudança 
+de  suporte  de  papel  para  digital,  com  fundamento  na  Lei 
+federal  n.  12.682/2012,  no  Decreto  federal  n.  10.278/2020 
+e  no  Decreto  estadual  n.  48.897/2004.  Os  representantes 
+digitais  cumprirão  o  prazo  de  guarda  e  a  destinação  final 
+determinados nas tabelas de temporalidade de documentos 
+aprovadas pelo Arquivo Público do Estado”. 
+
+Portaria UAPESP/SAESP-5, de 5/08/2021, art. 10.
+
+O  documento  digitalizado  terá  a  mesma  eficácia  jurídica  que  o 
+documento  em  suporte  papel.  Entretanto,  os  documentos  físicos 
+que apresentarem danos materiais que prejudiquem a legibilidade 
+dos  documentos  digitalizados,  ainda  que  não  sejam  de  guarda 
+permanente,  bem  como  os  documentos  comprobatórios  de 
+atos  jurídicos  e  administrativos  de  maior  relevância  deverão  ser 
+analisados no caso concreto para sua eventual manutenção pelos 
+prazos  previstos  nas  respectivas  TTD  para  garantia  da  segurança 
+jurídica.
+
+DICA
+
+Os documentos digitalizados que substituirão documentos 
+físicos de guarda temporária longa deverão ser preservados 
+em ambientes digitais seguros durante os prazos de guarda 
+das TTD.
+
+O  processo  de  digitalização  de  documentos  deverá  prever  a  indexação  de 
+metadados que possibilitem a localização, o gerenciamento e a conferência. O 
+armazenamento de documentos digitalizados deverá assegurar a sua proteção 
+contra alteração, destruição e, quando cabível, contra o acesso e a reprodução 
+não autorizados.
+
+ 80 
+
+ 81 
+
+
+A eliminação de representantes digitais após o cumprimento 
+dos  prazos  de  guarda  determinados  nas  tabelas  de 
+temporalidade  de  documentos  deverá  ser  registrada 
+nos  modelos  dos  Anexos  I,  II  e  III  do  Decreto  estadual  n. 
+48.897/2004,  informando  as  quantidades  de  bytes  dos 
+arquivos  eliminados  em  lugar  da  quantidade  de  caixas  e 
+metros lineares, e fazendo constar: “Representantes digitais 
+que cumpriram os prazos de guarda determinados nas tabelas 
+de  temporalidade  de  documentos  aprovadas  pelo  Arquivo 
+Público do Estado”. 
+
+Portaria UAPESP/SAESP-5, de 5/08/2021, art.11.
+
+5.2.9.3  Documentos  de  guarda  permanente:  são  aqueles 
+indicados para guarda permanente nas tabelas de temporalidade; 
+produzidos,  recebidos  ou  acumulados  pelos  órgãos  e  entidades 
+da  administração  pública  estadual  até  31/12/1940,  bem  como  as 
+amostragens  selecionadas  para  guarda  permanente,  nos  termos 
+da Lei federal n. 8.159/1991, do Decreto estadual n. 48.897/2004 
+e  da  Instrução  Normativa  APE/SAESP  –  3/2015.  Os  documentos 
+permanentes  deverão  ser  preservados  em  caráter  definitivo  na 
+Unidade com atribuições de Arquivo do próprio órgão/entidade, ou 
+recolhidos ao Arquivo Público do Estado, em conformidade com a 
+destinação determinada nas TTD.
+
+Todo  documento  considerado  de  guarda  permanente  não 
+poderá  ser  eliminado  após  microfilmagem,  digitalização  ou 
+qualquer outra forma de reprodução, em conformidade com o 
+Decreto estadual n. 48.897/2004, artigo 32, Instrução Normativa 
+APE/SAESP n. 1/2009, Lei federal n. 12.682/2012, artigo 2º-A, § 
+1º e Decreto federal n. 10.278/2020, artigo 9º.
+
+5.2.9.3.1  Amostragem16:  fragmento  representativo  de  um 
+conjunto  de  documentos  destinado  à  eliminação,  selecionado 
+para a guarda permanente, por meio de critérios qualitativos e 
+quantitativos17. Os critérios qualitativos indicam:
+
+	referência a pessoas ou grupos representativos; 
+
+16  
+17  
+
+Decreto estadual n. 48.897/2007 n. 48.897/2004, artigo 29. 
+Instrução Normativa APE/SAESP - 3/2015, artigo 5º, § 1º. 
+
+ 82 
+
+  
+
+	referência a eventos de grande repercussão; 
+	referência a períodos históricos relevantes; 
+	referência  a  alterações  significativas  de  procedimentos 
+
+administrativos; 
+
+	referência  a  fatos  que  possibilitem  identificar  situações 
+
+excepcionais;
+
+	referência a pandemia do COVID-19.
+
+A transferência de documentos intermediários (que aguardam 
+prazos  de  guarda)  ou  o  recolhimento  dos  documentos  de 
+guarda permanente (incluindo as amostragens) deverão ser 
+realizadas após atividades prévias de organização, higienização 
+e  acondicionamento.  Os  documentos  transferidos  ou 
+recolhidos deverão estar acompanhados de instrumentos de 
+busca que possibilitem a sua identificação, acesso e controle. 
+Decreto estadual n. 48.897/2004, artigo 32, parágrafo único e 
+Instrução Normativa APE/SAESP – 2/2010, artigo 14).
+
+5.2.9.4 Documentos intermediários: são aqueles que já cumpriram 
+os prazos de guarda na Unidade Produtora e que ainda têm prazos 
+de  guarda  prescricionais  e  precaucionais  a  cumprir  na  própria 
+Unidade com atribuições de Arquivo do órgão/entidade, ou aqueles 
+transferidos ao Centro de Arquivo Administrativo do Arquivo Público 
+do Estado, permanecendo até a sua destinação final18.   
+
+ 82 
+
+ 83 
+
+18 
+
+Instrução Normativa APE/SAESP – 2/2010, artigo 8º, § 4º. 
+
+
+6 CONSERVAÇÃO  E  REGISTRO  DE  DOCUMENTOS  DE  GUARDA 
+
+INTERMEDIÁRIA E PERMANENTE 
+
+As informações referentes aos documentos de guarda intermediária (com prazos 
+de guarda a cumprir) e aos documentos de guarda permanente (que deverão 
+ser  preservados  definitivamente)  deverão  ser  registradas  em  ferramentas  ou 
+instrumentos  de  busca  a  fim  de  permitir,  posteriormente,  sua  localização, 
+controle e acesso. 
+
+Na ausência de sistema próprio, o órgão ou entidade poderá aderir ao Sistema 
+Informatizado Unificado de Gestão Arquivística de Documentos e Informações 
+-  SPdoc,  uma  aplicação  web  que  promove  a  gestão  de  documentos  desde 
+a    produção  até  sua  destinação  final:  eliminação  ou  guarda  permanente, 
+permitindo o acesso à informação e a transparência governamental.  
+
+Além  disso,  os  documentos  de  guarda  intermediária  e  permanente  deverão 
+receber  tratamento  de  conservação  preventiva  para  desacelerar  o  processo 
+natural de degradação dos suportes, de preferência após a avaliação da MDA. 
+
+6.1 Campos para o registro de informações sobre os documentos
+
+6.1.1  Número  da  caixa:  indica  o  número  da  embalagem  em  que  o 
+documento está acondicionado.
+
+6.1.2  Número  de  protocolo:  indica  a  sigla  do  órgão/entidade,  o 
+número/ano atribuído ao documento no momento da sua produção 
+ou recebimento.
+
+6.1.3  Número  de  controle  do  documento:  indica  o  número  de 
+controle interno presente em documentos como, por exemplo, ofícios, 
+memorandos, relações de remessa etc.
+
+6.1.4  Série  documental:  indica  o  código  e  o  nome  do  documento, 
+previstos nos PC das atividades meio e fim.
+
+6.1.5  Descrição  do  assunto:  indica  as  informações  necessárias  e 
+suficientes para descrever o conteúdo específico de cada documento.
+
+6.1.6 Interessado: indica a pessoa física ou jurídica, pública ou privada 
+beneficiada ou diretamente ligada à atividade ou demanda veiculada 
+no documento.
+
+6.1.7 Data do documento: indica a data de produção do documento e 
+deverá ser expressa no formato dd/mm/aaaa. 
+
+ 84 
+
+
+6.1.8 Data de encerramento do documento: indica a data em que um 
+documento composto (processo, expediente, prontuário ou dossiê) foi 
+encerrado. 
+
+6.1.9 Quantidade de volumes: indica a quantidade de volumes de um 
+documento.
+
+6.1.10  Prazo  de  guarda:  indica  o  prazo,  em  anos,  que  o  documento 
+deverá ser guardado, conforme previsto nas tabelas de temporalidade 
+de documentos das atividades meio e fim.
+
+6.1.11 Destinação final: indica se o documento deverá ser eliminado 
+ou guardado permanentemente, após o cumprimento de seus prazos 
+de guarda.
+
+6.1.12  Localização:  indica  o  local  de  armazenamento  do  documento 
+(sala, corredor, estante, prateleira etc.).
+
+6.2 Etapas da conservação
+
+6.2.1  Desmetalizar:  consiste  em  retirar  ou  substituir  os  materiais 
+metálicos oxidáveis por materiais plásticos ou de metal não oxidável.
+
+6.2.2 Higienizar: consiste na retirada de poeira e outros resíduos por 
+meio da utilização de trincha, escova macia e flanela de algodão a seco, 
+de maneira cuidadosa, a fim de preservar os documentos.
+
+A  higienização  de  documentos  permanentes  deverá 
+ser  realizada  folha  por  folha,  mediante  a  orientação  de 
+profissional especializado, para não danificar o suporte ou 
+ocasionar perdas de informação.
+
+6.2.3 Acondicionar: consiste em embalar ou guardar os documentos 
+em  caixas-arquivo  de  polipropileno 
+(polionda),  adequadas  às 
+dimensões  e  às  características  do  documento.  Para  facilitar  a 
+localização  e  o  monitoramento  dos  prazos  de  guarda  e  destinação 
+final  dos  documentos  intermediários  e  permanentes,  recomenda-se 
+o  acondicionamento  de  documentos  que  pertencem  à  mesma  série 
+documental na mesma caixa. 
+
+6.2.4  Identificar  as  caixas:  as  caixas  deverão  estar  identificadas 
+com  etiquetas  (ver  Modelo  VII,  p.  90)  que  contenham  as  seguintes 
+informações:  Fundo  (nome  do  órgão/entidade),  Unidade  produtora 
+(Departamento, Centro, Núcleo etc.), Série documental, Datas-limite, 
+
+ 84 
+
+ 85 
+
+
+Prazos de guarda, Destinação final (eliminação e guarda permanente), 
+Número da caixa, Quantidade de documentos e Localização na Unidade 
+com atribuições de Arquivo.
+
+6.3 Digitalização de documentos de guarda permanente: a digitalização 
+de documentos históricos deverá observar, no mínimo, os padrões técnicos 
+e os metadados especificados, respectivamente nos Anexos I e II do Decreto 
+Federal  n.  10.278/2020.  Para  a  digitalização  de  documentos  de  guarda 
+permanente,  com  a  finalidade  de  preservação  de  documentos  originais, 
+poderão  ser  adotadas  as  recomendações  da  Resolução  do  CONARQ  n. 
+31/2010, visando à melhor qualidade dos representantes digitais (Portaria 
+UAPESP/SAESP -5, de 5/98/2021, artigo 13). 
+
+O  armazenamento  em  ambiente  digital  de  documentos  correntes, 
+intermediários  e  permanentes  deverá  observar  as  “Diretrizes  para  a 
+Implementação  de  Repositórios  Arquivísticos  Digitais  Confiáveis  -  RDC-
+Arq”,  aprovadas  pela  Resolução  do  CONARQ  n.  39/2014,  alterada  pela 
+Resolução n. 43/2015, de forma a garantir sua autenticidade (identidade 
+e  integridade),  confidencialidade,  disponibilidade  e  preservação  pelo 
+tempo necessário. 
+
+Repositório  Arquivístico  Digital  Confiável  (RDC-Arq)  é  uma 
+plataforma  tecnológica  que  armazena,  gerencia,  preserva  e 
+promove o acesso a documentos arquivísticos autênticos, seja 
+nas fases corrente e intermediária, seja na fase permanente, 
+pelo  tempo  que  for  necessário,  e  é  formada  por  elementos 
+de  hardware,  software  e  metadados,  bem  como  por  uma 
+infraestrutura  organizacional  e  procedimentos  normativos  e 
+técnicos. 
+
+CONARQ/CTDE - Glossário de Documentos Arquivísticos Digitais, 2020.
+
+ 86 86
+
+ 
+
+Modelo IV - Relação de eliminação de documentos - Massa Documental 
+Acumulada - MDA 
+
+(Nome do órgão produtor)
+
+COMISSÃO DE AVALIAÇÃO DE DOCUMENTOS E ACESSO
+
+    RELAÇÃO DE ELIMINAÇÃO DE DOCUMENTOS n._/_
+
+MASSA DOCUMENTAL ACUMULADA 
+
+Séries documentais:
+
+Código de classificação
+
+Série documental
+
+Datas-limite: indicar o recorte temporal do conjunto avaliado.
+
+Quantidade: n.º de caixas, metros lineares ou volume em m³.
+
+Observações complementares: Documentos avaliados de acordo com 
+a metodologia de avaliação dinâmica da massa documental acumulada 
+aprovada pelo Arquivo Público do Estado.
+
+Local e data:
+
+Nome  do(a)  Coordenador(a)  da  Comissão  de  Avaliação  de  Documentos  e 
+
+Acesso:
+
+Assinatura:
+
+ 86 
+
+86
+
+ 87 
+
+
+Modelo V - Edital de ciência de eliminação de documentos - Massa 
+Documental Acumulada - MDA
+
+(Nome do órgão produtor)
+COMISSÃO DE AVALIAÇÃO DE DOCUMENTOS E ACESSO
+EDITAL DE CIÊNCIA DE ELIMINAÇÃO DE DOCUMENTOS n.__/__
+MASSA DOCUMENTAL ACUMULADA 
+
+O (A) Coordenador(a) da Comissão de Avaliação de Documentos e Acesso - 
+CADA, instituída pela Resolução/Portaria/Ato n. _ _ , publicada(o) no Diário 
+Oficial do Estado de São Paulo de _ _/_ _ /_ _ , em conformidade com os prazos 
+definidos  na  Tabela  de  Temporalidade  de  Documentos  da  Administração 
+Pública do Estado de São Paulo: atividades-meio e na Tabela de Temporalidade 
+de Documentos das atividades-fim do (indicar o ato normativo que aprovou 
+a tabela) (quando se tratar da eliminação de documentos das atividades-fim 
+cuja Tabela de Temporalidade ainda não estiver oficializada, a redação será: 
+em  conformidade  com  a  Relação  de  Eliminação  de  Documentos  aprovada 
+pelo Coordenador do Arquivo Público do Estado no Ofício n. , de_ _ /_ _/_ 
+_ ), faz saber a quem possa interessar que, a partir do 30º dia subsequente 
+à  data  de  publicação  deste  Edital,  o  (indicar  o  nome  do  Órgão/Entidade/ 
+Empresa)  eliminará  os  documentos  abaixo  relacionados.  Os  interessados 
+poderão requerer às suas expensas, no prazo citado, o desentranhamento de 
+documentos ou cópias de peças do processo, mediante petição, desde que 
+tenha  respectiva  qualificação  e  demonstração  de  legitimidade  do  pedido, 
+dirigida à Comissão de Avaliação de Documentos e Acesso – CADA.
+
+Séries documentais:
+
+Código de classificação
+
+Série documental
+
+Observações  complementares:  Documentos  avaliados  de  acordo  com 
+
+a  metodologia  de  avaliação  dinâmica  da  massa  documental  acumulada 
+
+aprovada pelo Arquivo Público do Estado.
+
+Datas-limite: indicar o recorte temporal do conjunto a ser avaliado 
+
+Quantidade: n.º de caixas, metros lineares ou volume em m³. 
+
+ 88 
+
+
+Modelo VI - Termo de eliminação de documentos - Massa Documental 
+Acumulada - MDA
+
+(Nome do órgão produtor)
+COMISSÃO DE AVALIAÇÃO DE DOCUMENTOS E ACESSO
+TERMO DE ELIMINAÇÃO DE DOCUMENTOS n.__/__
+
+MASSA DOCUMENTAL ACUMULADA  
+
+Aos _ _ _ dias do mês de _ _ _ do ano de _ _ _ , o (indicar o nome do Órgão/
+Entidade/Empresa),  em  conformidade  com  os  prazos  definidos  na  Tabela 
+de  Temporalidade  de  Documentos  da  Administração  Pública  do  Estado  de 
+São  Paulo:  Atividades-Meio  e  na  Tabela  de  Temporalidade  de  Documentos 
+das  atividades-fim  do  (indicar  o  ato  normativo  que  aprovou  a  tabela) 
+(quando  se  tratar  da  eliminação  de  documentos  das  atividades-fim  cuja 
+Tabela de Temporalidade ainda não estiver oficializada, a redação será: em 
+conformidade com a Relação de Eliminação de Documentos aprovada pelo 
+Coordenador do Arquivo Público do Estado no Ofício n. , de_ _ /_ _/_ _ ), 
+procedeu à eliminação dos documentos abaixo relacionados:
+
+Séries documentais:
+
+Código de classificação
+
+Série documental
+
+Observações complementares: Documentos avaliados de acordo com 
+
+metodologia dinâmica de avaliação da massa documental acumulada 
+
+aprovada pelo Arquivo Público do Estado.
+
+Datas-limite: indicar o recorte temporal do conjunto a ser avaliado. 
+
+Quantidade: n.º de caixas, metros lineares ou volume em m³.
+
+Nome e assinatura do representante da Comissão de Avaliação de 
+Documentos e Acesso que presenciou a fragmentação dos documentos:
+
+ 88 
+
+ 89 
+
+
+Modelo VII - Etiqueta para identificação de caixas de documentos 
+
+intermediários e permanenteR
+
+GOVERNO DO ESTADO DE SÃO PAULO 
+(nome do órgão/entidade)
+(nome da unidade produtora)
+
+Série documental
+
+Datas-limite
+
+Prazo de guarda
+
+Destinação final (indicar eliminação ou guarda permanente)
+
+ Número da caixa
+
+ Quantidade de documentos
+
+Localização:
+
+Sala
+
+Corredor
+
+Estante
+
+Prateleira
+
+ 90 
+
+
+REFERÊNCIAS
+
+ARQUIVO  NACIONAL  (Brasil).  Conceitos  Básicos  de  Gestão  Documental.  Rio 
+de janeiro: s/ano. Disponível em: <<https://www.trt8.jus.br/sites/portal/files/
+roles/gestao-documental/conceitos_basicos_de_gd.pdf>>. Acesso em: 15 abr. 
+2021.
+ARQUIVO NACIONAL (Brasil). Dicionário Brasileiro de Terminologia Arquivística. 
+Rio de Janeiro: Arquivo Nacional, 2005. Publicações técnicas n. 51. Disponível 
+em:  <<http://arquivonacional.gov.br/images/pdf/Dicion_Term_Arquiv.pdf>>. 
+Acesso em: 06 mar. 2021.
+ARQUIVO PÚBLICO DO ESTADO DE SÃO PAULO. Plano de Classificação e Tabela 
+de  Temporalidade  de  Documentos  da  Administração  Pública  do  Estado  de 
+São Paulo: Atividades-Meio. São Paulo: Arquivo Público do Estado, 2ª edição- 
+Revista  e  Ampliada  -  1ª  Reimpressão  –  2019.  Disponível  em:  <<http://www.
+arquivoestado.sp.gov.br/web/institucional/publicacoes/livros>>.  Acesso  em: 
+23 ago. 2021.
+ARQUIVO  PÚBLICO  DO  ESTADO  DE  SÃO  PAULO.  Manual  de  Normas  e 
+Procedimentos de Protocolo para a Administração Pública do Estado de São 
+Paulo.  São  Paulo:  Arquivo  do  Estado,  2014.  Disponível  em:  <<http://www.
+arquivoestado.sp.gov.br/site/publicacoes/tecnica/ver/manual-de-normas-e-
+procedimentos-de-protocolo-para-a-administracao-publica-do-estado-de-sao-
+paulo>>. Acesso em: 15 abr. 2021.
+ARQUIVO PÚBLICO DO ESTADO DE SÃO PAULO. Manual de Aplicação do Plano 
+de Classificação e Tabela de Temporalidade de Documentos da Administração 
+Pública  do  estado  de  São  Paulo:  Atividades-Meio.  Disponível  em:  <<http://
+www.arquivoestado.sp.gov.br/site/assets/publicacao/anexo/manual_de_
+aplicacao_do_plano_de_classificacao_e_tabela_de_temporalidade_da_
+administracao_publica_do_estado_de_sao_paulo__atividades_meio.pdf>>. 
+Acesso em: 15 abr. 2021.
+ARQUIVO  PÚBLICO  DO  ESTADO  DE  SÃO  PAULO.  Procedimentos  para 
+Recolhimento  de  Documentos  de  Guarda  Permanente.  São  Paulo:  Arquivo 
+do  Estado,  2014.  Disponível  em:  <<http://www.arquivoestado.sp.gov.br/site/
+assets/publicacao/anexo/cartilha_recolhimento_de_documentos_inter.pdf>>. 
+Acesso em: 15 abr. 2021.
+ARQUIVO PÚBLICO DO ESTADO DE SÃO PAULO. Política Pública de Arquivos e Gestão 
+Documental do Estado de São Paulo, 2ª edição, revista e ampliada. São Paulo: 
+Arquivo Público do Estado, 2014. Disponível em: <http://www.arquivoestado.
+sp.gov.br/site/publicacoes/tecnica/ver/politica-publica-de-arquivos-e-
+gestao-documental-do-estado-de-sao-paulo#:~:text=Pol%C3%ADtica%20
+P % C 3 % B A b l i c a % 2 0 d e % 2 0 A r q u i v o s % 2 0 e % 2 0 G e s t % C 3 % A 3 o % 2 0 -
+Documental%20do%20Estado%20de%20S%C3%A3o%20Paulo&text=Esta%20
+publica%C3%A7%C3%A3o%20consolida%20os%20atos,do%20Estado%20
+de%20S%C3%A3o%20Paulo.>. Acesso em: 15 abr. 2021. 
+ARQUIVO  PÚBLICO  DO  ESTADO  DE  SÃO  PAULO.    Roteiro  para  Elaboração 
+de  Plano  de  Classificação  e  Tabela  de  Temporalidade  de  Documentos  das 
+Atividades-Fim.  São  Paulo:  Arquivo  Público  do  Estado,  2018  (Coleção  Gestão 
+Documental  n.  2).  Disponível  em:  <<http://www.arquivoestado.sp.gov.br/
+
+ 90 
+
+ 91 
+
+
+site/assets/publicacao/anexo/Roteiro_para_elaboracao_de_plano_de_
+classificacao_e_TTDAF.pdf>>. Acesso em: 15 abr. 2021.
+ASSIS,  Marcelo  Henrique;  CALOURO,  Humberto  Moniz.    Análise  Tipológica  e 
+Avaliação Documental de Acervos Legados: Pressupostos Teóricos e Aplicação 
+de Metodologia de Tratamento Técnico no Arquivo Público do Estado de São 
+Paulo. In: Arquivos, entre tradição e modernidade, volume 1: conferências e 
+trabalhos  premiados  com  menção  honrosa  apresentados  no  XI  Congresso  de 
+Arquivologia do Mercosul [recurso eletrônico] / organização Ana Célia Navarro 
+de Andrade; Associação de Arquivistas de São Paulo. -- 2. ed. rev. ampl. -- São 
+Paulo: ARQ-SP, 2017. Disponível em: <<https://www.arqsp.org.br/wp-content/
+uploads/2017/09/XI-CAM-VOL.-1_e-book.pdf>>. Acesso em: 15 abr. 2021.
+BELLOTTO, Heloísa Liberalli. Como fazer análise diplomática e análise tipológica 
+do  documento  de  arquivo.  São  Paulo:  Arquivo  do  Estado  de  São  Paulo, 
+2002.  Disponível  em:  <<file:///C:/Users/w8.1/Downloads/como_elaborar_
+vocabulario_controlado_para_aplicacao_em_arquivos%20(1).pdf>>. 
+Acesso 
+em: 30 abr. 2021.
+BERNARDES, Ieda Pimenta. Como avaliar documentos de arquivo. São Paulo: 
+Arquivo  do  Estado,  1998.  (Projeto  Como  Fazer,  1).  Disponível  em:  <<http://
+www.arquivoestado.sp.gov.br/site/publicacoes/tecnica/ver/como-avaliar-
+documentos-de-arquivo-v1>>. Acesso em: 15 abr. 2021.
+BERNARDES, Ieda Pimenta; DELATORRE, Hilda.  Gestão Documental Aplicada. 
+São  Paulo:  Arquivo  Público  do  Estado,  2008.  Disponível  em:  <<http://www.
+arquivoestado.sp.gov.br/site/publicacoes/tecnica/ver/gestao-documental-
+aplicada>>. Acesso em: 15 abr. 2021.
+BERNARDES,  Ieda  Pimenta  (Coord.).  Manual  de  aplicação  do  Plano  de 
+Classificação  e  Tabela  de  Temporalidade  de  Documentos  da  Administração 
+Pública do Estado de São Paulo: Atividades-Meio / Ieda Pimenta Bernardes, 
+Hilda Delatorre, Camila Brandi de Souza, Eliana Martinelli. São Paulo: Arquivo 
+Público  do  Estado  de  São  Paulo,  2008.  Disponível  em:  <<http://www.
+arquivoestado.sp.gov.br/site/assets/publicacao/anexo/manual_de_aplicacao_
+do_plano_de_classificacao_e_tabela_de_temporalidade_da_administracao_
+publica_do_estado_de_sao_paulo__atividades_meio.pdf>>.  Acesso  em:  15 
+abr. 2021.
+BRASIL.  Constituição  da  República  Federativa  do  Brasil.  Brasília,  DF: 
+Senado Federal, 1988. Disponível em: <<http://www.planalto.gov.br/ccivil_03/
+constituicao/constituicao.htm>>. Acesso em: 25 mai. 2021.
+BRASIL. Decreto n. 10.278, de 18 de março de 2020. Regulamenta o disposto 
+no inciso X do caput do art. 3º da Lei n. 13.874, de 20 de setembro de 2019, e 
+no art. 2º-A da Lei n. 12.682, de 9 de julho de 2012, para estabelecer a técnica 
+e os requisitos para a digitalização de documentos públicos ou privados, a fim 
+de  que  os  documentos  digitalizados  produzam  os  mesmos  efeitos  legais  dos 
+documentos  originais.  Disponível  em:  <<http://www.normaslegais.com.br/
+legislacao/decreto-10278-2020.htm>>. Acesso em: 25 mai. 2021.
+BRASIL. Lei n. 8.159, de 8 de janeiro de 1991. Dispõe sobre a política nacional de 
+arquivos públicos e privados e dá outras providências. Disponível em: <<http://
+www.planalto.gov.br/ccivil_03/leis/l8159.htm>>. Acesso em: 15 abr. 2021.
+BRASIL.  Lei  n.  12.682,  de  9  de  julho  de  2012.Dispõe  sobre  a  elaboração  e  o 
+
+ 92 
+
+
+arquivamento  de  documentos  em  meios  eletromagnéticos.  Disponível  em: 
+<<https://www2.camara.leg.br/legin/fed/lei/2012/lei-12682-9-julho-2012-
+613529-publicacaooriginal-136940-pl.html>>. Acesso em: Acesso em: 25 mai. 
+2021.
+CAMARGO, Ana Maria de Almeida. BELLOTTO, Heloísa Liberalli. Dicionário de 
+terminologia arquivística. São Paulo: Associação dos Arquivistas Brasileiros – 
+Núcleo Regional de São Paulo: Secretaria de Estado da Cultura, 1996.
+
+CASSARES, Norma Cianflone. Como fazer conservação preventiva em arquivos 
+e  bibliotecas.  (Vol.  5).  São  Paulo:  Arquivo  do  Estado,  2000.  Disponível  em: 
+<<http://www.arquivoestado.sp.gov.br/site/assets/publicacao/anexo/como_
+fazer_conservacao_preventiva_em_arquivos_e_bibliotecas.pdf>>.  Acesso  em: 
+15 abr. 2021.
+
+CONSELHO  INTERNACIONAL  DE  ARQUIVOS.  Declaração  Universal  sobre 
+os  Arquivos,  2010.  Disponível  em:  <<https://www.ica.org/sites/default/
+files/ICA_2010_Universal-Declaration-on-Archives_PT.pdf>>.  Acesso  em:  23 
+ago.2021
+
+CONSELHO NACIONAL DE ARQUIVOS. Resolução n. 31, de 28 de abril de 2010. 
+Dispõe sobre a adoção das Recomendações para Digitalização de Documentos 
+Arquivísticos  Permanentes.  Disponível  em:  <<https://www.gov.br/conarq/pt-
+br/legislacao-arquivistica/resolucoes-do-conarq/resolucao-no-31-de-28-de-
+abril-de-2010>>. Acesso em: 25 mai. 2021.
+CONSELHO NACIONAL DE ARQUIVOS. Resolução n. 39 de 29 de abril de 2014.
+Disponível  em:  <<https://www.gov.br/conarq/pt-br/legislacao-arquivistica/
+resolucoes-do-conarq/resolucao-no-39-de-29-de-abril-de-2014>>.  Acesso  em: 
+25 mai. 2021.
+CONSELHO NACIONAL DE ARQUIVOS. Resolução n. 43 de 4 de setembro de 2015. 
+Disponível  em:  <<  ttps://www.gov.br/conarq/pt-br/legislacao-arquivistica/
+resolucoes-do-conarq/resolucao-no-43-de-04-de-setembro-de-2015 
+>>. 
+Acesso em: 23 ago. 2021.
+CONSELHO  NACIONAL  DE  ARQUIVOS.  Câmara  Técnica  de  Documentos 
+Eletrônicos. Glossário de Documentos Arquivísticos Digitais, 2020, 8ª versão. 
+Disponível 
+http://antigo.conarq.gov.br/images/ctde/Glossario/
+glosctde_2020_08_07.pdf>>. Acesso em: 23 ago.2021.
+GONÇALVES,  Janice.  Como  classificar  e  ordenar  documentos  de  arquivo. 
+São  Paulo:  Arquivo  do  Estado,  1998.  (Projeto  Como  Fazer,  2).  Disponível  em: 
+<<https://www.arqsp.org.br/arquivos/oficinas_colecao_como_fazer/cf2.
+pdf>>. Acesso em: 15 abr. 2021.
+INDOLFO, Ana Celeste. Gestão de documentos: uma renovação epistemológica 
+no universo da arquivologia. In: Arquivística. net, Rio de janeiro, v. 3, n. 2, p. 
+28-60, jul./dez. 2007. Disponível em: <<https://brapci.inf.br/index.php/article/
+download/3553>>. Acesso em: 15 abr. 2021.
+LOPES,  Luís  Carlos.  Arquivópolis:  uma  utopia  pós-moderna.  In:  Ciência  da 
+Informação,  22(1).  Brasília,  22  (1):  41-43,  jan./abr.  1993.  Recuperado  de 
+<<http://revista.ibict.br/ciinf/article/view/515>>
+MIRANDA,  Antonio;  SIMEÃO,  Elmira.  A  conceituação  de  massa  documental 
+e  o  ciclo  de  interação  entre  tecnologia  e  o  registro  do  conhecimento.  In: 
+
+em: 
+
+<< 
+
+ 92 
+
+ 93 
+
+
+DataGramaZero - Revista de Ciência da Informação - v.3 n.4 ago/02. Disponível 
+em:  <<https://brapci.inf.br/index.php/res/download/43623>>.  Acesso  em:  15 
+abr. 2021.
+MORENO,  Nádia  Aparecida.  Gestão  documental  ou  gestão  de  documentos: 
+trajetória  histórica.  In:  BARTALO,  L.;  MORENO,  M.  A.  (Org.).  In:  Gestão  em 
+arquivologia: abordagens múltiplas. Londrina: EDUEL, 2008. p. 71-88. 
+NASCIMENTO, Mariana Batista; SILVA, Patrícia de Mello. Identificação arquivística 
+como base para tratamento de documentos em fundos acumulados no âmbito 
+do Programa de Gestão de Documentos do Estado do Rio de Janeiro – PGD-RJ: 
+Fundo  “Despoluição  da  Baía  de  Guanabara”.  In:  Memorias  del  XIII  Congreso 
+de Archivología del MERCOSUR. Paradigmas de los archivos en las políticas 
+públicas. Conferencias, ponencias, carteles y conclusiones. Montevideo, 21 al 
+25 de octubre de 2019. Montevideo: IMPO, p.182-193. Disponível em: 
+<<https://www.colibri.udelar.edu.uy/jspui/bitstream/20.500.12008/28722/1/
+Publicaci%C3%B3n%20XIII%20CAM%20-%2013-07-21.pdf>>.  Acesso  em:  23 
+ago. 2021.
+RODRIGUES,  Ana  Célia.  Diplomática  contemporânea  como  fundamento 
+metodológico da identificação de tipologia documental em arquivos. Tese de 
+Doutorado, Departamento de História - Universidade de São Paulo. São Paulo, 
+2008.  Disponível  em:  <<https://www.teses.usp.br/teses/disponiveis/8/8138/
+tde-27112008-151058/publico/TESE_ANA_CELIA_RODRIGUES.pdf>>.  Acesso 
+em: 30 abr. 2021. 
+RODRIGUES,  Ana  Célia.  Organização  de  Arquivos  Permanentes:  usando  a 
+tipologia documental como método. In: História, Arquivos & Mídias Digitais. 1 
+ed. Fortaleza, CE: Expressão Gráfica e Editora, 2013, p. 114-130. 
+SÃO PAULO (Estado). Decreto n. 7.730, de 23 de março de 1976. Reorganiza 
+a  Secretaria  de  Estado  da  Cultura,  Ciência  e  Tecnologia.  Disponível 
+<<https://www.al.sp.gov.br/repositorio/legislacao/decreto/1976/
+em: 
+decreto-7730-23.03.1976.html>>. Acesso em: 25 mai. 2021.
+SÃO  PAULO  (Estado).  Decreto  n.  22.789,  de  19  de  outubro  de  1984. 
+Institui  o  Sistema  de  Arquivos  do  Estado  de  São  Paulo  –  SAESP.  Disponível 
+em: 
+<<https://www.al.sp.gov.br/repositorio/legislacao/decreto/1984/
+decreto-22789-19.10.1984.html>>. Acesso em: 25 mai. 2021.
+SÃO PAULO (Estado). Decreto n. 29.838, de 18 de abril de 1989. Dispõe sobre 
+a  constituição  de  Comissão  de  Avaliação  de  Documentos  de  Arquivo  nas 
+Secretarias de Estado. Disponível em: <<https://www.al.sp.gov.br/repositorio/
+legislacao/decreto/1989/decreto-29838-18.04.1989.html>>. 
+em: 
+Acesso em: 25 mai. 2021.
+SÃO PAULO (Estado). Decreto n. 48.898, de 27 de agosto de 2004. Aprova o Plano 
+de Classificação e as Tabela de Temporalidade de Documentos da Administração 
+Pública do Estado de São Paulo: Atividades-Meio e dá providencias correlatas. 
+Disponível  em: 
+  <<http://www.arquivoestado.sp.gov.br/site/institucional/
+legislacao>>. Acesso em: 15 abr. 2021.
+SÃO PAULO (Estado). Decreto n. 54.276, de 27 de abril de 2009. Reorganiza a 
+Unidade do Arquivo Público do Estado, da Casa Civil, e dá providências correlatas. 
+<<http://www.arquivoestado.sp.gov.br/site/institucional/
+Disponível 
+
+Acesso 
+
+em: 
+
+ 94 
+
+
+legislacao>>. Acesso em: 15 abr. 2021.
+SÃO PAULO (Estado). Decreto n. 58.052, de 16 de maio de 2012. Regulamenta 
+a  Lei  federal  n.  12.527,  de  18  de  novembro  de  2011,  que  regula  o  acesso  a 
+informações,  e  dá  providências  correlatas.  Disponível  em:  <<http://www.
+arquivoestado.sp.gov.br/site/institucional/legislacao>>.  Acesso  em:  15  abr. 
+2021.
+SÃO PAULO (Estado). Decreto n. 60.145, de 11 de fevereiro de 2014. Dispõe 
+sobre  recolhimento  de  documentos  de  guarda  permanente,  produzidos  e 
+acumulados pelos órgãos e entidades da Administração Pública estadual direta, 
+indireta e fundacional, para a Unidade de Arquivo Público do Estado, da Casa 
+Civil. Disponível em: <<http://www.arquivoestado.sp.gov.br/site/institucional/
+legislacao>>. Acesso em: 15 abr. 2021.
+SÃO  PAULO  (Estado).  Decreto  n.  63.382,  de  9  de  maio  de  2018.  Substitui  os 
+anexos do Decreto n. 48.898, de 27 de agosto de 2004, que aprova o Plano de 
+Classificação  e  a  Tabela  de  Temporalidade  de  Documentos  da  Administração 
+Pública  do  Estado  de  São  Paulo:  Atividades-Meio,  e  dá  providências 
+correlatas.  Disponível  em:  <<https://www.al.sp.gov.br/repositorio/legislacao/
+decreto/2018/decreto-63382-09.05.2018.html>>. Acesso em: 15 abr. 2021.
+SÃO  PAULO  (Estado).  Decreto  n.  63.936,  de  17  de  dezembro  de  2018.
+implantação  progressiva 
+Dispõe  sobre  a  administração,  operação  e 
+do  Sistema  SPdoc  e  dá  providências  correlatas.  Disponível  em: 
+<<https://www.al.sp.gov.br/repositorio/legislacao/decreto/2018/
+decreto-63936-17.12.2018.html#:~:text=Disp%C3%B5e%20sobre%20a%20
+administra%C3%A7%C3%A3o%2C%20opera%C3%A7%C3%A3o,SPdoc%20
+e%20d%C3%A1%20provid%C3%AAncias%20correlatas>>.  Acesso  em:  25  mai. 
+2021.
+SÃO  PAULO  (Estado).  Decreto  n.  64.355,  de  31  de  julho  de  2019.Institui  o 
+Programa SP Sem Papel, seu Comitê de Governança Digital e dá providências 
+correlatas.  Disponível  em:  <<https://www.al.sp.gov.br/repositorio/legislacao/
+decreto/2019/decreto-64355-31.07.2019.html>>. Acesso em: 25 mai. 2021.
+SÃO  PAULO  (Estado).  Decreto  n.  64.418,  de  28  de  agosto  de  2019.Dispõe 
+sobre os processos de dissolução, liquidação, extinção, transformação, fusão, 
+incorporação ou cisão de empresas controladas direta ou indiretamente pelo 
+Estado.  Disponível  em:  <<https://www.al.sp.gov.br/repositorio/legislacao/
+decreto/2019/decreto-64418-28.08.2019.html>>. Acesso em: 25 mai. 2021.
+SÃO PAULO (Estado). Portaria UAPESP/SAESP 5, de 5 de agosto de 2021. Orienta 
+os órgãos e entidades da Administração Pública Estadual sobre a digitalização 
+de  documentos  públicos,  a  gestão  e  a  preservação  de  seus  representantes 
+digitais para que produzam os mesmos efeitos legais de documentos originais. 
+Disponível 
+<<http://www.arquivoestado.sp.gov.br/site/institucional/
+legislacao>>. Acesso em: 23 ago. 2021.
+SÃO PAULO (Estado). Portaria UAPESP/SAESP - 1, de 4 de dezembro de 2018. 
+Dispõe  sobre  diretrizes  para  a  contratação  de  serviços  arquivísticos  visando 
+à  execução  de  atividades  técnicas  auxiliares.  Disponível  em:  <<http://www.
+arquivoestado.sp.gov.br/site/institucional/legislacao>>.  Acesso  em:  15  abr. 
+2021.
+
+em: 
+
+ 94 
+
+ 95 
+
+
+SÃO PAULO (Estado). Instrução Normativa APE/SAESP - 4, de 5 de julho de 2016. 
+Estabelece  procedimentos  para  eliminação  de  documentos  intermediários 
+custodiados  pelo  Centro  de  Arquivo  Administrativo,  do  Departamento  de 
+Gestão do Sistema de Arquivos do Estado de São Paulo, da Unidade do Arquivo 
+Público do Estado. Diário Oficial de São Paulo, São Paulo, 06 de julho de 2016. 
+Disponível em:
+<<  http://www.arquivoestado.sp.gov.br/site/institucional/legislacao>.  Acesso 
+em: 15 abr. 2021.
+SÃO  PAULO  (Estado).  Instrução  Normativa  APE/SAESP-3,  de  14  de  setembro 
+de  2015.  Estabelece  critérios  complementares  à  instrução  Normativa  APE/
+SAESP-2,  de  2-12/-2010,  para  o  recolhimento  de  documentos  à  Unidade  do 
+Arquivo  Público  do  Estado,  visando  a  efetiva  aplicação  do  Dec.  Est.  60.145-
+2014. Disponível em:
+ << http://www.arquivoestado.sp.gov.br/site/institucional/legislacao>>. Acesso 
+em: 15 abr. 2021.
+SÃO PAULO (Estado). Instrução Normativa APE/SAESP - 2, de 2 de dezembro 
+de 2010.  Estabelece critérios para avaliação da massa documental acumulada e 
+procedimentos para a eliminação, transferência e recolhimento de documentos 
+à  Unidade  do  Arquivo  Público  do  Estado.  Disponível  em:  <<    http://www.
+arquivoestado.sp.gov.br/site/institucional/legislacao>>.  Acesso  em:  15  abr. 
+2021.
+SILVA,  Glauce  Cristina  da  Conceição.  Proposta  para  tratamento  da  massa 
+documental  acumulada  da  Universidade  Federal  Rural  do  Rio  de  Janeiro, 
+2019.  Dissertação.  Disponível  em:  <<http://bibliotecadigital.fgv.br/dspace/
+themes/Mirage2/pages/pdfjs/web/viewer.html?file=http://bibliotecadigital.
+fgv.br/dspace/bitstream/handle/10438/27409/Disserta%c3%a7%c3%a3o_
+vers%c3%a3o%20final.pdf?sequence=2&isAllowed=y>>.  Acesso  em:  15  abr. 
+2021.
+SMIT, Johanna Wilhelmina; KOBASHI, Nair Yumiko. Como elaborar vocabulário 
+controlado para aplicação em arquivos. São Paulo: Arquivo Público do Estado 
+de São Paulo, 2003. Disponível em: 
+<<https://www.arqsp.org.br/arquivos/oficinas_colecao_como_fazer/cf10.pdf 
+>>. Acesso em: 30 abr. 2021.
+
+ 96 
+
+

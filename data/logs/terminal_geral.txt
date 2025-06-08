@@ -1,0 +1,95 @@
+PS C:\Users\aless\Documents\treinamento> & "C:/Program Files/Python311/python.exe" c:/Users/aless/Documents/treinamento/processa_livros.py
+Extraindo PDFs:  33%|████████████████▋                                 | 3/9 [00:16<00:26,  4.37s/it]Cannot set gray non-stroke color because /'P0' is an invalid float value
+Cannot set gray non-stroke color because /'P0' is an invalid float value
+Extraindo PDFs: 100%|
+
+
+
+PS C:\Users\aless\Documents\treinamento> & "C:/Program Files/Python311/python.exe" c:/Users/aless/Documents/treinamento/build_dataset.py
+Lendo TXT: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 9/9 [00:00<00:00, 471.46it/s]
+Total documentos: 9
+Saving the dataset (1/1 shards): 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 9/9 [00:00<00:00, 9004.95 examples/s]
+Dataset salvo em C:\Users\aless\Documents\treinamento\hf_dataset
+PS C:\Users\aless\Documents\treinamento> 
+
+PS C:\Users\aless\Documents\treinamento> dir                                                                                                                                                                                                                                                                                                                          Diretório: C:\Users\aless\Documents\treinamento                                                                                                                                                                                                                                                                                                               Mode                 LastWriteTime         Length Name                                                                ----                 -------------         ------ ----                                                                d-----        07/06/2025     19:03                ada-lovelace-lora                                                   d-----        07/06/2025     19:03                hf_dataset                                                          d-----        07/06/2025     16:12                logs                                                                d-----        07/06/2025     16:12                pdf_raw                                                             d-----        07/06/2025     16:13                txt_clean                                                           -a----        07/06/2025     16:34            829 build_dataset.py                                                    -a----        07/06/2025     16:12           1409 processa_livros.py                                                  -a----        07/06/2025     22:12           2727 train_lora.py                                                       -a----        07/06/2025     22:15           2303 train_lora_cpu.py                                                                                                                                                                                                                                                                                               PS C:\Users\aless\Documents\treinamento> python.exe .\train_lora_cpu.py                                               → Carregando dataset …                                                                                                → Carregando modelo base em CPU …                                                                                     Fetching 2 files: 100%|█████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 2/2 [00:00<?, ?it/s]                          Loading checkpoint shards: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 2/2 [00:00<00:00, 13.43it/s]                          The following generation flags are not valid and may be ignored: ['temperature', 'top_p']. Set TRANSFORMERS_VERBOSITY=info for more details.                                                                                              The following generation flags are not valid and may be ignored: ['temperature', 'top_p']. Set TRANSFORMERS_VERBOSITY=info for more details.                                                                                              Map: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 9/9 [00:00<00:00, 11.05 examples/s]                          No label_names provided for model class PeftModelForCausalLM. Since PeftModel hides base models input arguments, if label_names is not given, label_names can't be set automatically within Trainer. Note that empty label_names list will be used instead.                                                                                                 → Iniciando treino em CPU (pode demorar)…                                                                               0%|                                                                                                                                                                                       | 0/3 [00:00<?, ?it/s]use_cache=True is incompatible with gradient checkpointing. Setting use_cache=False.                                                        {'loss': 2.0324, 'grad_norm': 0.8729929327964783, 'learning_rate': 0.0001, 'epoch': 0.44}                             {'loss': 1.9826, 'grad_norm': 0.8441148400306702, 'learning_rate': 6.666666666666667e-05, 'epoch': 0.89}              {'loss': 1.9194, 'grad_norm': 1.1199791431427002, 'learning_rate': 3.3333333333333335e-05, 'epoch': 1.0}              {'train_runtime': 1314.1457, 'train_samples_per_second': 0.007, 'train_steps_per_second': 0.002, 'train_loss': 1.9781663417816162, 'epoch': 1.0}                                                                                            100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 3/3 [21:54<00:00, 438.05s/it]                          ✅ LoRA concluída e salva em ada-lovelace-lora           
+
+
+PS C:\Users\aless\Documents\treinamento> & "C:/Program Files/Python311/python.exe" c:/Users/aless/Documents/treinamento/teste_2.py
+Fetching 2 files: 100%|████████████████████████████████████████████████████████████████████████████████████████████████████| 2/2 [00:00<?, ?it/s] 
+Loading checkpoint shards: 100%|███████████████████████████████████████████████████████████████████████████████████| 2/2 [00:20<00:00, 10.01s/it] 
+The following generation flags are not valid and may be ignored: ['temperature', 'top_p']. Set TRANSFORMERS_VERBOSITY=info for more details.
+The following generation flags are not valid and may be ignored: ['temperature', 'top_p']. Set TRANSFORMERS_VERBOSITY=info for more details.
+Some parameters are on the meta device because they were offloaded to the cpu.
+Some parameters are on the meta device because they were offloaded to the cpu.
+The following generation flags are not valid and may be ignored: ['temperature', 'top_p']. Set TRANSFORMERS_VERBOSITY=info for more details.
+Gerando:  18%|█████████▋                                             | 21/120 [00:24<01:43,  1.05s/tok, uncional? O que é um prontuário social? ] 
+Gerando:  18%|██████████                                             | 22/120 [00:24<01:42,  1.05s/tok, uncional? O que é um prontuário social?
+Gerando:  18%|██████████                                             | 22/120 [00:25<01:42,  1.05s/tok, ncional? O que é um prontuário social?
+
+Gerando:  19%|██████████▌                                            | 23/120 [00:25<01:42,  1.05s/tok, ncional? O que é um prontuário social?
+
+Gerando:  19%|██████████▌                                            | 23/120 [00:26<01:42,  1.05s/tok, ncional? O que é um prontuário social?
+
+Gerando:  20%|███████████                                            | 24/120 [00:26<01:41,  1.05s/tok, ncional? O que é um prontuário social?
+
+Gerando:  20%|███████████                                            | 24/120 [00:27<01:41,  1.05s/tok, ional? O que é um prontuário social?
+
+Gerando:  21%|███████████▍                                           | 25/120 [00:27<01:40,  1.06s/tok, ional? O que é um prontuário social?
+
+Gerando:  21%|███████████▍                                           | 25/120 [00:29<01:40,  1.06s/tok, ional? O que é um prontuário social?
+
+Gerando:  22%|███████████▉                                           | 26/120 [00:29<01:39,  1.06s/tok, ional? O que é um prontuário social?
+
+Gerando:  22%|███████████▉                                           | 26/120 [00:30<01:39,  1.06s/tok, ional? O que é um prontuário social?
+
+Gerando:  22%|████████████▍                                          | 27/120 [00:30<01:38,  1.06s/tok, ional? O que é um prontuário social?
+
+Gerando:  22%|████████████▍                                          | 27/120 [00:31<01:38,  1.06s/tok, ional? O que é um prontuário social?
+
+Gerando:  23%|████████████▊                                          | 28/120 [00:31<01:37,  1.06s/tok, ional? O que é um prontuário social?
+
+Gerando:  23%|████████████▊                                          | 28/120 [00:32<01:37,  1.06s/tok, e é um prontuário social?
+
+Gerando:  24%|█████████████▎                                         | 29/120 [00:32<01:36,  1.06s/tok, e é um prontuário social?
+
+Gerando:  24%|█████████████▎                                         | 29/120 [00:33<01:36,  1.06s/tok, e é um prontuário social?
+
+Gerando:  25%|█████████████▊                                         | 30/120 [00:33<01:36,  1.07s/tok, e é um prontuário social?
+
+Gerando:  25%|█████████████▊                                         | 30/120 [00:34<01:36,  1.07s/tok, ntuário social?
+
+Gerando:  26%|██████████████▏                                        | 31/120 [00:34<01:35,  1.08s/tok, ntuário social?
+
+Gerando:  26%|██████████████▏                                        | 31/120 [00:35<01:35,  1.08s/tok, uário social?
+
+Gerando:  27%|██████████████▋                                        | 32/120 [00:35<01:35,  1.08s/tok, uário social?
+
+Gerando:  27%|██████████████▋                                        | 32/120 [00:36<01:35,  1.08s/tok, io social?
+
+Gerando:  28%|███████████████▏                                       | 33/120 [00:36<01:34,  1.08s/tok, io social?
+
+Gerando:  28%|███████████████▏                                       | 33/120 [00:37<01:34,  1.08s/tok, cial?
+
+Gerando:  28%|███████████████▌                                       | 34/120 [00:37<01:33,  1.09s/tok, cial?
+
+Gerando:  28%|███████████████▌                                       | 34/120 [00:38<01:33,  1.09s/tok, l?
+
+Gerando:  29%|████████████████                                       | 35/120 [00:38<01:32,  1.09s/tok, l?
+
+Gerando:  29%|████████████████                                       | 35/120 [00:39<01:32,  1.09s/tok, l?
+
+Gerando:  30%|████████████████▌                                      | 36/120 [00:39<01:31,  1.09s/tok, l?
+
+Gerando:  30%|████████████████▌                                      | 36/120 [00:40<01:31,  1.09s/tok, l?
+Gerando:  30%|████████████████▌                                      | 36/120 [00:39<01:31,  1.09s/tok, l?        
+
+Gerando:  30%|████████████████▌                                      | 36/120 [00:40<01:31,  1.09s/tok, l?        
+
+Gerando:  31%|████████████████▉                                      | 37/120 [00:40<01:31,  1.10s/tok, l?        
+
+Gerando:  31%|████████████████▉                                      | 37/120 [00:42<01:31,  1.10s/tok, l?        
+
+Gerando:  32%|█████████████████▍                                     | 38/120 [00:42<01:29,  1.10s/tok, l?        
+
+Gerando: 100%|██████████████████████████████████████████████████████| 120/120 [02:14<00:00,  1.12s/tok, tilizado principalmente por pessoas que...

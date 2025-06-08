@@ -1,0 +1,5369 @@
+
+Governador do Estado de São Paulo 
+Tarcísio Gomes de Freitas 
+
+Secretário de Estado de Gestão e Governo Digital 
+Caio Paes de Andrade 
+
+Coordenador do Arquivo Público do Estado de São Paulo 
+Thiago Lima Nicodemo 
+
+Diretora Técnica do Departamento de Gestão do Sistema de Arquivos do Estado de São Paulo 
+(DGSAESP) 
+Ieda Pimenta Bernardes 
+
+Diretora Técnica do Departamento de Preservação e Difusão do Acervo (DPDA) 
+Camila Brandi de Souza Bentes 
+
+Coordenação geral  
+Ieda Pimenta Bernardes 
+
+Centro de Assistência aos Municípios/CAM 
+Carlos Corrêa Leite 
+Júlio Couto Filho 
+Renato Soares Bastos (Diretor) 
+Rodrigo Fagundes Sardinha Benettão 
+Susan Novais de Oliveira 
+
+Núcleo de Formação e Treinamento/NFT 
+Ariane Cristina Gonçalves Marquezini 
+Dalete Rodrigues Dias 
+ Fernando Victor Aguiar Ribeiro (Diretor) 
+João Daniel Borges 
+
+Capa 
+Marcio Hirosse Silva Castro 
+
+Versão adaptada do conteúdo do Guia Técnico de Transparência Municipal, publicado pelo 
+Arquivo Público do Estado e Tribunal de Contas do Estado de São Paulo em 2018, disponível 
+em:  
+http://www.arquivoestado.sp.gov.br/uploads/publicacoes/livros/guia_tecnico_de_transparenc
+ia_municipal.pdf 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ I31       Implantação da gestão documental nos municípios: cartilha [recurso eletrônico] 
+
+/ [coordenação geral de Ieda Pimenta Bernardes]. – [São Paulo]: Arquivo 
+Público do Estado de São Paulo, 2023.  
+
+                    78 p. 
+
+        Título da capa. 
+
+Adaptação de: Guia técnico de transparência municipal / Arquivo Público do 
+Estado e Tribunal de Contas do Estado de São Paulo, 2018. 
+Disponível no sítio www.arquivoestado.sp.gov.br. 
+Inclui bibliografia e legislação. 
+
+1. Gestão documental. 2. Arquivos municipais – São Paulo (Estado). 3. Documento 
+Digital. I. Arquivo Público do Estado de São Paulo. II. Bernardes, Ieda Pimenta.                                                                         
+
+                            CDD 352.387 
+
+Ficha catalográfica elaborada por  
+Rita de Cássia Higa do Nascimento – CRB 8/9231 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                  
+ 
+                     
+
+SUMÁRIO 
+
+1.  APRESENTAÇÃO 
+
+2.  GESTÃO DOCUMENTAL: O DEVER DE CRIAR ARQUIVOS PÚBLICOS E  
+
+GARANTIR A PRESERVAÇÃO DE DOCUMENTOS PÚBLICOS 
+
+3.  COMO IMPLANTAR A GESTÃO DOCUMENTAL 
+
+4.  PASSO A PASSO PARA A IMPLANTAÇÃO DA POLÍTICA DE GESTÃO  
+
+DOCUMENTAL   
+
+1º PASSO: CRIAR OFICIALMENTE O ARQUIVO PÚBLICO   
+2º PASSO: IMPLANTAR A GESTÃO SISTÊMICA DE  
+DOCUMENTOS E INFORMAÇÕES 
+3º PASSO: CRIAR A INFRAESTRUTURA E AS CONDIÇÕES  
+NECESSÁRIAS AO FUNCIONAMENTO DO ARQUIVO  
+PÚBLICO MUNICIPAL 
+4º PASSO: APLICAR OS INSTRUMENTOS DE GESTÃO  
+DOCUMENTAL (PLANOS DE CLASSIFICAÇÃO E TABELAS DE  
+TEMPORALIDADE DE DOCUMENTOS) 
+
+5.  BENEFÍCIOS DA GESTÃO DOCUMENTAL E A MODERNIZAÇÃO DA  
+
+GESTÃO PÚBLICA 
+
+6.  AS TECNOLOGIAS DA INFORMAÇÃO E COMUNICAÇÃO A  
+
+SERVIÇO DA GESTÃO DOCUMENTAL 
+
+7.  A GESTÃO DE DOCUMENTOS DIGITAIS 
+
+8.  A IMPORTÂNCIA DE UM SIGAD PARA A PRODUÇÃO E TRAMITAÇÃO  
+
+DE DOCUMENTOS DIGITAIS 
+
+9.  A IMPORTÂNCIA DO REPOSITÓRIO ARQUIVÍSTICO CONFIÁVEL PARA  
+
+A PRESERVAÇÃO DE DOCUMENTOS DIGITAIS 
+
+10. MINUTAS 
+
+Minuta 1 – Projeto de Lei para institucionalização de Arquivo Público  
+no Poder Executivo Municipal 
+Minuta 2 – Decreto que regulamenta o Arquivo Público no Poder  
+Executivo Municipal  
+Minuta 3 – Projeto de Resolução que institui o Arquivo Público  
+no Poder Legislativo Municipal   
+ Minuta 4 – Portaria de constituição da Comissão de Avaliação de  
+Documentos e Acesso no Poder Executivo Municipal 
+Minuta 5 – Ato do Presidente que institui a Comissão de Avaliação de  
+Documentos e Acesso  no Poder Legislativo Municipal 
+Minuta 6 – Decreto que aprova o Plano de Classificação e a Tabela de  
+Temporalidade e dispõe                      sobre os documentos de arquivo, sua  
+
+6 
+
+8 
+
+10 
+
+12 
+12 
+
+18 
+
+21 
+
+26 
+
+31 
+
+32 
+
+33 
+
+37 
+
+39 
+
+41 
+
+41 
+
+43 
+
+48 
+
+52 
+
+54 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+gestão, define normas pra a avaliação, guarda e eliminação de  
+documentos de arquivo do Poder Executivo Municipal   
+
+11. ANEXOS DA MINUTA 6   
+
+Anexo I – Plano de Classificação de Documentos 
+Anexo II – Índice 
+Anexo III – Tabela de Temporalidade de Documentos 
+Anexo IV – Relação de Eliminação de Documentos 
+Anexo V – Edital de Ciência de Eliminação de Documentos  
+Anexo VI – Termo de Eliminação de Documentos  
+
+12. ATOS NORMATIVOS DE REFERÊNCIA À GESTÃO DOCUMENTAL  
+
+NAS ADMINISTRAÇÕES MUNICIPAIS 
+
+13. BIBLIOGRAFIA   
+
+14. LEGISLAÇÃO 
+
+15. RESOLUÇÕES DO CONSELHO NACIONAL DE ARQUIVOS – CONARQ  
+
+56 
+
+63 
+64 
+65 
+66 
+67 
+68 
+
+69 
+
+70 
+
+72 
+
+77 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+1. APRESENTAÇÃO 
+
+A  produção,  gestão  e  preservação  de  documentos  digitais  dependem  da 
+incorporação  de  modernas  tecnologias  da  informação  e  comunicação  na  automação  de 
+normas  e  procedimentos  de  arquivos  e  protocolos 
+tramitação, 
+armazenamento, eliminação, preservação e acesso) formuladas e aprovadas pelo Arquivo 
+Público Municipal.  
+
+(classificação, 
+
+Os  documentos  de  arquivo  são  definidos  por  suas  características  intrínsecas 
+(autenticidade, imparcialidade, integridade, organicidade, naturalidade e unicidade) e não 
+pelo  suporte  de  registro  da  informação.  Nesse  sentido,  todas  as  operações  técnicas  de 
+tratamento de documentos em papel continuam válidas para documentos nato-digitais ou 
+digitalizados. A gestão, preservação e acesso aos documentos digitais dependem tanto de 
+sistemas de gestão da informação, baseados em normas arquivísticas, conhecidos como 
+SIGAD  –  Sistema  Informatizado  de  Gestão  Arquivística  de  Documentos,  quanto  de 
+repositórios digitais confiáveis, denominados RDC-Arq, ambientes seguros desenvolvidos 
+para o armazenamento e preservação desses documentos ao longo do tempo, de acordo 
+com as necessidades da administração e da sociedade. 
+
+Os  documentos  arquivísticos  em  ambientes  digitais  requerem  os  mesmos 
+procedimentos  de  tratamento  que  os  documentos  não  digitais  e,  por  isso,  o  sistema 
+responsável por seu gerenciamento deve ter foco na gestão arquivística. 
+
+O Município que já conta com seus instrumentos de gestão documental (planos de 
+classificação e tabelas de temporalidade), e pretenda iniciar a produção de documentos 
+digitais  deverá  adotar  uma  solução  tecnológica  em  conformidade  com  as  normas 
+emanadas do Arquivo Público Municipal, órgão central do Sistema Municipal de Arquivos, 
+e demais normativas do Conselho Nacional de Arquivos – CONARQ, órgão responsável por 
+definir a política nacional de arquivos. Essas normas se referem a requisitos e metadados 
+essenciais  para  assegurar  a  gestão,  segurança,  preservação  e  acesso  aos  documentos 
+digitais. A aplicação dos instrumentos de gestão deve dar-se na origem, no momento da 
+produção  e  cadastramento  dos  documentos  no  SIGAD,  o  que  permite  sua  gestão  e 
+armazenamento  seguro,  assim  como  sua  eliminação  rotineira    nos  prazos  estabelecidos 
+nas  tabelas  de  temporalidade,  e  o  acesso  às  informações  sempre  que  necessário, 
+respeitando-se as restrições legais. 
+
+As  Resoluções  do  CONARQ  nº  25/2007  e  nº  32/2010  aprovaram  os  Modelos  de 
+Requisitos e de Metadados, respectivamente, para os Sistemas Informatizados de Gestão 
+Arquivísticas de Documentos -SIGAD, documento que ficou conhecido como e-ARQ Brasil. 
+A segunda versão do e-ARQ Brasil foi atualizada e aprovada pela Resolução do CONARQ nº 
+50/2022. 
+
+Além disso, sempre de acordo com requisitos arquivísticos, cabe ao poder público 
+assegurar a preservação de documentos digitais em repositórios digitais confiáveis (RDC-
+Arq).  Por  isso,  é  preciso  assegurar  a  interoperabilidade  entre  o  SIGAD  e  os  repositórios 
+digitais confiáveis, e definir procedimentos que permitam o recolhimento de documentos 
+
+6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+digitais  de  valor  permanente  do  SIGAD  (ambiente  de  gestão)  para  os  repositórios 
+(ambiente de preservação),  visando sua preservação e disponibilidade ao longo do tempo. 
+
+Nesse sentido, a Resolução do CONARQ nº 39, de 29 de abril de 2014, alterada pela 
+Resolução nº 43, de 04 de setembro de 2015, estabelece diretrizes para a implementação 
+de  repositórios  arquivísticos  digitais  confiáveis  para  o  arquivamento  e  manutenção  de 
+documentos arquivísticos digitais em suas fases corrente, intermediária e permanente, dos 
+órgãos e entidades integrantes do Sistema Nacional de Arquivos - SINAR.  
+
+Um  repositório  confiável  é  um  ambiente tecnológico  complexo  capaz  de  manter 
+autênticos os documentos digitais, de preservá-los e de dar acesso a eles por um tempo 
+muito  longo.  A  preservação  e  acesso  a  documentos  digitais  não  é  um  problema 
+exclusivamente tecnológico, pois as normas e diretrizes que orientam o desenvolvimento 
+e a implementação de repositórios digitais confiáveis enfatiza os aspectos organizacionais, 
+políticos e de gestão documental. 
+
+A  propósito,  a  produção  de  documentos  nato-digitais  e  a  digitalização  de 
+documentos  públicos  deve  observar  legislação  específica  que  trata  de  assegurar  a 
+informações  produzidas  e 
+autenticidade,  a 
+armazenadas pelos governos em ambiente digital.  
+
+integridade  e  a  validade 
+
+jurídica  de 
+
+Nesse  sentido,  é  preciso  observar  as  orientações  da  Medida  Provisória  2.200-2-
+2001, que institui a Infraestrutura de Chaves Públicas Brasileira – ICP Brasil, alterada pela 
+Lei Federal nº 14.063/2020; os termos da Lei Federal nº 12.682/2012, que dispõe sobre a 
+elaboração e o arquivamento de documentos em meios eletromagnéticos, alterada pela 
+Lei  Federal  nº  13.874/2019;  as  especificações  do  Decreto  Federal  nº  10.278/2020,  que  
+estabelece  padrões  técnicos  e  metadados  mínimos  para  a  digitalização  de  documentos 
+públicos  ou  privados,  a  fim  de  que  os  documentos  digitalizados  produzam  os  mesmos 
+efeitos legais dos documentos originais. 
+
+A autenticidade dos documentos não pode ser garantida unicamente por recursos 
+tecnológicos,  pois  é  necessário  associar  as  soluções  tecnológicas  às  políticas, 
+procedimentos e informações (na forma de metadados), bem como levar em consideração 
+a reputação idônea e a credibilidade da entidade produtora e custodiadora de documentos 
+digitais. 
+
+A  propósito,  importante  considerar  a  Resolução  nº  48  do  Conselho  Nacional  de 
+Arquivos - CONARQ, de 10 de novembro de 2021, que estabelece diretrizes e orientações 
+aos  órgãos  e  entidades  integrantes  do  Sistema  Nacional  de  Arquivos  quanto  aos 
+procedimentos técnicos a serem observados no processo de digitalização de documentos 
+públicos ou privados. 
+
+Diretora do Departamento de Gestão do Sistema de Arquivos do Estado de São Paulo 
+
+Arquivo Público do Estado 
+
+Ieda Pimenta Bernardes 
+
+7 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+2. GESTÃO DOCUMENTAL: O DEVER DE CRIAR ARQUIVOS 
+PÚBLICOS E GARANTIR A PRESERVAÇÃO   DE DOCUMENTOS 
+PÚBLICOS 
+
+A legislação brasileira sobre arquivos e documentos públicos é inequívoca sobre o 
+dever  e  a  responsabilidade  do  Poder  Público,  em  todas  as  esferas  (federal,  estadual  e 
+municipal), para  com a gestão integral da documentação governamental. 
+
+A Constituição federal determinou ao Poder Público o dever de fazer a gestão de 
+seus documentos, além de realizar a promoção e proteção ao patrimônio documental. Já 
+em  1988,  a Constituição  brasileira  estabeleceu  que  a  gestão  documental  é  condição 
+necessária ao acesso à  informação: 
+
+Cabem  à  administração  pública,  na  forma  da  lei,  a  gestão  da  documentação 
+governamental e  as providências  para  franquear sua consulta  a  quantos  dela 
+necessitem. (Constituição Federal, 1988, art. 216, § 2º). 
+
+Com  essa  determinação  constitucional  conferiu-se  à  questão  dos  arquivos  e 
+documentos  públicos um novo estatuto jurídico. E mais, ao especificar a forma pela qual a 
+proteção ao patrimônio documental brasileiro deveria ser realizada, a nova Constituição 
+lançou  os  alicerces, em  âmbito  nacional,  para  o  desenvolvimento  e  implementação  de 
+políticas públicas de gestão de documentos e informações. 
+
+Em 1991, a Lei federal nº 8.1591, conhecida como “Lei Nacional de Arquivos”, ao 
+regulamentar esse dispositivo, estabeleceu claramente os deveres e responsabilidades do 
+Poder  Público. 
+
+É  dever  do  Poder  Público  a  gestão  documental  e  a  proteção  especial  a 
+documentos  de  arquivos,  como  instrumento  de  apoio  à  administração,  à 
+cultura,  ao  desenvolvimento  científico  e  como  elementos  de  prova  e 
+informação. (Lei Federal nº 8.159, de 8 de janeiro  de 1991, art. 1º). 
+
+A Lei federal nº 12.527/2011, por sua vez, veio regulamentar o direito de acesso à 
+informação e  reforçar a importância do investimento em políticas de arquivos e gestão de 
+documentos e informações. 
+
+Cabe  aos  órgãos  e  entidades  do  poder  público,  observadas  as  normas  e 
+procedimentos  específicos  aplicáveis,  assegurar  a  gestão  transparente  da 
+informação,  propiciando  amplo acesso  a  ela  e  sua  divulgação,  proteção  da 
+informação,  garantindo-se  sua  disponibilidade, autenticidade  e  integridade;  e 
+proteção  da  informação  sigilosa  e  da  informação  pessoal,  observada  a  sua 
+disponibilidade, autenticidade, integridade e eventual restrição de acesso. (Lei 
+
+1  Lei  nº  8.159/1991.  Disponível  em:  https://www2.camara.leg.br/legin/fed/lei/1991/lei-8159-8-janeiro-1991-322180- 
+normaatualizada-pl.pdf. Acesso em: 23 jul. 2023. 
+
+8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Federal nº 12.527, de 18 de novembro de 2011, art. 6º). 
+
+Para garantir o cumprimento de todos estes requisitos, bem como a rastreabilidade 
+e  a  recuperação  de  informações,  é  preciso  contar  com  a  atuação  técnica  de  Arquivos 
+Públicos,  instituições  comprometidas  e  dedicadas  à  formulação  e  implementação  de 
+políticas de gestão documental. Neste sentido, a Lei Nacional de Arquivos nº 8.159/1991, 
+determinou que: 
+
+A  administração  da  documentação  pública  ou  de  caráter  público  compete  às 
+instituições arquivísticas federais, estaduais, do Distrito Federal e municipais. (Lei 
+Federal nº 8.159, de 08 de janeiro de 1991, art.17). 
+
+Estabeleceu, ainda, que são Arquivos Municipais “o arquivo do Poder Executivo e o 
+arquivo do Poder Legislativo” (art.17, § 4º), e que cada Município tem o dever de definir, 
+em  legislação  própria,  os  critérios de organização  e  vinculação dos  arquivos  municipais, 
+bem como  a gestão e o acesso aos documentos, observando o disposto na Constituição 
+Federal e na Lei Nacional de Arquivos (art. 21). 
+
+O Arquivo Público Municipal é, portanto, a instituição com a atribuição de fazer, em 
+sua esfera de competência, a gestão documental e a proteção especial a documentos de 
+arquivos,  como  instrumento  de  apoio  à  administração,  à  cultura,  ao  desenvolvimento 
+científico e como elementos de prova e informação. E a legislação não deixa dúvidas quanto 
+ao dever dos poderes  executivo e  legislativo  municipais de  criar  seus  Arquivos Públicos, 
+promovendo  assim  a  gestão,  a  guarda  e  a  preservação  dos  documentos,  visando  à 
+disseminação e acesso às informações neles registradas. 
+
+Torna-se  evidente,  portanto,  o  papel  estratégico  dos  Arquivos  Públicos  para  a 
+garantia do  direito  de  acesso  às  informações  e  para o fortalecimento  de  uma sociedade 
+democrática.
+
+9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+3. COMO IMPLANTAR A GESTÃO DOCUMENTAL 
+
+Diariamente são produzidos e recebidos volumes expressivos de documentos, 
+que vão se acumulando, ano após ano, nas entidades e órgãos públicos. Organizar essa 
+massa  documental  acumulada,  avaliar  quais  documentos  podem  ser  eliminados  e 
+quais  devem  ser  preservados,  bem  como,  definir  normas  e  procedimentos  que 
+regulem  a  produção,  tramitação  e  organização  de  documentos  públicos,  são 
+atividades técnicas que integram uma política de gestão documental. 
+
+O escopo dessa política foi estabelecido em um ato normativo de abrangência 
+nacional, a Lei Nacional de Arquivos nº 8.159/1991 que definiu em seu artigo 3º o que 
+é gestão documental: 
+
+Considera-se gestão de documentos o conjunto de procedimentos e operações 
+técnicas referentes à sua produção, tramitação, uso, avaliação e arquivamento em 
+fase corrente e intermediária, visando a sua eliminação ou recolhimento para 
+guarda permanente (Lei Federal n.º 8.159, de 8 de janeiro de 1991, art. 3.º). 
+
+É fundamental destacar que essa lei também definiu que a gestão documental 
+com preende todos os documentos produzidos, recebidos e acumulados pelos órgãos 
+e entidades governamentais, no exercício de suas funções e atividades, qualquer que 
+seja o suporte da informação ou a natureza dos documentos: 
+
+Os arquivos públicos são os conjuntos de  documentos produzidos e recebidos,  no 
+exercício de suas atividades, por órgãos públicos de âmbito federal, estadual, 
+do Distrito Federal e  municipal em decorrência de suas funções administrativas, 
+legislativas e judiciárias. 
+São também públicos os conjuntos de documentos produzidos e recebidos 
+por instituições de caráter público, por entidades privadas encarregadas da gestão 
+de serviços públicos no exercício de suas atividades. (Lei Federal nº 8.159/1991, 
+art. 7º, § 1º). 
+
+Implantar a gestão documental na Prefeitura ou Câmara Municipal requer o 
+planejamento e execução de um conjunto de ações articuladas de natureza técnica, 
+jurídica e administrativa. 
+
+10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+CONSELHO NACIONAL DE ARQUIVOS e a Resolução nº 27/2008 
+
+O Conselho Nacional de Arquivos – CONARQ é um órgão vinculado ao Arquivo Nacional, 
+do Ministério da Gestão e da Inovação em Serviços Públicos, que tem por finalidade definir  a 
+política  nacional  de  arquivos  públicos  e  privados,  bem  como  exercer  orientações 
+visando à gestão documental e à proteção especial aos documentos de arquivo. 
+
+Em 2008, o CONARQ, considerando entre outras questões: 
+- a  obrigatoriedade  de  que  os  Estados,  o  Distrito  Federal  e  os  Municípios  (tanto  o 
+Executivo, como o Legislativo local) tenha em sua estrutura um Arquivo Público para 
+promover a gestão, a preservação e o acesso aos documentos produzidos e recebidos 
+no âmbito de cada Poder. 
+- a necessidade urgente de se estabelecer um modelo de gestão que integre as fases 
+corrente, intermediária e permanente pelas quais passam os documentos em seu ciclo 
+vital,  como  forma  de  assegurar  sua  organização,  controle,  proteção  e  preservação  a 
+partir da sua produção. 
+
+Oficializou a Resolução nº 27/2008, que estabeleceu que os Arquivos, por exercerem 
+atividades típicas de Estado, deverão ser dotados obrigatoriamente de: 
+
+I 
+- Autonomia de gestão e posicionamento hierárquico na estrutura funcional 
+do  Poder Executivo  dos  Estados,  do  Distrito  Federal  e  dos  Municípios  que  lhe 
+permita  desempenhar  as  prerrogativas  definidas  nessa  Resolução.”  (Redação 
+dada pela Resolução nº 29/2009) 
+II  –  Infraestrutura  física,  material  e  tecnológica  adequadas  para  a  guarda, 
+armazenamento  e  preservação  de  documentos  de  acordo  com  as  normas  e 
+legislação em vigor. 
+III  - Recursos orçamentários e financeiros para a implementação e manutenção 
+das políticas arquivísticas estabelecidas. 
+IV - Recursos humanos qualificados, dos quadros permanentes da Administração 
+Pública, para dar cumprimento às especificidades de suas atividades. 
+
+No site do CONARQ podem ser consultadas outras Resoluções, publicações técnicas e 
+orientação  normativa  visando  à  gestão  documental  e  à  proteção  especial  aos 
+documentos de arquivo. 
+
+Saiba mais em: https://www.gov.br/conarq/pt-br 
+
+11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+4. PASSO A PASSO PARA A IMPLANTAÇÃO DA POLÍTICA DE 
+GESTÃO DOCUMENTAL 
+
+Somente  por  meio  da  atuação  de  Arquivos  Públicos  com  espaço  físico  e 
+financeiros  e  pessoal  qualificado,  é  possível 
+
+infraestrutura  adequada,  recursos 
+implementar a política de gestão de documentos em âmbito municipal. 
+
+A  Prefeitura  e  a  Câmara  Municipal  devem  instituir  seu  Arquivo  Público  a  fim  de 
+cumprir a Lei Nacional de Arquivos nº 8.159/1991, arts. 17 e 21, bem como colaborar com 
+a eficiência e transparência da gestão pública, promover o acesso à informação e contribuir 
+para a preservação da memória. 
+
+A seguir, serão apresentados 4 passos necessários para a implantação da política de 
+
+gestão documental nas Administrações Municipais. 
+
+1º PASSO: CRIAR OFICIALMENTE O ARQUIVO PÚBLICO 
+
+A criação, atribuições, estrutura e vinculação do Arquivo Público Municipal depende da 
+aprovação de um ato normativo específico. 
+
+Cada Prefeitura e Câmara Municipal deve ter seu Arquivo Público devidamente oficializado. Os 
+Arquivos Públicos são instituições responsáveis pela gestão, tratamento técnico, preservação, 
+difusão e acesso ao patrimônio documental em sua esfera de atuação. 
+
+Referências legais: 
+
+• Lei nº 8.159/19912, art. 17, § 4º, e art. 21 da Resolução CONARQ nº 27/20083, art. 1º, 
+parágrafo   único,  e art. 2º,  inciso  I,  com  a  redação dada  pela  Resolução  CONARQ  nº 
+29/20094. 
+
+Subsídios: 
+
+• MINUTA 1 – Projeto de Lei para Institucionalização de Arquivo Público do Poder 
+
+Executivo Municipal 
+
+• MINUTA 2 – Decreto que regulamenta o Arquivo Público do Poder Executivo Municipal 
+• MINUTA 3 – Projeto de Resolução que Institui o Arquivo Público da Câmara Municipal 
+
+2  Lei  nº  8.159/1991.  Disponível  em:  https://www2.camara.leg.br/legin/fed/lei/1991/lei-8159-8-janeiro-1991-322180- 
+normaatualizada-pl.pdf. Acesso em: 23 jul. 2023. 
+3  Resolução  CONARQ  nº  27/2008.  Disponível  em:  https://www.gov.br/conarq/pt-br/legislacao-  arquivistica/resolucoes-do-
+conarq/resolucao-no-27-de-16-de-junho-de-2008. Acesso em: 21 jul. 2023. 
+4  Resolução  CONARQ  nº  29/2009.  Disponível  em:  https://www.gov.br/conarq/pt-br/legislacao-arquivistica/resolucoes-do-
+conarq/resolucao-no-29-de-29-de-maio-de-2009.  Acesso em: 21 jul.2023. 
+
+12 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Como fazer: 
+CONSTITUIR GRUPO DE TRABALHO 
+
+Designar  servidores  que  irão  estudar  as  disposições  legais  vigentes,  analisar  os 
+subsídios  acima  indicados  (Minutas 1, 2 ou  3) e  propor  o  ato que cria (ou   reorganiza) o 
+Arquivo  Municipal.  Para  colaborar  na  redação  do  ato,  é  fundamental  contar  com  um 
+representante  da área jurídica. 
+
+As Minutas  propostas foram elaboradas pelo Centro de Assistência aos Municípios 
+–  CAM/DGSAESP  do  Arquivo  Público  do  Estado  e  podem  ser  utilizadas  como  ponto  de 
+partida pelas  Prefeituras  e  Câmaras  Municipais.  É  necessário cotejar as minutas com as 
+condições objetivas do Município e realizar os ajustes necessários.   
+
+ANALISAR A LEGISLAÇÃO MUNICIPAL E ESTRUTURAS VIGENTES 
+
+O Grupo de Trabalho deve avaliar se na Prefeitura ou na Câmara já existe alguma 
+estrutura  administrativa  (setor/unidade/órgão)  que  realiza  as  atividades  de  Arquivo, 
+independentemente  da  denominação  utilizada  (Centro  de  Documentação,  Setor  de 
+Arquivo, Serviço de Arquivo, Arquivo  Morto5 etc). 
+
+Nesse  caso,  será  necessário  verificar  as  normas  vigentes,  se  há  ou  não  ato(s) 
+dispondo  sobre  as  atribuições  do  Arquivo,  se  consta  no  organograma,  ou  se  ele  existe 
+“informalmente”. Também será preciso pesquisar como funciona o setor/unidade/órgão, 
+quem é o responsável, as atividades que executa e os serviços fornecidos. 
+
+Sugere-se que, no ato de reestruturação, quando for o caso, a unidade que receber 
+as  atribuições  de  Arquivo  passe  a  denominar-se,  no  Poder  Executivo,  “Arquivo  Público 
+Municipal de (nome do Município)”, ou no Poder Legislativo, “Arquivo Público da Câmara 
+Municipal de (nome do Município)”. 
+
+DEFINIR O TIPO DE ATO NORMATIVO PARA A CRIAÇÃO DO ARQUIVO PÚBLICO 
+
+Avaliar e decidir sobre qual ato normativo será utilizado. A escolha do ato  normativo mais 
+apropriado deve considerar: 
+
+5 A utilização da expressão “Arquivo Morto” não é recomendada. As expressões corretamente aceitas para Arquivo encontram-
+se no Dicionário Brasileiro de Terminologia Arquivística. Rio de Janeiro: Arquivo Nacional, 2005, p. 27 a 36. Disponível em: 
+Acesso 
+https://www.gov.br/conarq/pt-br/centrais-de-conteudo/publicacoes/dicionrio_de_terminologia_arquivistica.pdf. 
+em: 31 jul. 2023. 
+
+13 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+PREFEITURAS 
+
+CÂMARAS 
+
+LEI 
+
+DECRETO 
+
+RESOLUÇÃO 
+
+ATO DO PRESIDENTE 
+
+Submete-se  ao  processo 
+legislativo municipal; 
+
+Não  se  submete  ao 
+processo legislativo; 
+
+Em  geral,  a  Câmara 
+Municipal 
+e 
+aprova  e  o  Prefeito 
+sanciona. 
+
+discute 
+
+Processo mais célere; 
+
+É  elaborada  e  assinada 
+pelo Prefeito. 
+
+fase  de 
+Durante  a 
+elaboração é submetida 
+ao processo legislativo; 
+
+Não  se  submete  ao 
+Executivo 
+Poder 
+Municipal; 
+
+promulgada  pelo 
+Casa 
+da 
+
+É 
+Presidente 
+Legislativa. 
+
+Não  se  submete  ao 
+processo legislativo; 
+
+Processo mais célere; 
+
+É  elaborada  e  assinada 
+pelo 
+da 
+Presidente 
+Câmara. 
+
+A Lei é um ato normativo 
+primário, ou seja, pode 
+inovar a ordem jurídica, 
+e tem maior força 
+normativa e figura no 
+topo da hierarquia das 
+normas locais; 
+
+A Lei pode inovar na 
+esfera jurídica, 
+instituindo novos 
+elementos para a Lei 
+de   Acesso. 
+
+Trata-se de ato 
+administrativo; 
+
+É ato normativo interno 
+do Poder Legislativo; 
+
+Trata-se de ato 
+administrativo; 
+
+Apresenta 
+detalhamentos e 
+procedimentos, sem 
+inovação jurídica; 
+
+Em geral, por se tratar 
+de ato normativo 
+secundário, apenas 
+regulamenta a Lei, 
+especificando seus 
+mandamentos gerais. 
+
+É ato formal que diz 
+respeito a questões de 
+ordem administrativa 
+ou regulamentar. 
+
+Apresenta 
+detalhamentos e 
+procedimentos, sem 
+inovação jurídica; 
+
+Em geral, por se tratar 
+de ato normativo 
+secundário, apenas 
+regulamenta a Lei, 
+especificando seus 
+mandamentos gerais. 
+
+O
+Ã
+Ç
+A
+V
+O
+R
+P
+A
+E
+D
+O
+T
+I
+R
+
+A
+V
+I
+T
+A
+M
+R
+O
+N
+A
+Ç
+R
+O
+F
+
+  Pode vincular toda a 
+A
+I
+C
+N
+Ê
+G
+A
+R
+B
+A
+
+Administração Pública 
+Municipal, abrangendo 
+os Poderes Executivo e 
+Legislativo. 
+
+Restrita apenas à 
+Administração Pública 
+Direta e Indireta, 
+Autárquica e 
+Fundacional do Poder 
+Executivo Municipal. 
+
+Em regra, gera  efeitos 
+apenas dentro da Casa 
+Legislativa. 
+
+Restrito apenas à 
+Administração do 
+Poder  Legislativo 
+Municipal. 
+
+Apropriada quando for 
+ser criado um órgão 
+novo, uma unidade 
+orçamentária nova. 
+
+O
+Ã
+Ç
+A
+V
+R
+E
+S
+B
+O
+
+Apropriado quando for 
+ser aproveitada uma 
+estrutura 
+administrativa, uma 
+unidade orçamentária 
+já existente. 
+
+Apropriada para tomar 
+decisões, estabelecer 
+uma medida ou 
+regulamentar 
+procedimentos. 
+
+Apropriado quando for 
+ser aproveitada uma 
+estrutura 
+administrativa, uma 
+unidade orçamentária 
+já existente. 
+
+DEFINIR O VÍNCULO E NÍVEL ADMINISTRATIVO DO ARQUIVO PÚBLICO 
+
+Avaliar  e  decidir  a  qual  órgão  estará  vinculado  o  Arquivo  Público  e  qual  nível 
+hierárquico de estrutura administrativa (Secretaria, Departamento, Divisão, Setor, Serviço) 
+terá o Arquivo Público. 
+
+O Arquivo Público deve ter autonomia de gestão e posicionamento hierárquico na 
+
+14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+estrutura funcional que lhe permita desempenhar as atribuições de: (I) órgão normativo, 
+formulador  e  implementador  da  política  de  gestão  documental;    (II)  órgão  central  do 
+Sistema Municipal  de  Arquivos;  (III)    órgão  responsável  pela  custódia  de  acervos 
+arquivísticos. 
+
+ASSEGURAR A OFICIALIZAÇÃO DE TODAS AS ATRIBUIÇÕES DO ARQUIVO PÚBLICO 
+
+O  ato  normativo  deverá  estabelecer  um  organograma  que  descreva  a  área  de 
+atuação e as atribuições específicas de cada unidade, de forma que o Município atenda às 
+determinações  especificadas na Constituição e na legislação arquivística brasileira. 
+
+Caso  o  Município  seja  de  pequeno  porte  e  possua  uma  estrutura  administrativa 
+simples,  e  reduzida,  é  fundamental  assegurar  todas  as  atribuições  de  instituição 
+arquivística pública na estrutura administrativa disponível. 
+
+DEFINIR COMO SERÁ O SISTEMA MUNICIPAL DE ARQUIVOS OU QUAIS OS 
+MECANISMOS QUE  IRÃO ASSEGURAR A GESTÃO SISTÊMICA 
+
+Em  Municípios  de  médio  e  grande  porte,  para  assegurar  que  a  gestão  dos 
+documentos   seja  realizada  por  meio  de  regras  e  procedimentos  comuns  emanados  do 
+órgão técnico -  o Arquivo Público - é importante criar o Sistema Municipal de Arquivos. 
+
+O  Arquivo  Público  deve  atuar  como  órgão  central  e  coordenador  do  Sistema  de 
+Arquivos com capacidade para orientar os órgãos setoriais - demais unidades de arquivo, 
+protocolo  e  Comissões  de  Avaliação  de  Documentos  -  que  ficarão  subordinados 
+tecnicamente ao Arquivo Público. 
+
+Em  Municípios de pequeno porte, com uma estrutura administrativa enxuta, não 
+há  a  necessidade  de  se  criar  um  Sistema  Municipal  de  Arquivos  (o  mesmo  se  aplica  às 
+Câmaras Municipais). 
+
+Nesses casos, deve ser assegurada a gestão sistêmica de documentos, por meio da 
+atuação normativa do Arquivo Público e da subordinação técnica dos demais setores com 
+relação às normas e procedimentos de protocolo e arquivo. Nesses Municípios, a estratégia 
+mais aderente  à  realidade  é  a  criação  de  uma  Comissão  Central  de  Avaliação  de 
+Documentos,  composta  por  representantes  dos  diversos  setores  da  Administração 
+Municipal. 
+
+15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+O  Sistema  Municipal  de  Arquivos  é  o  conjunto  de  todos  os  arquivos  e  protocolos  da 
+Administração  Municipal  funcionando  de  forma  integrada  e  articulada,  de  acordo  com 
+normas e procedimentos técnicos comuns, emanados do órgão central - o Arquivo Público 
+Municipal. 
+
+REDIGIR A PROPOSTA DE ATO NORMATIVO 
+
+Elaborar a proposta de ato normativo que formalize o resultado de todas as decisões 
+tomadas nas etapas anteriores. Encaminhar para revisão das áreas competentes. Para ganhar 
+celeridade, recomenda-se analisar e adaptar as minutas padrão de atos normativos fornecidas 
+pelo Arquivo Público do Estado. 
+
+PUBLICAÇÃO DO ATO NORMATIVO OFICIALIZANDO O ARQUIVO PÚBLICO 
+
+Encaminhar  para  oficialização  e  posterior  publicação  o  ato  normativo  que 
+institucionaliza o  Arquivo  Público.  A  oficialização  seguirá  o  rito  próprio  ao  tipo  de  ato 
+normativo escolhido. 
+
+16 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+PERFIL INSTITUCIONAL DE UM ARQUIVO PÚBLICO MUNICIPAL 
+
+Na  nossa  cultura  administrativa  o  papel  e  perfil  institucional  dos  Arquivos  Públicos  não  têm  sido  bem 
+compreendidos pelos gestores.  
+
+Entretanto, a atuação eficiente dos Arquivos Públicos torna-se indispensável  para garantir a transparência, 
+agilidade e eficiência da Administração Pública, bem como para assegurar ao cidadão o pleno direito de 
+acesso à informação e à memória.  
+
+Para  que  esta  instituição  cumpra  sua  missão  é  preciso  que  os  gestores  públicos  compreendam  que  o 
+Arquivo Público é uma instituição estratégica na promoção de uma gestão pública moderna, responsável e 
+transparente, e que lhes assegurem condições mínimas para que possam funcionar plenamente e cumprir 
+suas responsabilidades, quais sejam:  
+
+•  Atuar como órgão normativo nas áreas  de  gestão, preservação e acesso à informação, formulando 
+diretrizes,  normas  e  procedimentos  para  as  diversas  fases  da  gestão  de  documentos  (corrente, 
+intermediária e permanente), inclusive de  documentos digitais e processos eletrônicos. 
+
+•  Coordenar  o  Sistema  Municipal  de  Arquivos  oferecendo  assistência  técnica,  e  capacitação  aos 
+servidores  municipais;  o  Arquivo  Público  também  deve  promover  a  integração  e  articulação  das 
+unidades  de  arquivo  e  protocolo  e  exercer  monitoramento  permanente  dos  trabalhos  de  gestão 
+documental.  Como  órgão  central  do  Sistema,  cabe  ao  Arquivo  Público  orientar  os  trabalhos  das 
+comissões  de  avaliação  de  documentos,  a  aplicação  de  planos  de  classificação  e  tabelas  de 
+temporalidade  de  documentos,  a  eliminação  de  documentos  desprovidos  de  valor  permanente  e 
+colaborar na transição segura para a produção de documentos digitais.  
+
+•  Atuar como órgão de custódia, responsabilizando-se pela integridade dos documentos sob sua guarda 
+e  pelo  controle  dos  acervos  intermediários  e  permanentes.  Nesse  sentido,  cabe  ao  Arquivo  Público 
+disciplinar as transferências e recolhimentos de documentos dos órgãos produtores. Em relação aos 
+acervos  intermediários,  cabe  ao  Arquivo  Público  aplicar  os  prazos  estabelecidos  nas  tabelas  de 
+temporalidades de documentos, efetuar a eliminação daqueles desprovidos de valor e encaminhar à 
+guarda permanente os documentos de valor histórico, probatório e informativo. Quanto aos acervos 
+históricos,  cabe  ao  Arquivo  Público  recolher,  organizar  e  descrever  os  documentos,  elaborar 
+instrumentos de pesquisa e promover sua difusão, bem como desenvolver projetos de ação educativa 
+e cultural, contribuindo para a recuperação da memória coletiva e para as pesquisas de história local. 
+
+Além dessas atribuições  típicas de um Arquivo Público – ser órgão normativo, coordenador do Sistema 
+Municipal  de  Arquivos, e órgão  de custódia  dos documentos públicos municipais - vale destacar três 
+outras atuações relevantes, nos  dias atuais: 
+
+•  Colaborar  na  definição  de  critérios  para  a  restrição  de  acesso.  O  Arquivo  Público  é  naturalmente 
+vocacionado para promover o “tratamento da informação”, definido na Lei federal nº 12.527/2011, 
+artigo  4º,  inciso  V,  como  “o  conjunto  de  ações  referentes  à  produção,  recepção,  classificação, 
+utilização, acesso, reprodução, transporte, transmissão, distribuição, arquivamento, armazenamento, 
+eliminação,  avaliação,  destinação  ou  controle  da  informação”.  Nesse  sentido,  deve  colaborar  na 
+definição  de  critérios  técnicos  e  objetivos  para  a  restrição  de  acesso  aos  documentos  sigilosos  e 
+pessoais.   
+
+•  Contribuir  na  definição  de  requisitos  para  o  desenvolvimento  ou  aprimoramento  de  soluções 
+tecnológicas  de  gestão,  tramitação  e  preservação  de  documentos  digitais.  O  Arquivo  Público 
+Municipal deve participar do processo de digitalização da administração municipal e da implantação de 
+processo eletrônico visando assegurar sua autenticidade, confiabilidade e disponibilidade ao longo do 
+tempo. 
+
+•  Colaborar  com  a  política  de  transparência  e  acesso  à  informação.  Considerando  que  a  gestão 
+documental é uma condição necessária para se garantir o direito de acesso à informação,  o Arquivo 
+Público  Municipal  deve  contribuir  para  o  cumprimento  das  determinações  da  Lei  de  Acesso  à 
+Informação – LAI e para sua regulamentação em âmbito municipal 
+
+17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+
+2º PASSO: IMPLANTAR A GESTÃO SISTÊMICA DE DOCUMENTOS E 
+INFORMAÇÕES 
+
+Para implantar a gestão sistêmica é necessário estabelecer os mecanismos e estratégias que 
+garantam a subordinação técnica de todos os arquivos e protocolos ao Arquivo Público 
+Municipal e assegurar a implementação das regras e procedimentos de produção, 
+tramitação, uso, arquivamento, destinação, eliminação e guarda permanente de documentos 
+públicos produzidos, recebidos e acumulados na Prefeitura ou na Câmara Municipal. 
+
+Referência legal: 
+
+• Lei nº 8.159/19916, arts. 7º ao 10.  
+• Resolução CONARQ nº 27/20087, art. 5º 
+
+Subsídios: 
+
+• MINUTA 4 – Portaria que institui a Comissão de Avaliação de Documentos e Acesso – 
+
+CADA  da Prefeitura Municipal. 
+
+• MINUTA 5 - Ato do Presidente que Institui a Comissão de Avaliação de Documentos e 
+
+Acesso – CADA da Câmara Municipal. 
+
+Como fazer: 
+
+ASSEGURAR A OFICIALIZAÇÃO DA GESTÃO SISTÊMICA 
+
+A gestão sistêmica deve ser estabelecida oficialmente, por meio de ato normativo 
+
+específico ou no próprio ato que cria/reestrutura o Arquivo Público. 
+
+Esse  ato  deve  indicar  o  Arquivo  Público  como  órgão  central  e  coordenador  do 
+Sistema Municipal de Arquivos. Desta forma ficam subordinados técnica e funcionalmente 
+ao  Arquivo  Público  Municipal  todos  os  arquivos  e  protocolos  da  administração  pública 
+municipal, sem prejuízo de sua subordinação administrativa. 
+
+A criação de uma unidade específica na estrutura do Arquivo Público que tenha a  
+atribuição de coordenar o funcionamento do Sistema Municipal de Arquivos e promover a 
+gestão  documental  deve  ser  analisada  como  uma  importante  estratégia  para  dar 
+efetividade à política de gestão documental. 
+
+A gestão sistêmica de documentos viabiliza o funcionamento integrado  de todos os arquivos 
+e  protocolos  da  administração  municipal,  por  meio  de  normas  e  procedimentos 
+padronizados, que  assegurem o cumprimento integral do ciclo de vida dos documentos, em 
+suas fases Corrente, Intermediária e Permanente. 
+
+6  Lei  nº  8.159/1991.  Disponível  em:  https://www2.camara.leg.br/legin/fed/lei/1991/lei-8159-8-janeiro-1991-322180- 
+normaatualizada-pl.pdf.  Acesso em: 26.jul.2023. 
+7  Resolução  CONARQ  nº  27/2008.  Disponível  em:  https://www.gov.br/conarq/pt-br/legislacao-  arquivistica/resolucoes-do-
+conarq/resolucao-no-27-de-16-de-junho-de-2008. Acesso em: 26.jul.2023. 
+
+18 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+CRIAR AS COMISSÕES DE AVALIAÇÃO DE DOCUMENTOS E ACESSO – CADA 
+
+Essa etapa de oficialização da CADA pode ser feita no próprio ato normativo que 
+cria/reestrutura o Arquivo Público ou por ato próprio (ver minutas apresentadas no final 
+desta Cartilha, em SUBSÍDIOS). O fundamental é o ato normativo estabelecer com clareza 
+as atribuições da CADA. 
+
+Outra  questão  importante  é  definir  quantas  CADAs  serão  criadas.  Para  os 
+Municípios  de  grande  ou  médio  porte,  recomenda-se  a  criação  de  uma  CADA  em  cada 
+órgão ou entidade. Para os Municípios de pequeno porte, basta instituir uma  CADA central 
+junto ao Arquivo Público Municipal. 
+
+As  Comissões  de  Avaliação  de  Documentos  e  Acesso  são  grupos  permanentes  e 
+multidisciplinares,  constituídos  por  funcionários  ou  servidores,  com  conhecimentos  da 
+estrutura  organizacional,  das  funções  e  atividades  desenvolvidas  pelo  respectivo  órgão 
+responsável pela produção e tramitação de documentos. 
+
+DESIGNAR  OS  SERVIDORES  QUE  IRÃO  COMPOR  AS  COMISSÕES  DE  AVALIAÇÃO  DE 
+DOCUMENTOS E ACESSO - CADA 
+
+Considerando que a CADA tem como uma de suas principais atribuições atuar na 
+identificação  e  avaliação  dos  documentos  produzidos,  visando  definir  seus  prazos  de 
+guarda e destinação, é fundamental designar servidores que representem as diversas áreas 
+da gestão municipal: 
+
+Jurídica (para colaborar na avaliação dos aspectos legais dos documentos) 
+
+•  Administração Geral (RH, finanças, compras, planejamento etc) 
+• 
+•  Arquivo e Protocolo 
+•  Tecnologia da informação e Comunicação 
+•  Atividades finalísticas: saúde, educação pública, cultura, política ambiental e territorial, 
+abastecimento  alimentar,  assistência  social  e  promoção  da  cidadania,  esporte  e  lazer, 
+mobilidade urbana, segurança pública e defesa civil (Prefeituras) ou Processo Legislativo 
+(Câmaras Municipais) 
+
+Representantes de outras áreas específicas poderão ser convidados a contribuir. 
+
+Os designados precisam conhecer bem a estrutura e o funcionamento da área que 
+representam  e  devem  ser  preferencialmente,  servidores  de  carreira  para  assegurar  a 
+continuidade  dos  trabalhos.  Sugere-se,  ainda,  que  seja  escolhido  formalmente  um 
+coordenador para conduzir os trabalhos da CADA. 
+
+19 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+A  quantidade  de  membros  da  CADA  deve  ser  compatível  com  o  tamanho  da 
+Prefeitura  ou  Câmara  e  de  seus  órgãos  ou  entidades.    Recomenda-se  a  designação  de 
+número ímpar de membros, caso seja necessária alguma votação de desempate. 
+
+ATRIBUIÇÕES DA COMISSÃO DE AVALIAÇÃO DE DOCUMENTOS E ACESSO – CADA 
+
+•  Atuar na  implantação  da  política  municipal  de  gestão  de  documentos,  em 
+conformidade com a orientação do Arquivo Público. 
+
+•  Identificar  os  documentos  atualmente  produzidos  e  acumulados  pelo  órgão, 
+independentemente da localização física, estado de conservação ou data de emissão. 
+
+•  Elaborar propostas  de  planos  de  classificação  e  tabelas  de  temporalidade  de 
+documentos ou promover os ajustes necessários aos modelos fornecidos. 
+
+• Atuar na avaliação de documentos, visando à aplicação de planos de classificação e 
+tabelas de temporalidade de documentos. 
+
+• Colaborar no trabalho de avaliação da massa documental acumulada. 
+
+•  Coordenar  os  trabalhos  de  eliminação,  transferência  e  de  recolhimento  de 
+documentos. 
+
+• Colaborar na identificação de documentos, dados e informações sigilosas e pessoais, 
+visando assegurar a sua proteção. 
+
+•  Acompanhar o processo de implantação de solução informatizada para a produção 
+e tramitação de documentos digitais e processo eletrônico. 
+
+20 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+3º  PASSO:  CRIAR A INFRAESTRUTURA E AS CONDIÇÕES NECESSÁRIAS AO 
+FUNCIONAMENTO DO ARQUIVO PÚBLICO MUNICIPAL  
+
+3.1 -  Infraestrutura física, material e tecnológica  
+
+Referência legal: 
+
+• Resolução CONARQ nº 27/20088, art. 2º, inciso II,III e IV 
+
+Subsídio: 
+
+• CONSELHO NACIONAL DE ARQUIVOS. Recomendações para a Construção de 
+
+Arquivos. Rio de Janeiro: Conselho Nacional de Arquivos, 2000. Disponível em: 
+https://www.gov.br/conarq/pt-br/centrais-de- 
+conteudo/publicacoes/recomendaes_para_construo_de_arquivos.pd. Acesso em: 21 
+jul. 2023. 
+
+Como fazer: 
+
+REALIZAR DIAGNÓSTICO DOS DOCUMENTOS PRODUZIDOS E ACUMULADOS 
+
+O diagnóstico dos espaços disponíveis e da produção documental atual e do volume 
+de massa documental acumulada ao longo dos anos é uma etapa   indispensável  para  se 
+calcular o número de estantes necessárias ao armazenamento do acervo, e, também para 
+definir o tamanho ideal do arquivo, ou seja, quantos metros quadrados serão necessários 
+para acomodar o número de estantes planejadas, o corpo técnico e as áreas de trabalho. 
+
+ESCOLHER UM ESPAÇO FÍSICO ADEQUADO PARA INSTALAÇÃO DO  ARQUIVO PÚBLICO 
+
+O  Arquivo  Público  deve  oferecer  serviços  para  o  público  e  também  desenvolver 
+trabalhos técnicos e administrativos. Por isso, deve possuir áreas de depósito reservadas, 
+com condições climáticas e de segurança especial para preservar os documentos de guarda 
+permanente. Assim, o edifício precisa  ser planejado ou adaptado, prevendo-se os trabalhos 
+relacionados com recolhimento, organização, arranjo, guarda, preservação e segurança do 
+acervo,  bem  como  atividades  de  pesquisa,  educativas  e  culturais.  Também  devem  ser 
+previstas 
+instalações  que  favoreçam  a  mobilidade  e  acessibilidade  de  todos  os 
+interessados. 
+
+Para essas atividades, três áreas específicas devem ser planejadas: 
+•  área reservada ao trabalho técnico e aos depósitos, vedada ao público. 
+•  área administrativa, parcialmente vedada ao público. 
+•  área pública (consulta). 
+
+8  Resolução  CONARQ  nº  27/2008.  Disponível  em:  https://www.gov.br/conarq/pt-br/legislacao-  arquivistica/resolucoes-do-
+conarq/resolucao-no-27-de-16-de-junho-de-2008. Acesso em: 21 jul. 2023. 
+
+21 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+A ESCOLHA DO ESPAÇO DO ARQUIVO 
+
+Recomenda-se, sempre que possível,  que o Arquivo Público seja instalado em prédio 
+próprio,  pois  a  adequação  do  espaço  físico  às  atividades  que  no  arquivo  serão 
+realizadas, provavelmente, exigirá adaptações e reformas. 
+
+Além  disso,  eventuais  mudanças  podem  onerar  a  Prefeitura  ou  Câmara  com  novas 
+reformas  aumentando as  chances  de  danificar  ou  lesar  o  patrimônio  documental 
+durante os deslocamentos de acervos. 
+
+Mesmo com a produção crescente de documentos digitais e a instituição de processo 
+eletrônico, o Arquivo Público Municipal  deve  contar com espaço físico próprio para 
+custodiar os acervos físicos e acomodar sua equipe técnica. É importante esclarecer 
+que os originais em papel de documentos históricos devem ser preservados mesmo 
+que  tenham  sido  digitalizados  (Lei  de  Arquivos  nº  8.159/1991,  art.  10  e  Lei  nº 
+12.682/2012, art. 2º, § 1º).  
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+3.2 -  Recursos humanos qualificados 
+
+Referência legal: 
+
+• Resolução CONARQ nº 27/20089, art. 2º, inciso IV. 
+
+Como fazer: 
+
+DESIGNAR PROFISSIONAL QUALIFICADO PARA A DIREÇÃO DO ARQUIVO PÚBLICO 
+
+É  recomendável  que  o  profissional  responsável  pelo  Arquivo  Público  tenha nível 
+superior e cursos   específicos na área de arquivos, capacitando-se para elaborar e gerenciar 
+projetos  arquivísticos.  Além  de  conhecimentos  específicos  na  área  arquivística,  é 
+importante que o profissional desenvolva habilidades gerenciais tornando-se capaz de lidar 
+com  situações  adversas  e  escassez de  recursos  materiais  e  humanos,  bem  como  de 
+administrar conflitos e motivar equipes. 
+
+FORMAR EQUIPE TÉCNICA COM CONHECIMENTO ARQUIVÍSTICO 
+
+A  atuação  na  área  arquivística  requer  conhecimento  de  legislação  específica,  da 
+teoria,  dos  princípios  e  técnicas  arquivísticas,  bem  como  dos  procedimentos 
+administrativos.  Por  isso,  os  profissionais  que  atuam  nos  Arquivos  devem  receber 
+capacitação e atualização de forma   contínua.  
+
+O  quadro  de  pessoal  deve  ser  compatível  com  o  porte  do  Município  e  com  a 
+complexidade  da  estrutura  administrativa  do  Arquivo  Público,  das  atividades 
+desenvolvidas e dos serviços prestados. O fundamental é assegurar a qualificação técnica 
+contínua  dos  servidores;  na  impossibilidade  de  se  criar  e  prover  o  cargo  de  arquivista, 
+sugere- se a identificação, dentre os funcionários efetivos, de servidores sensíveis para a 
+importância  desse  trabalho e dispostos a  serem capacitados  para as  atividades  a  serem 
+desenvolvidas. O Arquivo Público do Estado disponibiliza cursos, manuais e oficinas para 
+colaborar na capacitação de servidores públicos municipais. 
+
+9  Resolução  CONARQ  nº 
+arquivistica/resolucoes-do-conarq/resolucao-no-27-de-16-de-junho-de-2008. Acesso em: 21 jul. 2023. 
+
+27/2008.  Disponível 
+
+https://www.gov.br/conarq/pt-br/legislacao- 
+
+em: 
+
+23 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+O ARQUIVISTA E A REGULAMENTAÇÃO DA PROFISSÃO 
+
+No Brasil, o Arquivista é profissional de arquivo de nível superior. 
+
+A profissão de arquivista foi regulamentada pela Lei nº  6.546, de 4 de julho de 1978, que 
+dispõe sobre a regulamentação das profissões de Arquivista e de Técnico de Arquivo. 
+
+Existem diversos cursos regulares de nível superior de Arquivologia no Brasil. Em São 
+Paulo, atualmente, apenas a UNESP de Marília oferece o curso de Graduação em 
+Arquivologia. Saiba mais em: https://www.gov.br/conarq/pt-br/conexoes/links-uteis-
+1/cursos-de-arquivologia-no-brasil.  
+
+O curso de Técnico em Arquivos é oferecido pela ETEC Parque da Juventude/São Paulo, 
+pertencente ao Centro Estadual de Educação Tecnológica Paula Souza. Saiba mais em: 
+https://www.etecparquedajuventude.com.br. 
+
+24 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+3.3 - Recursos  orçamentários  e  financeiros   
+
+Referência legal: 
+
+• Resolução CONARQ nº 27/200810, art. 2º, inciso III. 
+
+Como fazer: 
+
+IDENTIFICAR AS NECESSIDADES ORÇAMENTÁRIAS DO ARQUIVO PÚBLICO 
+
+O  responsável  pelo  arquivo  deve  identificar  as  demandas  e  planejar  os  recursos 
+para o  exercício financeiro,  incluindo material de  consumo, caixas polionda, estantes de 
+aço,  ventiladores,  desumidificadores,  manutenção  de  equipamentos,  computadores, 
+softwares, impressoras, qualificação de  funcionários, execução de projetos específicos e 
+contratação de serviços. 
+
+As  demandas  do  Arquivo  Público  deverão  ser 
+
+incluídas,  anualmente,  no 
+planejamento  orçamentário  da  Prefeitura/Câmara  Municipal  e,  de  acordo  com  o 
+calendário oficial, o responsável pelo Arquivo deverá encaminhar ao órgão competente as 
+demandas do seu setor. 
+
+LDO 
+
+Até 15 de abril 
+
+Enviar à Câmara 
+
+Lei de Diretrizes 
+Operacionais 
+
+POS 
+
+Planejamento 
+Orçamentário 
+
+Setorial 
+
+LOA 
+
+Até 30 de junho 
+
+Votação 
+
+Entre junho e setembro 
+
+As áreas identificam suas 
+demandas que serão consolidadas 
+no Projeto da LOA 
+
+Até 30 de setembro 
+
+Projeto é enviado à Câmara 
+
+Até o final de cada Ano 
+
+Orçamento deve ser votado e 
+
+Lei Orçamentária 
+Anual 
+
+Legislativo 
+
+aprovado 
+
+Após aprovado 
+
+Projeto é sancionado pelo prefeito 
+
+e se transforma em Lei 
+
+Resolução 
+
+10 
+arquivistica/resolucoes-do-conarq/resolucao-no-27-de-16-de-junho-de-2008. Acesso em: 21 jul. 2023.  
+
+27/2008.  Disponível 
+
+https://www.gov.br/conarq/pt-br/legislacao- 
+
+CONARQ 
+
+em: 
+
+nº 
+
+25 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+4º PASSO: APLICAR OS INSTRUMENTOS DE GESTÃO DOCUMENTAL 
+(PLANOS DE CLASSIFICAÇÃO E TABELAS DE TEMPORALIDADE DE 
+DOCUMENTOS) 
+
+A aplicação de Planos de Classificação e Tabelas de Temporalidade de Documentos 
+é condição necessária para garantir efetividade à política de gestão documental, mesmo 
+que os documentos tenham sido produzidos em ambiente digital.  
+
+Nesse  processo,  devem  ser    identificados    os  tipos  de  documentos  produzidos, 
+recebidos e acumulados no exercício de funções e atividades governamentais e realizada 
+sua avaliação documental, a fim de estabelecer seus prazos de guarda e a sua destinação. 
+Desse  modo,  será  possível  estabelecer  critérios  seguros  para  reduzir  ao  essencial  os 
+documentos  acumulados  nos  arquivos,  sem  prejuízo  da  salvaguarda 
+  dos  atos 
+administrativos, constitutivos e extintivos de direitos, das informações indispensáveis ao 
+processo decisório e à preservação da memória institucional. 
+
+Referência legal: 
+
+• Lei Federal nº  8.159/199111, art. 9º. 
+• Resoluções CONARQ nº 40/201412 e nº 44/201413. 
+
+Subsídios: 
+
+• Modelo  de  Plano  de  Classificação  e  Tabela  de  Temporalidade  de  Documentos  do 
+
+Poder               Executivo 
+ 2021. 
+http://www.arquivoestado.sp.gov.br/uploads/publicacoes/material_apoio/ttd_meio
+_municip al_funcoes_001_006_plano_tabela.pdf. Acesso em: 21 jul. 2023. 
+
+Municipal 
+em: 
+
+Atividades-Meio,
+
+Disponível 
+
+– 
+
+• Modelo de Plano de Classificação e Tabela de Temporalidade de Documentos do Poder 
+Atividades-Fim, 
+
+Executivo  Municipal 
+ em: 
+http://www.arquivoestado.sp.gov.br/uploads/publicacoes/material_apoio/ttd_fim_
+municipalfuncoes_011_019_plano_tabela.pdf. Acesso em: 21 jul. 2023. 
+
+Disponível
+
+2021. 
+
+– 
+
+• Modelo de Plano de Classificação e Tabela de Temporalidade de Documentos do Poder 
+fim  e  meio),  2018.  Disponível  em: 
+
+Legislativo  Municipal 
+http://www.arquivoestado.sp.gov.br/uploads/publicacoes/livros/modelo_de_plano_
+de_classificacao_e_tabela_de_temporalidade_de_documentos_do_poder_legislativo
+_municipal__atividades__fim_e_meio.pdf. Acesso em: 21 jul. 2023. 
+
+(Atividades: 
+
+• MINUTA  6    –  Decreto  que  aprova  os  Planos  de  Classificação  e  as  Tabelas  de 
+Temporalidade e dispõe  sobre os documentos de arquivo, sua gestão, define normas 
+para  a  avaliação,  guarda  e  eliminação  de  documentos  de  arquivo  da  Prefeitura 
+Municipal. 
+
+11  Lei  nº  8.159/1991.  Disponível  em:  https://www2.camara.leg.br/legin/fed/lei/1991/lei-8159-8-janeiro-1991-322180- 
+normaatualizada-pl.pdf. Acesso em: 21 jul. 2023. 
+12 Resolução CONARQ Nº 40/2014. Disponível em: https://www.gov.br/conarq/pt-br/legislacao- arquivistica/resolucoes-do-
+conarq/resolucao-no-40-de-9-de-dezembro-de-2014-alterada. Acesso em: 21 jul. 2023. 
+13 
+arquivistica/resolucoes-do-conarq/resolucao-no-44-de-14-de-fevereiro-de-2020. Acesso em: 21 jul. 2023. 
+
+https://www.gov.br/conarq/pt-br/legislacao-
+
+Disponível 
+
+Resolução 
+
+44/2020. 
+
+CONARQ 
+
+em: 
+
+nº 
+
+26 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+• Minuta  de  Ato  que  aprova  o  Plano  de  Classificação e  a Tabela de Temporalidade e 
+dispõe sobre os documentos de arquivo, sua gestão, define  normas para a  avaliação, 
+guarda e eliminação de documentos de arquivo da Câmara Municipal, que consta na 
+publicação  “Modelo  de  Plano  de  Classificação  e  Tabela  de  Temporalidade  de 
+Documentos do Poder Legislativo Municipal (Atividades: fim e meio)” de 2018, pp. 30-
+35, disponível no link acima. 
+
+Como fazer: 
+
+COMO UTILIZAR MODELOS DE PLANOS DE CLASSIFICAÇÃO E TABELAS DE  TEMPORALIDADE 
+
+Partir de um modelo pode          facilitar o trabalho, mas exige a adaptação e validação dos 
+instrumentos,  verificandos-se  a  existência  de  cada  um  dos  documentos   propostos,  a 
+adequação  das  denominações  dos  tipos  documentais,  a  inclusão  ou  exclusão  de  outros 
+tantos  documentos,  bem  como  a  avaliação  da  pertinência  e  aderência  do  plano  de 
+classificação à realidade local, prazos de guarda e destinação propostos. 
+
+Os  servidores  municipais  devem  localizar  no  plano  de  classificação  todos  os 
+documentos  produzidos e  acumulados, além de buscar  compreender  a classificação e  a 
+indicação da temporalidade e destinação dos documentos. Somente assim será possível 
+assegurar a aplicação dos instrumentos de gestão nos acervos físicos e digitais. 
+
+ELABORAR O PLANO DE CLASSIFICAÇÃO DE DOCUMENTOS (ou utilizar o Modelo fornecido 
+pelo Arquivo Público do Estado) 
+
+Por meio de entrevistas e visitas a cada área produtora de documentos, identificar 
+
+quais documentos são produzidos em decorrência de cada função e atividade. 
+
+Plano  de  Classificação  de  Documentos  é  o  instrumento  utilizado  para  classificar  todo  e 
+qualquer documento de arquivo. Entende-se por classificação de documentos a sequência 
+de  operações  técnicas  que  visam  agrupar  os  documentos  de  arquivo  relacionando-os  ao 
+órgão produtor, à função, subfunção e atividade responsável por sua produção. 
+
+ELABORAR A TABELA DE TEMPORALIDADE E DOCUMENTOS (ou utilizar o Modelo fornecido pelo 
+Arquivo Público do Estado) 
+
+Por meio de pesquisa na legislação e consulta às áreas produtoras, analisar e definir 
+por quanto   tempo cada documento deve ser guardado e, após o cumprimento de todos os 
+prazos de prescrição e precaução, estabelecer a destinação final (guarda permanente ou 
+eliminação). 
+
+Os  prazos  e  destinação  propostos  nos  modelos,  bem  como  a  referência  citada, 
+
+podem servir de  fonte de pesquisa e parâmetro. 
+
+Tabela de Temporalidade de Documentos é o instrumento que define os prazos de guarda e 
+a destinação dos tipos de documentos identificados (eliminação ou guarda permanente). 
+
+27 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+IMPORTANTE! 
+
+O  representante  da  área  jurídica  deve  participar  do  processo  de  definição  de 
+temporalidade  e  validar/aprovar  formalmente  a  proposta.  Para  isso  é  recomendável 
+envolver esse servidor desde o início do trabalho, para que tenha uma boa compreensão do 
+instrumento e se sinta mais seguro nessa atividade. 
+
+OFICIALIZAR OS INSTRUMENTOS DE GESTÃO POR MEIO DE ATO NORMATIVO 
+
+Os  instrumentos  de  gestão  documental  devem  ser  oficializados  por  autoridade 
+competente  por  meio  de  ato  normativo  específico.  Com  a  oficialização  desses  dois 
+instrumentos  será  possível  eliminar  os  documentos  que  já cumpriram  seus  prazos  de 
+guarda, preservar adequadamente os que possuem valor histórico e  iniciar a aplicação do 
+Plano  de  Classificação  no  momento  da  produção  de  documentos,  assegurando  a 
+padronização  de  vocabulário  e  o  controle  do  trâmite  desde  a  fase  corrente  até  sua 
+destinação final. 
+
+28 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ELIMINAÇÃO DE DOCUMENTOS PÚBLICOS 
+
+Serão destinados para eliminação, após o cumprimento dos prazos de guarda (vigência, 
+prescrição e precaução), os documentos que não apresentarem valor que justifique sua 
+guarda permanente. 
+
+A  necessidade  de  liberação  de  espaço  físico  nos  órgãos  públicos  é  uma  realidade. 
+Reduzir a massa documental ao mínimo essencial e otimizar o uso dos espaços físicos 
+dos arquivos representa uma medida urgente de economia de recursos públicos, pois 
+frequentemente os órgãos alugam novos espaços para comportar a crescente produção 
+documental ou terceirizam a guarda de seus acervos. 
+
+A legislação brasileira permite a eliminação de documentos públicos, mas é categórica 
+ao estabelecer que a autorização deve ser dada pela instituição arquivística pública, ou 
+seja pelo Arquivo Público, na sua específica esfera de competência. 
+
+“A  eliminação  de  documentos  produzidos  por  instituições  públicas  e  de  caráter 
+público será realizada mediante autorização da instituição arquivística pública, na 
+sua  específica  esfera  de  competência.”  (Lei  Nacional  de  Arquivos  nº  8.159/91, 
+art.9º). 
+
+Neste  sentido,  a  eliminação  de  documentos  públicos  não  apenas  é  possível  como 
+também  necessária, desde que  orientada por  trabalho de  avaliação documental, em 
+conformidade com a legislação e as normas técnicas. 
+
+“A eliminação de documentos oficiais ou públicos só deverá ocorrer se prevista na 
+tabela  de  temporalidade  do  órgão,  aprovada  pela  autoridade  competente  na 
+esfera de sua atuação e respeitado o disposto no art. 9.º da Lei n.º 8.159, de 8 de 
+janeiro de 1991.” (Decreto Federal n.º 1.799/96, art. 12, parágrafo único). 
+
+As Resoluções do Conselho Nacional de Arquivos – CONARQ nº 05/1996 e nº 40/2014 
+dispõem sobre os procedimentos para a eliminação de documentos. 
+
+Cabe  esclarecer  que  a  legislação  brasileira  determina  que  quaisquer  ações  que 
+impliquem  em  destruição,  inutilização  ou  deterioração  do  patrimônio  documental 
+público são consideradas crime contra o patrimônio cultural, com penas previstas na 
+forma da lei (Lei federal nº 9.605/1998, art. 62; Decreto-Lei federal nº 2.848/1940, Código 
+Penal, art. 305; Decreto federal n.º 6.514/08, art. 72). 
+
+29 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+PRESERVAÇÃO DA MEMÓRIA 
+
+No  Brasil,  a  defesa  do  patrimônio  documental  é  um  preceito  constitucional.  A 
+Constituição  de  1988  elevou  os  documentos  à  categoria  de  patrimônio  cultural 
+brasileiro  ao  lado  de  outros  bens  de  natureza  material  e 
+imaterial,  tomados 
+individualmente  ou  em  conjunto,  portadores  de  referência  à  identidade,  à  ação,  à 
+memória dos diferentes grupos formadores da sociedade brasileira, determinando ao 
+Poder Público a sua promoção e proteção. 
+
+“Constituem  patrimônio  cultural  brasileiro  os  bens  de  natureza  material  e 
+imaterial,  tomados  individualmente  ou  em  conjunto,  portadores  de  referência  à 
+identidade,  à  ação,  à  memória  dos  diferentes  grupos  formadores  da  sociedade 
+brasileira, nos quais se incluem: (...) IV - as obras, objetos, documentos, edificações 
+e demais espaços destinados às manifestações artístico-culturais; (...) § 1º O Poder 
+Público, com a colaboração da comunidade, promoverá e protegerá o patrimônio 
+cultural  brasileiro,  por  meio  de  inventários,  registros,  vigilância,  tombamento  e 
+desapropriação,  e  de  outras  formas  de  acautelamento  e  preservação.” 
+(Constituição Federal, art. 216, inciso IV, § 1º) 
+
+Nesse contexto, serão destinados para guarda permanente os documentos que forem 
+considerados de valor histórico, probatório e informativo. A Lei Nacional de Arquivos 
+nº 8.159/1991 nos fornece uma orientação segura nesta direção ao estabelecer que os 
+documentos de valor permanente são inalienáveis e imprescritíveis. 
+
+O  Município  que  não  dispõe  de  arquivos  públicos  organizados,  não  apenas  está  em 
+desacordo  com  a  legislação  brasileira,  mas  também  priva  os  gestores  públicos  e  os 
+cidadãos do direito à informação plena e à memória. 
+
+A propósito, o Conselho Internacional de Arquivos já firmou o seguinte entendimento:  
+“Arquivos  registram  decisões,  ações  e  memórias.  Arquivos  são  um  património 
+[patrimônio] único e insubstituível transmitido de uma geração a outra. Documentos 
+de arquivo são geridos desde a criação para preservar seu valor e significado. Arquivos 
+são  fontes  confiáveis  de  informação  para  ações  administrativas  responsáveis  e 
+transparentes. Desempenham um papel essencial no desenvolvimento das sociedades 
+ao contribuir para a constituição e salvaguarda da memória individual e coletiva. O livre 
+acesso aos arquivos enriquece o conhecimento sobre a sociedade humana, promove a 
+democracia,  protege  os  direitos  dos  cidadãos  e  aumenta  a  qualidade  de  vida”. 
+Disponível 
+https://www.ica.org/sites/default/files/ICA_2010_Universal-
+Declaration-on-Archives_PT.pdf. Acesso em: 21 jul. 2023. 
+
+em: 
+
+30 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+5. BENEFÍCIOS DA GESTÃO DOCUMENTAL E A 
+MODERNIZAÇÃO DA GESTÃO PÚBLICA 
+
+Os resultados de diversas experiências, tanto na esfera pública, quanto na esfera 
+privada, vêm  demonstrando  que  as  políticas  de  arquivo  se  constituem  em  recursos 
+estratégicos para a modernização da gestão pública e para o fortalecimento de sociedades 
+democráticas.  As  informações  registradas  em  documentos  públicos  e  colocadas  em 
+circulação são, de fato, os insumos básicos para as melhores decisões, para a celeridade dos 
+processos  de  trabalho,   a  qualidade  dos  serviços  públicos,  a  participação  popular  e  o 
+controle social. 
+
+Os  resultados  do  trabalho  de  gestão  documental  implementado  pelo  Arquivo 
+Público vão  ao encontro da orientação moderna de simplificar os procedimentos de gestão, 
+imprimir maior   qualidade e produtividade às ações do Governo. 
+
+A administração racional dos arquivos e o processamento técnico das informações 
+representam  significativa  economia  de  recursos  públicos  e  maior  agilidade  ao  processo 
+decisório,  pois  disponibilizam  um  conjunto  de  dados  e  informações  precisas  sobre  a 
+realidade orientando os administradores a tomarem as melhores decisões; por outro lado, 
+permitem a redução da massa documental ao mínimo essencial e a otimização dos espaços 
+físicos dos arquivos. 
+
+BENEFÍCIOS DA GESTÃO DOCUMENTAL 
+
+✓  Acesso imediato às informações e documentos públicos 
+
+✓  Preservação de documentos permanentes 
+
+✓  Eliminação criteriosa de documentos 
+
+✓  Agilidade no processo de tomada de decisões 
+
+✓  Transparência das ações administrativas 
+
+31 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+6. AS TECNOLOGIAS DA INFORMAÇÃO E COMUNICAÇÃO A 
+SERVIÇO DA GESTÃO DOCUMENTAL  
+
+No  mundo  contemporâneo,  as  TIC  têm  um  papel  essencial  na  gestão  pública  na 
+busca  pela  eficiência,  eficácia,  efetividade,  economicidade,  melhoria  de  processos  de 
+trabalho e de qualidade na prestação de serviços. 
+
+Nesse contexto, observa-se a progressiva incorporação das TIC na implementação 
+de políticas arquivísticas, impondo desafios relacionados à segurança, produção, gestão e 
+preservação  da  autenticidade, 
+integridade,  confidencialidade  e  confiabilidade  de 
+documentos, dados e informações digitais produzidos e armazenados ao longo do tempo. 
+Por isso, torna-se cada vez mais estratégica e necessária a atuação de instituições 
+arquivísticas na definição de políticas, normas, procedimentos e requisitos arquivísticos, 
+nos processos de produção, gestão, armazenamento, preservação, segurança e acesso ao 
+patrimônio arquivístico digital. 
+
+No  cenário  nacional,  o  Conselho  Nacional  de  Arquivos  (CONARQ)  publicou 
+normativas  específicas  para  orientar  os  órgãos  integrantes  do  Sistema  Nacional  de 
+Arquivos  (SINAR)  para  realizar  o  tratamento  de  documentos  digitais,  em  especial,  as 
+Resoluções CONARQ nº 20/2004, que dispõe sobre a inserção dos documentos digitais em 
+programas de gestão arquivística de documentos dos órgãos e entidades integrantes do 
+Sistema Nacional de Arquivos; nº 24/2006, que estabelece diretrizes para a transferência 
+e  recolhimento  de  documentos  arquivísticos  digitais  para  instituições  arquivísticas 
+públicas; nº 31/2010, que dispõe sobre a adoção das Recomendações para Digitalização de 
+Documentos  Arquivísticos  Permanentes;  nº  37/2012,  que  aprova  as  Diretrizes  para  a 
+Presunção de Autenticidade de Documentos Arquivísticos Digitais; nº 38/2013, que dispõe 
+sobre a adoção das “Diretrizes do Produtor - A Elaboração e a Manutenção de Materiais 
+Digitais:  Diretrizes  Para  Indivíduos”  e  “Diretrizes  do  Preservador  -  A  Preservação  de 
+Documentos  Arquivísticos  Digitais:  Diretrizes  para  Organizações”;  nº  39/2014,  que 
+estabelece diretrizes para a implementação de repositórios arquivísticos digitais confiáveis 
+para a transferência e recolhimento de documentos arquivísticos digitais para instituições 
+arquivísticas dos órgãos e entidades integrantes do Sistema Nacional de Arquivos (SINAR), 
+alterada pela Resolução nº 43/2015; nº 48/2021, que estabelece diretrizes e orientações 
+aos  órgãos  e  entidades  integrantes  do  Sistema  Nacional  de  Arquivos  quanto  aos 
+procedimentos técnicos a serem observados no processo de digitalização de documentos 
+públicos ou privados; e nº 50/2022, que dispõe sobre a Versão 2 do e-ARQ Brasil, o Modelo 
+de Requisitos para Sistemas Informatizados de Gestão Arquivística de Documentos. 
+
+Em  âmbito  estadual,  considerando  a  adoção  progressiva  de  práticas  digitais,  o 
+Arquivo  Público  do  Estado  vem  apoiando  o  processo  de  digitalização  da  gestão  pública 
+disponibilizando  seus  conhecimentos  e  experiências  de  órgão  central  do  Sistema  de 
+Arquivos do Estado (SAESP) para assegurar sustentação legal e técnica ao processo, visando 
+controlar os riscos decorrentes da degradação do suporte e da obsolescência tecnológica. 
+
+32 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+7. A GESTÃO DE DOCUMENTOS DIGITAIS 
+
+A  gestão  de  documentos  é  constituída  por  um  conjunto  de  procedimentos  e 
+operações  técnicas  referentes  à  sua  produção,  classificação,  avaliação,  tramitação,  uso, 
+arquivamento e reprodução, que assegura a racionalização e a eficiência dos arquivos. São 
+instrumentos básicos da gestão de documentos os planos de classificação, as tabelas de 
+temporalidade, as normas e os procedimentos de protocolo e as soluções de produção e 
+gestão de documentos digitais (processo eletrônico).  
+
+A política de gestão documental é aplicável independentemente da forma ou do 
+suporte, em ambientes não digitais, digitais ou híbridos em que os documentos, dados e 
+informações  são  produzidos  e  armazenados.  Entretanto,  os  documentos  digitais  são 
+tecnológicos  complexos  e  possuem 
+produzidos  ou  capturados  em  ambientes 
+características específicas que precisam ser consideradas. 
+
+A  gestão  arquivística  de  documentos  digitais,  não  digitais  e  híbridos  deve  ser 
+realizada  por  sistema  informatizado  de  gestão  arquivística  de  documentos  (SIGAD)  que 
+adota  requisitos  e  metadados  arquivísticos  e  promoverá,  quando  possível,  a  integração 
+com sistemas legados de controle de documentos e outros sistemas de negócio, evitando-
+se a perda ou corrupção de dados e informações. 
+
+O avanço contínuo das TIC permite que os documentos digitais sejam facilmente 
+produzidos,  transmitidos,  armazenados,  reproduzidos  e  utilizados  nos  processos  de 
+trabalho e na prestação de serviços públicos. Porém, essa facilidade, inerente ao ambiente 
+digital,  representa  um  grande desafio para  a  segurança  e  preservação dos  documentos, 
+considerando a fragilidade dos suportes, a obsolescência tecnológica e a dependência de 
+hardwares, softwares e sistemas informatizados proprietários. 
+
+Nesse  sentido,  os  Arquivos  Públicos  devem  propor  a  adoção  de  um  conjunto  de 
+medidas  preventivas  resultante  de  estudos  e  pesquisas  promovidas  por  organismos 
+nacionais  e  internacionais  amplamente  reconhecidos  para  a  definição  de  estratégias, 
+procedimentos e técnicas de preservação digital de forma contínua, desde o momento da 
+produção  dos  documentos,  a 
+integridade, 
+confidencialidade e confiabilidade ao longo do tempo. 
+
+fim  de  garantir  sua  autenticidade, 
+
+7.1 Produção de documentos digitais 
+
+A produção de documentos digitais deve ser realizada em sistemas informatizados 
+que incorporem requisitos e metadados arquivísticos, tanto aqueles de gestão arquivística 
+de documentos (SIGAD), quanto aqueles que atendam a processos específicos dos órgãos 
+e entidades (sistemas de negócio). 
+
+Em  ambos  os  casos  tais  sistemas  de  produção  de  documentos  digitais  devem 
+permitir em sua configuração requisitos e metadados de identidade e integridade que se 
+
+33 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+mantenham associados aos documentos digitais, especialmente a classificação de acordo 
+com os planos de classificação; o prazo de guarda e a destinação de acordo com as tabelas 
+de temporalidade. 
+
+O  SIGAD  deve  permitir  a  produção  de  documentos  originalmente  em  ambiente 
+digital (nato-digitais), a captura de documentos digitais produzidos em outros sistemas ou 
+a  captura  de  documentos  não  digitais  que  passaram  pelo  processo  de  digitalização 
+(representantes digitais). 
+
+A captura de documentos não digitais pelo SIGAD deve ser realizada em formato 
+PDF/A, mediante sua digitalização, de acordo com os requisitos e metadados previstos na 
+Lei Federal nº 12.682/2012, no Decreto Federal nº 10.278/2020 e em atos legais federais 
+e estaduais complementares. 
+
+Em âmbito nacional, o representante digital passou a ter equivalência jurídica ao 
+documento  original  para  todos  os  fins  de  direito,  inclusive  para  atender  ao  poder  de 
+fiscalização do Estado, com a publicação da Lei nº 13.874/2019, que incluiu o art. 2º-A na 
+Lei  nº  12.682/2012.  Entretanto,  essa  equivalência  jurídica  somente  será  assegurada  se 
+forem  observados  os  padrões  técnicos  e  metadados  mínimos  para  a  digitalização  de 
+documentos exigidos pelo Decreto Federal nº 10.278/2020. 
+
+Importante registrar que a matéria foi objeto da Resolução CONARQ nº 48/2021, 
+que  estabelece  diretrizes  e  orientações  aos  órgãos  e  entidades  integrantes  do  Sistema 
+Nacional de Arquivos quanto aos procedimentos técnicos a serem observados no processo 
+de digitalização de documentos públicos ou privados. 
+
+A  digitalização  é  um  procedimento  técnico  integrado  à  política  de  gestão  de 
+documentos, por isso os documentos originais que não forem considerados históricos ou 
+de  guarda  permanente  poderão  ser  eliminados  após  sua  digitalização,  nos  prazos 
+estabelecidos  nas  tabelas  de  temporalidade  uma  vez  constatada  a  integridade  dos 
+documentos digitalizados. 
+
+7.2 Avaliação de documentos 
+
+A  avaliação  documental  é  um  amplo  processo  de  análise  que  se  inicia  com  a 
+identificação  das  funções  e  atividades  exercidas  pela  administração  pública  e  que  são 
+responsáveis  pela  produção  de  conjuntos  de  documentos  das  áreas  meio  e fim de  seus 
+órgãos  e  entidades.  A  avaliação  permite  a  identificação  dos  valores  dos  documentos, 
+independentemente do suporte de registro das informações, para fins da definição de seus 
+prazos de guarda e de sua destinação. 
+
+Os documentos de guarda temporária podem ser eliminados após o cumprimento 
+dos prazos determinados, sem prejuízo para a coletividade ou memória da administração, 
+e aqueles de guarda permanente devem ser preservados como prova, garantia de direitos 
+ou fonte de pesquisa.  
+
+A avaliação documental tem grandes repercussões na gestão pública, pois garante 
+racionalidade na produção documental, agilidade no acesso a informações, economia de 
+recursos  com  a  eliminação  criteriosa  de  documentos  e  redução  de  espaço  de 
+armazenamento.  Ainda,  esse  trabalho  orienta  a  preservação  de  documentos  que  são 
+
+34 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+considerados importantes para a memória da administração pública. 
+
+A  avaliação  documental  e  a  aplicação  dos  instrumentos  de  gestão  devem  incidir 
+igualmente  sobre  os  documentos  digitais,  a  despeito  de  suas  especificidades.  Nesse 
+sentido,  é  preciso  analisar:  a  possibilidade  de  exportação  e  interoperabilidade  dos 
+metadados;  a  custódia,  a  integridade,  a  organização  e  a  descrição  arquivística  que 
+fundamentam  a  presunção  de  autenticidade  dos  documentos  digitais;  os  formatos  de 
+arquivo dos documentos digitais; e a existência de mecanismos de restrição de acesso ao 
+documento  digital,  como  criptografia,  senha  ou  qualquer  outro  tipo  de  proteção 
+tecnológica que possa impedir acessos não autorizados. 
+
+Os  documentos  digitais  produzidos  em  sistema 
+
+informatizado  de  gestão 
+arquivística  são  classificados  e  avaliados  no  momento  de  sua  produção  e,  portanto,  os 
+modelos estão desde o início associados aos códigos de classificação, aos prazos de guarda 
+e  à  destinação  indicados  nos  planos  de  classificação  e  tabelas  de  temporalidade  de 
+documentos. 
+
+Entretanto,  os  documentos  digitais  produzidos  em  quaisquer  sistemas 
+informatizados que não dialogam com planos de classificação e tabelas de temporalidade 
+são acumulados, ao longo do tempo, sem contexto e sem critérios definidores de prazos 
+de guarda e de destinação, o que acarreta a formação de uma massa documental digital 
+acumulada (MDDA). 
+
+A MDDA é constituída de enormes volumes de documentais digitais produzidos e 
+armazenados desordenadamente, o que acarreta elevados custos para sua manutenção e 
+posterior classificação, avaliação, descrição e acesso. 
+
+7.3 Eliminação de documentos digitais 
+
+A  eliminação  de  documentos  consiste  na  destruição  irreversível  daqueles  que 
+foram  considerados  sem  valor para a  guarda  permanente  no  processo  de  avaliação. No 
+âmbito da administração municipal, a eliminação deve ser autorizada pelo Arquivo Público, 
+nos  termos  da  Lei  nº  8.159/1991,  art.  9º,  de  acordo  com  procedimentos  específicos 
+mediante a elaboração da Listagem de Eliminação de Documentos,  Edital de Ciência de 
+Eliminação de Documentos e Termo de Eliminação de Documentos, em conformidade com 
+as orientações das Resoluções do Conselho Nacional de Arquivos – CONARQ nº 5/1996, nº 
+40/2014 e nº 44/2020. 
+
+Na  administração  pública,  a  eliminação  de  documentos  decorre  do  trabalho  de 
+avaliação documental conduzido por comissões permanentes de avaliação de documentos 
+instituídas nos órgãos e entidades e deve ser efetuada nos prazos estabelecidos nas tabelas 
+de  temporalidade  de  documentos,  aprovadas  pelo  Arquivo  Público  e  oficializadas  por 
+autoridade competente. 
+
+Os  documentos  considerados  de  guarda  permanente,  mesmo  que  digitalizados, 
+não  podem  ser  eliminados,  pois  são  considerados  inalienáveis  e  imprescritíveis,  em 
+decorrência de seu valor histórico, probatório e informativo. 
+
+São  considerados  de  guarda  permanente  todos  os  documentos  indicados  nas 
+tabelas de temporalidade, aqueles declarados de interesse público e social, bem como as 
+
+35 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+amostragens selecionadas por meio de critérios técnicos. 
+
+Esses  procedimentos  de  eliminação  aplicam-se  igualmente  aos  documentos 
+digitais, mesmo considerando suas especificidades. Para eliminar documentos digitais de 
+forma irreversível devem ser utilizadas ferramentas que sobrescrevam o espaço utilizado 
+pelo documento digital e qualquer outro objeto digital que compõe o documento digital. 
+Na  inviabilidade  da  eliminação  por  meio  da  sobrescrição,  o  órgão  deve  providenciar  a 
+destruição física dos dispositivos de armazenamento.  
+
+Assim, deve-se garantir que a eliminação alcance todo o conteúdo do documento 
+digital,  incluindo  cópias  de  acesso,  cópias  de  segurança  e  memórias  secundárias  como 
+pendrives. O órgão responsável deve também registrar os procedimentos e os softwares 
+utilizados para eliminação de documentos digitais, garantindo sua irreversibilidade. Além 
+disso,  deve-se  manter  o  registro  dos  metadados  referenciais  mínimos  dos  documentos 
+digitais eliminados, a fim de permitir a localização de seu registro após a eliminação, caso 
+seja necessário. 
+
+36 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+8. A IMPORTÂNCIA DE UM SIGAD PARA A PRODUÇÃO E 
+
+TRAMITAÇÃO DE DOCUMENTOS DIGITAIS 
+
+8.1 SIGAD – Sistema Informatizado de Gestão Arquivística de Documentos 
+
+O  avanço  das  tecnologias  de  informação  e  comunicação  (TIC),  a  partir  dos  anos  90, 
+mudou a forma de registro e circulação da informação nas instituições públicas e privadas e fez 
+com que os documentos, produzidos no exercício das atividades dessas instituições, passassem 
+a ser gerados em ambientes eletrônicos e armazenados em formato digital.  
+
+Isso  fez  com  que  o  gerenciamento  dos  documentos,  tanto  os  digitais  como  os  não 
+digitais,  começasse  a  ser  feito  por  meio  de  sistemas  informatizados  de  produção  e 
+gerenciamento de documentos.  
+
+Entretanto,  para  assegurar  que  documentos  arquivísticos  digitais  sejam  confiáveis, 
+autênticos e acessíveis ao longo do tempo, é fundamental que esses sistemas informatizados 
+instrumentos  de  gestão  documental  e  se  tornem,  assim,  sistemas 
+incorporem  os 
+informatizados de gestão arquivística de documentos. 
+
+O Sistema Informatizado de Gestão Arquivística de Documentos (SIGAD) é uma solução 
+tecnológica, composta por um único software ou pela integração de diversos softwares, que 
+apoia a gestão arquivística de documentos. A gestão arquivística de documentos compreende 
+a produção, captura, tramitação, utilização e arquivamento de documentos digitais até a sua 
+destinação final: eliminação ou recolhimento para guarda permanente.  
+
+O SIGAD abrange as fases corrente e intermediária da gestão de documentos e apoia 
+procedimentos  de  preservação.  Ele  é  aplicável  em  ambientes  que  gerenciam  documentos 
+digitais, não digitais e híbridos (compostos por partes digitais e não digitais). 
+
+O sucesso de um SIGAD depende, fundamentalmente, da implantação de uma política 
+de gestão arquivística de documentos e da incorporação de seus instrumentos, os planos de 
+classificação,  as  tabelas  de  temporalidade,  processos  de  avaliação  e  as  normas  e 
+procedimentos de protocolo. Sendo assim, a evolução tecnológica de um SIGAD deve espelhar 
+o aprimoramento, a expansão e a consolidação da política de gestão arquivística. Além disso, 
+o  funcionamento  de  um  SIGAD  exige  o  desenvolvimento  de  funcionalidades  aderentes  às 
+regras de negócios, bem como a revisão, adequação e ampliação da infraestrutura tecnológica. 
+O  SIGAD  realiza  a  gestão  de  documentos  desde  a  sua  produção,  possibilitando  a 
+classificação  na  origem, a  partir  de  planos  de  classificação,  o  que  garante  a  manutenção  da 
+relação  orgânica  dos  documentos  entre  si,  bem  como  com  as  funções  e  atividades  que 
+representam.  
+
+Os requisitos e metadados arquivísticos de um SIGAD foram definidos pelo e-ARQ Brasil 
+- Modelo de Requisitos para Sistemas Informatizados de Gestão Arquivística de Documentos, 
+versão 2, aprovado pela Resolução do CONARQ nº 50/2022. 
+
+37 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+8.2 Sistema Eletrônico de Informações  – SEI 
+
+O Sistema Eletrônico de Informações - SEI é uma ferramenta de gestão de documentos 
+e  processos  eletrônicos  desenvolvido  pelo  Tribunal  Regional  Federal  da  4ª  Região  (TRF-4)  e 
+cedido gratuitamente para a utilização, por meio de Acordo de Cooperação Técnica. 
+
+No  SEI  é  possível  realizar  a  produção,  tramitação,  arquivamento  e  controle  de 
+documentos digitais. A produção de documentos digitais imprime maior eficácia e celeridade 
+aos processos administrativos, além de contribuir para a economicidade dos recursos públicos 
+e para a sustentabilidade ambiental.  
+
+No  SEI,  os  documentos  devem  ser  produzidos  em  conformidade  com  os  Planos  de 
+Classificação e Tabelas de Temporalidades de Documentos aprovados pelo Arquivo Público. A 
+classificação do documento no ato de sua produção garante a correta identificação de seus 
+prazos  de  guarda  e  de  sua  destinação  final  (eliminação  ou  guarda  permanente)  após  o 
+encerramento do seu trâmite. 
+
+Benefícios do SEI: 
+
+•  Acesso via internet, por meio dos principais navegadores e por diferentes tipos de 
+
+equipamentos; 
+
+•  Possibilidade  de  inclusão  de  documentos  em  outros  formatos,  como  imagens, 
+
+planilhas etc; 
+
+•  Padronização  da  produção  documental  do  órgão  ou  entidade  por  meio  da 
+
+elaboração de Documentos Modelos; 
+
+•  Maior agilidade na recuperação da informação, por meio de pesquisa simplificada; 
+•  Gerenciamento de permissões para acesso aos documentos por usuários externos. 
+
+No governo do Estado de São Paulo, o Decreto nº 67.641, de 10 de abril de 2023, dispõe 
+sobre o uso de meio eletrônico para a formalização de processo administrativo no âmbito da 
+Administração Pública estadual e institui o Sistema Eletrônico de Informações do Estado de São 
+Paulo - SEI/SP. 
+
+A implantação do SEI/SP na administração pública estadual vem sendo coordenada pela 
+Secretaria de Gestão e Governo Digital, com operação da Prodesp – Empresa de Tecnologia do 
+Estado e apoio do Arquivo Público do Estado. Para apoiar os servidores na operação do sistema, 
+foram produzidos materiais de orientação disponíveis em https://portal.sei.sp.gov.br/  
+
+38 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+9. A 
+
+IMPORTÂNCIA  DO  REPOSITÓRIO  ARQUIVÍSTICO 
+CONFIÁVEL  PARA  A  PRESERVAÇÃO  DE  DOCUMENTOS 
+DIGITAIS 
+
+A  política  de  preservação  de  documentos  digitais  exige  a  definição  de  estratégias, 
+procedimentos e técnicas de preservação digital com sustentação legal, bem como recursos 
+financeiros,  humanos  e  tecnológicos,  que  assegurem  o  armazenamento  e  segurança  dos 
+documentos digitais pelo tempo que for necessário. 
+
+A  sustentabilidade  da  política  de  preservação  também  depende  da  manutenção  e 
+atualização permanente da infraestrutura tecnológica visando controlar os riscos decorrentes 
+da degradação do suporte, da obsolescência tecnológica e da dependência de fornecedores ou 
+fabricantes.  Esses  riscos  podem  ser  controlados  com  condições  ambientais  e  de 
+armazenamento  adequados,  técnicas  de  preservação  digital  e  utilização  de  soluções 
+independentes  e  de  padrões  abertos  de  formatos  de  arquivo,  de  ampla  aceitação  por 
+organismos oficiais e de recursos tecnológicos estáveis e consolidados no mercado. 
+
+As  ações  de  preservação  são  contínuas  e  devem  ser  implementadas  e  monitoradas 
+desde a produção dos documentos por sistemas informatizados confiáveis, tanto para realizar 
+a sua gestão quanto para assegurar sua preservação e promover a sua difusão. Mesmo porque 
+os  documentos,  dados  e  informações  produzidos,  coletados  e  armazenados  no  âmbito 
+municipal  apoiam  as  atividades  dos  órgãos  públicos  e  servem  também  de  evidência  dessas 
+atividades para todos os fins do direito. 
+
+Para  que  seja  possível  assegurar  o  valor  probatório  dos  documentos,  dados  e 
+informações  custodiados  pelo  governo  municipal,  é  necessário  preservar  seus  atributos 
+arquivísticos, em especial sua autenticidade, aferida por meio da relação orgânica que mantêm 
+com as funções e atividades que lhes deram origem e com o conjunto do qual fazem parte.  
+
+A  autenticidade  dos  documentos  não  pode  ser  baseada  unicamente  em  recursos 
+tecnológicos, pois é necessário associar as soluções tecnológicas a políticas, procedimentos e 
+informação  (na  forma  de  metadados),  bem  como  levar  em  conta  a  reputação  idônea  e  a 
+credibilidade da entidade produtora e custodiadora. 
+
+Os  especialistas  também  alertam  para  a  necessidade  de  auditoria  e  certificação  dos 
+sistemas informatizados, tanto os de gestão quanto os de preservação, a fim de se verificar a 
+sua  conformidade  com  os  padrões  pré-estabelecidos  e,  consequentemente,  atestar  a  sua 
+confiabilidade. 
+
+Na  cadeia  de  preservação  todos  os  órgãos  e  entidades  municipais  que  produzem, 
+recebem ou acumulam documentos digitais no exercício de suas funções e atividades têm o 
+dever  de  exercer  a  função  de  custodiador  confiável  e  respondem  pela  implementação  dos 
+requisitos  arquivísticos  e  técnicos  nos  sistemas  de  produção,  gestão,  armazenamento, 
+preservação e disponibilização de documentos digitais sob sua responsabilidade. 
+
+Cabe aos custodiadores confiáveis assegurar a autenticidade dos documentos digitais 
+
+39 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ao  longo  do  tempo,  e  implementar  todos  os  requisitos  técnicos  e  arquivísticos  para  a  sua 
+preservação. 
+
+A  preservação  segura  de  documentos  em  idade  intermediária  de  longa  duração  ou 
+permanente  exigem  investimentos  contínuos  em  soluções  tecnológicas  complexas  -  os 
+Repositórios  Arquivísticos  Digitais  Confiáveis  (RDC-Arq)  -  a  serem  implementados  em 
+conformidade  com  os  requisitos  técnicos  e  administrativos  recomendados  por  diretrizes  e 
+normas nacionais e internacionais. 
+
+9.1 REPOSITÓRIO ARQUIVÍSTICO DIGITAL CONFIÁVEL – RDC-Arq 
+
+Recomenda-se como referência técnica para a implantação de repositório arquivístico 
+digital confiável o modelo OAIS (Open Archival Infor mation Sistems), as orientações do Projeto 
+InterPARES, as recomendações do Conselho Internacional de Arquivos e do Conselho Nacional 
+de Arquivos - CONARQ que tratou do tema na Resolução CONARQ nº 43/2015, que alterou a 
+Resolução CONARQ nº 39/2014, que define diretrizes para a implementação de repositórios 
+arquivísticos digitais confiáveis. 
+
+Os  repositórios  arquivísticos  digitais  confiáveis  são  constituídos  por  um  conjunto  de 
+procedimentos normativos e técnicos, disciplinados por uma política de governança de dados 
+e objetos digitais, que definem a gestão de processos, subsidiam a escolha de tecnologias e 
+estabelecem  uma  matriz  de  responsabilidade  para  os  órgãos  e  setores  envolvidos  na 
+preservação digital. 
+
+A finalidade do repositório arquivístico digital confiável é manter autênticos, preservar 
+e  prover  a  disponibilização  e  acesso  de  longo  prazo  aos  documentos,  dados  e  informações 
+digitais. 
+
+Os  repositórios  arquivísticos  digitais  confiáveis  devem,  para  o  efetivo  alcance  de 
+resultados, estar integrados a uma política de gestão de documentos, dados e informações que 
+estabeleça estratégias sustentáveis de armazenamento, manutenção e tratamento arquivístico 
+de documentos digitais e suas respectivas informações de descrição, em conformidade com os 
+requisitos  técnicos  e  administrativos  recomendados  por  diretrizes  e  normas  nacionais  e 
+internacionais. 
+
+40 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+10. MINUTAS 
+
+MINUTA 1 
+
+PROJETO DE LEI PARA INSTITUCIONALIZAÇÃO DE ARQUIVO PÚBLICO NA  PREFEITURA MUNICIPAL DE 
+XXX 
+
+NOTA EXPLICATIVA: 
+
+• Esta  minuta  simplificada  de  Projeto  de  Lei  que  visa  apenas  a  instituição  do  Arquivo 
+Público  Municipal,  com  definição  de  nível  e  vínculo,  e  do  Sistema  Municipal  de 
+Arquivos,  é  indicada  para  prefeituras  que  não  possuem  um  Arquivo  em  seu 
+organograma e prefiram realizar a regulamentação por meio de Decreto; 
+
+• Prefeituras que já possuam em seu organograma algum setor com função de Arquivo, 
+independentemente  da  nomenclatura  utilizada,  ou  queiram  instituir  e  regulamentar 
+em um único ato, devem utilizar como referência a Minuta de Decreto (instituição ou 
+regulamentação) e não essa Minuta de Projeto de Lei. 
+
+EXPOSIÇÃO DE MOTIVOS 
+
+Considerando que é direito assegurado pela Constituição Federal o acesso à informação (art. 5º, 
+inciso XXXIII) e obrigação do Estado a gestão da documentação governamental e a realização  das 
+providências para franquear sua consulta a quantos dela necessitem (Constituição Federal, art. 216, 
+§ 2º); 
+
+Considerando que é dever do Poder Público dar proteção especial aos documentos de arquivos, 
+como  instrumento  de  apoio  à  administração,  à  cultura,  ao  desenvolvimento  científico e  como 
+elementos de prova e informação (Lei Federal nº 8.159/1991, art. 1º); 
+
+Considerando que a legislação municipal deve definir os critérios de organização e vinculação  dos 
+arquivos municipais, bem como a gestão e o acesso aos documentos (Lei Federal n.º 8.159/1991, 
+art. 21); 
+
+Considerando  que  interessa  a  toda  a  sociedade  a  preservação  dos  acervos  que  encerram  valor 
+probatório, informativo ou histórico e que constituem o patrimônio documental do  Município. 
+
+O (a) Prefeito (a) Municipal de 
+, no uso das atribuições que 
+lhe  são conferidas  por Lei  e considerando  a Política  Nacional  de  Arquivos  Públicos  e  Privados 
+estabelecida  pela  Lei  Federal  nº  8.159,  de  8  de janeiro  de  1991,  especialmente  o  disposto  no 
+artigo 17, § 4º, e artigo 21, faz saber que promulga o seguinte: 
+
+41 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Lei nº XXX, de XX de XX de XXXX 
+
+Dispõe sobre a criação do Arquivo Público Municipal de 
+
+, e dá providências 
+correlatas. 
+
+Artigo    1º    -    Fica    criado    o    Arquivo    Público    Municipal    do    Poder    Executivo    de 
+
+   em  nível  de  DEPARTAMENTO/DIRETORIA,  subordinado  à(ao) 
+
+SECRETARIA/ DEPARTAMENTO/DIRETORIA. 
+
+NOTA EXPLICATIVA: 
+
+O  Arquivo  deve  ser  dotado  de  autonomia  de  gestão  e  posicionamento  hierárquico  [por 
+exemplo:  Secretaria  de  Governo,  Administração  ou  Gestão  etc.]  que  lhe  permita 
+desempenhar as prerrogativas definidas na legislação vigente. Ver Resolução do Conselho 
+Nacional  de  Arquivos  (CONARQ)  nº  27,  de  16  de  junho  de  2008,  com  alterações 
+estabelecidas pela Resolução nº 29, de 29 de maio de 2009. 
+
+Artigo 2º - Fica instituído o Sistema Municipal de Arquivos do Poder Executivo de 
+Parágrafo único - Integram o Sistema Municipal de Arquivos: 
+
+. 
+
+I.  Arquivo Público Municipal, que exercerá a atribuição de órgão central do Sistema; 
+II.  Órgãos e entidades da Administração Municipal, Direta e Indireta, como órgãos setoriais 
+
+do Sistema. 
+
+Artigo 3º - O Arquivo Público Municipal terá quadro próprio de servidores, admitidos de 
+acordo com os dispositivos legais vigentes. 
+
+Artigo 4º - As despesas decorrentes desta Lei correrão por conta de dotações 
+orçamentárias próprias. 
+
+Artigo 5º - Esta Lei deve ser regulamentada no prazo de XX dias (sugere-se 30 dias), a 
+contar de sua publicação. 
+
+Artigo 6º - Esta Lei entra em vigor na data de sua publicação, revogadas as disposições em  contrário. 
+
+PREFEITURA MUNICIPAL DE 
+
+, 
+
+de 
+
+de 
+
+. 
+
+NOME DO PREFEITO 
+
+Prefeito Municipal de   
+
+42 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+MINUTA 2 
+
+DECRETO QUE REGULAMENTA O ARQUIVO PÚBLICO NA   PREEITURA MUNICIPAL DE XXX 
+
+EXPOSIÇÃO DE MOTIVOS (Justificativa) 
+
+Considerando que é direito assegurado pela Constituição Federal o  acesso  à informação (art. 5º, 
+inciso XXXIII) e obrigação do Estado a gestão da documentação governamental e a realização  das 
+providências para franquear sua consulta a quantos dela necessitem (Constituição Federal, art. 216, 
+§ 2º); 
+
+Considerando que é dever do Poder Público dar proteção especial aos documentos de arquivos, 
+como  instrumento  de  apoio  à  administração,  à  cultura,  ao  desenvolvimento  científico e  como 
+elementos de prova e informação (Lei Federal nº 8.159/1991, art. 1º); 
+
+Considerando que a legislação municipal deve definir os critérios de organização e vinculação  dos 
+arquivos municipais, bem como a gestão e o acesso aos documentos (Lei Federal n.º 8.159/1991, 
+art. 21); 
+
+Considerando  que  interessa  a  toda  a  sociedade  a  preservação  dos  acervos  que  encerram  valor 
+probatório, informativo ou histórico e que constituem o patrimônio documental do  Município. 
+
+O  (a)  Prefeito  (a)  Municipal  de 
+,  no  uso  das  atribuições  que  lhe  são 
+conferidas por Lei e considerando a Política Nacional de Arquivos Públicos e Privados estabelecida 
+pela Lei Federal nº 8.159, de 8 de janeiro de 1991, especialmente o disposto no artigo 17, § 4º, e 
+artigo 21, faz saber que aprova o seguinte: 
+
+Decreto nº XXX, de XX de XX de XXXX 
+
+Dispõe sobre a [instituição ou regulamentação] do Arquivo Público Municipal de 
+e define as diretrizes da política municipal de gestão 
+documental. 
+
+Artigo   1º    -   Fica    [instituído   ou   regulamentado]   o    Arquivo    Público    Municipal    de 
+
+,  instituído  pela  Lei  Municipal  nº       / 
+
+, subordinado à(ao) 
+
+SECRETARIA/DEPARTAMENTO/DIRETORIA. 
+
+Parágrafo único - Subordinam-se ao regime deste Decreto: 
+
+I.  os órgãos públicos integrantes da administração direta do Poder Executivo Municipal; 
+II.  as autarquias, as fundações públicas, as empresas públicas, as sociedades de economia 
+mista, as entidades privadas sem fins lucrativos que recebam recursos públicos para a 
+realização de atividades de interesse público e as organizações sociais, definidas como 
+tal pela legislação vigente. 
+
+43 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+  
+ 
+
+NOTA EXPLICATIVA 1: 
+
+Em  prefeituras  em  que  o  Arquivo  já  tenha  sido  instituído  e  conste  oficialmente  na 
+estrutura administrativa, esta minuta pode ser adaptada apenas para regulamentação do 
+Arquivo já existente; 
+
+Em prefeituras que já disponham em seu organograma de  algum setor com função de 
+Arquivo,  independentemente  da  denominação  utilizada,  recomenda-se  que  no  ato 
+regulamentador  fique  padronizado  o  nome  “Arquivo  Público  Municipal”  (exemplo: 
+renomear  a atual Divisão de  Arquivo  Geral  para Divisão  de  Arquivo  Público Municipal; 
+renomear  o  atual  Departamento  de  Arquivo  Morto  para  Departamento  de  Arquivo 
+Público Municipal, ...), por meio de artigo complementar. 
+
+NOTA EXPLICATIVA 2: 
+
+O Arquivo deve ser dotado de autonomia de gestão e posicionamento hierárquico [por 
+exemplo:  Secretaria  de  Governo,  Administração ou  Gestão  etc.]  compatíveis  com  suas 
+atribuições  e  responsabilidades  definidas  nesta  minuta.  Ver  Resolução  do  Conselho 
+Nacional  de  Arquivos  (CONARQ)  nº  27,  de  16  de  junho  de  2008,  com  alterações 
+estabelecidas pela Resolução nº 29, de 29 de maio de 2009. 
+
+Artigo 2º - O Arquivo Público Municipal constituir-se-á de: 
+
+I.  Setor de Gestão Documental; 
+II.  Setor de Arquivo Intermediário; 
+III. Setor de Arquivo Permanente. 
+
+§ 1º - Ao Setor de Gestão Documental compete: 
+I.  formular a política de gestão de documentos e promover a sua implantação no âmbito 
+
+do Poder Executivo Municipal; 
+
+II.  coordenar  o  funcionamento  do  Sistema  Municipal  de  Arquivos,  prestar  orientação 
+
+técnica e desenvolver ações de capacitação; 
+
+III. definir diretrizes, normas e procedimentos para a organização e o funcionamento dos 
+arquivos e  protocolos, visando à gestão e  preservação de  documentos, inclusive  de 
+documentos digitais; 
+
+IV. coordenar os trabalhos da Comissão de Avaliação de Documentos e Acesso - CADA; 
+V.  aprovar  as  propostas  de  Planos  de  Classificação e  de  Tabelas  de  Temporalidade  de 
+
+Documentos e autorizar a eliminação de documentos; 
+
+VI. orientar o cumprimento dos prazos estabelecidos nas Tabelas de Temporalidades de 
+Documentos, visando à preservação de documentos de valor histórico, probatório e 
+informativo e à eliminação daqueles desprovidos de valor permanente; 
+
+VII. 
+
+acompanhar e contribuir no desenvolvimento de programas de informatização, 
+na  gestão  e  preservação  de  documentos  digitais  e  na  instalação  de  sistemas 
+informatizados de gestão arquivística de documentos; 
+
+VIII. 
+
+colaborar na formulação e implantação da política de acesso às informações no 
+
+âmbito do Poder Executivo Municipal. 
+
+§ 2º - Ao Setor de Arquivo Intermediário compete: 
+
+44 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+I.  assegurar a gestão, preservação e acesso aos documentos sob sua guarda; 
+II.  proceder à transferência de documentos dos órgãos e entidades produtoras, organizar 
+
+e elaborar instrumentos de descrição e controle; 
+
+III. dar  cumprimento  aos  prazos  estabelecidos  nas  Tabelas  de  Temporalidades  de 
+Documentos,  efetuar  a  eliminação  de  documentos  desprovidos  de  valor  e  recolher 
+para guarda permanente aqueles de valor histórico, probatório e informativo. 
+
+§ 3º - Ao Setor de Arquivo Permanente compete: 
+I.  proceder ao recolhimento, organização e descrição de acervos permanentes, visando 
+à  elaboração  de  instrumentos  de  pesquisa  que  facilitem  a  recuperação  das 
+informações; 
+
+II.  assegurar  a  preservação,  integridade  e  acesso  aos  documentos  públicos  de  valor 
+permanente e aos documentos privados considerados de interesse público e social; 
+III. promover a difusão do acervo e as pesquisas sobre a história do Município, bem como 
+programas  de  ação  educativa,  social  e  editorial  destinados  a  estreitar  o  vínculo  da 
+instituição com a comunidade. 
+
+NOTA EXPLICATIVA 3: 
+
+A proposta de criação do Arquivo deve refletir a estrutura administrativa de cada prefeitura, 
+de acordo com seu tamanho e peculiaridades. 
+
+Esta  minuta  recomenda  uma  estrutura  mínima  para  o  Arquivo,  conforme  seu  artigo  2º. 
+Entretanto,  em  prefeituras  menores  e  com  estrutura  administrativa  menos  complexa,  as 
+atribuições  previstas  nos parágrafos 1º,  2º e  3º  poderão consolidadas no artigo 2º  (nova 
+redação), como atribuições gerais do Arquivo. Nesse caso, o caput ficaria “Artigo 2º  - São 
+atribuições do Arquivo Público Municipal:”, excluindo-se os parágrafos de estrutura (1º, 2º 
+e 3º), mas mantidas as atribuições previstas nos parágrafos excluídos. 
+
+Artigo 4º - Fica (instituído ou regulamentado) o Sistema Municipal de Arquivos. 
+
+§ 1º - Ao Arquivo Público Municipal ficam subordinados tecnicamente todos os arquivos e 
+protocolos do Poder Executivo Municipal, sem prejuízo de sua subordinação administrativa, 
+com o objetivo de: 
+
+I.  promover  a  gestão  sistêmica  de  documentos  e  informações  das  idades  corrente, 
+
+intermediária e permanente; 
+
+II.  agilizar o acesso aos documentos e informações; 
+III. assegurar a preservação de documentos que encerram valor histórico, probatório e 
+
+informativo; 
+IV. promover  a 
+
+integração  das  atividades  nos  diversos  órgãos  e  entidades  da 
+
+Administração Municipal. 
+
+§ 2º - Integram o Sistema Municipal de Arquivos: 
+
+I.  Arquivo Público Municipal, que exercerá a atribuição de órgão central do Sistema; 
+II.  Órgãos e entidades da Administração Municipal, Direta e Indireta, como órgãos 
+
+setoriais do Sistema. 
+
+Artigo 5º - Fica instituída a Comissão de Avaliação de Documentos e Acesso - CADA, grupo 
+permanente e multidisciplinar, com as seguintes competências: 
+
+45 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+I.  promover  a  identificação  e  avaliação  de  documentos,  visando  à  elaboração, 
+atualização  e  aplicação  de  Planos  de  Classificação  e  Tabelas  de  Temporalidade  de 
+Documentos; 
+
+II.  colaborar  com  os  órgãos  e  entidades  da  Administração  Municipal  no  trabalho  de 
+
+avaliação da massa documental acumulada; 
+
+III. coordenar  os  trabalhos  de  eliminação,  transferência  e  de  recolhimento  de 
+
+documentos; 
+
+IV. colaborar na implementação da política de acesso à informação no âmbito do Poder 
+Executivo Municipal, nos termos da Lei Federal nº 12.527, de 18 de novembro de 2011; 
+V.  promover  estudos  para  a  definição  de  critérios  de  restrição  de  acesso,  visando  à 
+proteção  de  documentos,  dados  e  informações  sigilosas  e  pessoais  e  atuar  como 
+instância consultiva, sempre que provocada. 
+
+§  1º  -  Os  membros  da  Comissão  de  Avaliação  de  Documentos  e  Acesso  deverão  ser 
+designados por meio de ato próprio, no prazo XX dias (sugere-se 30 dias) da publicação deste 
+Decreto. 
+
+§ 2º - Cabe ao Arquivo Público Municipal, órgão central do Sistema Municipal de Arquivos, a 
+coordenação dos trabalhos da Comissão de Avaliação de Documentos e Acesso 
+
+NOTA EXPLICATIVA 4: 
+
+Ato  próprio  (Portaria)  deverá  designar  os  membros  da  Comissão  e  indicar  o  seu 
+coordenador; 
+
+A  quantidade  de  membros  da  Comissão  deve  ser  representativa  e  compatível  com  o 
+tamanho da Prefeitura. Recomenda-se número ímpar; 
+
+Em prefeituras com estrutura muito complexa podem ser criadas Comissões de Avaliação de 
+Documentos e Acesso em cada órgão e entidade, de acordo com a necessidade; 
+
+A Comissão de Avaliação de Documentos e Acesso é um grupo permanente, multidisciplinar 
+e  intersetorial.  Recomenda-se  que  seja  constituída  por  representantes  das áreas  jurídica, 
+administração, arquivo, protocolo, informática e história, preferencialmente, servidores de 
+carreira  para  assegurar  a  continuidade  dos  trabalhos.  Profissionais  de  outras  áreas 
+específicas  poderão  ser  solicitados  a  contribuir,  especialmente,  na  avaliação  dos 
+documentos das atividades-fim (educação, saúde etc.) 
+
+Servidores de carreira para assegurar a continuidade dos trabalhos. Profissionais de outras 
+áreas  específicas  poderão  ser  solicitados  a  contribuir,  especialmente,  na  avaliação  dos 
+documentos das atividades-fim (educação, saúde etc.); 
+
+Em prefeituras que já disponham de Comissões ativas, será necessário adequar tanto esta 
+minuta quanto as competências das Comissões existentes; 
+
+Nos casos em que a Comissão for instituída por ato próprio, suas competências devem ser 
+bem definidas, conforme disposto no art. 5º desta minuta. 
+
+Artigo 6º - A eliminação de documentos públicos do Poder Executivo será realizada mediante 
+autorização do Arquivo Público Municipal, de acordo com o disposto na legislação vigente. 
+
+46 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+§ 1º - Os documentos originais de guarda permanente devem ser preservados e não poderão 
+ser eliminados após a microfilmagem, digitalização ou quaisquer outras formas de reprodução. 
+
+§ 2º - Os documentos de valor permanente são inalienáveis e imprescritíveis. 
+
+Artigo 7º - Ficará sujeito a responsabilidade administrativa, civil e penal quem contrariar o 
+disposto neste Decreto, na forma da legislação vigente. 
+
+Artigo 8º  -  As despesas decorrentes  deste Decreto  correrão  por  conta  de dotações orçamentárias 
+próprias 
+
+NOTA EXPLICATIVA 5: 
+
+Esta  minuta  não  prevê  um  quadro  próprio  de  servidores,  pois  se  trata  de  um  ato 
+regulamentador; - Cabe ao Poder Executivo avaliar essa questão. No entanto, é fundamental 
+que o Arquivo possua um quadro próprio de servidores qualificados e suficientes para dar 
+cumprimento às especificidades de suas funções e responsabilidades; 
+
+O Poder Executivo deve designar formalmente um responsável pelo Arquivo. 
+
+Artigo 9º - Este Decreto entra em vigor na data de sua publicação, revogadas as disposições  
+em contrário. 
+
+PREFEITURA MUNICIPAL DE 
+
+, 
+
+de 
+
+de 
+
+. 
+
+Nome do Prefeito 
+
+Prefeito Municipal de   
+
+47 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+MINUTA 3 
+
+PROJETO DE RESOLUÇÃO QUE INSTITUI O ARQUIVO PÚBLICO NA  CÂMARA MUNICIPAL DE XXX 
+
+EXPOSIÇÃO DE MOTIVOS (Justificativa) 
+
+Considerando que é direito assegurado pela Constituição Federal o  acesso à informação (art. 5º, 
+inciso  XIV) e  obrigação  do  Estado  a  gestão  da  documentação  governamental e  a  realização  das 
+providências para franquear sua consulta a quantos dela necessitem (Constituição Federal, art. 216, 
+§ 2º); 
+
+Considerando  que  cabe  ao  Município  definir,  em  legislação  própria,  regras  específicas  para  o 
+cumprimento das determinações previstas na Lei federal nº 12.527, de 18 de novembro de 2011,       
+ que regula o acesso a informações; 
+
+Considerando que é dever do Poder Público dar proteção especial aos documentos de arquivos, 
+como  instrumento  de  apoio  à  administração,  à  cultura,  ao  desenvolvimento  científico e  como 
+elementos de prova e informação (Lei federal nº 8.159/1991, art. 1º); 
+
+Considerando que legislação municipal deve definir os critérios de organização e vinculação dos 
+arquivos municipais, bem como a gestão e o acesso aos documentos (Lei federal n.º 8.159/1991, 
+art. 21); 
+
+Considerando  que  interessa  a  toda  a  sociedade  a  preservação  dos  conjuntos  documentais  que 
+encerram valor probatório, informativo ou histórico e que constituem o patrimônio documental do 
+Município de 
+
+; 
+
+A MESA da Câmara Municipal de 
+, no uso das atribuições que lhe são 
+conferidas por Lei e considerando a Política Nacional de Arquivos Públicos e Privados estabelecida 
+pela Lei Federal nº 8.159, de 8 de janeiro de 1991, especialmente o disposto no artigo 17, §4º, e 
+artigo 21, faz saber que aprova o seguinte: 
+
+Resolução nº XX, de XX de XX de XXXX 
+
+Dispõe  sobre  a  instituição do  Arquivo Público  da 
+Câmara Municipal de   
+
+Artigo  1º  -  Fica  instituído  o  Arquivo  Público  da  Câmara  Municipal  de 
+vinculado ao (SETOR/DEPARTAMENTO/DIRETORIA). 
+
+, 
+
+NOTA EXPLICATIVA 1: 
+
+Sugere-se que o ato seja uma Resolução, pois estará organizando os serviços administrativos 
+da Câmara. 
+
+48 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+NOTA EXPLICATIVA 2: 
+
+O Arquivo deve ser dotado de autonomia de gestão e posicionamento hierárquico que lhe 
+permita desempenhar as prerrogativas definidas nesta minuta. Ver Resolução do Conselho 
+Nacional  de  Arquivos  (CONARQ)  nº  27,  de  16  de  junho  de  2008,  com  alterações 
+estabelecidas pela Resolução nº 29, de 29 de maio de 2009. 
+
+Artigo 2º - São atribuições do Arquivo Público da Câmara Municipal de 
+
+: 
+I.  formular a política de gestão de documentos e coordenar a sua implantação no âmbito 
+
+do Poder Legislativo Municipal; 
+
+II.  estabelecer e divulgar diretrizes e normas de gestão e preservação de documentos; 
+III. garantir  o  acesso  às informações e  arquivos  no âmbito  da  Câmara Municipal, 
+
+observadas as restrições legais eventualmente aplicáveis; 
+
+IV. coordenar  a  elaboração  e  atualização  de  Planos  de  Classificação  e  de  Tabelas  de 
+
+Temporalidade de Documentos da Câmara Municipal; 
+
+V.  assegurar a gestão, preservação e controle dos documentos sob sua custódia; 
+VI. dar  cumprimento  aos  prazos  estabelecidos  nas  Tabelas  de  Temporalidades  de 
+Documentos,  coordenar  a  eliminação  daqueles  desprovidos  de  valor  e  garantir  a 
+preservação dos documentos de valor histórico, probatório e informativo; autorizar as 
+eliminações  de  documentos  produzidos,  recebidos  e  acumulados  pela  Câmara, 
+desprovidos de valor permanente, em conformidade com o artigo 9º da Lei Federal nº 
+8.159/1991; 
+
+VII. 
+
+VIII. 
+
+propor programas de ação educativa, social e editorial destinados a estreitar o 
+vínculo  da  instituição  com  a  comunidade  e  com  vistas  à  recuperação  da  memória 
+coletiva e às pesquisas sobre a história do Município a partir do acervo sob sua guarda; 
+acompanhar e contribuir no desenvolvimento de programas de informatização, 
+na gestão de documentos digitais e na instalação de sistemas informatizados de gestão 
+arquivística de documentos. 
+
+Artigo  3º  -  Ao  Arquivo  Público  da  Câmara  Municipal  de 
+ficam 
+subordinados tecnicamente  todos os arquivos e protocolos  do  Poder Legislativo Municipal,  sem 
+prejuízo de sua subordinação administrativa, com o objetivo de: 
+
+I.  assegurar a gestão sistêmica de documentos e informações, inclusive de documentos 
+
+digitais; 
+
+II.  agilizar o acesso aos documentos e informações; 
+III. assegurar a preservação de documentos que encerram valor histórico, probatório e 
+
+informativo; 
+
+IV. promover a integração das atividades nos diversos SETORES/UNIDADES/ ÓRGÃOS da 
+
+Câmara Municipal. 
+
+Artigo 4º - A Câmara Municipal de 
+instituirá a Comissão de Avaliação de 
+Documentos e Acesso, grupo permanente e multidisciplinar, que será nomeada dentro do prazo  de 
+(definir um prazo, sugere-se 30 dias) XX dias, com as seguintes atribuições: 
+
+I.  orientar a identificação e avaliação de documentos, visando à elaboração e aplicação 
+
+de Planos de Classificação e Tabelas de Temporalidade de Documentos; 
+
+II.  promover estudos e orientar a identificação e classificação de documentos, dados e 
+
+informações sigilosas e pessoais, visando assegurar a sua proteção; 
+
+III. colaborar com os setores/unidades/órgãos da Câmara Municipal no trabalho de 
+
+avaliação da massa documental acumulada; 
+
+49 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+IV. coordenar os trabalhos de eliminação, transferência e de recolhimento de 
+
+documentos; 
+
+V.  auxiliar  a  implementação da  política  de  acesso  à  informação  no  âmbito  da  Câmara 
+
+Municipal, nos termos da Lei Federal nº 12.527, de 18 de novembro de 2011; 
+
+VI. atuar como instância consultiva, sempre que provocada, sobre os recursos interpostos 
+
+relativos às solicitações de acesso a informações não atendidas ou indeferidas 
+
+NOTA EXPLICATIVA 3: 
+
+Ato próprio (Portaria) deverá designar os membros da Comissão. 
+
+A quantidade de membros deverá ser compatível com o tamanho da Câmara. 
+
+A  Comissão  de  Avaliação  de  Documentos  e  Acesso  é  um  grupo  permanente  e 
+multidisciplinar. Recomenda-se que seja constituída por servidores efetivos representantes 
+das  áreas  jurídica,  de  administração,  arquivo,  protocolo,  tecnologia  da  informação  e 
+processo legislativo, preferencialmente, se possível, servidores de carreira para assegurar a 
+continuidade  dos  trabalhos.  Representantes  de  outras  áreas  específicas  poderão  ser 
+solicitados a contribuírem. 
+
+Sugere-se ainda que seja escolhido formalmente um coordenador. 
+
+Caso a Câmara já possua uma Comissão ativa, será necessário adequar tanto esta minuta 
+quanto as atribuições da Comissão já existente. 
+
+É possível que atos distintos sejam publicados, um instituindo o Arquivo e outro a Comissão. 
+O fundamental é ter algum ato legal as atribuições da Comissão bem definidas. 
+
+Artigo  5º  -  A  eliminação  de  documentos  públicos  do  legislativo  municipal  somente  será 
+realizada mediante autorização do Arquivo Público da Câmara Municipal de _____________. 
+
+§  1  -  Os  documentos  de  guarda  permanente  não  poderão  ser  eliminados  após  a 
+microfilmagem, digitalização ou qualquer outra forma de reprodução, devendo ser preservados 
+de acordo com o disposto na legislação vigente. 
+
+§ 2º - Os documentos de valor permanente são inalienáveis e imprescritíveis. 
+
+Artigo 6º - Ficará sujeito a responsabilidade administrativa, civil e penal quem contrariar o 
+
+disposto nesta Resolução, na forma da legislação vigente. 
+
+Artigo  7º  -  As  despesas  decorrentes  desta  Resolução  correrão  por  conta  de  dotações 
+
+orçamentárias próprias. 
+
+50 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+NOTA EXPLICATIVA 4: 
+
+Esta minuta não prevê um quadro próprio de servidores. No entanto, é fundamental que o 
+Arquivo  possua  recursos  humanos  qualificados  e  suficientes  para  dar  cumprimento  às 
+especificidades de suas atividades. 
+
+Cabe à Câmara definir essa questão. 
+
+Ainda  que  não  seja  possível  designar  um  servidor  exclusivamente  para  o  Arquivo, 
+recomenda-se que haja um responsável formal, o qual deverá ser nomeado por ato próprio. 
+
+Artigo 8º - Esta Resolução entrará  em vigor na data de sua publicação, revogadas as 
+disposições em contrário. 
+
+CÂMARA MUNICIPAL DE 
+
+, 
+
+de 
+
+de 
+
+. 
+
+NOME DO VEREADOR 
+Presidente da Câmara Municipal de   
+
+NOME DO VEREADOR 
+
+1º Secretário da Câmara Municipal de   
+
+NOME DO VEREADOR 
+
+2º Secretário da Câmara Municipal de   
+
+51 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+MINUTA 4 
+
+PORTARIA QUE INSITUI A COMISSÃO DE AVALIAÇÃO DE DOCUMENTOS E ACESSO DA  PREFEITURA 
+MUNICIPAL DE XXX 
+
+Portaria nº XX, de XX de XX de XXXX 
+
+O [Diretor do Arquivo Público Municipal OU Secretário/Presidente/Diretor do órgão/ entidade],  da 
+,  no  uso  de  suas  atribuições  e  em 
+Prefeitura  Municipal  de 
+cumprimento aos dispositivos da Constituição Federal de 1988, art. 216, § 2.º, da Lei Federal de 
+Arquivos n.º 8.159/91, art. 1.º, 7º e 17, § 4º e da Lei federal de acesso à informação nº 12.527/2011: 
+
+Considerando  a  importância  de  implantar  processo  de  avaliação  de  documentos,  visando  à 
+elaboração e a aplicação de Planos de Classificação e Tabelas de Temporalidade de Documentos; 
+
+Considerando  a  urgente  necessidade  de  liberar  espaços,  reduzindo  ao  mínimo  essencial  a 
+documentação acumulada, sem prejuízo à Administração e à comunidade; 
+
+Considerando a importância de agilizar as comunicações administrativas, racionalizar a produção 
+de documentos e normalizar o fluxo documental; 
+
+Considerando  a  necessidade  de  se  assegurar  o  amplo  acesso  aos  documentos  e  informações 
+municipais e a adequada proteção àqueles que guardam alguma restrição ao acesso; 
+
+Resolve: 
+
+Artigo 1º  -  Ficam  designados os servidores  abaixo  relacionados para constituírem a  Comissão de 
+Avaliação de Documentos e Acesso da Prefeitura Municipal, grupo permanente e multidisciplinar, 
+composto  por  representantes  das  áreas  administrativas,  jurídica,  técnico  legislativa,  arquivo, 
+protocolo e por representantes das áreas específicas da documentação a ser avaliada: 
+
+Fulano  de Tal – funcionário  do  setor 
+que exercerá a coordenação dos trabalhos; 
+Fulano de Tal – funcionário do setor 
+
+, cargo/função 
+
+, cargo/função 
+
+, 
+
+; 
+
+(listar todos os designados). 
+
+Artigo 2º - São atribuições da Comissão de Avaliação de Documentos e Acesso: 
+
+I.  Orientar  a  identificação  e  avaliação  de  documentos do  legislativo municipal, visando à 
+elaboração  e  aplicação  de  Planos  de  Classificação  e  Tabelas  de  Temporalidade  de 
+Documentos; 
+
+II.  Promover  estudos  e  orientar  a  identificação  de  documentos,  dados  e  informações 
+
+sigilosas e pessoais, visando assegurar a sua proteção; 
+
+III. Colaborar com os órgãos e  entidades  da Prefeitura no trabalho de  avaliação da massa 
+
+documental acumulada; 
+
+IV. Coordenar os trabalhos de eliminação, transferência e de recolhimento de documentos; 
+V.  Coordenar a implementação da política municipal de acesso à informação na Prefeitura 
+
+Municipal, nos termos da Lei Federal nº 12.527, de 18 de novembro de 2011. 
+
+52 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+VI.  Atuar como instância consultiva, sempre que provocada, sobre os recursos interpostos 
+
+relativos às solicitações de acesso a informações não atendidas ou indeferidas. 
+
+Artigo  3º  -  O  trabalho  implicará  OU  (não  implicará)  o  recebimento  de  qualquer  remuneração 
+adicional  e  será  prestado  sem  prejuízo  das  atribuições  próprias  dos  cargos  ou  funções  de  seus 
+integrantes 
+
+Artigo 4º - Esta Portaria entrará em vigor na data de sua publicação. 
+
+NOME 
+CARGO DO RESPONSÁVEL 
+
+53 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+MINUTA 5 
+
+ATO DO PRESIDENTE INSTITUI A COMISSÃO DE AVALIAÇÃO DE DOCUMENTOS E ACESSO DA 
+CÂMARA MUNICIPAL DE XXX 
+
+Ato do Presidente nº XX, de XX de XX de XXXX 
+
+,  no  uso  de  suas  atribuições  e  em 
+O  Presidente  da  Câmara  Municipal  de 
+cumprimento aos dispositivos da Constituição Federal de 1988, art. 216, § 2.º, da Lei Federal de 
+Arquivos  n.º  8.159/1991,  art.  1.º,  7º  e  17,  §  4º  e  da  Lei  federal  de  acesso  à  informação  nº 
+12.527/2011: 
+
+Considerando  a  importância  de  implantar  processo  de  avaliação  de  documentos,  visando  à 
+elaboração e a aplicação de Planos de Classificação e Tabelas de Temporalidade de Documentos; 
+
+Considerando  a  urgente  necessidade  de  liberar  espaços,  reduzindo  ao  mínimo  essencial  a 
+documentação acumulada, sem prejuízo à Administração e à comunidade; 
+
+Considerando a importância de agilizar as comunicações administrativas, racionalizar a produção 
+de documentos e normalizar o fluxo documental; 
+
+Considerando  a  necessidade  de  se  assegurar  o  amplo  acesso  aos  documentos  e  informações 
+municipais e a adequada proteção àqueles que guardam alguma restrição ao acesso; 
+
+RESOLVE: 
+
+Artigo 1º  - Ficam  designados os servidores  abaixo  relacionados para constituírem a  Comissão de 
+Avaliação  de  Documentos  e  Acesso  da  Câmara  Municipal,  grupo  permanente  e  multidisciplinar, 
+composto  por  representantes  das  áreas  administrativas,  jurídica,  técnico  legislativa,  arquivo, 
+protocolo e por representantes das áreas específicas da documentação a ser  avaliada: 
+
+Fulano de Tal – funcionário do setor 
+
+, cargo/função 
+
+que exercerá a 
+
+coordenação dos trabalhos; 
+
+Fulano de Tal – funcionário do setor 
+Fulano de Tal – funcionário do setor 
+
+(listar todos os designados). 
+
+, cargo/função 
+, cargo/função 
+
+; 
+; 
+
+54 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+NOTA EXPLICATIVA 1: 
+
+A quantidade de membros deverá ser compatível com o tamanho da Câmara. 
+
+A  Comissão  de  Avaliação  de  Documentos  e  Acesso  é  um  grupo  permanente  e 
+multidisciplinar. Recomenda-se que seja constituída por servidores efetivos representantes 
+das  áreas  jurídica,  de  administração,  arquivo,  protocolo,  tecnologia  da  informação  e 
+processo legislativo, preferencialmente, se possível, servidores de carreira para assegurar a 
+continuidade  dos  trabalhos.  Representantes  de  outras  áreas  específicas  poderão  ser 
+solicitados a contribuírem. 
+
+Sugere-se ainda que seja escolhido formalmente um coordenador. 
+
+Caso a Câmara já possua uma Comissão ativa, será necessário adequar tanto esta minuta 
+quanto as atribuições da Comissão já existente. 
+
+É  possível  que  os  atos  distintos  sejam  publicados,  um  instituindo  o  Arquivo  e  outro  a 
+Comissão.  O  fundamental  é  ter  em  algum  ato  legal  as  atribuições  da  Comissão  bem 
+definidas. 
+
+Artigo 2º - São atribuições da Comissão de Avaliação de Documentos e Acesso: 
+
+I.  orientar a identificação e avaliação de documentos, visando à elaboração e aplicação de 
+
+Planos de Classificação e Tabelas de Temporalidade de Documentos; 
+
+II.  promover  estudos  e  orientar  a  identificação  e  classificação  de  documentos,  dados  e 
+
+informações sigilosas e pessoais, visando assegurar a sua proteção; 
+
+III. colaborar com os setores/unidades/órgãos da Câmara Municipal no trabalho de avaliação 
+
+da massa documental acumulada; 
+
+IV. coordenar os trabalhos de eliminação, transferência e de recolhimento de documentos; 
+V.  auxiliar  a  implementação  da  política  de  acesso  à  informação  no  âmbito  da  Câmara 
+
+Municipal, nos termos da Lei Federal nº 12.527, de 18 de novembro de 2011; 
+
+VI. atuar como instância consultiva, sempre que provocada, sobre os recursos interpostos 
+
+relativos às solicitações de acesso a informações não atendidas ou indeferidas 
+
+NOTA EXPLICATIVA 2: 
+
+O trabalho na CADA: 
+
+- Será  prestado  sem  prejuízo  das  atribuições  próprias  dos  cargos  ou  funções  de  seus 
+
+integrantes; 
+
+- Pode  ou  não  implicar  no  recebimento  de  remuneração  adicional/gratificação.  Fica  a 
+
+critério de cada Câmara definir esta questão. 
+
+Artigo 3º - Este ato entrará em vigor na data de sua publicação. 
+
+CÂMARA MUNICIPAL DE 
+
+, 
+
+de 
+
+de 
+
+. 
+
+NOME DO VEREADOR 
+Presidente da Câmara Municipal de   
+
+55 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+MINUTA 6 
+
+DECRETO QUE APROVA O PLANO DE CLASSIFICAÇÃO E A TABELA DE TEMPORALIDADE E  DISPÕE 
+SOBRE OS DOCUMENTOS DE ARQUIVO, SUA GESTÃO, DEFINE NORMAS PARA A AVALIAÇÃO, 
+GUARDA E ELIMINAÇÃO DE DOCUMENTOS DE ARQUIVO DA PREFEITURA MUNICIPAL DE XXX 
+
+EXPOSIÇÃO DE MOTIVOS 
+
+Considerando que é dever do Poder Público promover a gestão dos documentos de arquivo,       
+bem como assegurar o acesso às informações neles contidas, de acordo com o § 2º do artigo 216 
+da Constituição Federal e com o artigo 1º da Lei federal nº 8.159, de 8 de janeiro de 1991; 
+
+Considerando que ao Poder Executivo Municipal cabe a definição dos critérios de organização e 
+vinculação do Arquivo Público da Prefeitura, bem como a gestão e o acesso aos documentos de 
+arquivo, de acordo com o artigo 21 da Lei federal nº 8.159, de 8 de janeiro de 1991; 
+
+Considerando as disposições da Lei Federal nº 12.527, de 18 de novembro de 2011; Considerando 
+as disposições da (CITAR A NORMA OU ATO JURÍDICO/ANO), que instituiu o Arquivo  Público  da 
+Prefeitura  Municipal  de 
+e  que  determinou  a  instituição  de  Comissões  de  Avaliação  de 
+Documentos e Acesso; 
+
+Considerando  a  necessidade  de  se  definirem  critérios  para  reduzir  ao  essencial  os  documentos 
+acumulados  nos  arquivos  do  Poder  Executivo  Municipal,  sem  prejuízo  da  salvaguarda  dos  atos 
+administrativos, constitutivos e extintivos de direitos, das informações indispensáveis ao processo 
+decisório e à preservação da memória institucional; e 
+
+Considerando, finalmente, a proposta apresentada pelo Arquivo Público da Prefeitura Municipal 
+de 
+,  elaborada  em  parceria  com  a  Comissão  de  Avaliação  de 
+Documentos e Acesso. 
+
+, no uso das atribuições 
+que lhe são conferidas por Lei e considerando a Política Nacional de Arquivos Públicos e Privados 
+estabelecida pela Lei Federal nº 8.159, de 8 de janeiro de 1991, especialmente o disposto no artigo 
+17, §4º, e artigo 21, decreta: 
+
+, Prefeito Municipal de 
+
+Decreto nº XX, de XX de XX de XXXX 
+
+Dispõe  sobre  o  Arquivo  Público,  os  documentos  de 
+arquivo  e  sua  gestão,  o  Plano  de  Classificação  e  a 
+Tabela  de  Temporalidade  de  Documentos  da 
+Prefeitura    Municipal     de 
+, 
+define normas para a avaliação, guarda e eliminação 
+de documentos de arquivo. 
+
+SEÇÃO I 
+Da Gestão de Documentos de Arquivo 
+
+Artigo  1º  -  Fica  aprovado  o  Plano  de  Classificação  de  Documentos  e  a  Tabela  de 
+Temporalidade de Documentos da Prefeitura Municipal de 
+
+, constantes dos 
+
+56 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+
+Anexos  I  e  III  deste  Decreto,  como  instrumentos  fundamentais  da  implementação  da  gestão 
+documental. 
+
+NOTA EXPLICATIVA 1: 
+
+Sugere-se  que  a  aprovação  destes  instrumentos  e  oficialização  dos  procedimentos 
+constantes da norma sejam feitos por meio de um Decreto do Prefeito Municipal, uma vez 
+que trata-se de regulamentação de matéria prevista em legislação federal cujos os efeitos se 
+restringem à própria Prefeitura. 
+
+NOTA EXPLICATIVA 2: 
+
+Neste ato deve ficar clara a abrangência do Plano de Classificação e a Tabela de 
+Temporalidade de Documentos aprovados. 
+
+-  
+
+for  aprovar  os 
+
+Se  a  Prefeitura 
+
+instrumentos  referentes  somente  à  área- 
+meio/administrativa  (Ex.:  organização  administrativa;  comunicação  institucional;  gestão 
+de  recursos  humanos;  gestão  de  bens  materiais,  patrimoniais  e  serviços;  gestão 
+orçamentária e financeira; gestão de documentos e informações; e gestão de atividades de 
+apoio)  o  Decreto  deve mencionar  em  todo  texto  “Plano  de  Classificação  e  a  Tabela  de 
+Temporalidade de Documentos das atividades-meio da Prefeitura Municipal”; 
+
+-  Se a Prefeitura for aprovar os instrumentos referentes somente à área-fim (Ex.: gestão das 
+políticas  públicas:  ambiental  e  territorial,  cultural,  de  abastecimento  alimentar,  de 
+assistência social e promoção da cidadania, de educação pública, de esporte e lazer, de 
+mobilidade  urbana,  de  saúde,  de  segurança  pública  municipal  e  defesa  civil)  o  Decreto 
+deve mencionar em todo texto “Plano de Classificação e a Tabela de Temporalidade de 
+Documentos das atividades-fim da Prefeitura Municipal”; ou 
+
+- Se a Prefeitura for aprovar os instrumentos referentes à área-meio e à área-fim o Decreto 
+deve  mencionar  genericamente  em  todo  texto  “Plano  de  Classificação  e  a  Tabela  de 
+Temporalidade de Documentos da Prefeitura Municipal”. 
+
+§ 1º - Considera-se gestão de documentos o conjunto de procedimentos e operações técnicas 
+referentes  à  sua  produção,  classificação,  avaliação,  tramitação,  uso,  arquivamento  e 
+reprodução, que assegura a racionalização e a eficiência dos arquivos. 
+
+§ 2º - É dever da Prefeitura Municipal a gestão de documentos como instrumento de apoio 
+
+à administração, à cultura e ao desenvolvimento científico. 
+
+SEÇÃO II 
+Dos Documentos de Arquivo 
+
+Artigo 2º  -  São documentos de arquivo todos os registros de informação, em qualquer  suporte, 
+inclusive o magnético ou óptico, produzidos, recebidos ou acumulados pela Prefeitura  Municipal 
+de 
+
+no exercício de suas funções e atividades. 
+
+Parágrafo  único  -  A  Prefeitura  Municipal  de 
+
+garantirá  acesso  aos 
+
+documentos de arquivo, nos termos da legislação vigente. 
+
+57 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Artigo  3º  -  Os  documentos  de  arquivo  são  identificados  como  correntes,  intermediários  e 
+permanentes, na seguinte conformidade: 
+
+I -  consideram-se  documentos  correntes  aqueles  em  curso ou  que  se  conservam  junto  às 
+unidades  produtoras  em  razão  de  sua  vigência  e  da  frequência  com  que  são  por  elas 
+consultados; 
+
+II - consideram-se documentos intermediários aqueles com uso pouco frequente que aguar- 
+dam prazos de prescrição e precaução nas unidades que os tenham produzido, recebido 
+ou acumulado; 
+
+III - consideram-se documentos permanentes aqueles com valor histórico, probatório e infor- 
+
+mativo que devem ser definitivamente preservados. 
+
+Artigo 4º - Os documentos de arquivo, em razão de seus valores, podem ter guarda temporária ou 
+guarda permanente, observados os seguintes critérios: 
+
+I - são documentos de guarda temporária aqueles que, esgotados os prazos de guarda na 
+unidade produtora podem ser eliminados sem prejuízo para a coletividade ou memória 
+da Prefeitura Municipal de 
+
+; 
+
+II - são documentos de guarda permanente aqueles que, esgotados os prazos de guarda pre- 
+vistos no inciso I deste artigo, devem ser preservados, por força das informações neles 
+contidas, para a eficácia da ação administrativa, como prova, garantia de direitos ou fonte 
+de pesquisa. 
+
+SEÇÃO III 
+Do Plano de Classificação de Documentos 
+
+Artigo 5º - O Plano de Classificação de Documentos é o instrumento utilizado para classificar  todo 
+e qualquer documento de arquivo. 
+
+Parágrafo  único  -  Entende-se  por classificação  de  documentos  a  sequência  das  operações 
+técnicas que visam a agrupar os documentos de arquivo relacionando-os à função, subfunção e 
+atividade responsável por sua produção, recebimento ou acumulação. 
+
+Artigo 6º - O Plano de Classificação de Documentos atribui para cada série documental um código 
+numérico de classificação. 
+
+§ 1º - Série documental é o conjunto de documentos do mesmo tipo documental produzido 
+por um mesmo órgão, em decorrência do exercício da mesma função, subfunção e atividade e 
+que resultam de idêntica forma de produção e tramitação e obedecem à mesma temporalidade 
+e destinação. 
+
+§ 2º - O código de classificação da série documental é a referência numérica que a associa ao 
+
+seu contexto de produção, e é composto das seguintes unidades de informação: 
+
+I - função; 
+II - subfunção; 
+III - atividade; 
+IV - série documental. 
+
+§ 3º - O Índice é um instrumento complementar ao Plano de Classificação de Documentos, 
+constante do Anexo II deste Decreto, no qual estão relacionados alfabeticamente e de forma 
+permutada, todos os tipos documentais, funções, subfunções e atividades, bem como os termos 
+e expressões utilizados de maior frequência para a recuperação dos documentos, a partir das 
+variantes do seu conteúdo e das modalidades de sua produção. 
+
+58 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+SEÇÃO IV 
+Da Tabela de Temporalidade de Documentos 
+
+Artigo 7º  -  A Tabela de Temporalidade  de Documentos é o  instrumento resultante  da  avaliação 
+documental, aprovado por autoridade competente, que define prazos de guarda e a destinação de 
+cada série documental. 
+
+Parágrafo único - Entende-se por avaliação documental o processo de análise que permite a 
+identificação dos valores dos documentos, para fins da definição de seus prazos de guarda e de 
+sua destinação. 
+
+Artigo 8º - A Tabela de Temporalidade de Documentos da Prefeitura Municipal deve indicar para 
+cada série documental que compõe o Plano de Classificação, os prazos de guarda e a destinação 
+dos documentos. 
+
+§  1º  -  Entende-se  por  destinação  a  decisão  decorrente  da  avaliação  documental,  que 
+
+determina o seu encaminhamento. 
+
+§ 2º - Será destinado para eliminação, após o cumprimento dos respectivos prazos de guarda, 
+
+o documento que não apresentar valor que justifique sua guarda permanente. 
+
+§ 3º - Será destinado para guarda permanente o documento que for considerado de valor 
+
+histórico, probatório e informativo. 
+
+§ 4º - Para cada série documental deverão ser registrados, a título de observações, os atos 
+legais  e  as  razões  de  natureza  administrativa  que  fundamentaram  a  indicação  dos  prazos 
+propostos  ou  ainda  informações  relevantes  sobre  a  produção,  guarda  ou  conteúdo  do 
+documento. 
+
+Artigo 9º - Para cada série documental deverá ser indicado o correspondente prazo de guarda, ou 
+seja, o tempo de permanência de cada conjunto documental nos lugares indicados, a saber: 
+
+I -  unidade  produtora: deve ser  indicado o número de anos em que o documento deverá 
+
+permanecer no arquivo corrente, cumprindo a finalidade para a qual foi produzido; 
+
+II -  unidade  com  atribuições  de  arquivo:  deve  ser  indicado  o  número  de  anos  em  que  o 
+documento  deverá  permanecer  na  unidade  com  atribuições  de  arquivo  da  Prefeitura 
+Municipal cumprindo prazos prescricionais ou precaucionais. 
+
+Parágrafo único - Esgotada a vigência do documento, fica autorizada a sua eliminação, desde 
+que cumprido o prazo de guarda previsto na unidade produtora e na unidade com atribuições 
+de arquivo da Prefeitura Municipal de 
+
+. 
+
+Artigo 10 -  Os prazos considerados para  a  definição do tempo de guarda  na unidade 
+produtora ou na unidade com atribuições de arquivo da Prefeitura Municipal são os seguintes:  
+
+I - prazo de vigência: intervalo de tempo durante o qual o documento produz efeitos 
+administrativos  e  legais  plenos,  cumprindo  as  finalidades  que  determinaram  sua 
+
+produção. 
+
+II - prazo de prescrição: intervalo de tempo durante o qual pode-se invocar a tutela do Poder 
+Judiciário  para  fazer  valer  direitos  eventualmente  violados.  O  tempo  de  guarda  dos 
+documentos será dilatado sempre que ocorrer a interrupção ou suspensão da prescrição, 
+em conformidade com a legislação vigente. 
+
+59 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+III - prazo de precaução: intervalo de tempo durante o qual guarda-se o documento por 
+
+precaução, antes de eliminá-lo ou encaminhá-lo para guarda permanente. 
+
+SEÇÃO V 
+Da Eliminação de Documentos de Guarda Temporária 
+
+Artigo  11  -  A  eliminação  de  documentos  da  Prefeitura  Municipal  é  decorrente  do  trabalho  de 
+avaliação documental conduzido pela Comissão de Avaliação de Documentos e Acesso e deverá  ser 
+executada de acordo com os procedimentos estabelecidos neste Decreto. 
+
+Artigo 12 - Toda e qualquer eliminação de documentos públicos que não constem da  Tabela  de 
+Temporalidade  de Documentos  da Prefeitura  Municipal,  será  realizada mediante  autorização do 
+Arquivo Público da Prefeitura Municipal. 
+
+Artigo  13  -  O  registro  dos  documentos  a  serem  eliminados  deverá  ser  efetuado  por  meio  de 
+“Relação de Eliminação de Documentos”, conforme modelo constante do Anexo IV, que faz parte 
+integrante deste Decreto. 
+
+Artigo 14 – A Comissão de Avaliação de Documentos e Acesso, em decorrência da aplicação das 
+Tabelas de Temporalidade de Documentos, farão publicar no DIÁRIO OFICIAL DO MUNICÍPIO  OU 
+JORNAL  OFICIAL  OU  JORNAL  DE  CIRCULAÇÃO  LOCAL  o  “Edital  de  Ciência  de  Eliminação  de 
+Documentos”, conforme modelo constante do Anexo V, que faz parte integrante deste Decreto. 
+
+§ 1º - O “Edital de Ciência de Eliminação de Documentos” tem por objetivo dar publicidade 
+ao  ato  de  eliminação  de  documentos,  devendo  conter  informações  sobre  os  documentos  a 
+serem eliminados. 
+
+§ 2º - O “Edital de Ciência de Eliminação de Documentos” deverá consignar um prazo de 30 
+(trinta)  dias  para  possíveis  manifestações  ou,  quando  for  o  caso,  possibilitar  às  partes 
+interessadas requererem o desentranhamento de documentos ou cópias de peças de processos 
+ou expedientes. 
+
+Artigo 15 - O registro das informações relativas à execução da eliminação deverá ser efetuado por 
+meio do “Termo de Eliminação de Documentos”, preenchido conforme modelo constante do Anexo 
+VI, que faz parte integrante deste Decreto. 
+
+Parágrafo  único  -  O  “Termo  de  Eliminação  de  Documentos”  será  arquivado  no  Arquivo 
+Público da Prefeitura Municipal para a consolidação de dados e a realização de estudos técnicos 
+na área de gestão de documentos. 
+
+Artigo 16 - Dos documentos destinados à eliminação serão selecionadas amostragens para guarda 
+permanente. 
+
+Parágrafo único - Considera-se amostragem documental o fragmento representativo de um 
+conjunto de documentos destinado à eliminação, selecionado por meio de critérios qualitativos 
+e quantitativos. 
+
+SEÇÃO VI 
+Da Guarda Permanente de Documentos 
+
+Artigo 17 - São considerados documentos de guarda permanente: 
+
+60 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+§ 1º - os indicados na Tabela de Temporalidade de Documentos, que serão definitivamente 
+
+preservados; 
+
+§  2º  -  todos  os  processos,  expedientes  e  demais  documentos  produzidos,  recebidos  ou 
+
+acumulados pela Prefeitura Municipal até o ano de 
+
+. 
+
+NOTA EXPLICATIVA 3: 
+
+O  estabelecimento  de  um  marco  cronológico  que  defina  que  todos  os  documentos 
+produzidos ou recebidos antes da determinada data são de guarda permanente (logo não 
+serão submetidos à avaliação) pode ser um recurso jurídico interessante (opcional). 
+
+O  Plano  de  Classificação  é  elaborado  com  base  na  produção  atual  de  documentos  do 
+executivo municipal. No caso das Prefeituras mais antigas ou de Municípios de grande porte 
+com  expressiva  produção  de  documentos,  pode  ser  difícil  aplicar  o  plano  à  massa 
+documental mais antiga. Nestes casos, pode ser útil este dispositivo. 
+
+Portanto,  o  “corte  cronológico”  é  opcional  e  em  cada  Prefeitura  pode  ser  adotado  um 
+critério, baseado na história e idade do Município e da Prefeitura. 
+
+Artigo  18  -  Os  documentos  de  guarda  permanente  não  poderão  ser  eliminados  após  a 
+microfilmagem, digitalização ou qualquer outra forma de reprodução, devendo ser recolhidos 
+ao Arquivo Público da Prefeitura Municipal. 
+
+Parágrafo  único  -  Os  documentos  de  guarda  permanente,  ao  serem  transferidos  ou 
+recolhidos  ao  Arquivo  Público  da Prefeitura  Municipal,  deverão estar  avaliados,  organizados, 
+higienizados  e  acondicionados,  bem  como  acompanhados  de  instrumento  descritivo  que 
+permita sua identificação, acesso e controle. 
+
+Artigo 19 - Ficará sujeito à responsabilidade penal, civil e administrativa, na forma da legislação 
+em vigor, aquele que destruir, inutilizar ou deteriorar documentos de guarda permanente. 
+
+SEÇÃO VII 
+Da Comissão de Avaliação de Documentos e Acesso - CADA 
+
+Artigo 20 – A Comissão de Avaliação de Documentos e Acesso – CADA é um grupo permanente 
+e multidisciplinar  instituído  no  âmbito  da Prefeitura Municipal  nos termos  do artigo (CITAR  A 
+NORMA QUE INSTITUIU A COMISSÃO/ANO), responsável pela elaboração e aplicação do Plano 
+de Classificação e da Tabela de Temporalidade de Documentos. 
+
+Parágrafo único - A Comissão de Avaliação de Documentos e Acesso - CADA deverá propor 
+critérios  para  orientar  a  seleção  de  amostragens  dos  documentos  destinados  à  eliminação, 
+conforme o disposto no artigo 16, parágrafo único deste decreto. 
+
+Artigo 21 - À Comissão de Avaliação de Documentos e Acesso - CADA caberá consultar, em caso 
+de dúvida, a Procuradoria Jurídica da Prefeitura Municipal acerca das ações judiciais encerradas 
+ou em curso nas quais a Prefeitura Municipal figure como autora ou ré, para que se possa dar 
+cumprimento  aos  prazos  prescricionais  e  precaucionais  de  guarda  previstos  nas  Tabelas  de 
+Temporalidade de Documentos 
+
+61 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Artigo 22 - À Comissão de Avaliação de Documentos e Acesso - CADA cabe a atualização do Plano 
+de  Classificação  de  Documentos  e  da  Tabela  de  Temporalidade  de  Documentos  decorrentes do 
+exercício das funções e atividades da Prefeitura Municipal. 
+
+§  1º-  As  propostas  de  revisão  ou  atualização  do  Plano  de  Classificação  e  da  Tabela  de 
+Temporalidade de Documentos da Prefeitura Municipal deverão ser encaminhadas ao Arquivo 
+Público da Prefeitura Municipal para aprovação e posteriormente oficializadas. 
+
+§ 2º- Ao Arquivo Público da Prefeitura Municipal caberá o reexame, a qualquer tempo, do 
+
+Plano de Classificação e da Tabela de Temporalidade de Documentos. 
+
+Artigo 23 - Para garantir a efetiva aplicação do Plano de Classificação e da Tabela de Temporalidade 
+de  Documentos,  a  Comissão  de  Avaliação  de  Documentos  e  Acesso  –  CADA  deverá  solicitar  as 
+providências necessárias para sua inclusão nos sistemas informatizados utilizados nos protocolos e 
+arquivos de seus respectivos SETORES/UNIDADES/ÓRGÃOS. 
+
+SEÇÃO VIII 
+Disposições Finais 
+
+que 
+
+compete, 
+Artigo  24  -  Ao  Arquivo  Público  da  Prefeitura  Municipal  de 
+sempre 
+aos 
+técnica 
+SETORES/UNIDADES/ÓRGÃOS e aos membros da Comissão de Avaliação de Documentos e Acesso 
+– CADA para elaboração e aplicação do Plano de Classificação e da Tabela de Temporalidade de 
+Documentos. 
+
+arquivística 
+
+orientação 
+
+solicitado, 
+
+área 
+
+dar 
+
+na 
+
+Artigo 25 - As transferências e os recolhimentos deverão obedecer aos cronogramas definidos pelo 
+próprio Arquivo Público da Prefeitura Municipal. 
+
+Artigo  26  -  As  disposições  deste  decreto  aplicam-se  também  aos  documentos  arquivísticos 
+eletrônicos, nos termos da lei. 
+
+Artigo 27 - Este decreto entra em vigor na data de sua publicação. 
+
+PREFEITURA MUNICIPAL DE 
+
+, 
+
+de 
+
+de 
+
+. 
+
+NOME DO PREFEITO 
+
+Prefeito Municipal de   
+
+62 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+11. ANEXOS DA MINUTA 6 
+
+MINUTA 6 
+
+ANEXO I 
+MODELO DE PLANO DE CLASSIFICAÇÃO DE DOCUMENTOS 
+
+O Modelo do Plano de Classificação de Documentos das atividades-meio consta das folhas 1 a 31 
+do arquivo no seguinte  endereço eletrônico: 
+http://www.arquivoestado.sp.gov.br/uploads/publicacoes/material_apoio/ttd_meio_municip 
+al_funcoes_001_006_plano_tabela.pdf. Acesso em: 21 jul. 2023. 
+
+O Modelo do Plano de Classificação de Documentos das atividades-fim consta das folhas 1 a 30 do 
+arquivo disponível do seguinte endereço eletrônico: 
+http://www.arquivoestado.sp.gov.br/uploads/publicacoes/material_apoio/ttd_fim_municipal 
+
+_funcoes_011_019_plano_tabela.pdf. Acesso em: 21 jul. 2023. 
+
+63 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+MINUTA 6 
+ANEXO II 
+ÍNDICE 
+
+O  Modelo  de  Índice  de  Documentos  das  atividades-meio  consta  das  folhas  127  a  168  do 
+arquivo disponível noseguinte endereço eletrônico: 
+http://www.arquivoestado.sp.gov.br/uploads/publicacoes/material_apoio/ttd_meio_municip 
+al_funcoes_001_006_plano_tabela.pdf. Acesso em: 21 jul. 2023. 
+
+O  Modelo  do  Índice  de  Documentos  das  atividades-fim consta  das  folhas 114  a  155  do  arquivo 
+eletrônico: 
+disponível 
+http://www.arquivoestado.sp.gov.br/uploads/publicacoes/material_apoio/ttd_fim_municipal 
+
+endereço 
+
+seguinte 
+
+no 
+
+_funcoes_011_019_plano_tabela.pdf. Acesso em:  21 jul. 2023.
+
+64 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+MINUTA 6 
+
+ANEXO III 
+MODELO DE TABELA DE TEMPORALIDADE DE 
+DOCUMENTOS 
+
+O Modelo da Tabela de Temporalidade de Documentos das atividades-meio consta das folhas 33 a 126 
+do arquivo disponível no seguinte endereço eletrônico: 
+http://www.arquivoestado.sp.gov.br/uploads/publicacoes/material_apoio/ttd_meio_municip 
+al_funcoes_001_006_plano_tabela.pdf.Acesso em:  21 jul. 2023. 
+
+O Modelo da Tabela de Temporalidade de Documentos das atividades-fim consta das folhas 32 a 113 
+do arquivo disponível no seguinte endereço eletrônico: 
+http://www.arquivoestado.sp.gov.br/uploads/publicacoes/material_apoio/ttd_fim_municipal 
+
+_funcoes_011_019_plano_tabela.pdf. Acesso em:  21 jul. 2023. 
+
+65 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+MINUTA 6 
+
+ANEXO IV 
+RELAÇÃO DE ELIMINAÇÃO DE DOCUMENTOS 
+
+PREFEITURA MUNICIPAL DE XXX 
+
+COMISSÃO DE AVALIAÇÃO DE DOCUMENTOS E ACESSO - CADA 
+RELAÇÃO DE ELIMINAÇÃO DE DOCUMENTOS Nº XX/ANO 
+
+Função: 
+Subfunção: 
+Atividade: 
+Série Documental: 
+Datas-limite: 
+Quantidades (nº de caixas ou metros lineares): 
+Observações complementares: 
+
+Função: 
+Subfunção: 
+Atividade: 
+Série Documental: 
+Datas-limite: 
+Quantidades (nº de caixas ou metros lineares): 
+Observações complementares: 
+
+Função: 
+Subfunção: 
+Atividade: 
+Série Documental: 
+Datas-limite: 
+Quantidades (nº de caixas ou metros lineares): 
+Observações complementares: 
+
+Total de caixas: 
+Total de metros lineares: 
+
+Local e data: 
+
+Nome do (a) Coordenador da Comissão de Avaliação de Documentos e Acesso - CADA: 
+Assinatura: 
+
+66 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+MINUTA 6 
+
+ANEXO V 
+EDITAL DE CIÊNCIA DE ELIMINAÇÃO DE DOCUMENTOS 
+
+COMISSÃO DE AVALIAÇÃO DE DOCUMENTOS E ACESSO - CADA 
+
+PREFEITURA MUNICIPAL DE XXX 
+
+EDITAL DE CIÊNCIA DE ELIMINAÇÃO DE DOCUMENTOS Nº XX / ANO 
+
+O(A) Coordenador(a) da Comissão de Avaliação de Documentos e Acesso - CADA, instituída pela 
+RESOLUÇÃO/PORTARIA/ATO nº XXXX, publicada(o) no DIÁRIO OFICIAL DO MUNICÍPIO  OU  JORNAL 
+OFICIAL  OU JORNAL DE CIRCULAÇÃO LOCAL  de  XX/ XX /  XXXX  , em conformidade com os prazos 
+(quando 
+definidos na Tabela de Temporalidade de Documentos da Prefeitura Municipal  de 
+se  tratar  da eliminação  de  documentos que não constam da Tabela de Temporalidade oficializada, 
+a  redação  será:  EM  CONFORMIDADE COM  A  RELAÇÃO  DE  ELIMINAÇÃO  DE  DOCUMENTOS 
+APROVADA PELO DIRETOR/COORDENADOR  DO  ARQUIVO  PÚBLICO  DA  PREFEITURA  MUNICIPAL 
+NO  OFÍCIO  Nº XXX, DE XX/XX/XXXX ), faz saber a quem possa interessar que, a partir do 30º dia 
+subsequente à data de publicação deste Edital, a Prefeitura Municipal de 
+os 
+documentos abaixo relacionados. 
+
+eliminará 
+
+Os  interessados  poderão  requerer  às  suas  expensas,  no  prazo  citado,  o  desentranhamento  de 
+documentos  ou  cópias  de  peças  do  processo,  mediante  petição,  desde  que  tenha  respectiva 
+qualificação  e  demonstração  de  legitimidade  do  pedido,  dirigida  à  Comissão  de  Avaliação  de 
+Documentos e Acesso. 
+
+Função: 
+Subfunção: 
+Atividade: 
+Série Documental: 
+Datas-limite: 
+Quantidades (nº de caixas ou metros lineares): 
+Observações complementares: 
+
+Função: 
+Subfunção: 
+Atividade: 
+Série Documental: 
+Datas-limite: 
+Quantidades (nº de caixas ou metros lineares): 
+Observações complementares: 
+
+Total de caixas: 
+Total de metros lineares: 
+
+67 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+MINUTA 6 
+
+ANEXO VI 
+TERMO DE ELIMINAÇÃO DE DOCUMENTOS 
+
+ COMISSÃO DE AVALIAÇÃO DE DOCUMENTOS E ACESSO - CADA 
+
+PREFEITURA MUNICIPAL DE XXX 
+
+TERMO DE ELIMINAÇÃO DE DOCUMENTOS Nº XX / ANO 
+
+Aos   XX   dias   do   mês   de   XX   do   ano   de   XXXX,   a   Prefeitura   Municipal   de ____________,, 
+em conformidade com os prazos definidos na Tabela de Temporalidade de Documentos da Prefeitura 
+Municipal  (quando  se  tratar  da  eliminação  de  documentos  que  não  constam  da  Tabela  de 
+Temporalidade oficializada, a redação será: EM CONFORMIDADE COM A RELAÇÃO DE ELIMINAÇÃO DE 
+DOCUMENTOS  APROVADA  PELO  DIRETOR/COORDENADOR  DO  ARQUIVO  PÚBLICO  DA  PREFEITURA 
+MUNICIPAL  NO  OFÍCIO  Nº  XXX,  DE  XX/XX/XXXX),  procedeu  à  eliminação  dos  documentos  abaixo 
+relacionados: 
+
+Função: 
+Subfunção: 
+Atividade: 
+Série Documental: 
+Datas-limite: 
+Quantidades (nº de caixas ou metros lineares): 
+Observações complementares: 
+
+Função: 
+Subfunção: 
+Atividade: 
+Série Documental: 
+Datas-limite: 
+Quantidades (nº de caixas ou metros lineares): 
+Observações complementares: 
+
+Nome e assinatura do representante da Comissão de Avaliação de Documentos e Acesso - CADA 
+que presenciou a eliminação dos documentos: 
+
+68 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+12. ATOS NOMATIVOS DE REFERÊNCIA À GESTÃO 
+DOCUMENTAL NAS ADMINISTRAÇÕES MUNICIPAIS 
+
+O Arquivo Público do Estado, unidade responsável pela gestão do Sistema de Arquivos do 
+Estado  de  São  Paulo  (SAESP),  no  cumprimento  de  suas  atribuições,  define  normas  e 
+procedimentos e orienta os órgãos e entidades da Administração Pública do Estado. 
+
+Dentre os atos normativos já aprovados, apontamos três Portarias que podem subsidiar a 
+gestão de documentos digitais nas administrações municipais: 
+
+• Portaria UAPESP/SAESP-5, de 05/08/2021 
+
+Orienta  os  órgãos  e  entidades  da  Administração  Pública  Estadual  sobre  a 
+digitalização  de  documentos  públicos,  a  gestão  e  a  preservação  de  seus 
+representantes  digitais  para  que  produzam  os  mesmos  efeitos 
+legais  de 
+documentos originais. Disponível 
+http://www.arquivoestado.sp.gov.br/web/institucional/legislacao.  Acesso  em:  26 
+jul. 2023. 
+
+em: 
+
+•  Portaria  UAPESP/SAESP-9,  de  18/4/2022.  Acrescenta  o  ANEXO  II  à  Portaria 
+UAPESP/SAESP - 1, de 4-12-2018, com as especificações técnicas para contratação 
+de  serviços  de  digitalização  de  documentos  públicos  estaduais.  Disponível  em: 
+http://www.arquivoestado.sp.gov.br/uploads/legislacao/portaria_uapesp_saesp_
+9_de_18_4_2022.pdf. Acesso em: 26 jul. 2023.  
+
+•  Portaria  UAPESP/SAESP  nº  10,  de  14/12/2022.  Estabelece  critérios  e 
+procedimentos complementares para a eliminação, transferência ou recolhimento 
+de  documentos  digitais,  produzidos  e  armazenados  por  órgãos  e  entidades 
+integrantes  do  Sistema  de  Arquivos  do  Estado  de  São  Paulo  –  SAESP,  para  os 
+repositórios  arquivísticos  digitais  confiáveis  da  Unidade  do  Arquivo  Público  do 
+Estado 
+em: 
+http://www.arquivoestado.sp.gov.br/uploads/legislacao/portaria_uapesp_saesp_
+10_de_14_12_2022.pdf. Acesso em: 26 jul. 2023. 
+
+Disponível 
+
+UAPESP. 
+
+– 
+
+69 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+13. BIBLIOGRAFIA 
+
+ARQUIVO NACIONAL (Brasil). Dicionário Brasileiro de Terminologia Arquivística, Arquivo 
+Nacional, RJ, 2005, pag. 27 a 36. Disponível em: https://www.gov.br/conarq/pt-br/centrais-
+de-conteudo/publicacoes/dicionrio_de_terminologia_arquivistica.pdf. Acesso em: 26 jul. 
+2023. 
+
+ARQUIVO PÚBLICO DO ESTADO (São Paulo). Modelo de Plano de Classificação e Tabela de 
+Temporalidade de Documentos do Poder Legislativo Municipal (Atividades: fim e meio), 
+2018. Disponível em:  
+http://www.arquivoestado.sp.gov.br/uploads/publicacoes/livros/modelo_de_plano_de_
+classificacao_e_tabela_de_temporalidade_de_documentos_do_poder_legislativo_munic
+ipal__atividades__fim_e_meio.pdf. Acesso em: 26 jul. 2023. 
+
+ARQUIVO PÚBLICO DO ESTADO (São Paulo). Plano de Classificação e Tabela de 
+Temporalidade da Administração Pública do Estado de São Paulo: Atividades-Meio. São 
+Paulo: Arquivo Público do Estado, 2018. Disponível em:  
+http://www.arquivoestado.sp.gov.br/uploads/publicacoes/livros/1_reimpressao_da_2_edica
+o_plano_de_classificacao_e_tabela_de_temporalidade_de_documentos_da_administracao_
+publica_do_estado_de_sao_paulo__atividades_meio.pdf. Acesso em: 26 jul. 2023.  
+
+ARQUIVO PÚBLICO DO ESTADO (São Paulo). Roteiro para elaboração de Plano de 
+Classificação e Tabela de Temporalidade de Documentos das Atividades-fim. Arquivo 
+Público do Estado de São Paulo. São Paulo: Arquivo Público do Estado, 2018. Disponível em: 
+http://www.arquivoestado.sp.gov.br/uploads/publicacoes/livros/roteiro_para_elaboracao_d
+e_plano_de_classificacao_e_ttdaf.pdf. Acesso em: 26 jul. 2023. 
+
+ARQUIVO PÚBLICO DO ESTADO e TRIBUNAL DE CONTAS DO ESTADO DE SÃO PAULO. Guia 
+técnico de transparência municipal. São Paulo: APESP; TCESP, 2018. Disponível em:  
+http://www.arquivoestado.sp.gov.br/uploads/publicacoes/livros/guia_tecnico_de_transpare
+ncia_municipal.pdf. Acesso em: 26 jul. 2023. 
+
+ARQUIVO PÚBLICO DO ESTADO (São Paulo). Modelo de Plano de Classificação e Tabela de 
+Atividades-
+Temporalidade de Documentos do Poder Executivo Municipal 
+Meio, 2021. Disponível 
+http://www.arquivoestado.sp.gov.br/uploads/publicacoes/material_apoio/ttd_meio_mu
+nicip al_funcoes_001_006_plano_tabela.pdf. Acesso em: 26 jul. 2023. 
+
+em: 
+
+– 
+
+ARQUIVO PÚBLICO DO ESTADO (São Paulo). Modelo de Plano de Classificação e Tabela de 
+Municipal  –  Atividades-Fim, 
+Temporalidade de Documentos do Poder Executivo 
+2021. Disponível  em: 
+http://www.arquivoestado.sp.gov.br/uploads/publicacoes/material_apoio/ttd_fim_muni
+cipal_funcoes_011_019_plano_tabela.pdf. Acesso em: 26 jul. 2023. 
+
+70 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ARQUIVO PÚBLICO DO ESTADO (São Paulo). Política Pública de Arquivos e Gestão 
+Documental do Estado de São Paulo / Ieda Pimenta Bernardes, Camila Giovana Ribeiro, 
+Maria Elisa Pereira (organizadoras). – 4. ed. rev. e ampl. – São Paulo: Arquivo Público do 
+Estado, 2022. Disponível em:  
+http://www.arquivoestado.sp.gov.br/uploads/publicacoes/livros/politica_publica_de_arquiv
+os_e_gestao_documental_do_estado_de_sao_paulo_4_ed.pdf. Acesso em: 26 jul. 2023. 
+
+ARQUIVO PÚBLICO DO ESTADO (São Paulo). Política de Gestão e Preservação de 
+Documentos Digitais. São Paulo: Arquivo Público do Estado, 2022. Disponível em:  
+http://www.arquivoestado.sp.gov.br/uploads/publicacoes/livros/politica_de_gestao_e_prese
+rvacao_de_documentos_digitais.pdf. Acesso em: 26 jul. 2023. 
+
+BERNARDES, Ieda Pimenta. Os desafios da gestão e preservação de documentos arquivísticos 
+digitais. In: Revista do Arquivo: uma publicação online do Arquivo Público do Estado de São 
+Paulo. São Paulo, Ano III, n. 6, abril de 2018, p. 190-207. Disponível em: 
+http://www.arquivoestado.sp.gov.br/revista_do_arquivo/06/especial_seminario_apresentac
+ao_01.php. Acesso em: 26 jul. 2023. 
+
+CONSELHO INTERNACIONAL DE ARQUIVOS. Declaração Universal sobre os Arquivos, 2010. 
+Disponível em: https://www.ica.org/sites/default/files/ICA_2010_Universal-Declaration-on-
+Archives_PT.pdf. Acesso em: 26 jul. 2023. 
+
+CONSELHO NACIONAL DE ARQUIVOS (Brasil). Recomendações para a Construção de 
+Arquivos. Rio de Janeiro: Conselho Nacional de Arquivos, 2000. Disponível em: 
+https://www.gov.br/conarq/pt-br/centrais-de- 
+conteudo/publicacoes/recomendaes_para_construo_de_arquivos.pd. Acesso em: 21 jul. 2023. 
+
+CONSELHO NACIONAL DE ARQUIVOS (Brasil). Guia resumido de como criar um Arquivo 
+Público Municipal: Transparência e acesso à informação para o exercício da cidadania. Rio 
+de Janeiro – 2014.Disponível em: https://www.gov.br/conarq/pt-br/centrais-de-
+conteudo/publicacoes/EARQV205MAI2022.pdf. Acesso em: 26 jul. 2023.  
+
+CONSELHO NACIONAL DE ARQUIVOS (Brasil). e-ARQ Brasil: Modelo de Requisitos para 
+Sistemas Informatizados de Gestão Arquivística de Documentos. [recurso eletrônico] / 
+Câmara Técnica de Documentos Eletrônicos. 2. versão. ‒ Dados eletrônicos (1 arquivo : 1 
+MB). ‒ Rio de Janeiro, Arquivo Nacional, 2022.Disponível em https://www.gov.br/conarq/pt-
+br/centrais-de-conteudo/publicacoes/EARQV205MAI2022.pdf. Acesso em: 26 jul. 2023. 
+
+SÃO PAULO. Secretaria de Estado de Gestão e Governo Digital. Manual do Usuário do Sistema 
+Eletrônico de Informações (SEI): Seu dia a dia ganha um novo aliado. Governo do Estado: São 
+Paulo, 
+https://portal.sei.sp.gov.br/wp-
+Disponível 
+content/uploads/2023/05/Manual_SEI_SP.pdf. Acesso em: 26 jul. 2023. 
+
+2023. 
+
+em: 
+
+71 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+14. LEGISLAÇÃO  
+
+ARQUIVO PÚBLICO DO ESTADO (São Paulo). Portaria UAPESP/SAESP-5, de 05/08/2021. 
+Orienta os órgãos e entidades da Administração Pública Estadual sobre a digitalização de 
+documentos públicos, a gestão e a preservação de seus representantes digitais para que 
+produzam os mesmos efeitos legais de documentos originais. Disponível  em: 
+http://www.arquivoestado.sp.gov.br/web/institucional/legislacao. Acesso em: 26 jul. 2023. 
+
+ARQUIVO PÚBLICO DO ESTADO (São Paulo). Portaria UAPESP/SAESP-9, de 18/4/2022. 
+Acrescenta o ANEXO II à Portaria UAPESP/SAESP - 1, de 4-12-2018, com as especificações 
+técnicas para contratação de serviços de digitalização de documentos públicos estaduais. 
+Disponível em: 
+http://www.arquivoestado.sp.gov.br/uploads/legislacao/portaria_uapesp_saesp_9_de_18_4
+_2022.pdf. Acesso em: 26 jul. 2023. 
+
+ARQUIVO PÚBLICO DO ESTADO (São Paulo). Portaria UAPESP/SAESP nº 10, de 14/12/2022. 
+Estabelece critérios e procedimentos complementares para a eliminação, transferência ou 
+recolhimento de documentos digitais, produzidos e armazenados por órgãos e entidades 
+integrantes do Sistema de Arquivos do Estado de São Paulo – SAESP, para os repositórios 
+arquivísticos digitais confiáveis da Unidade do Arquivo Público do Estado – UAPESP. São 
+Paulo: Arquivo Público do Estado, 2022. Disponível em: 
+http://www.arquivoestado.sp.gov.br/uploads/legislacao/portaria_uapesp_saesp_10_de_14_
+12_2022.pdf. Acesso em: 26 jul. 2023. 
+
+BRASIL. Constituição (1988). Constituição da República Federativa do Brasil. Brasília, DF: 
+Senado, 1988. Disponível em: 
+http://www.planalto.gov.br/ccivil_03/Constituicao/Constituicao.htm. Acesso em: 26 jul. 
+2023. 
+
+BRASIL. Decreto-Lei nº 2.848, 07 de dezembro de 1940. Código Penal. Disponível em 
+http://www.planalto.gov.br/CCIVIL_03/Decreto-Lei/Del2848.htm. Acesso em: 26 jul. 2023. 
+
+BRASIL. Decreto Federal nº 1.799, de 30 de janeiro de 1996. Regulamenta a Lei 5.433, de 8 
+de maio de 1968, que regula a micorfilmagem de documentos oficiais , e dá outras 
+providências. Brasília, DF, 1996. Disponível em: 
+http://www.planalto.gov.br/ccivil_03/decreto/Antigos/D1799.htm. Acesso em: 26 jul. 2023. 
+
+BRASIL. Decreto Federal nº 5.296, de 02 de dezembro de 2004. Regulamenta as Leis nºs 
+10.048, de 8 de novembro de 2000, que dá prioridade de atendimento às pessoas que 
+especifica, e 10.098, de 19 de dezembro de 2000, que estabelece normas gerais e critérios 
+básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com 
+mobilidade reduzida, e dá outras providências. Brasília, DF, 2004. Disponível em: 
+http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/decreto/D5296.htm. Acesso em: 
+26 jul. 2023. 
+
+72 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+
+BRASIL. Decreto federal n.º 6.514, de 22 de julho de 2008. Dispõe sobre as infrações e sanções 
+administrativas ao meio ambiente, estabelece o processo administrativo federal para apuração 
+destas infrações, e dá outras providências. Disponível em: 
+http://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Decreto/D6949.htm. Acesso em: 26 jul. 
+2023. 
+
+BRASIL. Decreto Federal nº 6.949, de 25 de agosto de 2009. Promulga a Convenção 
+Internacional sobre os Direitos das Pessoas com Deficiência e seu Protocolo Facultativo, 
+assinados em Nova York, em 30 de março de 2007. Disponível em: 
+http://www.planalto.gov.br/ccivil_03/_Ato2007-2010/2009/Decreto/D6949.htm. Acesso em: 26 jul. 
+2023. 
+
+BRASIL. Decreto Federal nº 7.724, de 16 de maio de 2012. Regulamenta a Lei no 12.527, de 
+18 de novembro de 2011, que dispõe sobre o acesso a informações previsto no inciso XXXIII 
+do caput do art. 5⁰, no inciso II do § 3⁰ do art. 37 e no § 2⁰ do art. 216 da Constituição. 
+Brasília, DF, 2012. Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2011-
+2014/2012/decreto/D7724.htm. Acesso em: 26 jul. 2023. 
+
+BRASIL. Decreto Federal nº 10.278/2020. Regulamenta o disposto no inciso X do caput do art. 
+3º da Lei nº 13.874, de 20 de setembro de 2019, e no art. 2º-A da Lei nº 12.682, de 9 de julho 
+de 2012, para estabelecer a técnica e os requisitos para a digitalização de documentos 
+públicos ou privados, a fim de que os documentos digitalizados produzam os mesmos efeitos 
+legais dos documentos originais. Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2019-
+2022/2020/decreto/D10278.htm. Acesso em: 26 jul. 2023. 
+
+BRASIL. Decreto Federal nº 10.540, de 05 de novembro de 2020. Dispõe sobre o padrão 
+mínimo de qualidade do Sistema Único e Integrado de Execução Orçamentária, 
+Administração Financeira e Controle, Brasília, DF, 2020. Disponível em: 
+http://www.planalto.gov.br/ccivil_03/_Ato2019-2022/2020/Decreto/D10540.htm#art19. Acesso em: 
+26 jul. 2023. 
+
+BRASIL. Lei Complementar nº 131, de 27 de maio de 2009. Acrescenta dispositivos 123 à Lei 
+Complementar no 101, de 4 de maio de 2000, que estabelece normas de finanças públicas 
+voltadas para a responsabilidade na gestão fiscal e dá outras providências, a fim de 
+determinar a disponibilização, em tempo real, de informações pormenorizadas sobre a 
+execução orçamentária e financeira da União, dos Estados, do Distrito Federal e dos 
+Municípios. Brasília, DF, 2009. Disponível em: 
+http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp131.htm. Acesso em: 26 jul. 2023. 
+
+BRASIL. Lei Complementar nº 141, de 13 de janeiro de 2012. Regulamenta o § 3o do art. 198 
+da Constituição Federal para dispor sobre os valores mínimos a serem aplicados anualmente 
+pela União, Estados, Distrito Federal e Municípios em ações e serviços públicos de saúde; 
+estabelece os critérios de rateio dos recursos de transferências para a saúde e as normas de 
+fiscalização, avaliação e controle das despesas com saúde nas 3 (três) esferas de governo; 
+revoga dispositivos das Leis nos 8.080, de 19 de setembro de 1990, e 8.689, de 27 de julho de 
+1993; e dá outras providências. Brasília, DF, 2012. Disponível em: 
+http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp141.htm. Acesso em: 26 jul. 2023. 
+
+73 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+BRASIL. Lei federal nº 6.546, de 4 de julho de 1978. Dispõe sobre  regulamentação das 
+profissões de Arquivista e de Técnico de Arquivo, e dá outras providências.Disponível em: 
+http://www.planalto.gov.br/ccivil_03/leis/1970-1979/L6546.htm. Acesso em: 26 jul. 2023. 
+
+BRASIL. Lei federal nº 8.159, de 08 de janeiro de 1991. Dispõe sobre a política nacional 
+de arquivos públicos e privados e dá oputras providências. Disponível em: 
+http://www.planalto.gov.br/ccivil_03/Leis/L8159.htm. Acesso em: 26 jul. 2023. 
+
+BRASIL. Lei federal nº 9.605, de 12 de fevereiro de 1998. Dispõe sobre as sanções penais e 
+administrativas derivadas de condutas e atividades lesivas ao meio ambiente, e dá outras 
+providências. Disponível em: http://www.planalto.gov.br/ccivil_03/leis/L9605.htm. Acesso em: 26 
+jul. 2023. 
+
+BRASIL. Lei Federal nº 9.755, de 16 de dezembro de 1998. Dispõe sobre a criação de 
+“homepage” na “Internet”, pelo Tribunal de Contas da União, para divulgação dos dados e 
+informações que especifica, e dá outras providências. Brasília, DF, 1998. Disponível em: 
+http://www.planalto.gov.br/ccivil_03/leis/L9755.htm. Acesso em: 26 jul. 2023.  
+
+BRASIL. Lei Federal nº 12.527, de 18 de novembro de 2011. Regula o acesso a informações 
+previsto no inciso XXXIII do art. 5⁰ , no inciso II do § 3⁰ do art. 37 e no § 2⁰ do art. 216 da 
+Constituição Federal; altera a Lei no 8.112, de 11 de dezembro de 1990; revoga a Lei no 
+11.111, de 5 de maio de 2005, e dispositivos da Lei no 8.159, de 8 de janeiro de 1991; e dá 
+outras providências. Brasília, DF, 2011. Disponível em: . Acesso em: Disponível em: 
+http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/L12527.htm. Acesso em: 26 jul. 
+2023. 
+
+BRASIL. Lei Federal nº 12.682, de 9 de julho de 2012. Dispõe sobre a elaboração e o 
+arquivamento de documentos em meios eletromagnéticos.Disponível em: 
+http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2012/lei/L12682.htm.  Acesso em: 26 
+jul. 2023. Alterada pela Lei Federal nº 13.874, de 20 de setembro de 2019. 
+
+BRASIL. Lei Federal nº 13.874, de 20 de setembro de 2019.  Institui a Declaração de Direitos 
+de Liberdade Econômica; estabelece garantias de livre mercado; altera as Leis nos 10.406, de 
+10 de janeiro de 2002 (Código Civil), 6.404, de 15 de dezembro de 1976, 11.598, de 3 de 
+dezembro de 2007, 12.682, de 9 de julho de 2012, 6.015, de 31 de dezembro de 1973, 
+10.522, de 19 de julho de 2002, 8.934, de 18 de novembro 1994, o Decreto-Lei nº 9.760, de 5 
+de setembro de 1946 e a Consolidação das Leis do Trabalho, aprovada pelo Decreto-Lei nº 
+5.452, de 1º de maio de 1943; revoga a Lei Delegada nº 4, de 26 de setembro de 1962, a Lei 
+nº 11.887, de 24 de dezembro de 2008, e dispositivos do Decreto-Lei nº 73, de 21 de 
+novembro de 1966; e dá outras providências.Disponível em: 
+http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2019/lei/L13874.htm. Acesso em: 26 jul. 
+2023. 
+
+BRASIL. Lei Federal nº 14.063, de 23 de setembro de 2020. Dispõe sobre o uso de assinaturas 
+eletrônicas em interações com entes públicos, em atos de pessoas jurídicas e em questões de 
+saúde e sobre as licenças de softwares desenvolvidos por entes públicos; e altera a Lei nº 
+9.096, de 19 de setembro de 1995, a Lei nº 5.991, de 17 de dezembro de 1973, e a Medida 
+Provisória nº 2.200-2, de 24 de agosto de 2001. Disponível em: 
+
+74 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/L14063.htm. Acesso em: 26 
+jul. 2023. 
+
+BRASIL. Medida Provisória 2.200-2-2001. Institui a Infraestrutura de Chaves Públicas 
+Brasileira - ICP-Brasil, transforma o Instituto Nacional de Tecnologia da Informação em 
+autarquia, e dá outras providências. Disponível em: 
+http://www.planalto.gov.br/ccivil_03/mpv/Antigas_2001/2200-2.htm. Acesso em: 26 jul. 2023.  
+
+BRASIL. Ministério da Fazenda. Portaria 548, de 22 de novembro de 2010. Estabelece os 
+requisitos mínimos de segurança e contábeis do sistema integrado de administração 
+financeira e controle utilizado no âmbito de cada ente da Federação, adicionais aos previstos 
+no Decreto nº 7.185, de 27 de maio de 2010. Brasília, DF, 2010. Disponível em:  
+https://sisweb.tesouro.gov.br/apex/f?p=2501:9::::9:P9_ID_PUBLICACAO:130.  Acesso em: 26 
+jul. 2023. 
+
+BRASIL. Controladoria-Geral da União. Portaria nº 581, de 9 de março de 2021. Estabelece 
+orientações para o exercício das competências das unidades do Sistema de Ouvidoria do 
+Poder Executivo federal, instituído pelo Decreto nº 9.492, de 5 de setembro de 2018, dispõe 
+sobre o recebimento do relato de irregularidades de que trata o caput do art. 4º-A da Lei nº 
+13.608, de 10 de janeiro de 2018, no âmbito do Poder Executivo federal, e dá outras 
+providências.Disponível em: https://www.gov.br/ouvidorias/pt-
+br/ouvidorias/legislacao/portarias/portaria-no-581-consolidada-v2.pdf. Acesso em: 26 jul. 2023.  
+
+SÃO PAULO (Estado). Decreto nº 22.789, de 19 de outubro de 1984. Institui o Sistema de 
+Arquivos do Estado de São Paulo – SAESP. Disponível em:  
+https://www.al.sp.gov.br/repositorio/legislacao/decreto/1984/decreto-22789-
+19.10.1984.html. Acesso em: 26 jul. 2023. 
+
+SÃO PAULO (Estado). Decreto nº 48.897, de 27 de agosto de 2004. Dispõe sobre os Arquivos 
+Públicos, os documentos de arquivo e sua gestão, os Planos de Classificação e a Tabela de 
+Temporalidade de Documentos da Administração Pública do Estado de São Paulo, define 
+normas para a avaliação, guarda e eliminação de documentos de arquivo e dá providências 
+correlatas. São Paulo, SP, 2004. Disponível em: 
+https://www.al.sp.gov.br/repositorio/legislacao/decreto/2004/decreto-48897-
+27.08.2004.html. Acesso em: 26 jul. 2023.  
+
+SÃO PAULO (Estado). Decreto nº 48.898, de 27 de agosto 2004. Aprova o Plano de 
+Classificação e a Tabela de Temporalidade de Documentos da Administração Pública do 
+Estado de São Paulo: Atividades – Meio e dá providências correlatas. São Paulo, SP, 2004(a).  . 
+Disponível em: https://www.al.sp.gov.br/repositorio/legislacao/decreto/2004/decreto-48898-
+27.08.2004.html. Acesso em: 26 jul. 2023. 
+
+SÃO PAULO (Estado). Decreto nº 54.276, de 27 de abril de 2009. Reorganiza a Unidade do 
+Arquivo Público do Estado, da Casa Civil, e dá providências correlatas. São Paulo, SP, 2009. 
+Disponível em: https://www.al.sp.gov.br/repositorio/legislacao/decreto/2009/decreto-54276-
+27.04.2009.html. Acesso em: 26 jul. 2023. 
+
+ SÃO PAULO (Estado). Decreto nº 58.052, de 16 de maio de 2012. Regulamenta a Lei federal 
+
+75 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+n. 12.527, de 18 de novembro de 2011, que regula o acesso a informações, e dá providências 
+correlatas. São Paulo, SP, 2012. Disponível em: 
+https://www.al.sp.gov.br/repositorio/legislacao/decreto/2012/decreto-58052-
+16.05.2012.html. Acesso em: 26 jul. 2023.  
+
+SÃO PAULO (Estado). Decreto nº 60.334, de 03 de abril de 2014. Aprova o Manual de Normas 
+e Procedimentos de Protocolo para a Administração Pública do Estado de São Paulo, e dá 
+providências correlatas (2014b). São Paulo, SP, s.d. Disponível em: 
+https://www.al.sp.gov.br/repositorio/legislacao/decreto/2014/decreto-60334-
+03.04.2014.pdf. Acesso em: 26 jul. 2023. 
+
+SÃO PAULO (Estado). Decreto nº 67.641, de 10 de abril de 2023. Dispõe sobre o uso de meio 
+eletrônico para a formalização de processo administrativo no âmbito da Administração Pública 
+estadual, institui o Sistema Eletrônico de Informações do Estado de  São Paulo  - SEI/SP e dá 
+providências 
+https://portal.sei.sp.gov.br/wp-
+Disponível 
+content/uploads/2023/05/Decreto-n.-67.641_SEI-2.pdf. Acesso em: 26 jul. 2023. 
+
+correlatas. 
+
+em: 
+
+ARQUIVO PÚBLICO DO ESTADO (São Paulo). Modelo  de  Plano  de  Classificação  e 
+Municipal 
+Tabela  de  Temporalidade  de  Documentos  do  Poder  Executivo 
+
+–
+
+Atividades-Meio, 
+
+2021.  Disponível 
+
+em: 
+
+http://www.arquivoestado.sp.gov.br/uploads/publicacoes/material_apoio/ttd_meio_mu
+nicip al_funcoes_001_006_plano_tabela.pdf. Acesso em: 26 jul. 2023. 
+
+76 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+15.  RESOLUÇÕES  DO  CONSELHO  NACIONAL  DE  ARQUIVOS  - 
+CONARQ 
+
+RESOLUÇÃO Nº 5, de 30 de setembro de 1996. Dispõe sobre a publicação de editais para 
+eliminação de documentos nos Diários Oficiais da União, Distrito Federal, Estados e 
+Municípios. Disponível em: https://www.gov.br/conarq/pt-br/legislacao-arquivistica/resolucoes-do-
+conarq/resolucao-no-5-de-30-de-setembro-1996. Acesso em: 26 jul. 2023. 
+
+RESOLUÇÃO Nº 27, de 16 de junho de 2008. Dispõe sobre o dever do Poder Público, no 
+âmbito dos Estados, do Distrito Federal e dos Municípios, de criar e manter Arquivos Públicos, 
+na sua específica esfera de competência, para promover a gestão, a guarda e a preservação 
+de documentos arquivísticos e a disseminação das informações neles contidas. Disponível 
+em: https://www.gov.br/conarq/pt-br/legislacao-arquivistica/resolucoes-do-conarq/resolucao-no-27-
+de-16-de-junho-de-2008.  Acesso em: 26 jul. 2023. 
+
+RESOLUÇÃO Nº 29, DE 29 de maio de 2009. Dá nova redação ao Art. 2º e ao inciso I da 
+Resolução nº 27, de 16 de junho de 2008. CONARQ – Disponível em: 
+https://www.gov.br/conarq/pt-br/legislacao-arquivistica/resolucoes-do-conarq/resolucao-
+no-29-de-29-de-maio-de-2009. Acesso em: 26 jul. 2023. 
+
+RESOLUÇÃO Nº 39, DE 29 de abril de 2014. Estabelece diretrizes para a implementação de 
+repositórios digitais confiáveis para a transferência e recolhimento de documentos 
+arquivísticos digitais para instituições arquivísticas dos órgãos e entidades integrantes do 
+Sistema Nacional de Arquivos – SINAR. Disponível em: https://www.gov.br/conarq/pt-
+br/legislacao-arquivistica/resolucoes-do-conarq/resolucao-no-39-de-29-de-abril-de-2014. Acesso em: 
+26 jul. 2023.  
+
+RESOLUÇÃO Nº 40, de 9 de dezembro de 2014. Dispõe sobre os procedimentos para a 
+eliminação de documentos no âmbito dos órgãos e entidades integrantes do Sistema 
+Nacional de Arquivos – SINAR. Disponível em https://www.gov.br/conarq/pt-br/legislacao-
+arquivistica/resolucoes-do-conarq/resolucao-no-40-de-9-de-dezembro-de-2014-alterada. 
+Acesso em: 26 jul. 2023.  
+
+RESOLUÇÃO Nº 43, de 04 de setembro de 2015. Altera a redação da Resolução do CONARQ 
+nº 39, de 29 de abril de 2014, que estabelece diretrizes para a implementação de repositórios 
+digitais confiáveis para a transferência e recolhimento de documentos arquivísticos digitais 
+para instituições arquivísticas dos órgãos e entidades integrantes do Sistema Nacional de 
+Arquivos – SINAR. Disponível em: https://www.gov.br/conarq/pt-br/legislacao-
+arquivistica/resolucoes-do-conarq/resolucao-no-43-de-04-de-setembro-de-2015. Acesso em: 
+26 jul. 2023. 
+
+RESOLUÇÃO Nº 44, de 14 de fevereiro de 2020. Dá nova redação aos artigos 1º, 2º e 3º e 
+respectivos anexos 1, 2 e 3 da Resolução nº 40, de 9 de dezembro de 2014.Disponível em : 
+https://www.gov.br/conarq/pt-br/legislacao-arquivistica/resolucoes-do-conarq/resolucao-
+no-44-de-14-de-fevereiro-de-2020.  Acesso em: 26 jul. 2023. 
+
+77 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+RESOLUÇÃO Nº 48, de 10 de novembro de 2021. Estabelece diretrizes e orientações aos 
+órgãos e entidades integrantes do Sistema Nacional de Arquivos quanto aos procedimentos 
+técnicos a serem observados no processo de digitalização de documentos públicos ou 
+privados. Disponível em https://www.gov.br/conarq/pt-br/legislacao-arquivistica/resolucoes-
+do-conarq/resolucao-no-48-de-10-de-novembro-de-2021. Acesso em: 26 jul. 2023. 
+
+RESOLUÇÃO Nº 50, de 6 de maio de 2022. Dispõe sobre o Modelo de Requisitos para 
+Sistemas Informatizados de Gestão Arquivística de Documentos - e-ARQ Brasil, Versão 2. 
+Disponível em: https://www.gov.br/conarq/pt-br/legislacao-arquivistica/resolucoes-do-
+conarq/resolucao-no-50-de-06-de-maio-de-2022.  Acesso em: 26 jul. 2023. 
+
+78 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

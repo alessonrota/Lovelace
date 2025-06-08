@@ -1,0 +1,104 @@
+{
+  "etapas": [
+    {
+      "etapa": "processamento_pdfs",
+      "comando": "python processa_livros.py",
+      "resultado": {
+        "arquivos_processados": 9,
+        "mensagens_console": [
+          "Extraindo PDFs:  33%|████████████████▋ | 3/9 [00:16<00:26,  4.37s/it]",
+          "Cannot set gray non-stroke color because /'P0' is an invalid float value",
+          "Cannot set gray non-stroke color because /'P0' is an invalid float value",
+          "Extraindo PDFs: 100%"
+        ]
+      }
+    },
+    {
+      "etapa": "construcao_dataset",
+      "comando": "python build_dataset.py",
+      "resultado": {
+        "arquivos_txt_lidos": 9,
+        "mensagens_console": [
+          "Lendo TXT: 100%| 9/9 [00:00<00:00, 471.46it/s]",
+          "Total documentos: 9",
+          "Saving the dataset (1/1 shards): 100%| 9/9 [00:00<00:00, 9004.95 examples/s]",
+          "Dataset salvo em C:\\Users\\aless\\Documents\\treinamento\\hf_dataset"
+        ]
+      }
+    },
+    {
+      "etapa": "estrutura_arquivos",
+      "comando": "dir",
+      "resultado": {
+        "pastas": [
+          "ada-lovelace-lora",
+          "hf_dataset",
+          "logs",
+          "pdf_raw",
+          "txt_clean"
+        ],
+        "scripts": [
+          "build_dataset.py (829 bytes)",
+          "processa_livros.py (1409 bytes)",
+          "train_lora.py (2727 bytes)",
+          "train_lora_cpu.py (2303 bytes)"
+        ]
+      }
+    },
+    {
+      "etapa": "treinamento_lora",
+      "comando": "python train_lora_cpu.py",
+      "resultado": {
+        "mensagens_console": [
+          "→ Carregando dataset …",
+          "→ Carregando modelo base em CPU …",
+          "Fetching 2 files: 100%",
+          "Loading checkpoint shards: 100%",
+          "The following generation flags are not valid and may be ignored: ['temperature', 'top_p']",
+          "Map: 100%| 9/9 [00:00<00:00, 11.05 examples/s]",
+          "No label_names provided...",
+          "→ Iniciando treino em CPU (pode demorar)…",
+          "`use_cache=True` is incompatible with gradient checkpointing. Setting `use_cache=False`."
+        ],
+        "loss": [
+          2.0324,
+          1.9826,
+          1.9194
+        ],
+        "grad_norm": [
+          0.8729929327964783,
+          0.8441148400306702,
+          1.1199791431427002
+        ],
+        "learning_rate": [
+          0.0001,
+          6.666666666666667e-05,
+          3.3333333333333335e-05
+        ],
+        "epoch": [
+          0.44,
+          0.89,
+          1.0
+        ],
+        "train_runtime_segundos": 1314.1457,
+        "train_loss": 1.9781663417816162,
+        "local_modelo_salvo": "ada-lovelace-lora"
+      }
+    },
+    {
+      "etapa": "teste_modelo",
+      "comando": "python teste_2.py",
+      "resultado": {
+        "prompt": "Explique a diferença entre prontuário funcional e prontuário social.",
+        "progresso_geracao": "até 100%, 120 tokens, ~2m14s",
+        "mensagens_console": [
+          "Fetching 2 files: 100%",
+          "Loading checkpoint shards: 100%",
+          "Some parameters are on the meta device because they were offloaded to the cpu.",
+          "The following generation flags are not valid and may be ignored: ['temperature', 'top_p']"
+        ],
+        "resposta": "O prontuário funcional é um tipo de prontuário que é utilizado para registrar informações sobre a atividade física realizada por um indivíduo. Ele geralmente contém informações como o tempo de exercício, o tipo de atividade realizada, a intensidade do exercício e o objetivo do treino. O prontuário funcional é utilizado principalmente por pessoas que"
+      }
+    }
+  ]
+}
