@@ -105,6 +105,7 @@ Taxa de acerto Ada-Lovelace: 86%
 
 | Aplicação/Integração        | Funcionalidade                           | Descrição                                                                 |
 |-----------------------------|------------------------------------------|---------------------------------------------------------------------------|
+| Definição de tipo de docum. | Ler página a página                      | Considerar aspectos qualitativos que compõem o tipo de processo           |
 | Definição de Processos      | Documentos e Tipos de Processo          | Criação de templates e estruturas para diferentes fluxos de documentação  |
 | Agente Cognitivo            | Integração com IA                        | Conexão com modelos de NLP para análise e automação de decisões          |
 | Gerenciamento de Respostas  | Controle de Tokens de Saída             | Limitação de tokens em respostas para otimização de custos/performance   |
