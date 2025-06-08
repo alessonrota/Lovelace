@@ -78,7 +78,7 @@ Links, verificações SHA-256 e notas estão em `data/README.md`.
 python scripts/process_pdfs.py data/pdf_raw data/txt_clean
 python scripts/build_dataset.py
 python scripts/train_lora.py --dataset_dir hf_dataset  # GPU
-# ou python scripts/train_lora_cpu.py                  # CPU
+# ou python scripts/train_lora.py                  # CPU
 ```
 
 ### Aplicação de tese:
