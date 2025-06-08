@@ -103,15 +103,12 @@ ADAPTER ada-lovelace-lora
 Taxa de acerto Vicuna-7B: 70%  
 Taxa de acerto Ada-Lovelace: 86%
 
-## Aplicações e integrações
-
-    Capacidade em definir documentos e tipos de processo
-
-    Integração com agente cognitivo
-
-    Controle de tokens de saída
-
-    Aprimoramento com few-shot
+| Aplicação/Integração        | Funcionalidade                           | Descrição                                                                 |
+|-----------------------------|------------------------------------------|---------------------------------------------------------------------------|
+| Definição de Processos      | Documentos e Tipos de Processo          | Criação de templates e estruturas para diferentes fluxos de documentação  |
+| Agente Cognitivo            | Integração com IA                        | Conexão com modelos de NLP para análise e automação de decisões          |
+| Gerenciamento de Respostas  | Controle de Tokens de Saída             | Limitação de tokens em respostas para otimização de custos/performance   |
+| Otimização de Modelos       | Aprimoramento com Few-Shot              | Adaptação do modelo usando poucos exemplos para tarefas específicas      |
 
 ## Licença
 
