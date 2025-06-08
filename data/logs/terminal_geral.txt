@@ -93,3 +93,38 @@ Gerando:  31%|████████████████▉               
 Gerando:  32%|█████████████████▍                                     | 38/120 [00:42<01:29,  1.10s/tok, l?        
 
 Gerando: 100%|██████████████████████████████████████████████████████| 120/120 [02:14<00:00,  1.12s/tok, tilizado principalmente por pessoas que...
+
+
+
+
+
+
+PS C:\Users\aless> cd C:\Users\aless\Documents\treinamento
+PS C:\Users\aless\Documents\treinamento> ollama create ada-lovelace -f Modelfile
+gathering model components
+Error: no Modelfile or safetensors files found
+PS C:\Users\aless\Documents\treinamento> cd C:\Users\aless\Documents\treinamento
+PS C:\Users\aless\Documents\treinamento>
+PS C:\Users\aless\Documents\treinamento> # Cria/ sobrescreve o arquivo chamado exatamente “Modelfile”
+PS C:\Users\aless\Documents\treinamento> @"
+>> FROM vicuna:7b
+>> ADAPTER ada-lovelace-lora
+>> "@ > Modelfile
+PS C:\Users\aless\Documents\treinamento> ollama create ada-lovelace -f Modelfile
+gathering model components
+copying file sha256:b76c3a122cd56d875242225ef03bef6f42c7cd9462ee6238d37292b43179922f 100%
+copying file sha256:509930f7c4806755ea41e2d07c072f8d48d99040a0d6fd0bff1f7582cc992d2a 100%
+copying file sha256:b76c3a122cd56d875242225ef03bef6f42c7cd9462ee6238d37292b43179922f 100%
+copying file sha256:9e556afd44213b6bd1be2b850ebbbd98f5481437a8021afaf58ee7fb1818d347 100%
+copying file sha256:558034ed4b66010e28de4ffa84a3c9bf57e5e8d4f41b7ee65acd803226e4b65b 100%
+copying file sha256:b305557c9ad739c0d21641cb09874e374f3eff99a3101d715bda1c93b26e763e 100%
+copying file sha256:509930f7c4806755ea41e2d07c072f8d48d99040a0d6fd0bff1f7582cc992d2a 100%
+copying file sha256:66c4eece9ffdc3faacc210663b26c4dd5c868d7f8080d6f5d910aa17ce685a2f 100%
+copying file sha256:b305557c9ad739c0d21641cb09874e374f3eff99a3101d715bda1c93b26e763e 100%
+copying file sha256:2b93a3557b265549f1e46eb59d2abedd0866347d194ee4d9351aeddec4f148f2 100%
+copying file sha256:2b93a3557b265549f1e46eb59d2abedd0866347d194ee4d9351aeddec4f148f2 100%
+Error: rename C:\Users\aless\.ollama\models\blobs\sha256-1396148380 C:\Users\aless\.ollama\models\blobs\sha256-b76c3a122cd56d87
+
+
+NAME                   ID              SIZE      MODIFIED                                                               ada-lovelace:latest    e5e0575df03a    3.9 GB    44 minutes ago                                                         deepseek-r1:8b         28f8fd6cdc67    4.9 GB    2 weeks ago                                                            deepseek-r1:7b         0a8c26691023    4.7 GB    2 weeks ago                                                            vicuna:7b              370739dc897b    3.8 GB    2 weeks ago                                                            deepseek-llm:67b       52e3a994907e    38 GB     2 weeks ago                                                            llama2:13b             d475bf4c50bc    7.4 GB    2 weeks ago                                                            llama3:latest          365c0bd3c000    4.7 GB    2 weeks ago                                                            llama3:70b             786f3184aec0    39 GB     2 weeks ago                                                            PS C:\WINDOWS\system32>      
+
