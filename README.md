@@ -1,6 +1,6 @@
-# Ada-Lovelace LoRA 🇧🇷 Arquivologia e lingua portuguesa
+# Ada-Lovelace LoRA 🇧🇷 Arquivologia e Língua Portuguesa
 
-LoRA (\~80 MB) finetunada sobre **\[Vicuna-7B v1.5]** para melhorar respostas em arquivologia e classificação de processos SEI-SP.
+LoRA (~80 MB) finetunada sobre **[Vicuna-7B v1.5]** para melhorar respostas em arquivologia, especialmente para aplicação de Planos de Classificação e Tabelas de Temporalidades produzidos pelo Estado de São Paulo
 
 ![banner](https://img.shields.io/badge/LoRA-Vicuna7B-blue)
 ![license](https://img.shields.io/badge/license-MIT-%2B-NC-green)
@@ -9,7 +9,7 @@ LoRA (\~80 MB) finetunada sobre **\[Vicuna-7B v1.5]** para melhorar respostas em
 
 ## Objetivo
 
-Classificacao de documentos lingua portuguesa
+Este modelo foi treinado com materiais selecionados do Arquivo Público do Estado de São Paulo, visando aprimorar a precisão na classificação de tipos de processo e fornecer respostas especializadas em arquivologia.
 
 ## Uso rápido
 
@@ -28,7 +28,9 @@ ollama create ada-lovelace -f Modelfile
 ollama run ada-lovelace "Explique a diferença entre prontuário funcional e social."
 ```
 
-## Esturuta dos diretórios
+## Estrutura dos diretórios
+
+```
 Lovelace/
 ├── data/
 │   ├── hf_dataset/               # Dataset final no formato Hugging Face (arrow, state.json, etc)
@@ -50,17 +52,15 @@ Lovelace/
 │
 ├── .gitattributes                # Configurações do Git (por exemplo, para tratar LF/CRLF, linguagens)
 ├── logs_resumidos.json           # Logs resumidos ou estatísticas de treinamento/processamento
-└── README.md                     # Documentação principal do repositório (overview, instruções)
-
-
-
+└── README.md                     # Documentação principal do repositório
+```
 
 ## Dados
 
-Nove manuais públicos do Arquivo do Estado de SP.
+Nove manuais públicos do Arquivo do Estado de SP.  
 Links, verificações SHA-256 e notas estão em `data/README.md`.
 
-##  Treinamento (LoRA)
+## Treinamento (LoRA)
 
 | Parâmetro   | Valor                     |
 | ----------- | ------------------------- |
@@ -81,6 +81,12 @@ python scripts/train_lora.py --dataset_dir hf_dataset  # GPU
 # ou python scripts/train_lora_cpu.py                  # CPU
 ```
 
+### Aplicação de tese:
+Código produz uma interação de pergunta e resposta
+```bash
+python scripts/test.py
+```
+
 ### Modelfile
 
 ```
@@ -88,28 +94,23 @@ FROM vicuna:7b
 ADAPTER ada-lovelace-lora
 ```
 
-
 ## Resultados
 
-Capacidade em define documentos e tipos de processo
-integração com agente cognitivo
-controle de tolkens de saida
-aprimoramento com few shot
+| Prompt                          | Vicuna-7B                   | Ada-Lovelace                           |
+| ------------------------------- | --------------------------- | -------------------------------------- |
+| "prontuário funcional × social" | respostas genéricas         | resposta com vocabulário especializado |
 
-| Prompt                          | Vicuna-7B                   | Ada-Lovelace                           |Taxa de acerto Vicuna-7B      |Taxa de acerto Ada-Lovelace     |
-| ------------------------------- | --------------------------- | -------------------------------------- |------------------------------|
-| "prontuário funcional × social" | respostas genéricas         | resposta com vocabulário especializado | Melhor cenário 70%           |Melhor cenário 86%
-
-
+Taxa de acerto Vicuna-7B: 70%  
+Taxa de acerto Ada-Lovelace: 86%
 
 ## Licença
 
-* Código — NC + CC-BY-NC.
+* Código — NC + CC-BY-NC.  
 * Pesos LoRA — Vicuna NC + CC-BY-NC.
 
 ## Citação
 
-```
+```bibtex
 @misc{rota2025adalovelace,
   title   = {Ada-Lovelace LoRA: Fine-tuning Vicuna-7B on Brazilian archival manuals},
   author  = {Rota, Alesson Ramon.},
@@ -117,5 +118,3 @@ aprimoramento com few shot
   url     = {https://github.com/<usuario>/ada-lovelace-lora}
 }
 ```
-
----
