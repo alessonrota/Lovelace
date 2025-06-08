@@ -103,6 +103,16 @@ ADAPTER ada-lovelace-lora
 Taxa de acerto Vicuna-7B: 70%  
 Taxa de acerto Ada-Lovelace: 86%
 
+## Aplicações e integrações
+
+    Capacidade em definir documentos e tipos de processo
+
+    Integração com agente cognitivo
+
+    Controle de tokens de saída
+
+    Aprimoramento com few-shot
+
 ## Licença
 
 * Código — NC + CC-BY-NC.  
