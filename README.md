@@ -48,7 +48,7 @@ Lovelace/
 │   ├── books_corpus.py           # (Exemplo) Script de manipulação/conversão de corpus
 │   ├── build_dataset.py          # Script para criar dataset Hugging Face a partir dos .txt limpos
 │   ├── teste.py                  # Script para testar o modelo customizado (inference)
-│   └── train_lora.py             # Script de treinamento LoRA (HuggingFace)
+│   └── train_lora.py             # Script de treinamento LoRA 
 │
 ├── .gitattributes                # Configurações do Git (por exemplo, para tratar LF/CRLF, linguagens)
 ├── logs_resumidos.json           # Logs resumidos ou estatísticas de treinamento/processamento
