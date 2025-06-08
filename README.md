@@ -28,6 +28,33 @@ ollama create ada-lovelace -f Modelfile
 ollama run ada-lovelace "Explique a diferença entre prontuário funcional e social."
 ```
 
+## Esturuta dos diretórios
+Lovelace/
+├── data/
+│   ├── hf_dataset/               # Dataset final no formato Hugging Face (arrow, state.json, etc)
+│   ├── logs/                     # Logs de processamento, extração, treinamento
+│   ├── txt_clean/                # Textos extraídos e limpos dos PDFs (um .txt por documento)
+│   └── README.md                 # Documentação dos dados
+│
+├── model/
+│   ├── ada-lovelace-lora/        # Checkpoints do modelo LoRA treinado e tokenizer customizado
+│   │   └── checkpoint-3/         # Checkpoint mais recente (weights, optimizer, trainer states, etc)
+│   ├── Modelfile                 # Arquivo com receita para gerar modelo Ollama customizado
+│   └── README.md                 # Instruções/model card do modelo custom
+│
+├── scripts/
+│   ├── books_corpus.py           # (Exemplo) Script de manipulação/conversão de corpus
+│   ├── build_dataset.py          # Script para criar dataset Hugging Face a partir dos .txt limpos
+│   ├── teste.py                  # Script para testar o modelo customizado (inference)
+│   └── train_lora.py             # Script de treinamento LoRA (HuggingFace)
+│
+├── .gitattributes                # Configurações do Git (por exemplo, para tratar LF/CRLF, linguagens)
+├── logs_resumidos.json           # Logs resumidos ou estatísticas de treinamento/processamento
+└── README.md                     # Documentação principal do repositório (overview, instruções)
+
+
+
+
 ## Dados
 
 Nove manuais públicos do Arquivo do Estado de SP.
