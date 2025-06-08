@@ -1,69 +1,71 @@
-# Ada-Lovelace LoRA 🇧🇷
 
-LoRA (~80 MB) finetunada sobre **[Vicuna-7B v1.5]** para melhorar respostas em
-arquivologia e classificação de processos SEI-SP.
+# Estrutura do Diretório `ada-lovelace-lora`
 
-![banner](https://img.shields.io/badge/LoRA-Vicuna7B-blue)
-![license](https://img.shields.io/badge/license-MIT-%2B-NC-green)
+```txt
+ada-lovelace-lora/
+│
+├── adapter_config.json
+├── adapter_model.safetensors
+├── Modelfile.txt
+├── special_tokens_map.json
+├── tokenizer.json
+├── tokenizer.model
+├── tokenizer_config.json
+│
+└── checkpoint-3/
+     ├── adapter_config.json
+     ├── adapter_model.safetensors
+     ├── optimizer.pt
+     ├── README.md
+     ├── rng_state.pth
+     ├── scaler.pt
+     ├── scheduler.pt
+     ├── special_tokens_map.json
+     ├── tokenizer.json
+     ├── tokenizer.model
+     ├── tokenizer_config.json
+     ├── trainer_state.json
+     └── training_args.bin
+```
+
+## O que é cada arquivo/pasta?
+
+### Arquivos na raiz (`ada-lovelace-lora/`):
+
+- **adapter_config.json**  
+  Arquivo de configuração dos parâmetros LoRA (Low-Rank Adaptation). Define hiperparâmetros e arquitetura dos adaptadores treinados.
+
+- **adapter_model.safetensors**  
+  Arquivo binário contendo os pesos do adaptador treinado (LoRA). É o núcleo do que foi aprendido no fine-tuning.
+
+- **Modelfile.txt**  
+  Descreve para o Ollama ou outro loader qual base usar, como montar o modelo, etc. (ex: `FROM vicuna:7b`).
+
+- **special_tokens_map.json**  
+  Mapeamento de tokens especiais (ex: tokens de início/fim de texto, separadores, etc).
+
+- **tokenizer.json / tokenizer.model / tokenizer_config.json**  
+  Arquivos da tokenização do modelo:
+  - **tokenizer.json:** vocabulário e regras em formato JSON
+  - **tokenizer.model:** modelo de tokenização (normalmente SentencePiece ou similar)
+  - **tokenizer_config.json:** configurações extras da tokenização
 
 ---
 
-##  Objetivo  
-Ajudar servidores públicos a entender diferenças entre **415** tipos de processo
-(SEI São Paulo) e conceitos de gestão documental (ex.: prontuário funcional × social).
+### Pasta `checkpoint-3/`:
 
-##  Uso rápido
+Cada checkpoint é um “salvamento” do treinamento em determinado passo (step/epoch).  
+Pode haver vários checkpoints, mas aqui há um, chamado `checkpoint-3`.
 
-git clone https://github.com/<usuario>/ada-lovelace-lora.git
-cd ada-lovelace-lora
-pip install -r requirements.txt
+- **adapter_config.json, adapter_model.safetensors**  
+  Versão do adaptador/LoRA no estado salvo neste checkpoint.
 
-# precisa já ter o modelo base:
-ollama pull vicuna:7b
+- **optimizer.pt, scheduler.pt, scaler.pt, rng_state.pth, trainer_state.json, training_args.bin**  
+  Dados do treinamento para retomar (resume) o treinamento de onde parou:
+  - **optimizer.pt:** estado do otimizador (ex: AdamW)
+  - **scheduler.pt:** scheduler de learning rate
+  - **scaler.pt:** usado em treinos com mixed precision
+  - **rng_state.pth:** estado dos geradores aleatórios (reprodutibilidade)
+  - **trainer_state.json:** progresso do treinamento (epoch, loss, etc)
+  - **training_args.bin:** hiperparâmetros e configs do HuggingFace Trainer
 
-# cria o modelo final no Ollama
-ollama create ada-lovelace -f Modelfile
-
-# teste:
-ollama run ada-lovelace "Explique a diferença entre prontuário funcional e social."
-
-
-## Treinamento (LoRA)
-| Param       | Valor                     |
-| ----------- | ------------------------- |
-| Base        | vicuna-7b-v1.5            |
-| Épocas      | **1**                     |
-| SeqLen      | 1 024                     |
-| Rank (LoRA) | 16                        |
-| LR          | 1e-4 (cosine)             |
-| HW          | i9-13900H · RTX 4060 8 GB |
-| Tempo       | 22 min GPU / 2 h CPU      |
-
-# Passos
-python scripts/process_pdfs.py data/pdf_raw data/txt_clean
-python scripts/build_dataset.py
-python scripts/train_lora.py --dataset_dir hf_dataset  # GPU
-
-# Data
-Ler data/README.md
-
-## Licença
-
-- **Código - NC + CC-BY-NC
-Pesos LoRA — Vicuna NC + CC-BY-NC
-
-- **Developed by:** [Alesson Ramon Rota]
-- **Model type:** [Ada-LoveLace-3]
-- **Language(s) (NLP):** [português]
-- **License:** [Código - NC + CC-BY-NC, Pesos LoRA — Vicuna NC + CC-BY-NC]
-
-# Citação
-@misc{rota2025adalovelace,
-  title   = {Ada-Lovelace LoRA: Fine-tuning Vicuna-7B on Brazilian archival manuals},
-  author  = {ROTA, Alesson Ramon.},
-  year    = {2025},
-  url     = {https://github.com/alessonrota/Lovelace}
-}
-
-
-- PEFT 0.15.2
