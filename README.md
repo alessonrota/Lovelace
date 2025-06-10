@@ -98,16 +98,20 @@ ADAPTER ada-lovelace-lora
 | ------------------------------- | --------------------------- | -------------------------------------- |
 | "prontuário funcional × social" | respostas genéricas         | resposta com vocabulário especializado |
 
-Taxa de acerto Vicuna-7B: 70%  
+Taxa de acerto Vicuna-7B: 60%, 70%, 60%  
 Taxa de acerto Ada-Lovelace: 86%
 
-| Aplicação/Integração        | Funcionalidade                           | Descrição                                                                 |
-|-----------------------------|------------------------------------------|---------------------------------------------------------------------------|
-| Definição de tipo de docum. | Ler página a página                      | Considerar aspectos qualitativos que compõem o tipo de processo           |
-| Definição de Processos      | Documentos e Tipos de Processo          | Criação de templates e estruturas para diferentes fluxos de documentação  |
-| Agente Cognitivo            | Integração com IA                        | Conexão com modelos de NLP para análise e automação de decisões          |
-| Gerenciamento de Respostas  | Controle de Tokens de Saída             | Limitação de tokens em respostas para otimização de custos/performance   |
-| Otimização de Modelos       | Aprimoramento com Few-Shot              | Adaptação do modelo usando poucos exemplos para tarefas específicas      |
+| Aplicação / Integração             | Funcionalidade                           | Descrição                                                            |
+| ---------------------------------- | ---------------------------------------- | -------------------------------------------------------------------- |
+| Definição de Tipo Documental       | Leitura página a página                  | Considera aspectos qualitativos que compõem o tipo de processo       |
+| Definição de Processos             | Modelagem de documentos e tipos          | Criação de templates e estruturas para diferentes fluxos documentais |
+| Agente Cognitivo                   | Integração com IA                        | Conexão com modelos de NLP para análise e automação de decisões      |
+| Gerenciamento de Respostas         | Controle de tokens de saída              | Limitação de tokens para otimização de custos e performance          |
+| Otimização de Modelos              | Aprimoramento via Few-Shot Learning      | Adaptação do modelo com poucos exemplos para tarefas específicas     |
+| Especialização Temática            | Aceita overfitting controlado            | Redundância em dados especializados para ganho de precisão temática  |
+| Integração com Ollama (ou similar) | Facilidade de uso                        | Exportação, manipulação e aplicação direta do modelo                 |
+| Supervisão e Reforço Humano        | Preserva camadas arquivísticas complexas | Permite uso de bases de dados heterogêneas com validação contextual  |
+
 
 ## Licença
 
