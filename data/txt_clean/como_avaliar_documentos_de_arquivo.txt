@@ -1,0 +1,6409 @@
+COMO FAZER 1 - COMO AVALIAR DOCUMENTOS DE ARQUIVO
+
+COMO AVALIAR
+DOCUMENTOS DE ARQUIVO
+
+Ieda Pimenta Bernardes
+
+Reedição com correção
+
+São Paulo
+1998
+
+
+COMO FAZER 1 - COMO AVALIAR DOCUMENTOS DE ARQUIVO
+COMO FAZER 1 - COMO AVALIAR DOCUMENTOS DE ARQUIVO
+
+GOVERNO DO ESTADO DE SÃO PAULO
+MÁRIO COVAS
+GOVERNADOR
+
+SECRETARIA DE ESTADO DA CULTURA
+MARCOS MENDONÇA
+SECRETÁRIO
+
+DEPARTAMENTO DE MUSEUS E ARQUIVOS
+MARILDA SUYAMA TEGG
+DIRETORA
+
+DIVISÃO DE ARQUIVO DO ESTADO
+FAUSTO COUTO SOBRINHO
+DIRETOR
+
+COMO AVALIAR
+DOCUMENTOS DE ARQUIVO
+
+Ieda Pimenta Bernardes
+
+Oficina realizada no dia 18 de outubro de 1997  pela
+AAB/SP - Associação dos Arquivistas Brasileiros / Nú-
+cleo Regional de São Paulo, como parte do Projeto
+“Como Fazer”.
+
+DIVISÃO DE ARQUIVO DO ESTADO DE SÃO PAULO
+R. Voluntários da Pátria, 596 - Santana
+CEP: 02010-000   São Paulo - SP - Brasil
+Fones / Fax: (011) 6221-1924 / 6221-4785
+
+volume 1
+
+São Paulo
+
+
+COMO FAZER 1 - COMO AVALIAR DOCUMENTOS DE ARQUIVO
+
+Sumário
+
+Apresentação ....................................................... 7
+
+Introdução ..........................................................  9
+
+Avaliação e gestão de documentos e informações ... 11
+
+Passos para a implantação de processo
+
+de avaliação de documentos ................................ 17
+
+Bibliografia sobre o tema ..................................... 33
+
+Legislação .......................................................... 35
+
+Resoluções  do CONARQ ...................................... 36
+
+Tabelas de temporalidade oficializadas .................. 37
+
+Anexos  ..............................................................41
+
+ASSOCIAÇÃO DOS ARQUIVISTAS BRASILEIROS
+NÚCLEO REGIONAL DE SÃO PAULO - AAB/SP
+Diretoria:
+
+Ana Maria de Almeida Camargo (Diretora)
+Silvana Goulart França Guimarães (Vice-Diretora)
+Rita de Cássia Martinez Lo Schiavo (Secretária)
+João Martins Rodrigues Neto (Tesoureiro)
+
+Comissão de cursos:
+
+Viviane Tessitore (Coord.)
+Ana Célia Navarro de Andrade
+Maria Angélica Campos Resende
+Simone Silva Fernandes
+
+DIVISÃO DE ARQUIVO DO ESTADO
+Coordenação editorial:  Lauro Ávila Pereira
+Editora responsável:  Sílnia Nunes Martins
+Revisão:
+
+Beatriz Cavalcanti de Arruda
+Tereza Regina Leme de Barros Cordido
+
+Equipe técnica: Adriana Cristina Zambrini
+
+André Oliva Teixeira Mendes
+Antonio Pedro Leme de Barros
+Débora de Castro Araújo
+
+CO-EDIÇÃO
+IMESP - Imprensa Oficial do Estado de São Paulo
+
+AGRADECIMENTOS
+FUNDUNESP - Fundação para o Desenvolvimento da UNESP
+
+           Bernardes, Ieda Pimenta.
+                  Como avaliar documentos de arquivo / Ieda Pimenta Bernardes. − São
+            Paulo : Arquivo do Estado, 1998.
+                   89 p. : il. ; 23 cm. -- (Projeto como fazer ; v. 1)
+
+                    ISBN 85-86726-04-4
+
+                    1.Arquivística - Avaliação. 2 - Seleção -  Arquivística  I.
+           Arquivo do Estado (São Paulo). II.  Título.
+
+CDD - 025.171
+CDU - 930.251
+
+
+COMO FAZER 1 - COMO AVALIAR DOCUMENTOS DE ARQUIVO
+
+sempre de autoria de professores com larga experiência na organi-
+zação de arquivos.
+
+A direção e o corpo técnico do Arquivo do Estado sentem-se
+gratificados pelos excelentes frutos já colhidos desse profícuo rela-
+cionamento, contando que o mesmo se perpetue e se intensifique,
+em  benefício  da  comunidade  arquivística  e  da  cultura  em  nosso
+Estado.
+
+Dr. Fausto Couto Sobrinho
+
+Diretor Técnico do Arquivo do Estado
+
+Apresentação
+
+A instalação do Arquivo do Estado de São Paulo em prédio
+próprio,  na  rua  Voluntários  da  Pátria,  596,  Santana,  Capital,  com
+dependências apropriadas para abrigar seu rico acervo e pessoal
+técnico  em  número  suficiente  para  o  desenvolvimento  de  suas
+atividades, permitiu-lhe assumir uma feição muito mais dinâmica,
+passando a assumir o papel de relevo que lhe cabe historicamente
+na administração pública e entre seus congêneres.
+
+Essa nova fase da instituição manifesta-se, entre outros as-
+pectos,  pela  ampliação  da  gama  dos  serviços  prestados  na  área
+cultural,  dentre  os  quais  destaca-se  a  publicação  sistemática  de
+instrumentos de pesquisa, e de manuais  técnicos que auxiliem no
+processo de formação e aperfeiçoamento dos profissionais da área
+de arquivos.
+
+O Arquivo do Estado tem-se valido, para esse trabalho, de
+valiosas  parcerias,  cabendo  especial  relevo  às  mantidas  com  a
+Imprensa Oficial do Estado – I.O. e a Associação dos Arquivistas
+Brasileiros – AAB – Núcleo Regional de São Paulo. A primeira de-
+las vem possibilitando o desenvolvimento de um extenso programa
+de publicações (vinte e três previstas apenas para este ano), e a
+segunda  tem  resultado  numa  assessoria  permanente  –  tanto  for-
+mal, quanto informal – na área da Arquivística, eis que a AAB/SP
+congrega  especialistas  de  renome  internacional  nesse  campo  de
+atuação.
+
+A presente publicação é, pois, o resultado do esforço conju-
+gado das três instituições e integra o Projeto “Como Fazer”, elabo-
+rado pela Comissão de Cursos da AAB/SP. Orientado, como o pró-
+prio nome indica, para aspectos práticos do dia a dia dos profissio-
+nais da área, esse projeto prevê uma série de outras publicações,
+
+7
+
+
+COMO FAZER 1 - COMO AVALIAR DOCUMENTOS DE ARQUIVO
+
+Introdução
+
+O Projeto “Como Fazer” compreende uma série de oficinas
+
+de trabalho que abordam temas específicos em profundidade, tan-
+
+to em seu aspecto teórico, quanto metodológico e operacional, ca-
+
+pacitando o aluno a planejar e realizar as atividades inerentes ao
+
+aspecto  da  Arquivística  em  foco.  Visa  o  aperfeiçoamento  técnico
+
+de profissionais que já atuam na área e que possuem, no mínimo, o
+
+nível médio completo, bem como conhecimentos arquivísticos bási-
+
+cos. Como uma de suas marcas características, para cada Oficina
+
+é elaborado um Manual, de responsabilidade do Professor.
+
+Ieda Pimenta Bernardes, autora deste “Como Avaliar Do-
+
+cumentos de Arquivo”, é doutoranda em História Social na FFLCH/
+
+USP  e  especialista  em  organização  de  arquivos  pelo  IEB/USP.
+
+Atualmente, ocupa o cargo de Coordenadora de Projetos no Arqui-
+
+vo do Estado, responsável pela implantação do Sistema de Arqui-
+
+vos do Estado de São Paulo - SAESP.
+
+Comissão de Cursos da AAB/SP
+
+AVALIAÇÃO E GESTÃO
+DE DOCUMENTOS E INFORMAÇÕES
+
+O termo “gestão de documentos” ou “administração de documentos” é uma
+tradução do termo inglês “records management”. O primeiro é originário da ex-
+pressão franco-canadense gestion de documents e o segundo é uma versão ibero-
+americana do conceito inglês. Entre essas duas variantes, o primeiro parece ser o
+mais difundido entre nós.
+
+O Dicionário de Terminologia Arquivística editado pelo Conselho Inter-
+nacional de Arquivos  em 1984 define gestão de documentos como um aspecto da
+administração geral relacionado com a busca de economia e eficácia na produção,
+manutenção, uso e destinação final dos documentos.
+
+O Dicionário de Terminologia Arquivística, publicado em São Paulo em
+1990 e reeditado em 1996, conceitua gestão de documentos como um “conjunto de
+medidas e rotinas visando a racionalização e eficiência na criação, tramitação,
+classificação, uso primário e avaliação de arquivos”.
+
+No âmbito da legislação federal, “considera-se gestão de documentos o
+conjunto de procedimentos e operações referentes à sua produção, tramitação, uso,
+avaliação e arquivamento em fase corrente e intermediária, visando a sua elimina-
+ção ou recolhimento para guarda permanente” 1.
+
+RACIONALIZAÇÃO,
+EFICIÊNCIA,
+PRESERVAÇÃO DA MEMÓRIA
+
+GESTÃO DE DOCUMENTOS
+
+Conjunto  de  medidas  e  rotinas  que  garante  o  efetivo  controle  de  todos  os
+documentos de qualquer idade desde sua produção até sua destinação final
+(eliminação ou guarda permanente), com vistas à racionalização e eficiência
+administrativas,  bem  como  à  preservação  do  patrimônio  documental  de
+interesse  histórico-cultural.
+
+1. Lei nº 8.159, de 08/01/91, que dispõe sobre a Política Nacional de Arquivos Públicos e Privados, art. 3º.
+
+9
+
+11
+
+
+COMO FAZER 1 - COMO AVALIAR DOCUMENTOS DE ARQUIVO
+
+A gestão pressupõe, portanto,  uma intervenção no ciclo de vida dos docu-
+mentos desde sua produção até serem eliminados ou recolhidos para guarda defini-
+tiva. Nesse sentido, um programa geral de gestão compreende todas as atividades
+inerentes às idades corrente e intermediária de arquivamento, o que garante um
+efetivo controle da produção documental nos arquivos correntes (valor administra-
+tivo/vigência), das transferências aos arquivos centrais/intermediários (local onde
+os  documentos  geralmente  aguardam  longos  prazos  precaucionais),  do
+processamento das eliminações e recolhimentos ao arquivo permanente (valor his-
+tórico-cultural).
+
+CICLO DE VIDA DOS DOCUMENTOS
+
+1a. idade
+ARQUIVO
+CORRENTE
+
+.   documentos vigentes,
+    freqüentemente consultados
+
+2a. idade
+ARQUIVO
+INTERMEDIÁRIO
+e/ou CENTRAL
+
+3a. idade
+ARQUIVO
+PERMANENTE
+
+.  final  de  vigência;  documentos  que
+aguardam prazos longos de prescrição
+ou precaução;
+
+.  raramente consultados;
+.  aguardam a destinação final:
+   eliminação ou guarda permanente
+.  documentos que perderam a vigência
+administrativa, porém são providos de
+valor secundário ou histórico-cultural
+
+Idade do
+Documento
+
+Valor
+
+Duração Média
+
+Freqüência de
+Uso / Acesso
+
+Local de
+Arquivamento
+
+ADMINISTRATIVA
+
+Imediato ou
+Primário
+
+cerca de 5 anos
+
+I - Primário
+reduzido
+
+5 + 5 = 10 anos
+
+INTERMEDIÁRIA
+
+II - Primário
+mínimo
+
+10 + 20 = 30 anos
+
+III - Secundário
+Potencial
+
+30 + 20 = 50 anos
+
+HISTÓRICA
+
+Secundário
+Máximo
+
+Definitiva
+
+- documentos vigentes
+- muito consultados
+- acesso restrito ao
+organismo produtor
+
+- documentos vigentes
+- regularmente
+consultados
+- acesso restrito ao
+organismo produtor
+
+- documentos vigentes
+- prazo precaucional
+longo
+- referência ocasional
+- pouca freqüência de
+uso
+- acesso público
+mediante autorização
+
+- documentos que
+perderam a vigência
+- valor permanente
+- acesso público pleno
+
+Arquivo Corrente
+(próximo ao
+produtor)
+
+Arquivo Central
+(próximo à
+administração)
+
+Arquivo
+Intermediário
+(exterior à
+Instituição ou anexo
+ao Arquivo
+Permanente)
+
+Arquivo Permanente
+ou Histórico
+
+São de fácil reconhecimento, assim, os três momentos da gestão, não ne-
+
+cessariamente consecutivos:
+1. Produção dos documentos: inclui a elaboração de formulários, implantação de
+sistemas de organização da informação, aplicação de novas tecnologias aos
+procedimentos administrativos.
+
+2. Manutenção e uso: implantação de sistemas de arquivo, seleção dos sistemas de
+
+reprodução, automatização do acesso, mobiliário, materiais, local.
+
+3. Destinação final dos documentos: programa de avaliação que garanta a proteção
+dos conjuntos documentais de valor permanente e a eliminação de documentos
+rotineiros e desprovidos de valor probatório e informativo.
+
+A avaliação de documentos de arquivo é uma etapa decisiva no processo
+de implantação de políticas de gestão de documentos, tanto nas instituições públi-
+cas quanto nas empresas privadas. Mas, o que significa avaliar documentos? Para
+o administrador, que está com seus depósitos abarrotados de documentos, sem dúvida,
+a avaliação sugere uma  eliminação imediata de papel, com vistas à liberação de
+espaço físico. No entanto, se o processo de avaliação não for efetivamente implan-
+tado através das Tabelas de Temporalidade, não tardará muito para que a  produ-  
+
+12
+
+13
+
+
+COMO FAZER 1 - COMO AVALIAR DOCUMENTOS DE ARQUIVO
+
+ção e acumulação desordenadas preencham novamente todos os espaços disponí-
+veis. 
+
+(cid:21)
+
+AVALIAÇÃO DE DOCUMENTOS (cid:31)
+
+Trabalho  interdisciplinar  que  consiste  em  identificar  valores  para  os  docu-
+mentos (imediato e mediato) e analisar seu ciclo de vida, com vistas a  estabe-
+lecer prazos para sua guarda ou eliminação, contribuindo para a racionaliza-
+ção dos arquivos e eficiência administrativa, bem como para a preservação do
+patrimônio  documental.
+
+A avaliação consiste fundamentalmente em identificar valores e definir
+prazos de guarda para os documentos de arquivo, independentemente de seu supor-
+te ser o papel, o filme, a fita magnética, o disquete, o disco ótico ou qualquer outro.
+A avaliação deverá ser realizada no momento da produção, paralelamente ao tra-
+balho de classificação, para evitar a acumulação desordenada, segundo critérios
+temáticos, numéricos ou cronológicos. Esse é o grande problema no momento de
+avaliar massas documentais acumuladas nos arquivos centrais ou intermediários,
+especialmente nos do serviço público. O critério de arquivamento dos processos
+administrativos ainda é o seqüencial numérico/cronológico, de acordo com o nú-
+mero  recebido  no  protocolo,  no  momento  da  autuação.  Essa  prática  resulta  na
+mescla de documentos gerados no exercício de funções diversas, o que dificulta a
+recuperação do contexto original de produção. A avaliação de documentos arqui-
+vados em seqüência numérica implica basicamente a análise de documento por
+documento, o que é bastante trabalhoso em face da massa documental acumulada
+com o decorrer do tempo. É freqüente, por isso, a eliminação sem critério ou, o que
+é igualmente grave, a reprodução do acervo em outros suportes, sem a prévia iden-
+tificação  e  avaliação  dos  conjuntos  documentais.  O  que  interessa,  nessa  visão
+imediatista, é a liberação de  espaços.
+
+Esse procedimento pode representar um investimento inútil quando incidir
+sobre  documentos  rotineiros,  repetitivos,  desprovidos  de  valor  informativo,
+probatório ou cultural, que poderiam ser eliminados,  conservando-se deles apenas
+pequenas amostragens.
+
+AVALIAÇÃO DE DOCUMEN-
+TOS: OBJETIVOS
+
+√ Redução da massa documental
+√ Agilidade na recuperação dos documentos
+
+e das informações
+
+√  Eficiência  administrativa
+√ Melhor conservação dos documentos de
+
+guarda  permanente
+
+√ Racionalização da produção e do fluxo de
+
+documentos (trâmite)
+√ Liberação de espaço físico
+√ Incremento à pesquisa
+
+A explosão da produção documental
+
+Digitalização de documentos:
+O mercado brasileiro cresce aceleradamente
+
+“Se você tem a idéia que até o ano 2000 o
+volume mundial de papel gerado irá cair ver-
+tiginosamente devido às novas tecnologias, é
+um ligeiro engano. Segundo uma pesquisa
+publicada na Revista Fortune, EUA, um bi-
+lhão de documentos são produzidos nos Es-
+tados Unidos, todos os dias. E não é só isso.
+Os números são gigantescos. Mais de 300
+milhões de documentos permanecem em uso
+(ativos), com um custo de US$ 0,25 cada vez
+que são acessados. Um documento é copia-
+do, no mínimo, vinte vezes. As transmissões
+de fax geram mais de 85 milhões de páginas
+por ano. Devido a toda essa papelada, um tí-
+pico funcionário de escritório gasta 40% do
+seu tempo “gerenciando” documentos.
+
+A AIIM - Association for Information and
+Image Management Internacional (Associa-
+ção Internacional do Gerenciamento da Ima-
+gem e Informação), com sede nos EUA, pu-
+blicou uma pesquisa feita em conjunto com
+uma grande empresa de consultoria daquele
+país, em 1989. O estudo revelou que toda a
+informação estava armazenada nas seguintes
+mídias: papel, 95%, microfilmes, 4%, meios
+magnéticos/eletrônicos, 1%. Três anos mais
+tarde, um estudo semelhante revelou a situa-
+ção em 1999: papel, 92%, microfilmes, 3%,
+mídias ópticas, 5%.
+
+Ninguém deve se entusiasmar porque o
+papel diminuirá 3%, ou porque o microfilme
+decrescerá 1% ou porque o mercado de dis-
+cos ópticos irá explodir em 4%. O que ocorre
+- todos sabem - é que o volume da informa-
+ção - quase sempre em papel - duplica anual-
+mente”.
+
+(Fonte: Mundo da Imagem. São Paulo,
+
+CENADEM, jul.ago./96)
+
+14
+
+15
+
+
+COMO FAZER 1 - COMO AVALIAR DOCUMENTOS DE ARQUIVO
+
+PASSOS PARA A IMPLANTAÇÃO
+DE PROCESSO DE AVALIAÇÃO
+DE DOCUMENTOS
+
+1) Constituição formal da Comissão de Avaliação de Documentos, que garanta
+
+legitimidade e autoridade à equipe responsável;
+
+2) Elaboração de textos legais ou normativos que definam normas e procedi-
+
+mentos para o trabalho de avaliação;
+
+3) Estudo da estrutura administrativa do órgão e análise das competências, fun-
+
+ções e atividades de cada uma de suas unidades;
+
+4) Levantamento da produção documental: entrevistas com funcionários, res-
+ponsáveis e encarregados, até o nível de seção, para identificar as séries
+documentais geradas no exercício de suas competências e atividades;
+
+5) Análise do fluxo documental: origem, pontos de tramitação e encerramento
+
+do trâmite;
+
+6) Identificação dos valores dos documentos de acordo com sua idade: adminis-
+
+trativo, legal, fiscal, técnico, histórico;
+
+7) Definição dos prazos de guarda em cada local de arquivamento.
+
+O ÓRGÃO PRODUTOR DOS DOCUMENTOS:
+ESTRUTURA E FUNCIONAMENTO
+
+A primeira atividade a ser desenvolvida no processo de organizar e avaliar
+documentos de arquivo é o estudo da estrutura e funcionamento do órgão produtor.
+
+FUNDO
+
+Grupo
+
+Grupo
+
+Subgrupo
+
+Subgrupo
+
+Subgrupo
+
+Subgrupo
+
+17
+
+
+COMO FAZER 1 - COMO AVALIAR DOCUMENTOS DE ARQUIVO
+
+CLASSIFICAÇÃO DE FUNDO
+
+É uma atividade intelectual que consiste em reconstituir,  mediante pesquisa
+na legislação, a origem e evolução da estrutura organizacional e funcional do
+órgão produtor dos documentos. A classificação deve materializar-se na ela-
+boração de instrumentos de trabalho: compilação da legislação e confecção de
+organogramas que representem a estrutura orgânica hierarquizada do órgão e
+suas subdivisões internas, que são as unidades geradoras dos documentos. O
+trabalho de classificação deve interagir com a análise dos conjuntos documen-
+
+tais a fim de se identificar as funções ou atividades informalmente exercidas.
+
+ANÁLISE DA PRODUÇÃO DOCUMENTAL
+
+As atividades cotidianas de qualquer administração são objeto de registro
+em algum tipo de documento. Os documentos relacionados a uma função, produzi-
+dos ou acumulados por determinado órgão, mantêm entre si relações que precisam
+ser deslindadas no processo de avaliação. A análise da rotina documental e das
+inter-relações dos vários conjuntos é essencial para que se conheça o contexto de
+produção, evitando-se sentenciar sobre peças isoladas de arquivo.
+
+A avaliação deve incidir sobre conjuntos de documentos e não sobre uni-
+dades individualizadas. A grande dificuldade consiste em reconstituir esses con-
+juntos quando eles foram desfeitos por critérios inadequados de arquivamento. Os
+documentos produzidos no exercício da mesma função, competência ou atividade
+constituem as séries documentais e é sobre elas que deve incidir o trabalho de
+identificação  de  valores  e  de  definição  de  prazos  de  guarda.  Portanto,  cabe  ao
+profissional de arquivo conhecer quais são os momentos do ciclo de vida dos docu-
+mentos para poder identificar em qual deles os conjuntos se encontram e determi-
+nar o tratamento e a guarda a eles correspondentes.
+
+Conjunto de documentos 
+resultante do exercício 
+da mesma função ou 
+atividade, documentos 
+estes que têm idêntico 
+modo de produção, 
+tramitação e resolução. 
+
+SÉRIE DOCUMENTAL 
+
+= 
+
+(cid:23)(cid:23)(cid:23) 
+
+A COMPETÊNCIA PARA AVALIAR DOCUMENTOS
+
+A complexidade e responsabilidade do trabalho de avaliar exige a consti-
+tuição de equipes, que poderão ser denominadas grupos ou comissões de avaliação,
+para  analisar  os  documentos  nos  seus  mais  diversos  aspectos.  Esse  processo
+participativo de profissionais ligados às mais diversas áreas do conhecimento será
+decisivo para se definir critérios de valor.  A avaliação supõe a identificação dos
+valores primário e secundário dos documentos. O valor primário relaciona-se às
+razões de sua própria produção, considerando seu uso para fins adminstrativos,
+legais e fiscais. O valor secundário diz respeito à potencialidade do documento
+como prova ou fonte de informação para a pesquisa.
+
+COMISSÕES DE AVALIAÇÃO 
+
+(cid:221)    
+
+(cid:222)  
+
+CENTRAIS 
+
+SETORIAIS 
+
+18
+
+19
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+COMO FAZER 1 - COMO AVALIAR DOCUMENTOS DE ARQUIVO
+
+COMPOSIÇÃO
+(cid:216)
+As comissões de avaliação deverão ser compostas por profissionais com co-
+nhecimentos  das  funções,  atividades  e  estrutura  organizacional  de  seus  res-
+pectivos órgãos, sendo recomendável que faça parte da comissão um técnico
+de nível superior da área específica de competência do órgão, um procurador
+ou assessor jurídico e um arquivista.
+
+COMISSÃO CENTRAL DE
+AVALIAÇÃO DE DOCUMENTOS
+
+São competências da CCAD:
+
+√ coordenar e orientar as atividades desenvolvidas pelas Comissões Setoriais
+
+de Avaliação, respeitada a legislação específica de cada órgão;
+
+√ avaliar, adequar e aprovar as propostas de Tabelas de Temporalidade elabo-
+
+radas pelas Comissões Setoriais de Avaliação;
+
+√ orientar a execução das decisões registradas na Tabela (eliminação, transfe-
+
+rência, recolhimento, reprodução);
+
+√ supervisionar as eliminações de documentos ou recolhimentos ao Arquivo
+Permanente, de acordo com o estabelecido nas Tabelas de Temporalidade;
+
+√ aprovar as amostragens;
+√ propor critérios de organização, racionalização e controle da gestão de docu-
+
+mentos e arquivos.
+
+COMISSÕES SETORIAIS DE
+AVALIAÇÃO DE DOCUMENTOS
+
+São competências das CSA:
+
+√ promover o levantamento e a identificação das séries documentais produzi-
+
+das, recebidas ou acumuladas por seu respectivo órgão;
+
+√ elaborar a proposta de Tabela de Temporalidade, encaminhando-a, acompa-
+nhada das necessárias justificativas, para a apreciação e aprovação da CCAD;
+
+√ solicitar a colaboração de auxiliares temporários para o desenvolvimento
+
+dos trabalhos, em razão de sua especificidade ou volume;
+
+√ acompanhar os trabalhos de organização, racionalização e controle de arqui-
+vos e documentos de seu órgão, visando o estabelecimento de rotinas de
+eliminação ou envio para guarda permanente;
+
+√ propor as modificações cabíveis para a Tabela de Temporalidade, atualizando-
+
+a sempre que necessário;
+
+√ elaborar a relação dos documentos a serem eliminados ou remetidos para
+
+guarda permanente;
+
+√ coordenar o trabalho de seleção e preparação material dos conjuntos docu-
+mentais a serem eliminados, deixando-os disponíveis para eventuais verifi-
+cações;
+
+√ presenciar a eliminação dos documentos, lavrando a respectiva ata.
+
+METODOLOGIA DA AVALIAÇÃO
+
+A Tabela de Temporalidade é o instrumento fundamental da avaliação,
+pois ela registra o ciclo de vida dos documentos. Nela devem constar os prazos de
+arquivamento dos documentos no arquivo corrente, de sua transferência ao arquivo
+central ou intermediário, e de sua destinação final, quando se determina sua elimi-
+nação ou recolhimento ao arquivo permanente. Nesse instrumento é importante
+registrar também os documentos que deverão ser reproduzidos em outros suportes
+(microfilmagem, digitalização etc.).
+
+Para  ser  aplicada,  a  Tabela  de  Temporalidade  deverá  ser  aprovada  por
+autoridade competente e amplamente divulgada entre os funcionários da instituição
+ou empresa. A Tabela é um instrumento dinâmico de gestão de documentos, por
+isso precisa ser periodicamente atualizada, a fim de incorporar os novos conjuntos
+documentais que possam vir a ser produzidos e as mudanças que, eventualmente,
+ocorrerem na legislação.
+
+20
+
+21
+
+
+COMO FAZER 1 - COMO AVALIAR DOCUMENTOS DE ARQUIVO
+
+É importante lembrar, ainda, que em se tratando de documentos públicos
+ou considerados de interesse público, a Tabela de Temporalidade deverá ser enca-
+minhada para a aprovação da instituição arquivística pública em sua específica
+esfera de competência, de acordo com o que determina o art. 9º da Lei Federal nº
+8.159, de 8 de janeiro de 1991.
+
+TABELA DE TEMPORALIDADE
+(cid:216)
+Instrumento aprovado por autoridade competente que regula a destinação fi-
+nal dos documentos (eliminação ou guarda permanente), define prazos para
+sua guarda temporária (vigência, prescrição, precaução), em função de seus
+valores administrativos, legais, fiscais etc. e determina prazos para sua trans-
+ferência, recolhimento ou eliminação.
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+:
+
+o
+
+t
+
+n
+e
+m
+a
+
+t
+r
+a
+p
+e
+D
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+:
+
+o
+ã
+s
+
+i
+
+v
+
+i
+
+D
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
+:
+
+o
+ã
+ç
+e
+S
+
+)
+a
+s
+e
+r
+p
+m
+E
+
+/
+a
+
+i
+
+u
+q
+r
+a
+t
+u
+A
+
+/
+a
+
+i
+r
+a
+t
+e
+r
+c
+e
+S
+
+(
+
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+
+:
+e
+d
+
+E
+D
+A
+D
+
+I
+L
+A
+R
+O
+P
+M
+E
+T
+
+E
+D
+
+A
+L
+E
+B
+A
+T
+
+22
+
+s
+e
+õ
+ç
+a
+v
+r
+e
+s
+b
+O
+
+e
+t
+n
+e
+n
+a
+m
+r
+e
+P
+a
+d
+r
+a
+u
+G
+
+l
+
+a
+t
+o
+T
+
+m
+e
+g
+a
+r
+t
+s
+o
+m
+A
+
+o
+ã
+ç
+a
+n
+m
+E
+
+i
+l
+
+i
+
+i
+
+o
+i
+r
+á
+d
+e
+m
+r
+e
+t
+n
+I
+
+l
+
+a
+r
+t
+n
+e
+C
+
+i
+
+o
+v
+u
+q
+r
+A
+
+i
+
+o
+v
+u
+q
+r
+A
+
+e
+d
+a
+d
+n
+U
+
+i
+
+o
+ã
+ç
+u
+a
+c
+e
+r
+P
+
+o
+ã
+ç
+i
+r
+c
+s
+e
+r
+P
+
+i
+
+a
+c
+n
+ê
+g
+V
+
+i
+
+)
+2
+(
+a
+p
+ó
+C
+
+i
+
+e
+t
+i
+m
+
+i
+l
+-
+s
+a
+t
+a
+D
+
+l
+
+t
+
+a
+n
+e
+m
+u
+c
+o
+D
+
+l
+
+t
+
+a
+n
+e
+m
+u
+c
+o
+D
+
+o
+i
+p
+í
+c
+i
+n
+u
+M
+o
+d
+
+s
+o
+v
+i
+u
+q
+r
+A
+e
+d
+
+a
+m
+e
+t
+s
+i
+S
+
+o
+d
+
+o
+t
+e
+j
+o
+r
+p
+
+o
+n
+
+a
+r
+i
+e
+v
+i
+l
+
+O
+a
+d
+i
+c
+e
+r
+a
+p
+p
+A
+e
+s
+í
+a
+D
+
+r
+o
+p
+
+o
+t
+s
+o
+p
+o
+r
+p
+
+i
+o
+f
+
+e
+d
+a
+d
+i
+l
+a
+r
+o
+p
+m
+e
+T
+e
+d
+
+a
+l
+e
+b
+a
+T
+e
+d
+
+o
+l
+e
+d
+o
+m
+e
+s
+s
+E
+
+.
+0
+9
+9
+1
+m
+e
+
+,
+
+P
+S
+M
+A
+S
+
+-
+
+o
+l
+u
+a
+P
+
+o
+ã
+S
+
+e
+d
+
+23
+
+l
+
+i
+
+a
+n
+F
+o
+ã
+ç
+a
+n
+i
+t
+s
+e
+D
+
+i
+
+o
+t
+n
+e
+m
+a
+v
+u
+q
+r
+A
+e
+d
+o
+z
+a
+r
+P
+
+e
+d
+o
+z
+a
+r
+P
+
+e
+d
+o
+z
+a
+r
+P
+
+e
+d
+o
+z
+a
+r
+P
+
+)
+1
+(
+
+l
+
+a
+n
+g
+i
+r
+
+i
+
+O
+
+e
+t
+r
+o
+p
+u
+S
+
+o
+p
+T
+
+i
+
+e
+i
+r
+é
+S
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+• AMOSTRAGEM 
+
+Fragmento  de  uma  série  documental  destinada  à  eliminação,  selecionado 
+
+por meio de critérios específicos para guarda permanente, a fim de 
+
+exemplificá-la,  revelar  especificidades  ou  alterações  de  rotinas 
+
+administrativas  ou  de  procedimentos  técnicos,  ou  registrar 
+
+ocorrências em momentos marcantes. 
+
+COMO FAZER 1 - COMO AVALIAR DOCUMENTOS DE ARQUIVO
+
+TABELA DE TEMPORALIDADE
+DESCRIÇÃO DE CAMPOS
+
+cais:
+
+ SÉRIE DOCUMENTAL
+
+Conjunto de documentos produzidos, recebidos e acumulados no exercício de
+uma mesma competência, função ou atividade, documentos estes que têm idên-
+tico modo de produção, tramitação e resolução. Esse campo pode ser preen-
+chido com o nome e/ou código da série. A codificação faz-se importante quan-
+do se pretende informatizar os arquivos.
+
+ TIPO DOCUMENTAL
+
+É a configuração que assume o documento em decorrência da disposição de
+suas informações. Ex: ofício, relatório, ata, processo, planta, projeto.
+
+ SUPORTE
+
+Material sobre o qual as informações são registradas: papel, filme, fita mag-
+nética, disco ótico, disquete etc.
+
+ DATAS-LIMITE
+
+Elemento de identificação cronológica onde consta a data do documento mais
+antigo e a data do documento mais recente.
+
+ ORIGINAL (1) OU CÓPIA (2)
+
+Indica se o documento é original ou cópia. Na inexistência do documento
+original, a cópia deve ser considerada como tal.
+
+ PRAZO DE VIGÊNCIA
+
+Intervalo de tempo durante o qual o documento produz efeitos administrativos
+e legais plenos, cumprindo as finalidades que determinaram a sua produção.
+
+ PRAZO DE PRESCRIÇÃO
+
+Intervalo de tempo durante o qual o poder público, a empresa ou qualquer
+interessado pode invocar a tutela do Poder Judiciário para fazer valer direito
+seu que entenda violado.
+
+ PRAZO DE PRECAUÇÃO
+
+Intervalo de tempo durante o qual o poder público, a empresa ou qualquer
+interessado  guarda  o  documento  por  precaução,  antes  de  eliminá-lo  ou
+encaminhá-lo para guarda definitiva no Arquivo Permanente.
+
+ PRAZO DE ARQUIVAMENTO
+
+É o tempo em que os documentos permanecem arquivados nos seguintes lo-
+24
+
+• UNIDADE
+Indica o tempo em que o documento permanece no arquivo corrente, junto ao
+produtor.
+
+• ARQUIVO CENTRAL
+Indica o tempo em que o documento permanece no arquivo geral,  centraliza-
+do de algumas Secretarias, Autarquias ou Empresas.
+
+• ARQUIVO INTERMEDIÁRIO
+Indica o tempo em que o documento permanece no Arquivo Intermediário da
+administração, aguardando longos prazos precaucionais.
+
+ DESTINAÇÃO FINAL
+
+É o resultado da avaliação: encaminha o documento para a eliminação ou
+para  a  guarda  permanente.  Das  séries  eliminadas,  poderão  ser  recolhidas
+amostragens ao Arquivo Permanente.
+
+• ELIMINAÇÃO
+É o procedimento de destruição física daqueles documentos que, esgotados os
+valores primários, não apresentam interesse histórico-cultural para a Admi-
+nistração ou para a sociedade.
+
+• GUARDA PERMANENTE
+Os documentos que, esgotados os prazos de vigência, prescrição ou precaução,
+apresentarem valor mediato ou secundário, deverão ser recolhidos para guarda de-
+finitiva.
+
+• AMOSTRAGEM
+Fragmento  de  uma  série  documental  destinada  à  eliminação,  selecionado  por
+meio de critérios específicos para guarda  permanente, a fim  de  exemplifi-
+
+25
+
+ 
+
+COMO FAZER 1 - COMO AVALIAR DOCUMENTOS DE ARQUIVO
+
+cá-la, revelar especificidades ou alterações de rotinas administrativas ou de
+procedimentos técnicos, ou registrar ocorrências em momentos marcantes.
+
+DOCUMENTOS DE VALOR IMEDIATO
+E GUARDA TEMPORÁRIA
+
+• TOTAL
+Esse campo deverá ser assinalado quando a totalidade do conjunto documental for
+destinada à guarda permanente.
+
+ OBSERVAÇÕES
+
+É o campo reservado para registrar outras informações relevantes, principal-
+mente a legislação que fundamenta a definição dos prazos  prescricionais.
+
+TABELA DE TEMPORALIDADE
+(cid:216)
+DESTINAÇÃO FINAL  DOS DOCUMENTOS
+(cid:221)                           (cid:222)
+ELIMINAÇÃO                            GUARDA
+
+                                        PERMANENTE
+
+VALORES DOS DOCUMENTOS
+DE ARQUIVO
+
+PRAZOS DE GUARDA
+
+IMEDIATO
+Administrativo
+Legal
+Fiscal
+
+MEDIATO
+Histórico
+Probatório
+Informativo
+
+TEMPORÁRIA
+
+PERMANENTE
+
+DOCUMENTOS DE
+VALOR IMEDIATO E
+GUARDA TEMPORÁRIA
+
+(cid:214) PODEM SER ELIMINADOS
+DEPOIS DE ESGOTADOS OS
+PRAZOS DE VIGÊNCIA,
+PRESCRIÇÃO E PRECAUÇÃO
+
+(cid:216)
+
+AMOSTRAGENS  =  parte  representativa  da  série:  revela
+especificidades,  alterações  de  rotinas  administrativas  ou  de
+procedimentos  técnicos.
+
+√ documentos que sejam cópias ou duplicatas de originais destinados à guarda
+
+permanente;
+
+√ documentos cujas informações básicas possam ser recuperadas em outros;
+
+√ documentos cujos textos tenham sido impressos em sua totalidade;
+
+√ documentos cujos textos estejam reproduzidos em outros;
+
+√ documentos que apresentem repetição da informação e qualidade técnica infe-
+
+rior (foto, fita de vídeo, fita cassete, disquete, disco ótico, etc.)
+
+DOCUMENTOS DE
+VALOR MEDIATO E
+GUARDA PERMANENTE
+(cid:216)
+
+(cid:214)
+
+RECOLHIMENTO AO
+ARQUIVO
+PERMANENTE
+
+DEVEM SER PRESERVADOS
+APÓS OS PRAZOS PREVISTOS
+NA TABELA DE
+TEMPORALIDADE PARA A
+EFICÁCIA DA AÇÃO
+ADMINISTRATIVA, COMO
+PROVA, GARANTIA DE
+DIREITOS OU FONTE DE
+PESQUISA
+
+DOCUMENTOS DE VALOR MEDIATO
+E GUARDA PERMANENTE
+
+√ de criação, constituição, modificação ou extinção do órgão produtor (Leis,
+
+Decretos, Portarias, Resoluções);
+
+√ atos normativos que reflitam a organização e funcionamento do órgão (regu-
+
+lamentos, regimentos, normas, organogramas, fluxogramas);
+
+√ convênios, ajustes, acordos, termos de cooperação;
+
+√ balanços, livros-razão e livros-diário;
+
+√ atas, resoluções;
+
+26
+
+27
+
+
+√ correspondências relativas à atividade-fim das unidades da Superior Admi-
+
+A Tabela de Temporalidade deverá indicar o local em que será pro-
+
+COMO FAZER 1 - COMO AVALIAR DOCUMENTOS DE ARQUIVO
+
+nistração;
+
+√ publicações oficiais e/ou co-produções;
+
+√ projetos de edificações públicas e particulares;
+
+√ projetos de infra-estrutura e equipamentos urbanos;
+
+√ documentos que firmem jurisprudência jurídica, administrativa ou técnica
+(pareceres apreciados judicial ou administrativamente e que possuam carac-
+terísticas inovadoras, não encontradas nos textos legais);
+
+√ documentos relativos à administração de pessoal:  planos de sálarios e benefí-
+
+cios, criação/reestruturação de carreiras;
+
+√ documentos relativos ao patrimônio imobiliário;
+
+√ documentos que registrem as atividades-fim do órgão: planos, projetos, pro-
+
+gramas, pesquisas, relatórios anuais;
+
+√ documentos que contenham vinhetas, iluminuras, caligrafias especiais;
+
+√ documentos de divulgação de obras, eventos ou atividades desenvolvidas pelo
+
+órgão (convites,  folhetos, cartazes);
+
+√ documentos relativos ao parcelamento do solo.
+
+ELIMINAÇÃO DE DOCUMENTOS:
+PROCESSAMENTO TÉCNICO
+
+De acordo com a legislação em vigor, nenhum documento público poderá
+ser eliminado se não tiver sido submetido à avaliação e se não constar da Tabela de
+Temporalidade do órgão, devidamente aprovada por autoridade competente e ofici-
+alizada. Mesmo os documentos microfilmados não poderão ser eliminados antes de
+2
+se definir sua destinação final 
+
+.
+
+A eliminação depende de algum instrumento legal ou normativo
+que a autorize.
+
+cessada a eliminação:
+
+• na própria unidade
+• no arquivo central ou
+• no arquivo intermediário
+
+Alguns documentos com curto prazo de vigência e de valor eventu-
+al ou meramente instrumental para a administração sequer deverão ser trans-
+feridos, pois poderão ser eliminados pelo próprio produtor, uma vez que
+tenham cumprido as funções que lhes deram origem. As cópias também
+poderão ser eliminadas nas unidades acumuladoras, desde que identifica-
+dos os originais e garantido seu ciclo de vida.
+
+Nas empresas, os documentos devem ser eliminados nos prazos
+previstos nas Tabelas de Temporalidade aprovadas pela Diretoria, após  au-
+torização por escrito do presidente ou de seu representante.
+
+Por isso, a eliminação de documentos que não constem das Tabelas
+de  Temporalidade,  ou  não  tenham  completado  os  prazos  de  vigência  e
+precaucional nelas previstos, não é legalmente autorizada no serviço públi-
+co e nem recomendável, do ponto de vista técnico e jurídico, nas empresas
+privadas. É preciso identificar e recompor as séries documentais, e provi-
+denciar uma organização elementar da massa acumulada para se efetuar
+com segurança a eliminação.
+
+A inutilização dos documentos poderá ser efetuada por procedi-
+mentos diversos, dependendo de seu suporte. Como a massa documental
+produzida e acumulada ainda é predominantemente em papel, cada órgão
+público ou empresa deverá definir os métodos e adquirir os equipamentos
+(fragmentadora de papel de pequeno ou grande porte etc.) necessários ao
+processamento da eliminação. Não é recomendável do ponto de vista ecoló-
+gico a incineração de papéis, que poderão ser mecanicamente transforma-
+dos em aparas e doados ou vendidos para reciclagem.
+
+Nem sempre, porém, essa recomendação tem sido incorporada aos
+instrumentos legais que definem normas para a eliminação. Recente Provi-
+mento do Conselho Superior de Magistratura do Tribunal de Justiça de São
+Paulo, que regulamenta a destruição física de autos de processos, permite
+que os documentos sejam eliminados “por incineração, destruição mecâni-
+3
+ca, transformação em aparas ou por outro meio adequado” 
+
+.
+
+2.  “Documentos  oficiais  ou  públicos  com  valor  de  guarda  permanente  não  poderão  ser  eliminados  após  a
+microfilmagem, devendo ser recolhidos ao arquivo público de sua esfera de atuação ou preservados pelo próprio
+órgão detentor” (art. 13 do Decreto Federal 1.799, de 30 de janeiro de 1996).
+
+3. Provimento do Conselho Superior  de  Magistratura nº 556/97, de 14 de fevereiro de 1997, art. 1º. Regu-
+lamenta a destruição física de autos de processo, arquivados há mais de cinco anos em primeira instância,
+nas comarcas da Capital e do Interior do Estado de São Paulo.
+
+28
+
+29
+
+
+COMO FAZER 1 - COMO AVALIAR DOCUMENTOS DE ARQUIVO
+
+Redação semelhante é dada à Resolução do Tribunal de Contas de São Pau-
+lo, que autoriza a eliminação de documentos também por incineração ou
+4
+destruição física 
+
+.
+
+É importante prever os procedimentos adequados à eliminação du-
+rante a elaboração de textos legais ou normativos que deverão disciplinar a
+matéria. A legislação do Município de São Paulo, por exemplo, explicita
+5
+tais procedimentos 
+
+.
+
+Portanto, o processamento técnico da eliminação propõe algumas
+
+questões que merecem ser observadas:
+
+√ quais os dispositivos legais ou normas internas que legitimam o ato?
+√ quem disponibiliza os documentos e efetua a eliminação? (extração de
+grampos, clipes e garras de metal, remoção dos documentos das caixas
+etc.)
+√ quem registra o ato? (elaboração da Ata ou Termo de Eliminação)
+onde e quando será realizada? (elaboração de calendário de eliminação)
+√ de que maneira será processada? (equipamentos necessários)
+√ o que será feito com o resíduo da eliminação? (venda ou doação e para
+quem?)
+
+A eliminação deverá ser registrada em Ata ou Termo de Eliminação
+
+onde constem os seguintes dados:
+
+• órgão produtor
+
+• série documental
+
+• datas-limite
+
+• quantidade eliminada (em metros lineares)
+
+• data da eliminação
+
+• assinatura dos responsáveis
+
+4. Resolução nº 02/97 - TCA - 13054/026/5,  art. 3º, publicada no D.O.E em 12/03/97. Dispõe sobre a
+eliminação de documentos e processos arquivados no Tribunal de Contas do Estado de São Paulo.
+5. “A  eliminação  de  documentos  será  formalizada  por  meio  de  registro  em  ata  da  Unidade  ou  Órgão,
+acompanhada de relação que identifique os respectivos documentos, e que consignará as datas-limite e a
+quantidade, em metros lineares, dos documentos eliminados” (Decreto nº 29.745, de 14 de maio de 1991,
+Art. 6º.). “Os documentos eliminados serão transformados em aparas e doados ao Corpo Municipal de
+Voluntários - CMV, ou instituição similar” (idem, Art. 6º, parág. 1º).
+
+EMPRESA FANTASIA
+ARQUIVO CENTRAL
+
+ATA OU TERMO DE ELIMINAÇÃO DE DOCUMENTOS ( nº____ )
+
+Unidade Produtora/Código:
+Série documental/Código:
+Datas-limite:
+Metros lineares:
+
+Aos  ______  dias  do  mês  de  __________,  de  mil  novecentos  e  noventa  e
+
+_______, procedeu-se à eliminação de documentos da Empresa Fantasia, em
+conformidade com os prazos definidos nas Tabelas de Temporalidade, apro-
+
+vadas pela Diretoria desta Empresa. Acompanha esta Ata a relação dos docu-
+mentos eliminados. E, para constar, lavramos a presente Ata que vai pelos
+
+responsáveis assinada.
+
+______________________
+______________________
+______________________             ______________________
+          dos produtores dos                          Assinatura do responsável
+   documentos e/ou Presidente                        pelo Arquivo Central
+                 da Empresa
+
+  Assinaturas
+
+FICHA DE CONTROLE DE ELIMINAÇÃO
+
+1. Data prevista para eliminação:
+
+5. Notação (=localização)
+
+Cx.
+
+Vol.
+
+Disq.
+
+2. Série:
+
+3. Datas-limite:
+
+4. Entidade Remetente:
+
+6. Nº da transferência:
+
+6.1 Data da transferência:
+
+7. Data da execução da eliminação:
+
+8. Observações:
+
+30
+
+31
+
+
+COMO FAZER 1 - COMO AVALIAR DOCUMENTOS DE ARQUIVO
+
+Dos documentos destinados à eliminação é recomendável que
+sejam conservadas amostragens que deverão ser recolhidas para guarda
+permanente.
+
+O profissional de arquivo precisa orientar sua ação pela busca
+contínua de critérios os mais objetivos possíveis de avaliação e elimina-
+ção.  No entanto, é  muito questionável a possibilidade de se estabelecer
+um  conjunto  de  critérios  objetivos  para  a  seleção  de  documentos
+elimináveis que deverão constituir  as amostragens. Nesse momento, não
+podemos deixar de observar que as técnicas de seleção devem levar em
+conta não somente o conteúdo da informação, mas também sua natureza
+e forma. A amostragem pode ser estatística, geográfica, cronológica ou
+por séries documentais. Alguns dos critérios mais comuns para se defi-
+nir as amostragens são:
+
+√ amostragem anual ou decenal - aplicada aos documentos que foram
+organizados segundo um critério cronológico;
+
+√ método alternativo ou por turno - sistema de rodízio que pode ser
+acompanhado de métodos estatísticos;
+
+√ amostragens regionais;
+
+√ amostragem estatística aleatória - aplicado em acervos volumosos,
+completos, ordenados de forma lógica.
+
+Para alguns arquivistas, a seleção de amostras para preservação
+permanente é condição indispensável à eliminação dos conjuntos aos
+quais elas pertençam. Contudo, a legislação federal não determina essa
+prática, em relação aos documentos oficiais.  No Município de São Pau-
+lo, porém, o Decreto que estabelece normas de avaliação determina a
+seleção de amostragens para guarda permanente dos documentos públi-
+6
+cos destinados à eliminação 
+
+.
+
+6. “Dos documentos eliminados serão conservadas amostragens para acervo do Arquivo Histórico
+Municipal, que serão a ele encaminhadas conforme calendário a ser estabelecido”  (Art. 7º do Decre-
+to Municipal nº 29.745, de 14 de maio de 1991).
+
+BIBLIOGRAFIA SOBRE O TEMA
+
+ACERVO. Revista do Arquivo Nacional. Novas Tecnologias em Arquivos: Rio de
+
+Janeiro: Arquivo Nacional, v.7, n. 1-2, jan.-dez. 1994.
+
+ALBERCH I FUGUERAS, Ramón. A gestão integral dos documentos. V Conferên-
+cia Nacional de Arquivos Públicos, “Estado e Sociedade: As dimensões do Ar-
+quivo Público”. São Paulo, 1997. 26 p.
+
+ARCHIVO  GENERAL  DE  LA  NACIÓN.  Entre  historiadores  y  archivistas:  el
+dilema de la valoración documental. México, Secretaria de Gobernación. Dirección
+de Publicaciones, 1995.
+
+ARQUIVO NACIONAL. Gestão de Documentos: conceitos e procedimentos Bási-
+
+cos. Rio de Janeiro, 1995. (Publicações Técnicas, 47).
+
+_________ . Manual de identificação de acervos documentais para transferên-
+cia e/ou recolhimento aos arquivos públicos. Rio de Janeiro, 1985. (Publica-
+ções Técnicas, 40).
+
+_________ . Orientação para avaliação e arquivamento intermediário em ar-
+
+quivos públicos. Rio de Janeiro, 1985. (Publicações Técnicas, 41).
+
+__________. Critérios de avaliação de documentos de arquivo. Mensário do Ar-
+
+quivo Nacional, Rio de Janeiro, v. 12, n. 9, p. 21-28, set. 1981.
+
+__________. Guarda e eliminação de documentos. Mensário do Arquivo Nacio-
+nal. Rio de Janeiro, v. 7, n. 11, p. 27-31, nov. 1976. [Publicação do Decreto nº
+2.858, de 18 de março de 1975, que dispõe sobre a guarda e eliminação de docu-
+mentos oficiais do Distrito Federal e da Portaria nº 153-SEA, de 9 de abril de
+1975, que regulamenta o art. 11 daquele Decreto e estabelece normas para funci-
+onamento da Comissão de Eliminação de Documentos].
+
+DICIONÁRIO  DE  TERMINOLOGIA  ARQUIVÍSTICA.  São  Paulo:  Associa-
+ção  dos  Arquivistas  Brasileiros/Núcleo  Regional  de  São  Paulo:  Secretaria  de
+Estado da Cultura, 1996.
+
+GRUPO DE TRABAJO DE ARCHIVEROS MUNICIPALES DE MADRID. El ex-
+purgo  en  los  Archivos  Municipales.  Propuesta  de  un  manual.  Madrid,
+Ayuntamiento de El Escorial, 1994.
+
+HAM, F. Gerald. Selecting and Appraising Archives and Manuscripts. Chicago,
+The Society of American Archivists, 1993 (Archival Fundamentals Series).
+
+HEREDIA  HERRERA,  Antonia  (1986).  Gestión de Documentos. Archivistica
+General. Teoría y Práctica, 5. ed. act. y aum. Sevilha: Diputación Provincial,
+1991, p. 171-195.
+
+32
+
+33
+
+
+COMO FAZER 1 - COMO AVALIAR DOCUMENTOS DE ARQUIVO
+
+INOJOSA, Rose Marie. Tabelas de Temporalidade. CASTILHO, Ataliba Teixeira (org.)
+- A sistematização de arquivos públicos. Campinas: Editora da UNICAMP, 1991,
+p. 87-97.
+
+________. Gerenciamento de Documentos: avaliação. Atas do I Seminário Nacional de
+
+Arquivos Universitários. Campinas, São Paulo: Unicamp, 1992.
+
+JARDIM, José Maria. O conceito e a prática de gestão de documentos. Acervo, Rio de
+
+Janeiro, v. 2, n. 2, p. 35-42, jul.-dez. 1987.
+
+KROMNOV, Ake. Avaliação de Arquivos Contemporâneos. Tradução de Maria Amélia
+Porto Migueis. Arquivo & Administração, Rio de Janeiro, v. 9, n. 3, p. 20-28, set./
+dez.1981.
+
+LOPES,  Luís  Carlos.    A  gestão  da  informação:  as  organizações,  os  arquivos  e  a
+informática aplicada. Rio de Janeiro: Arquivo Público do Estado do Rio de Janeiro,
+1997.
+
+MACHADO,  Helena  Corrêa.  Avaliação  de  documentos:  principais  critérios.  Arquivo
+
+Rio Claro, Rio Claro, São Paulo, v. 5, n. 2, p. 33-41, jul.1986.
+
+MACHADO,  Helena  Corrêa  e  CAMARGO,  Ana  Maria  de  Almeida.  Gestão  de  docu-
+mentos. Roteiro para implantação de Arquivos Municipais. São Paulo: Secretaria
+de Estado da Cultura: Porto Calendário, 1996, p. 24-42.
+
+NORMES I REGLAMENTS DE L’ARXIU MUNICIPAL DE BARCELONA. Coor-
+denação de Ramón Alberch i Fugueras e Lina Ubero i Badia. Barcelona: Ayuntament
+de  Barcelona,  Regidoria  de  Presidència,  1994.  (Coleção  “Normes  i  Reglaments  de
+l’Arxiu Municipal”, 1).
+
+OLIVEIRA, Daíse Apparecida. Sistema de Arquivos para o Município de São Paulo -
+SAMSP.  Revista  do  Arquivo  Municipal  v.  199.  São  Paulo:  Departamento  do
+Patrimônio Histórico, 1991, p.113-143.
+
+________ . Arquivos Intermediários: funções, operacionalização e procedimentos técni-
+cos relativos à destinação dos documentos. Atas do I Seminário Nacional de Arqui-
+vos Universitários. Campinas, São Paulo: Unicamp, 1992, p.189-204.
+
+PIRES, Clairê de Sousa. Os Arquivos e a Avaliação de Documentos. Arquivo & Admi-
+
+nistração, Rio de Janeiro, v. 9,  n. 3, p. 3-10, set./dez.1981.
+
+SCHELLENBERG, T. R. A Avaliação dos Documentos Públicos Modernos. Tradução
+
+de Lêda Boechat Rodrigues. Arquivo Nacional, Rio de Janeiro, 1959.
+
+SOARES, Nilza Teixeira. Avaliação e Seleção de Documentos de Arquivos: problemas e
+soluções. Arquivo & Administração, Rio de Janeiro, v. 3, n. 3, p. 7-14, dez.1975.
+
+STRINGHER,  Ademar.  Aspectos  legais  da  documentação  em  meios  micrográficos,
+magnéticos e ópticos. 2ª ed. rev. e atualizada. São Paulo: Universidade Ibirapuera:
+CENADEM, 1996.
+
+VAZQUEZ, Manuel. Manual de Seleccion Documental. Córdoba, Argentina, 1983.
+
+VAZQUEZ, Manuel. Estudio del Ciclo Vital de los Documentos. Córdoba, República
+
+Argentina,  1987  (mimeo.).
+
+LEGISLAÇÃO (*)
+
+LEGISLAÇÃO FEDERAL
+
+• Lei no 8.159, de 8 de janeiro de 1991, que dispõe sobre a Política Nacional de Arquivos
+Públicos e Privados.
+
+• Lei nº 5.433, de 8 de maio de 1968. Regula a microfilmagem de documentos oficiais e
+
+dá outras providências.
+• Decreto no 1.799, de 30 de janeiro de 1996. Regulamenta a Lei no 5.433, de 8 de maio
+de 1968, que regula a microfilmagem de documentos oficiais.
+
+• Portaria da Secretaria da Justiça nº 58, de 20 de junho de 1996. Regulamenta o registro
+e a fiscalização do exercício da atividade de microfilmagem de documentos, em confor-
+midade com o parágrafo único do artigo 15 do Decreto nº 1.799, de 30 de janeiro de
+1996.
+
+• Decreto nº 2.134, de 24 de janeiro de 1997. Regulamenta o art. 23 da Lei 8.159, de 8 de
+janeiro de 1991, que dispõe sobre a categoria dos documentos públicos sigilosos e o
+acesso a eles,  e dá outras providências.
+
+LEGISLAÇÃO DO ESTADO DE SÃO PAULO
+
+• Decreto no 22.789, de 19 de outubro de 1984: Institui o Sistema de Arquivos do Estado
+de São Paulo - SAESP.
+• Decreto no 29.838, de 18 de abril de 1989: Dispõe sobre a constituição de Comissão de
+Avaliação de Documentos de Arquivo nas Secretarias do Estado de São Paulo.
+
+LEGISLAÇÃO DO MUNICÍPIO DE SÃO PAULO
+
+•  Portaria  no  39,  de  22  de  janeiro  de  1990:  Cria  a  Comissão  Central  e  as  Comissões
+Setoriais de Avaliação de Documentos nos órgãos da administração direta e indireta do
+Município de São Paulo.
+
+(*) A legislação sobre avaliação de documentos públicos editada pelos Estados e Municípios brasileiros
+ainda não foi compilada. Indicamos, à guisa de contribuição,  a legislação do Estado e do Município de
+São Paulo.
+
+34
+
+35
+
+
+COMO FAZER 1 - COMO AVALIAR DOCUMENTOS DE ARQUIVO
+
+• Decreto no 28.656, de 9 de abril de 1990: Estabelece mecanismos necessários à
+implantação de processo de avaliação de documentos públicos do Município de
+São Paulo.
+•  Decreto  no  29.745,  de  14  de  maio  de  1991:  Estabelece  normas  de  avaliação  e
+destinação  para  os  documentos  da  Administração  Pública  do  Município  de  São
+Paulo.
+
+• Ato nº 413/92. Cria a Comissão de Avaliação de Documentos - CAD destinada a
+estabelecer  os  critérios  para  destinação  e  custódia  dos  documentos  da  Câmara
+Municipal de São Paulo. (Alterado pelo Ato nº 414/92).
+
+• Minuta de Decreto que consolida normas para avaliação, guarda e eliminação dos
+documentos públicos municipais que compõem os arquivos da administração direta
+e indireta do Município de São Paulo, de autoria de Daíse Apparecida Oliveira,
+Ieda Pimenta Bernardes e Laura Lúcia Vieira Ceneviva, aprovada pela Comissão
+Central  de  Avaliação  de  Documentos  -  CCAD  (nomeada  pelo  Portaria  nº  034/
+SMA-G/95) e autuada no processo nº 16-005.848-96*76.
+
+RESOLUÇÕES DO CONSELHO NACIONAL
+DE ARQUIVOS - CONARQ
+
+• Resolução nº 1, de 18 de outubro de 1995 (D.O.U de 24/10/95). Dispõe sobre a
+necessidade da adoção de planos e/ou códigos de classificação de documentos nos
+arquivos  correntes,  que  considerem  a  natureza  dos  assuntos  resultantes  de  suas
+atividades e funções.
+
+• Resolução nº 2, de 18 de outubro de 1995 (D.O.U de 24/10/95). Dispõe sobre as
+medidas a serem observadas na transferência ou no recolhimento de acervos docu-
+mentais para instituições arquivísticas públicas.
+
+• Resolução nº 3, de 26 de dezembro de 1995 (D.O.U de 28/12/95). Dispõe sobre o
+Programa de Assistência Técnica do Conselho Nacional de Arquivos (CONARQ).
+
+•  Resolução  nº  4,  de  28  de  março  de  1996  (D.O.U  de  29/3/96).  Dispõe  sobre  o
+Código de Classificação de Documentos de Arquivo para Administração Pública:
+atividade-meio, a ser adotado como modelo para os arquivos correntes dos órgãos
+e entidades integrantes do Sistema Nacional de Arquivos (SINAR), e aprova os
+prazos de guarda e destinação de documentos estabelecidos na Tabela Básica de
+Temporalidade e Destinação de Documentos de Arquivo relativos às atividades-
+meio da Administração Pública.
+
+• Resolução nº 5, de 30 de setembro de 1996 (D.O.U de 11/10/1996). Dispõe sobre a
+publicação de editais para eliminação de documentos nos diários oficiais da União,
+Distrito Federal, Estados e Municípios.
+
+• Resolução nº 6, de 15 de maio de 1997 (D.O.U de 23/5/97). Dispõe sobre diretrizes
+
+quanto à terceirização de serviços arquivísticos públicos.
+
+• Resolução nº 7, de 20 de maio de 1997 (D.O.U de 23/5/97). Dispõe sobre os procedi-
+mentos para a eliminação de documentos no âmbito dos órgãos e entidades integrantes
+do Poder Público.
+
+•  Resolução  nº  8,  de  20  de  maio  de  1997  (D.O.U  de  23/5/97).  Atualiza  o  Código  de
+Classificação de Documentos de Arquivo para Administração Pública - Atividade-Meio
+e  a  Tabela  de  Temporalidade  e  Destinação  de  Documentos  de  Arquivo  relativos  às
+atividades-meio da Administração Pública, aprovados pela Resolução nº 4.
+
+• Resolução nº 9, de 1 de julho de 1997 (D.O.U de 18/7/97). Dispõe sobre o regimento
+
+interno do Conselho Nacional de Arquivos - CONARQ.
+
+TABELAS DE TEMPORALIDADE
+OFICIALIZADAS (*)
+
+EXECUTIVO FEDERAL
+
+• Resolução CONARQ nº 4, de 28 de março de 1996 (D.O.U de 29/3/96). Dispõe sobre o
+Código  de  Classificação  de  Documentos  de  Arquivo  para  Administração  Pública:
+atividade-meio,  a  ser  adotado  como  modelo  para  os  arquivos  correntes  dos  órgãos  e
+entidades integrantes do Sistema Nacional de Arquivos (SINAR), e aprova os prazos de
+guarda e destinação de documentos estabelecidos na Tabela Básica de Temporalidade e
+Destinação de Documentos de Arquivo relativos às atividades-meio da Administração
+Pública.
+
+EXECUTIVO ESTADUAL
+
+• Resolução SE - 33, de 25/02/94 (D.O.E de 26/02/94), Resolução SE - 129, de 13/07/94
+(D.O.E de 14/07/94), Resolução 172, de 16/09/94 (D.O.E de 17/09/94), Resolução SE
+232, de 22/12/94 (D.O.E de 23/12/94). Aprovam, respectivamente, as 4 etapas da Tabe-
+la de Temporalidade da Secretaria de Educação do Estado de São Paulo.
+
+•  Resolução  nº  8865  do  Secretário  de  Estado  da  Administração:  aprova  o  Manual  de
+Gestão de Documentos do Estado do Paraná. Diário Oficial de Curitiba, 11 de agosto de
+1997.
+
+(*) As Tabelas de Temporalidade oficializadas pela administração pública,  das quais tomamos conheci-
+mento, estão sendo indicadas como referência para subsidiar e enriquer o debate acerca da temporalidade
+dos documentos públicos.
+
+36
+
+37
+
+
+COMO FAZER 1 - COMO AVALIAR DOCUMENTOS DE ARQUIVO
+
+• Provimento do Conselho Superior de Magistratura nº 556/97, de 14 de fevereiro
+de 1997. Regulamenta a destruição física de autos de processo, arquivados há
+mais de cinco anos em primeira instância, nas comarcas da Capital e do Interior
+do Estado.
+
+• Resolução do Conselho da Justiça Federal nº 192, de 21 de maio de 1997. Disci-
+plina a seleção, guarda e eliminação de documentos judiciais e processos findos
+e cria o arquivo histórico da Justiça Federal de 1ª e 2ª Instâncias.
+
+•  Portaria  GR  nº  3083,  de  23  de  outubro  de  1997.  Institui  o  Sistema  de  Arquivos  da
+Universidade de São Paulo - SAUSP e dá outras providências. Suplemento do D.O.E
+volume 107, número 206, de 25 de outubro de 1997.
+
+EXECUTIVO MUNICIPAL
+
+•  Decreto  nº  36.118,  de  4  de  junho  de  1996.  Oficializa  a  Tabela  de  Temporalidade  do
+Instituto de Previdência Municipal de São Paulo - IPREM. Diário Oficial do Município
+de São Paulo nº 106, 5 de junho de 1996.
+
+Obs.: Na administração pública do  Município de São Paulo, o único órgão que ofici-
+alizou sua Tabela de Temporalidade, até o momento,  foi o Instituto de Previdência
+Municipal - IPREM. Contudo, todas as demais Secretarias elaboraram suas propostas
+de Tabelas que se encontram em poder da Comissão Central de Avaliação de Docu-
+mentos.  A  Tabela  das  atividades-meio  dos  Gabinetes  e  Assessorias  foi  amplamente
+discutida por representantes de todas as Comissões Setoriais e aprovada pela Comis-
+são Central de Avaliação de Documentos, em 1992, faltando apenas sua oficialização.
+
+• Decreto nº 9.223, de 20 de maio de 1997. Estabelece os prazos de guarda e a destinação
+de documentos estabelecidos na Tabela de Temporalidade e Destinação de Documentos
+de Arquivo da Prefeitura de Belo Horizonte. Diário Oficial do Município de Belo Hori-
+zonte, Suplemento Especial, 22 de maio de 1997.
+
+PODER LEGISLATIVO
+
+• Comunicado 1/93 da Comissão de Avaliação da Câmara Municipal de São Paulo. Apre-
+senta a Tabela de Temporalidade dos Documentos da Atividade Legislativa da CMSP.
+Diário Oficial do Município 38(221), 27 de novembro de 1993.
+
+• Resolução nº 02/97 - TCA - 13054/026/95. Dispõe sobre a eliminação de documentos e
+processos arquivados no Tribunal de Contas do Estado de São Paulo. Diário Oficial do
+Estado de São Paulo, Poder Legislativo, 107(47), 12 de março de 1997.
+
+PODER JUDICIÁRIO
+
+• Portaria nº 7, de 28 de dezembro de 1987. Aprova a Tabela de Temporalidade de Docu-
+mentos, dispõe sobre o arquivamento e microfilmagem de papéis, no âmbito da Secreta-
+ria do Tribunal de Justiça do Estado do Mato Grosso do Sul. Diário Oficial do Estado de
+Mato Grosso do Sul, 8 de janeiro de 1988.
+
+• Ato Normativo do Tribunal de Justiça do Estado do Rio de Janeiro nº 13/97. Aprova a
+Tabela de Temporalidade para os documentos do Poder Judiciário do Estado do Rio de
+Janeiro - Tribunal de Justiça. Diário Oficial do Estado do Rio de Janeiro, 31 de janeiro
+de 1997.
+
+38
+
+39
+
+
+COMO FAZER 1 - COMO AVALIAR DOCUMENTOS DE ARQUIVO
+
+ANEXOS
+
+ANEXO 1 - GLOSSÁRIO
+
+ANEXO 2 - CRITÉRIOS PARA QUANTIFICAÇÃO DE ACERVO
+
+ANEXO 3 - PRAZOS DE PRESCRIÇÃO
+
+ANEXO 4 - ARQUIVOS E DOCUMENTOS PÚBLICOS:
+
+fundamentos legais (quadros sinóticos)
+
+ANEXO 5 - ARQUIVOS E DOCUMENTOS PÚBLICOS:
+
+fundamentos legais (textos integrais)
+
+41
+
+
+COMO FAZER 1 - COMO AVALIAR DOCUMENTOS DE ARQUIVO
+
+ANEXO 1
+GLOSSÁRIO (*)
+
+Atividade-Fim
+
+Conjunto de operações que uma instituição leva a efeito para o desempenho de suas
+atribuições específicas e que resulta na acumulação de documentos de caráter subs-
+tantivo para o seu funcionamento.
+
+Acervo
+
+Totalidade dos documentos conservados num arquivo.
+
+Atividade-Meio
+
+Amostragem
+
+Fragmento de uma série documental destinada à eliminação, selecionado por meio
+de critérios específicos para guarda permanente, a fim de  exemplificá-la, revelar
+especificidades ou alterações de rotinas administrativas ou de procedimentos técni-
+cos, ou registrar ocorrências em momentos marcantes.
+
+Arquivo
+
+É um ou mais conjuntos de documentos, de qualquer época, forma e suporte mate-
+rial, produzidos, recebidos e acumulados em processo natural, por uma Unidade no
+exercício de suas funções ou conservados para servir de referência, prova, informa-
+ção ou fonte de pesquisa.
+
+Arquivo Corrente
+
+Conjunto de documentos estreitamente vinculados aos fins imediatos para os quais
+foram produzidos ou recebidos e que, mesmo cessada sua tramitação, se conservam
+junto aos órgãos produtores em razão  da freqüência com que são consultados. O
+mesmo que Arquivo Administrativo.
+
+Arquivo Histórico
+
+Veja Arquivo Permanente
+
+Arquivo Intermediário
+
+Conjunto de documentos originários de arquivos correntes, com uso pouco freqüente,
+que aguardam em depósito de armazenamento temporário sua destinação final.
+
+Arquivologia
+
+Disciplina que tem por objeto o conhecimento da natureza dos arquivos e das teori-
+as, métodos e técnicas a serem observados na sua constituição, organização, desen-
+volvimento e utilização.
+
+Arquivo Permanente
+
+Conjunto de documentos preservados em caráter definitivo em função de seu valor
+para a eficácia da ação administrativa, como prova, garantia de direitos ou fonte de
+pesquisa.
+
+(*) A elaboração deste Glossário contou com a colaboração de Daíse Apparecida Oliveira e teve como
+fonte básica o Dicionário de Terminologia Arquivística. São Paulo: Associação dos Arquivistas Brasi-
+leiros/Núcleo Regional de São Paulo: Secretaria de Estado da Cultura, 1996.
+
+Conjunto de operações que uma instituição leva a efeito para auxiliar e viabilizar o
+desempenho de suas atribuições específivas e que resulta na acumulação de docu-
+mentos de caráter instrumental e acessório.
+
+Avaliação de documento
+
+Trabalho  interdisciplinar  que  consiste  em  identificar  valores  para  os  documentos
+(imediato e mediato) e analisar seu ciclo de vida,  com vistas a  estabelecer prazos
+para sua guarda ou eliminação, contribuindo para a racionalização dos arquivos e
+eficiência administrativa, bem como para a preservação do patrimônio documental.
+
+Ciclo de vida dos documentos
+
+Sucessão de fases por que passam os documentos (corrente, intermediária, perma-
+nente), desde o momento em que são produzidos até sua destinação final (elimina-
+ção ou guarda permanente).
+
+Classificação de fundos
+
+É  uma  atividade  intelectual  que  consiste  em  reconstituir,    mediante  pesquisa  na
+legislação,  a  origem  e  evolução  da  estrutura  organizacional  e  funcional  do  órgão
+produtor dos documentos.
+A  classificação  deve  materializar-se  na  elaboração  de  instrumentos  de  trabalho:
+compilação da legislação e confecção de organogramas que representem a estrutura
+orgânica hierarquizada do órgão e suas subdivisões internas, que são as unidades
+geradoras dos documentos.
+
+Comissão Central de Avaliação de Documentos - CCAD
+
+É  uma  comissão  permanente  e  multidisciplinar  de  avaliação  de  documentos.  São
+competências da CCAD:
+
+1. coordenar e orientar as atividades desenvolvidas pelas Comissões Setoriais de Ava-
+
+liação, respeitada a legislação específica de cada órgão;
+
+2. avaliar, adequar e aprovar as propostas de Tabelas de Temporalidade elaboradas
+
+pelas Comissões Setoriais de Avaliação;
+
+3. supervisionar as eliminações de documentos ou recolhimentos ao Arquivo Perma-
+
+nente, de acordo com o estabelecido nas Tabelas de Temporalidade;
+
+4. aprovar as amostragens;
+5. propor critérios de organização, racionalização e controle da gestão de documentos
+
+e arquivos.
+
+42
+
+43
+
+
+Comissões Setoriais de Avaliação - CSA
+
+Eliminação de documentos
+
+COMO FAZER 1 - COMO AVALIAR DOCUMENTOS DE ARQUIVO
+
+São  comissões  multidisciplinares,  constituídas  em  cada  órgão  produtor  de
+documentos. São competências das Comissões Setoriais de Avaliação:
+1. promover o levantamento e a identificação das séries documentais produ-
+
+zidas, recebidas ou acumuladas por seu respectivo órgão;
+
+2. elaborar a proposta de Tabela de Temporalidade, encaminhando-a, acom-
+panhada das necessárias justificativas, para a apreciação e aprovação da
+CCAD;
+
+3. solicitar a colaboração de auxiliares temporários para o desenvolvimento
+
+dos trabalhos, em razão de sua especificidade ou volume;
+
+4.  acompanhar  os  trabalhos  de  organização,  racionalização  e  controle  de
+arquivos e documentos de seu órgão, visando o estabelecimento de roti-
+nas de eliminação ou envio para guarda permanente;
+
+5.  propor  as  modificações  cabíveis  para  a  Tabela  de  Temporalidade,
+
+atualizando-a sempre que necessário;
+
+6. elaborar a relação dos documentos a serem eliminados ou remetidos para
+
+guarda  permanente;
+
+7. coordenar o trabalho de seleção e preparação material dos conjuntos docu-
+mentais a serem eliminados, deixando-os disponíveis para eventuais ve-
+rificações;
+
+8. presenciar a eliminação dos documentos, lavrando a respectiva ata.
+
+Datas-limite
+
+Identificação cronológica em que são mencionados os anos de início e tér-
+mino do período abrangido pelos documentos de uma série, de um proces-
+so, dossiê, fundo ou coleção.
+
+Diagnóstico de arquivos
+
+Análise  das  informações  básicas  (quantidade,  localização,  estado  físico,
+condições de armazenamento, grau de crescimento, freqüência de consul-
+ta) sobre arquivos, a fim de implantar sistemas e estabelecer programas de
+transferência,  recolhimento,  microfilmagem,  conservação  e  demais
+atividades.
+
+Documento
+
+Toda informação registrada num  suporte material (papel, fita, disco óptico
+etc.).
+
+Documento de arquivo
+
+É  todo  registro  de  informação  original,  único  e  autêntico  que  resulta  da
+acumulação em processo natural por uma entidade produtora no exercício
+de suas competências, funções e atividades, independentemente de seu su-
+porte  material  ser  o  papel,  o  filme,  a  fita  magnética,  o  disco  óptico  ou
+qualquer outro.
+
+Destruição de documentos que, no processo de avaliação, foram considerados sem
+valor para guarda permanente.
+“A eliminação de documentos produzidos por instituições públicas e de caráter pú-
+blico será realizada mediante autorização da instituição arquivística pública, na sua
+específica esfera de competência” (art. 9º, Lei no 8.159, de 08/01/91).
+“A eliminação de documentos oficiais ou públicos só deverá ocorrer se prevista na
+tabela de temporalidade do órgão, aprovada pela autoridade competente na esfera
+de sua atuação e respeitado o disposto no art. 9o da Lei no 8.159, de 8 de janeiro de
+1991” (art. 12, parágrafo único, Decreto no 1.799, de 30/01/96).
+Dos documentos a serem eliminados poderão ser retiradas amostragens para guar-
+da definitiva no Arquivo Permanente.
+
+Fundo
+
+É o acervo arquivístico produzido, recebido e acumulado em processo natural por
+uma mesma instituição, entidade ou pessoa.
+
+Gestão de Documento
+
+Conjunto de medidas e rotinas que garante o efetivo controle de todos os documen-
+tos de qualquer idade desde sua produção até sua destinação final (eliminação ou
+guarda permanente), com vistas à racionalização e eficiência administrativas bem
+como à preservação do patrimônio documental de interesse histórico-cultural.
+
+Guarda Permanente
+
+Veja Valor Mediato
+
+Guarda Temporária
+
+Veja Valor Imediato
+
+Plano de Destinação
+
+Conjunto de instrumentos de destinação de documentos decorrentes do trabalho de
+avaliação: tabela de temporalidade, relação de eliminação, ata ou termo de elimina-
+ção.
+
+Prazo de Precaução
+
+Intervalo de tempo durante o qual o poder público, a empresa ou qualquer interessa-
+do guarda o documento por precaução, antes de eliminá-lo ou encaminhá-lo para
+guarda definitiva no Arquivo Permanente.
+
+44
+
+45
+
+
+COMO FAZER 1 - COMO AVALIAR DOCUMENTOS DE ARQUIVO
+
+Prazo de Prescrição
+
+Intervalo de tempo durante o qual o poder público, a empresa, ou qualquer interes-
+sado,  pode  invocar  a  tutela  do  Poder  Judiciário  para  fazer  valer  direito  seu  que
+entenda violado.
+
+Prazo de Vigência
+
+Intervalo  de  tempo  durante  o  qual  o  documento  produz  efeitos  administrativos  e
+legais plenos, cumprindo as finalidades que determinaram a sua produção.
+
+Princípio da Proveniência ou do Respeito aos Fundos
+
+Princípio fundamental da Arquivologia segundo o qual os documentos originários
+de  uma  instituição,  entidade  ou  pessoa  não  devem  ser  misturados  aos  de  origem
+diversa, preservando-se assim o contexto e a  organicidade de sua produção.
+
+Recolhimento
+
+Passagem de documentos do Arquivo Intermediário ou Central para o Arquivo Per-
+manente.
+
+Série Documental
+
+Conjunto de documentos resultante do exercício de uma mesma competência, fun-
+ção ou atividade, documentos estes que têm idêntico modo de produção, tramitação
+e resolução.
+
+Tabela de Temporalidade
+
+Instrumento aprovado pela autoridade competente que regula a destinação final dos
+documentos  (eliminação  ou  guarda  permanente),  define  prazos  para  sua  guarda
+temporária (vigência, prescrição, precaução), em função de seus valores legais, fis-
+cais, administrativos etc. e determina prazos para sua transferência, recolhimento e
+eliminação.
+
+Teoria das Três Idades
+
+Teoria baseada no ciclo de vida dos documentos, segundo a qual os arquivos podem
+ser correntes, intermediários e permanentes.
+
+Transferência
+
+Passagem de documentos dos arquivos correntes para o Arquivo Intermediário ou
+Central.
+
+Valor Imediato
+
+Qualidade  inerente  às  razões  de  criação  de  todo  documento,  em  decorrência  das
+atividades-fim e das atividades-meio de uma instituição. O mesmo que valor primá-
+rio ou administrativo do documento.
+
+São documentos de valor imediato e guarda temporária aqueles que, esgotados os
+prazos de vigência, prescrição e precaução definidos nas Tabelas de Temporalidade,
+podem ser eliminados, sem prejuízo para a coletividade ou memória da Adminis-
+tração.
+
+Valor Mediato
+
+Qualidade informativa que um documento pode possuir depois de esgotada sua uti-
+lização primária (vigência administrativa). O mesmo que valor secundário ou per-
+manente do documento.
+São documentos de valor mediato e guarda permanente aqueles que, esgotados os
+prazos  de  vigência,  prescrição  e  precaução,  estabelecidos  nas  Tabelas  de
+Temporalidade, devem ser preservados por força das informações neles contidas,
+para a eficácia da ação administrativa, como prova, garantia de direitos, ou fonte de
+pesquisa.
+
+ANEXO 2
+CRITÉRIOS PARA QUANTIFICAÇÃO DE ACERVO (*)
+
+Recomenda-se  que a quantificação de  documentos textuais seja feita em metros
+lineares, tendo como base o comprimento das prateleiras das estantes e/ou a profundida-
+de das gavetas dos arquivos. Nesses casos, respectivamente:
+√ multiplica-se a medida encontrada pelo número de prateleiras por estante e, em segui-
+da, pelo número de estantes ocupadas e/ou
+√ multiplica-se a medida encontrada pelo número de arquivos ocupados.
+
+No caso da documentação encontrar-se amontoada, calcula-se a metragem cúbi-
+ca (comprimento x altura x largura) das pilhas de documentos, seguida da conversão da
+medida encontrada em metros lineares, conforme tabela abaixo.
+
+Quanto  à    documentação  iconográfica,  cartográfica,  filmográfica,  sonora  e
+micrográfica, a quantificação deve ser feita por unidade, com base nos diferentes tipos de
+formatos encontrados (número de plantas, de mapas, de microfichas, de rolos de filmes e
+de microfilmes, de discos, de fitas cassetes, de diapositivos, de ampliações fotográficas,
+de negativos fotográficos, de disquetes, de discos óticos etc).
+
+(*) ARQUIVO NACIONAL - Manual de identificação de acervos documentais para transferência e/ou
+recolhimento aos arquivos públicos. Rio de Janeiro, 1985 (Publicações Técnicas, 40).
+
+46
+
+47
+
+
+COMO FAZER 1 - COMO AVALIAR DOCUMENTOS DE ARQUIVO
+
+C O N V E R S Ã O   D E :
+
+P A R A :
+
+M U L T IP L IC A D O   P O R :
+
+m e tro s   lin e a re s   d e
+a rq u iv o
+
+q u ilo g ra m a s   d e
+a rq u iv o
+
+m e tro s   lin e a re s   d e
+a rq u iv o
+
+m e tro s   c ú b ic o s   d e
+a rq u iv o
+
+q u ilo g ra m a s   d e
+a rq u iv o
+
+m e tro s   lin e a re s   d e
+a rq u iv o
+
+q u ilo g ra m a s   d e
+a rq u iv o
+
+m e tro s   c ú b ic o s   d e
+a rq u iv o
+
+to n e la d a s   d e   a r q u iv o
+
+to n e la d a s   d e   a r q u iv o
+
+m e tro s   lin e a re s   d e
+a rq u iv o
+
+m e tro s   c ú b ic o s   d e
+a rq u iv o
+
+m e tro s   c ú b ic o s   d e
+a rq u iv o
+
+m e tro s   lin e a re s   d e
+a rq u iv o
+
+m e tro s   c ú b ic o s   d e
+a rq u iv o
+
+q u ilo g ra m a s   d e
+a rq u iv o
+
+3 5   a   8 0
+m é d ia   =   5 0
+
+0 ,0 6   a   0 ,1 2
+m é d ia   =   0 ,0 8
+
+0 ,0 1   a   0 ,0 4
+m é d ia   =   0 ,0 2 5
+
+0 ,0 0 0 8   a   0 ,0 0 3
+m é d ia   = 0 ,0 0 1 6
+
+1 0   a   4 0
+m é d ia   =   2 5
+
+0 ,8 0   a   3
+m é d ia   =   1 ,6
+
+8   a   1 6
+m é d ia   =   1 2
+
+4 0 0   a   8 0 0
+m é d ia   =   6 0 0
+
+ANEXO 3
+PRAZOS DE PRESCRIÇÃO
+
+NOTA:  Os  prazos  prescricionais  deverão  ser  definidos  pelos  representantes  da
+área jurídica que integrarem as comissões ou grupos de avaliação de documentos.
+A título de contribuição, apresentamos alguns prazos previstos na legislação em
+vigor que deverão ser analisados e cotejados com dispositivos legais complemen-
+tares, pelos referidos especialistas.
+
+PRESCRIÇÃO EM MATÉRIA DE TRABALHO
+
+CONSTITUIÇÃO FEDERAL DE 1988 (Art. 7º, XXIX)
+Ação  contra  créditos  resultantes  das  relações  de
+trabalho
+
+5  anos  para  o
+trabalhador
+urbano,  até  o
+limite  de  2  anos
+após  a  extinção
+do contrato
+até  2  anos  após
+a  extinção  do
+contrato,  para  o
+trabalhador rural
+
+48
+
+PRESCRIÇÃO EM MATÉRIA DE TRABALHO (cont.)
+
+CONSOLIDAÇÃO DAS LEIS DO TRABALHO
+Arts. 11, 119, 149, 440 e 916
+
+DOCUMENTOS TRABALHISTAS,
+PREVIDENCIÁRIOS E RELATIVOS AO FGTS
+(Fonte: Boletim IOB 39/97, 4ª semana-set./97)
+- Termo de Rescisão do Contrato de Trabalho
+- Aviso Prévio
+- Pedido de Demissão (CF, art. 7º, inciso XXIX)
+-  Cadastro  Geral  de  Empregados  e  Desempregados
+(CAGED)  -  a  contar  da  data  da  postagem  (Portaria
+MTb nº 194/95, art. 1º, § 2º)
+- Folha de votação de eleições da CIPA (Portaria MTb
+nº  3.214/78  -  NR5,  subitem  5.5.4,  na  redação  da
+Portaria SSMT nº 33/83
+- Acordo de compensação
+- Acordo de prorrogação de horas
+- Atestado médico
+- Autorização para descontos não previstos em lei
+- Cartões, Fichas ou Livros de Ponto
+-  Comprovantes  de  entrega  da  Comunicação  de
+dispensa (CD)
+- Documentos relativos a Créditos Tributários (IR etc.)
+-  Guias  de  Recolhimento  de  contribuição  sindical  e
+assistencial  (para  contribuições  descontadas  e  não
+recolhidas não corre prazo prescricional)
+-  Mapa  Anual  de  acidentes  do  trabalho  (Portaria  MTb
+nº  3.214/78,  NR4,  item  4.12,  letra  "j",  na  redação  da
+Portaria SSMT nº 33/83)
+- Recibo de abono de férias
+-  Recibo  de  entrega  do  Requerimento  Seguro-
+Desemprego (SD)
+- Recibo de gozo de férias
+- Recibos de adiantamento
+- Recibos de pagamento
+- Relação de contribuição sindical e assistencial
+- Solicitação de abono de férias
+- Vale-transporte
+
+2 anos
+
+3 anos
+
+5 anos
+
+49
+
+
+COMO FAZER 1 - COMO AVALIAR DOCUMENTOS DE ARQUIVO
+
+PRESCRIÇÃO EM MATÉRIA DE TRABALHO (cont.)
+
+CÓDIGO TRIBUTÁRIO NACIONAL  (Lei nº 5172 de 25/10/66)
+
+- Documentos sujeitos à fiscalização do INSS (folha de
+pagamento, recibo e ficha de salário-família, atestados
+médicos  relativos  a  afastamento  por  incapacidade  ou
+salário-maternidade,  Guias  de  Recolhimento  etc.)  -
+arts.  47,  §§  1º  e  2º,  e  71  do  ROCSS  e  arts.  82,
+parágrafo único, e 92, § 2º, do RBPS
+-  PIS/PASEP  -  a  contar  da  data  prevista  para  seu
+recolhimento (art. 10 do Decreto-lei nº 2.052/83)
+-  Salário-Educação  (art.  1º,  §  3º,  do  Decreto-lei  nº
+1.422/75  e  art.  8º  da  Instrução  SE/FNDE  nº  01/96,
+aprovada pela Resolução FNDE nº 43/96
+-  Dados  obtidos  nos  exames  médicos  (admissional,
+periódico, de retorno ao trabalho, mudança  de função
+e  demissional)  incluindo  avaliação  clínica  e  exames
+complementares,  as  conclusões  e  as  medidas
+aplicadas  (subitens  7.4.1,  7.4.2,  7.4.5.1  da  NR7,  na
+redação dada pela Portaria SSST nº 24/94
+- Documentos relativos ao FGTS (art. 23, § 5º,  da  Lei
+nº  8.036/90  e  art.  55  de  seu  regulamento,  aprovado
+pelo  Decreto  nº  99.684/90  e  Enunciado  TST  nº  95
+(Supl.Esp. anexo ao Bol. IOB nº 25/97)
+- Livros de Atas da CIPA
+- Livros de Inspeção do Trabalho
+- Contrato de Trabalho
+- Livros ou Fichas de Registro de Empregados
+- RAIS - o item 10 do Manual  de Orientação  da  RAIS
+Ano-base  1996,  aprovado  pela  Portaria  MTb  nº
+1.127/96,  dispõe  que:  "A  2ª  via  dos  formulários  da
+RAIS  ou  a  cópia  dos  arquivos  gerados  em  meio
+magnético  e  o  Protocolo  de  Entrega  devem  ficar
+arquivados  na  empresa/entidade,  durante  5  (cinco)
+anos,  à  disposição  da  Fiscalização  do  Ministério  do
+Trabalho".  Contudo,  por  ser  a  RAIS  um  documentos
+de  suma  importância,  que  demonstra  toda  a  vida
+profissional  do  empregado  durante  o  contrato  de
+trabalho com a empresa, estando, inclusive, vinculada
+diretamente  ao  PIS/PASEP,  recomenda-se  que  seja
+guardada por prazo indeterminado.
+sejam
+(*)  Ressaltamos 
+conservados por prazo indeterminado, pois podem ser
+solicitados a qualquer tempo.
+
+conveniente  que 
+
+ser 
+
+10 anos
+
+20 anos
+
+30 anos
+
+Art.  174.  A  ação  para  cobrança  do  crédito  tributário  prescreve  em  cinco
+anos, contados da data da sua constituição definitiva.
+Parágrafo único. A prescrição se interrompe:
+I - pela citação feita ao devedor;
+II - pelo protesto judicial;
+III - por qualquer ato judicial que constitua em mora o devedor;
+IV  -  por  qualquer  ato  inequívoco  ainda  que  extrajudicial,  que  importe  em
+reconhecimento do débito pelo devedor.
+
+Art.  195.  Para  os  efeitos  da  legislação  tributária,  não  têm  aplicação
+quaisquer  disposições  legais  excludentes  ou  limitativas  do  direito  de
+examinar  mercadorias,  livros,  arquivos,  documentos,  papéis  e  efeitos
+comerciais  ou  fiscais  dos  comerciantes,  industriais  ou  produtores,  ou  da
+obrigação destes de exibi-los.
+Parágrafo único. Os livros obrigatórios de escrituração comercial e fiscal e
+os comprovantes dos lançamentos neles efetuados serão conservados até
+que  ocorra  a  prescrição  dos  créditos  tributários  decorrentes  das
+operações a que se refiram.
+
+⇒  "Estão  sujeitos  à  fiscalização  tributária  ou  previdenciária  quaisquer
+livros  comerciais,  limitado  o  exame  aos  pontos  objeto  da  investigação."
+(Súmula nº 439 do STF).
+
+Prazo
+indeterminado
+
+DEFINIÇÃO  DE  PRESCRIÇÃO  TRIBUTÁRIA:  É  o  fato  jurídico  que
+consiste  na  perda  do  direito  que  dispõe  a  Fazenda  Pública  de  ajuizar  a
+tributários  devidamente  lançados  e
+ação  de  cobrança  de  créditos 
+notificados ao devedor, transcorrido o período de 5 anos.
+
+50
+
+51
+
+ 
+
+COMO FAZER 1 - COMO AVALIAR DOCUMENTOS DE ARQUIVO
+
+TÍTULOS DE CRÉDITO
+
+PRAZOS DE
+PRESCRIÇÃO
+
+LETRA  DE  CÂMBIO  (Decreto  nº  57.663,  de
+24/01/66)
+Ação de cobrança do portador contra o aceitante
+
+Ação  de  cobrança  do  portador  contra  os
+endoçantes
+Ação  de  cobrança  do  endoçante  contra  outro
+endoçante
+
+NOTA  PROMISSÓRIA  (Decreto  nº  57.663,  de
+24/01/66)
+Ação contra o emitente
+
+Ação contra o endoçante
+
+Ação contra os endoçantes entre si
+
+CHEQUE  (Lei  nº  7357,  de  2  de  setembro  de
+1985, Art. 59)
+
+DUPLICATA  (Lei  nº  5474,  de  18/7/68;  Lei  nº
+6458, de 1/11/77)
+Ação de cobrança contra o sacado
+
+Ação de cobrança contra os endoçantes
+
+Ação de cobrança de qualquer coobrigado contra
+os demais
+
+3 anos
+
+1 ano
+
+6 meses
+
+3 anos
+
+1 ano
+
+6 meses
+
+6 meses
+
+3 anos
+
+1 ano
+
+1 ano
+
+SOCIEDADES ANÔNIMAS
+(Lei nº 6.404, de 15/12/76)
+Arts. 285 a 288
+Ação para anular a constituição da Companhia,
+por vício ou defeito (Art. 285)
+Ação  para  anular  as  deliberações  tomadas  em
+Assembléia Geral ou especial, que violem lei ou
+estatuto da Companhia (Art. 286)
+Ação  contra  peritos  e  sub-escritores  do  capital
+para  deles haver reparação civil pela avaliação
+de bens(Art. 287, I, a)
+Ação  dos  credores  não  pagos  contra  os
+acionistas e os liquidantes (Art. 287, I, b)
+
+Ação para haver dividendos (Art 287, II, a)
+
+Ação contra os fundadores (Art. 287, II, b, 1)
+
+Ação  contra  os  acionistas,  administradores,
+fiscais e sociedades de comando (Art. 287, II, b,
+2)
+
+Ação contra os  liquidantes (Art. 287, II, b, 3)
+
+Ação  contra  acionistas  para  restituição  de
+dividendos recebidos de má-fé (Art. 287, II, c)
+
+Ação  contra  os  administradores  ou  titulares  de
+partes beneficiárias (Art. 287, II, d)
+
+contra 
+
+Ação 
+debenturistas 
+beneficiárias (Art. 287, II, e)
+
+o 
+ou 
+
+agente 
+titulares 
+
+fiduciário 
+de 
+
+de
+partes
+
+Lei nº 6385, de 7/12/76  (Dispõe sobre o
+Mercado de Valores Mobiliários e cria a
+Comissão de Valores Mobiliários)
+
+PRAZO DE
+PRESCRIÇÃO
+
+Infrações  das  normas 
+mercado de valores mobiliários (Art. 33)
+
+legais  ocorridas  no
+
+8 anos da prática do
+ilícito
+
+Ação  contra  o violador  do  dever  de  sigilo,  para
+dele haver reparação civil (Art. 287, II, f)
+
+PRAZOS DE
+PRESCRIÇÃO
+
+1 ano da publicação dos
+atos constitutivos.
+2 anos da deliberação
+da Assembléia.
+
+1 ano da aprovação do
+laudo.
+
+1 ano da liquidação da
+Companhia.
+3 anos da data em que
+foram postos à
+disposição do acionista.
+3 anos da publicação
+dos atos constitutivos.
+3 anos da publicação da
+ata que aprovar o
+balanço.
+3 anos da publicação da
+ata da primeira
+Assembléia Geral
+posterior à violação.
+3 anos da data da
+Assembléia em que os
+dividendos tenham sido
+declarados.
+3 anos da publicação da
+ata da Assembléia
+Geral em que as
+participações tenham
+sido pagas.
+3 anos da publicação da
+ata  da Assembléia
+Geral que tomou
+conhecimento da
+violação.
+3 anos da publicação da
+oferta.
+
+52
+
+53
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+CÓDIGO CIVIL (Arts. 177 a 179)
+
+Ações Pessoais
+Ações reais entre presentes
+Ações reais entre ausentes
+Ação para obter abatimento, rescindir contrato ou
+reaver  preço  pago  de  coisa  móvel  recebida  com
+vício rebiditório
+Ação para obter abatimento, rescindir contrato ou
+reaver preço pago de coisa imóvel recebida  com
+vício rebiditório
+Ação 
+fornacedores de víveres
+Ação do doador para revogar doação
+
+estalajadeiros 
+
+hospedeiros, 
+
+de 
+
+e
+
+(fato
+
+(fato
+
+Ação  do  segurado  contra  segurador 
+ocorrido no país)
+Ação  do  segurado  contra  segurador 
+ocorrido no exterior)
+Ação de cobrança de bilhete de loteria
+Ação  dos  professores  pagáveis  por  período  não
+superior a 1 mês
+Ídem,  de  honorários  pagáveis  por  períodos
+superiores a 1 mês
+Ação  dos  donos  de  pensão,  relativos  a  cada
+prestação
+Ação  de  instituições  de  ensino,  relativos  a  cada
+prestação
+Ação de tabeliães, escrivães e oficiais do juízo
+
+Ação de médicos, cirurgiões, farmacêuticos
+
+advogados,solicitadores,curadores,
+
+Ação 
+de 
+peritos,procuradores
+Ação  dos  credores  por  outras  pequenas  dívidas
+além das citadas
+Ação  do  dono  de  prédio  prejudicado  por  perda
+por avulsão
+Ação do vendedor para resgatar imóvel vendido
+Ação de concursos públicos federais
+Ação  de  engenheiros,  arquitetos,  agrimensores,
+estereometras
+Ação  para  pleitear  a 
+infringentes à CLT
+
+reparação  de  atos
+
+COMO FAZER 1 - COMO AVALIAR DOCUMENTOS DE ARQUIVO
+
+PRAZOS DE
+PRESCRIÇÃO
+20 anos
+10 anos
+15 anos
+
+15 dias
+
+6 meses
+
+6 meses
+
+1 ano da ciência do
+fato
+1 ano da ciência do
+fato
+2 anos da ciência do
+fato
+90 dias
+1 ano após período
+
+2 anos (da última)
+
+1 ano após fim do
+período
+1 ano após fim do
+período
+1 ano da data das
+custas
+1 ano do último
+serviço
+1 ano
+
+2 anos
+
+1 ano da ocorrência
+
+3 anos da  escritura
+1 ano da homologação
+2 anos do termo
+
+2 anos
+
+rendas
+
+jornaleiros
+
+serviçais,  operários, 
+
+referente  a  prestação  de 
+
+juros  ou  quaisquer  prestações
+
+CÓDIGO CIVIL (Arts. 177 a 179)
+(cont.)
+Ação  anulatória  que  denegar  a  restituição  de
+tributo devido
+Ação  para  anular  ou  rescindir  contratos  sem
+prazo fixado para tal
+Ação civil por ofensa aos direitos de autor
+Ação de direito de propor ação rescisória
+Ação por ofensa ou danos causados ao direito de
+propriedade
+Ação 
+temporárias ou vitalícias
+Ação  de 
+acessórias
+Ações referentes ao aluguel de  prédio  rústico  ou
+urbano
+Ação  de 
+(pagamento de salários)
+Ações  contra  a  Fazenda  Pública  e  ações  de
+dívidas passivas
+Ação de prestação de pensões alimentícias
+Ação para contestar legitimidade do filho (marido
+presente)
+Ação para contestar legitimidade do filho (marido
+ausente)
+Ação  dos  herdeiros  do  filho  para  prova  de
+legitimidade
+do 
+Ação 
+reconhecimento
+Ação do adotado para anular a adoção
+Ação dos conjuges para anular casamento
+Ação  do  pai, 
+casamento do filho
+Ação  do  filho  ou  de  seus  herdeiros  contra  o  pai
+que alienou imóveis
+Ação de nulidade da partilha
+Ação  de mulher  separada  para  reaver  imóveis  e
+dotes
+Idem, para seus herdeiros
+Ação  do  interessado  em  pleitear  a  exclusão  do
+herdeiro
+
+tutor,  curador  para  anular
+
+impugnar
+
+natural 
+
+para 
+
+filho 
+
+PRAZOS DE
+PRESCRIÇÃO
+2 anos
+
+4 anos
+
+5 anos da contrafação
+5 anos
+5 anos
+
+5 anos
+
+5 anos
+
+5 anos
+
+5 anos
+
+5 anos
+
+5 anos
+2 meses do
+nascimento
+3 meses do
+nascimento
+1 ano do falecimento
+
+4 anos da maioridade
+
+1 ano da maioridade
+2 anos
+3 meses
+
+1 ano
+
+1 ano
+4 anos da separação
+
+4 anos do falecimento
+4 anos
+
+54
+
+55
+
+ 
+ 
+ 
+ 
+
+COMO FAZER 1 - COMO AVALIAR DOCUMENTOS DE ARQUIVO
+
+CÓDIGO PENAL (Art. 109)
+Para  crimes  cuja  pena máxima for  superior  a  12
+anos
+Para crimes cuja pena máxima for superior a 8 e
+inferior a 12 anos
+Para crimes cuja pena máxima for superior a 4 e
+inferior a 8 anos
+Para crimes cuja pena máxima for superior a 2 e
+inferior a 4 anos
+Para crimes cuja pena máxima for superior a 1 e
+inferior a 2 anos
+Para  crimes  cuja  pena  máxima  for  inferior  a  1
+ano
+
+Obs.: Aplicado  a  penas  privativas  de  liberdade  e
+restritivas de direito
+
+PRAZOS DE
+PRESCRIÇÃO
+20 anos
+
+16 anos
+
+12 anos
+
+8 anos
+
+4 anos
+
+2 anos
+
+ANEXO 4
+ARQUIVOS E DOCUMENTOS PÚBLICOS:
+fundamentos legais (quadros sinóticos)
+
+56
+
+57
+
+
+GESTÃO DE DOCUMENTOS
+
+GESTÃO DE DOCUMENTOS(cont.)
+
+COMO FAZER 1 - COMO AVALIAR DOCUMENTOS DE ARQUIVO
+
+Legislação Federal
+
+. Lei no. 6.546, de 04/07/78: Dispõe sobre a regulamentação das profissões de Arquivista e de
+Técnico de Arquivo, e dá outras providências;
+.  Decreto  no  82.590,  de  06/11/78:  Regulamenta  a  Lei  no  6.546,  de  4  de  julho  de  1978,  que
+dispõe sobre a regulamentação das profissões de Arquivista e de Técnico de Arquivo;
+.  Compete  ao  Órgão  Central  do  Sistema  (Sistema  Nacional  de  Arquivos):  I-estabelecer
+princípios, diretrizes, normas e métodos sobre organização e funcionamento das atividades de
+arquivo  intermediário  e  permanente  (Decreto  no  82.308,  de  25/09/78:  Institui  o  Sistema
+Nacional de Arquivo-SINAR);
+. Cabem à administração pública, na forma da lei, a gestão da documentação governamental e
+as providências para franquear sua consulta a quantos dela necessitem (Constituição Federal,
+Art. 216, parág. 2o)
+.  É  dever  do  Poder  Público  a  gestão  documental  e  a  proteção  especial  a  documentos  de
+arquivos, como instrumento de apoio à administração, à cultura, ao desenvolvimento científico e
+como  elementos  de  prova  e  informação  (Lei  no  8.159,  de  08/01/91:  dispõe  sobre  a  Política
+Nacional de Arquivos  Públicos  e  Privados, Art. 1o);
+. Considera-se gestão de documentos o  conjunto  de  procedimentos  e  operações  referentes  à
+sua  produção,  tramitação,  uso,  avaliação  e  arquivamento  em  fase  corrente  e  intermediária,
+visando a sua eliminação ou recolhimento para guarda permanente (idem, Art. 3o).
+.  A  administração  da  documentação  pública  ou  de  caráter  público  compete  às  instituições
+arquivísticas federais, estaduais, do Distrito Federal e municipais (idem, Art. 17);
+.  Legislação  estadual,  do  Distrito  Federal  e  municipal  definirá  os  critérios  de  organização  e
+vinculação  dos  arquivos  estaduais  e  municipais,  bem  como  a  gestão  e  o  acesso  aos
+documentos observado o disposto na Constituição Federal e nesta Lei (idem, Art. 21);
+.  Fica  criado  o  Conselho  Nacional  de  Arquivos  -  CONARQ,  órgão  vinculado  ao  Arquivo
+Nacional,  que  definirá  a  política  nacional  de  arquivos,  como  órgão  central  de  um  Sistema
+Nacional de Arquivos - SINAR (idem, Art. 26)
+.  O  Conselho  Nacional  de  Arquivos  -  CONARQ,  órgão  colegiado,  vinculado  ao  Arquivo
+Nacional, criado pelo art. 26 da Lei 8.159, de 8 de janeiro de 1991, que dispõe sobre a política
+nacional  de  arquivos,  tem  por  finalidade  definir  a  política  nacional  de  arquivos  públicos  e
+privados,  bem  como  exercer  orientação  normativa  visando  à  gestão  documental  e  à  proteção
+especial  aos  documentos  de  arquivo  (Decreto  no.  1.173,  de  29/06/94:  dispõe  sobre  a
+competência, organização e funcionamento do CONARQ e do SINAR, Art. 1o.);
+. Compete ao CONARQ: I-estabelecer diretrizes para o funcionamento do Sistema Nacional de
+Arquivos-SINAR, visando à gestão, à preservação e ao acesso aos documentos de arquivos; V-
+estimular  programas  de  gestão  e  de  preservação  de  documentos  públicos  de  âmbito  federal,
+estadual  e  municipal,  produzidos  ou  recebidos  em  decorrência  das  funções  executiva,
+legislativa  e  judiciária;  VII-  estimular  a  implantação  de  sistemas  de  arquivos  nos  Poderes
+Executivo, Legislativo e Judiciário, bem como nos Estados, no Distrito Federal e nos Municípios
+(idem, Art.2o.);
+.  Integram  o  SINAR:  ...VII-os  arquivos  municipais  dos  Poderes  Executivo  e  Legislativo
+(idem,Art.12);
+.  Compete  aos  integrantes  do  Sistema:  I-promover  a  gestão,  a  preservação  e  o  acesso  às
+informações  e  aos  documentos  na  sua  esfera  de  competência,  em  conformidade  com  as
+diretrizes e normas emanadas do órgão central; III-implementar a racionalização das atividades
+arquivísticas, de forma a garantir a integridade do ciclo  documental;  IV-  garantir  a  guarda  e  o
+acesso aos documentos de valor permanente (idem, Art.13);
+.  Decreto  no.  1.799,  de  30/01/96:  Regulamenta  a  Lei  no.  5.433,  de  8  de  maio  de  1968,  que
+regula a microfilmagem de documentos oficiais, e dá outras providências.
+
+Legislação do Estado de São
+Paulo
+
+Legislação do Município de São
+Paulo
+
+métodos 
+
+de  Museus 
+
+. À Divisão do Arquivo do Estado do
+Departamento 
+e
+Arquivos,  como  órgão  central  do
+Sistema  de  Arquivos  do  Estado  de
+São  Paulo  e  além  de  suas
+atribuições  normais,  cabe:  ...  II  -
+diretrizes,
+princípios, 
+elaborar 
+sobre
+e 
+normas 
+organização  e  funcionamento  das
+atividades  de  arquivo;  IV-orientar  e
+controlar a elaboração dos planos de
+destinação  de  documentos;  XI-
+desenvolver  estudos  visando  à
+de 
+instalação 
+arquivos
+intermediários 
+permanentes
+ou 
+(Decreto  no.  22.789,  de  19/10/84,
+Art. 6o.)
+.  Decreto  no  29.838,  de  18  de  abril
+de  1989:  institui  as  Comissões  de
+Avaliação  de  Documentos  nas
+Secretarias de Estado.
+
+.  Lei  no.  8.777,  de  14/09/78:  dispõe
+sobre  normas  para  o  ordenamento  dos
+processos na Prefeitura do Município de
+São Paulo, e dá outras providências;
+.  Decreto  no.  15.306,  de  14/09/78:
+regulamenta  a  Lei  no.  8.777,  de
+14/09/78,  que  dispõe  sobre  processos
+na  Prefeitura  do  Município  de  São
+Paulo;
+.  Decreto  no.  27.108,  de  14/10/88,  que
+dispõe sobre a expedição de certidões e
+dá outras providências;
+.  Portaria  no.  39,  de  22  de  janeiro  de
+1990: cria a CCAD e as CSA;
+.  Decreto  no.  28.656,  de  9/04/90:
+Estabelece  mecanismos  necessários  à
+implantação  de  processo  de  avaliação
+de documentos públicos municipais;
+.  Decreto  no.  29.745,  de  14/05/91:
+estabelece  normas  de  avaliação  e
+destinação  para  os  documentos  da
+Administração  Pública  do  Município  de
+São Paulo, e dá outras providências;
+número
+. 
+16.000.309.93*61/SMC, 
+apresenta
+projeto  de  implantação  do  Sistema  de
+Arquivos para o Município de São Paulo,
+de autoria de  Daíse  Apparecida  Oliveira
+(em tramitação).
+.  Decreto  no.  33.870,  de  10/12/93:
+Autoriza  Cooperação  Técnica  com  a
+Câmara  Municipal  de  São  Paulo,  e  dá
+outras providências;
+.  Decreto  no.  35.042,  de  5/04/1995:  Dá
+nova redação  ao  artigo  12  e  acrescenta
+dispositivo ao Decreto no. 29.745, de 14
+de  maio 
+à
+constituição  e  atribuições  da  Comissão
+Central  de  Avaliação  de  Documentos  -
+CCAD, e dá outras providências.
+. Lei no.  11.951,  de  11  de  dezembro  de
+1995:  cria  a  carreira  e  90  cargos  de
+Arquivista no serviço público municipal.
+
+Processo 
+
+relativos 
+
+1991, 
+
+de 
+
+58
+
+59
+
+ 
+ 
+ 
+ 
+
+ACESSO
+
+ACESSO(cont.)
+
+COMO FAZER 1 - COMO AVALIAR DOCUMENTOS DE ARQUIVO
+
+Constituição da República Federativa
+do Brasil (1988)
+
+Lei no. 8.159, de 08/01/91: dispõe sobre a
+Política Nacional de Arquivos Públicos e
+Privados
+
+Legislação do Estado de São Paulo
+
+Legislação do Município de São Paulo
+
+São 
+
+.  É  assegurado  a  todos  o  acesso  à
+informação  e  resguardado  o  sigilo  da
+fonte,  quando  necessário  ao  exercício
+profissional (Art.5o, XIV);
+.  Todos  têm  direito  a  receber  dos  órgãos
+públicos  informações  de  seu  interesse
+particular,  ou  de  interesse  coletivo  ou
+geral,  que  serão  prestadas  no  prazo  da
+lei,  sob  pena  de 
+responsabilidade,
+ressalvadas  aquelas  cujo  sigilo  seja
+imprescindível  à segurança  da  sociedade
+e do Estado (Art. 5o., XXXIII);
+assegurados,
+todos 
+a 
+. 
+independentemente  do  pagamento  de
+taxas,  ...  b)  a  obtenção  de  certidões  em
+repartições  públicas,  para  defesa  de
+direitos  e  esclarecimento de situações  de
+interesse pessoal (Art. 5o., XXXIV);
+.  A  lei  só  p oderá  restringir  a  publicidade
+dos atos processuais  quando a defesa da
+intimidade  ou  o 
+interesse  social  o
+exigirem (Art. 5o., LX);
+.  Conceder-se-á  habeas  data:  a)  para
+o 
+assegurar 
+de
+conhecimento 
+informações 
+relativas  à  pessoa  do
+impetrante,  constantes  de  registros  ou
+bancos 
+entidades
+dados 
+governamentais  ou  de  caráter  público;  b)
+para  a  retificação  de  dados,  quando  não
+se  prefira  fazê-lo  por  processo  sigiloso,
+judicial ou administrativo (Art. 5o., LXXII);
+.  É  vedado  à  União,  aos  Estados,  ao
+Distrito  Federal  e  aos  Municípios:  ...  II-
+recusar 
+fé  aos  documentos  públicos
+(Art.19);
+.  É  competência  comum  da  União,  dos
+Estados,  do  Dis trito  Federal  e  dos
+Municípios:  ...  V-  proporcionar  os  meios
+de  acesso  à  cultura,  à  educação  e  à
+ciência (Art.23);
+.  Cabem  à  administração  pública,  na
+forma  da lei,  a  gestão  da  documentação
+governamental  e  as  providências  para
+franquear  sua  consulta  a  quantos  dela
+necessitem (Art. 216, parág. 2o.);
+.  A  manifestação  do  pensamento,  a
+criação,  a  expressão  e  a  informação,  sob
+qualquer forma,  processo  ou  veículo,  não
+sofrerão  qualquer  restrição,  observado  o
+disposto nesta Constituição (Art. 220).
+
+de 
+
+de 
+
+.  O  Estado  garantirá  a  todos  o  pleno
+exercício dos direitos culturais e o acesso
+às 
+fontes  da  cultura,  e  apoiará  e
+incentivará  a  valorização  e  a  difusão  de
+(Constituição  do
+suas  manifestações 
+Estado de São Paulo, Art. 259);
+.  O  Poder  Público  incentivará  a  livre
+manifestação  cultural  mediante:  ...  III-
+acesso  aos  acervos  das  bibliotecas,
+museus,  arquivos  e  congêneres  (idem,
+Art. 262);
+.  O  Sistema  de  Arquivos  do  Estado  de
+São  Paulo  -  SAESP  tem  como  objetivos
+principais:  ...  III-  facilitar  o  acesso  ao
+patrimônio  arquivístico  público  de  acordo
+com  as  necessidades  da  comunidade
+(Decreto  no.  22.789,  de  19/10/84  que
+institui  o  Sistema  de  Arquivos  do  Estado
+de São Paulo - SAESP, Art. 2o.);
+.  À  Divisão  de  Arquivo  do  Estado  do
+Departamento  de  Museus  e  Arquivos,
+como  órgão  central  do  Sistema  de
+Arquivos do Estado  de São Paulo  e  além
+de suas atribuições normais, cabe: ... XII -
+propor  a  política  de  acesso  aos
+documentos públicos (idem, Art.6o.).
+
+.O  Município  de  São  Paulo  garantirá  a  todos  o
+exercício  dos  direitos  culturais  e  o  acesso  às
+fontes  de  cultura,  observado  o  princípio  da
+descentralização,  apoiando  e 
+incentivando  a
+valorização  e  a  difusão  das  manifestações
+culturais (Lei Orgânica, Art. 191);
+.  O  Poder  Público  Municipal  promoverá  através
+dos  órgãos  competentes:  ...  IV  -  programas
+populares  de  acesso  a  espetáculos  artístico-
+culturais  e  acervos  das  bibliotecas,  museus,
+arquivos e congêneres (idem, Art. 193);
+.  Fica  assegurado  o  acesso  de  qualquer
+interessado a informações, documentos, registros,
+listagens, 
+e
+assemelhados,  no  âmbito  da  Administração
+Direta,  Indireta,  Autárquica  e  Fundacional  do
+Município  de  São  Paulo  (Lei  no.  11.946,  de
+05/12/95, Art. 1o.).
+.  O  Vereador  poderá  entrar, 
+livremente,  em
+qualquer  dependência  do  órgão  ou  repartição
+pública, e terá  acesso  imediato  a todo  e  qualquer
+documento,  expediente,  e  arquivo,  podendo
+examinar, vistoriar e   copiar  no  próprio  local (Lei
+no. 11.949, de 12/12/95, Art. 2o.)
+
+administrativos 
+
+processos 
+
+cujo 
+
+sigilo 
+
+aquelas 
+
+. Todos têm direito a receber  dos  órgãos  públicos
+informações  de  seu    interesse  particular  ou  de
+interesse  coletivo 
+ou  geral,  contidas  em
+documentos de  arquivos, que  serão  prestadas  no
+prazo  da  lei,  sob  pena  de  responsabilidade,
+ressalvadas 
+seja
+imprescindível  à  segurança  da  sociedade  e  do
+Estado,  bem como  à  intimidade  da  vida  privada,
+da honra e da imagem das pessoas (Art. 4o.);
+.  A  administração  pública  franqueará  a  consulta
+aos documentos públicos na forma  desta  Lei (Art.
+5o.);
+.  O  acesso  aos  documentos  de  arquivos  privados
+identificados  como  de  interesse  público  e  social
+poderá  ser  franqueado  mediante  autorização  de
+seu proprietário ou possuidor (Art. 14);
+.  É  assegurado  o  direito  de  acesso  pleno  aos
+documentos públicos (Art. 22);
+.  Decreto  fixará  as  categorias  de  sigilo  que
+deverão ser  obedecidas  pelos  órgãos  públicos  na
+classificação dos documentos por eles produzidos
+(Art. 23);
+. Os documentos cuja divulgação ponha em risco
+a  segurança  da  sociedade  e  do  Estado,  bem
+como  aqueles  necessários  ao  resguardo  da
+inviolabilidade da intimidade,  da  vida  privada,  da
+honra  e  da 
+imagem  das  pessoas,  são
+originariamente sigilosos (Art.23, parág. 1o.);
+. O acesso aos  documentos sigilosos referentes à
+segurança  da sociedade e do Estado  será restrito
+por um prazo máximo de 30 (trinta) anos, a contar
+da data de sua produção, podendo esse prazo ser
+prorrogado,  por  uma  única  vez,  por igual período
+(Art. 23, parág. 2o.);
+. O acesso aos  documentos sigilosos referentes à
+honra  e  à  imagem  das  pessoas  será  restrito  por
+um prazo máximo de 100 (cem)  anos,  a contar  da
+data de sua produção (Art. 23, parág. 3o.);
+.  Poderá  o  Poder  Judiciário,  em  qualquer
+instância,  determinar  a  exibição  reservada  de
+qualquer  documento 
+sigiloso,  sempre  que
+indispensável  à  defesa  de  direito  próprio  ou
+esclarecimento de situação pessoal (Art. 24).
+
+  Decreto no. 2.134, de 24 de janeiro de 1997
+Regulamenta  o  art.  23  da  Lei  no.  8159,  de  8  de
+janeiro de 1991, que dispõe sobre a  categoria dos
+documentos  públicos  sigilosos  e  o  acesso  a  eles,
+e dá outras providências.
+
+60
+
+61
+
+ 
+ 
+ 
+ 
+
+ELIMINAÇÃO
+
+Legislação Federal
+
+.  A  eliminação  de  documentos  produzidos  por
+instituições  públicas  e  de  caráter  público  será
+realizada  mediante  autorização  da  instituição
+arquivística pública, na sua específica  esfera   de
+competência      (Lei  no.  8.159,  de  08/01/91,  Art.
+9o.);
+.  Os  documentos,  em  tramitação  ou  em  estudo,
+poderão, a critério da autoridade competente, ser
+microfilmados,  não  sendo  permitida  a  sua
+eliminação até a definição de sua destinação final
+(Decreto no. 1.799, de 30/01/96, Art. 11);
+.  A  eliminação  de  documentos,  após  a
+microfilmagem, dar-se-á  por meios que garantam
+sua  inutilização,  sendo  a  mesma  precedida  de
+lavratura  de  termo  próprio  e  após  a  revisão  e  a
+extração de filme cópia (idem, Art. 12);
+. A eliminação de documentos oficiais ou públicos
+só  deverá  ocorrer  se  prevista  na  tabela  de
+temporalidade 
+pela
+autoridade competente na esfera de sua atuação
+e  respeitado  o  disposto  no  art.  9o.  da  Lei  no.
+8.159,  de  8  de  janeiro  de  1991  (idem,  Art.  12,
+parágrafo único).
+
+aprovada 
+
+órgão, 
+
+do 
+
+Resoluções CONARQ
+
+.  Resolução  nº  5,  de  30  de  setembro  de  1996
+(D.O.U  de  11/10/1996).  Dispõe  sobre  a
+publicação  de  editais  para  eliminação  de
+documentos nos diários oficiais da União, Distrito
+Federal, Estados e Municípios.
+. Resolução nº 7, de 20 de maio de 1997 (D.O.U
+de 23/5/97). Dispõe sobre os procedimentos para
+a  eliminação  de  documentos  no  âmbito  dos
+órgãos e entidades integrantes do Poder Público.
+
+COMO FAZER 1 - COMO AVALIAR DOCUMENTOS DE ARQUIVO
+
+Legislação do Estado de
+São Paulo
+
+. Fica vedada a eliminação  de
+documentos 
+integrantes  do
+patrimônio público, sem prévia
+consulta  ao  órgão  central  do
+Sistema  de    Arquivos    do
+Estado      de      São    Paulo
+(Decreto  no.  22.789,  de
+19/10/84, Art. 13).
+
+ELIMINAÇÃO(cont.)
+
+Legislação do Município de São Paulo
+
+.  Enquanto  não  autorizada  a  sua  eliminação  segundo  normas  a  serem
+estabelecidas  por  decreto  do  Executivo,  os  processos  encerrados  serão
+mantidos no Arquivo Geral  (Lei no. 8777, de 14/09/78, Art. 14);
+.  Os  processos  encerrados  serão  mantidos  no  Arquivo  Geral  do
+Departamento  de  Expediente  da  Secretaria  de  Serviços  Internos  (atual
+SMA), enquanto não autorizada sua eliminação, segundo normas a serem
+estabelecidas  em  decreto  próprio  (Decreto  no.  15.306,  de  14/09/78,  Art.
+29, parágrafo único);
+.  Fica  proibida  a  eliminação  aleatória  de  documentos  públicos  municipais
+(Portaria  no. 39,  de  22/01/90, Art. 4o.);
+.  Em  nenhuma  hipótese  será  permitida  a  eliminação  de  documentos  que
+não constem das tabelas de temporalidade, ou não tenham completado os
+prazos de vigência e precaucional nelas previstos (Decreto no. 29.745, de
+14 de maio de 1991, Art. 5o., parág. 2o.);
+.  Esgotados  os  prazos  de  vigência  e  precaucional  estabelecidos  nas
+tabelas  de  temporalidade,  os  documentos  de valor  mediato  não  evidente,
+referidos  no  artigo  4o.,  poderão  ser  eliminados  nas  Unidades
+acumuladoras (idem, Art. 5o., parág. 3o.);
+.  As  cópias  serão  eliminadas  nas  Unidades  acumuladoras,  desde  que
+identificados  os  originais  e  garantido  seu  ciclo  de  vida,  ressalvadas  as
+excepcionalmente  indicadas  em  tabelas  de  temporalidade  (idem,  Art.  5o.,
+parág. 4o.);
+.  A  eliminação  de  documentos  será  formalizada  por  meio  de  registro  em
+ata  da  Unidade  ou  Órgão,  acompanhada  de  relação  que  identifique  os
+respectivos documentos, e que consignará as datas-limite e a quantidade,
+em metros lineares, dos documentos eliminados (idem, Art. 6o.);
+. Os documentos eliminados serão transformados em aparas e doados ao
+Corpo Municipal de Voluntários - CMV, ou instituição similar (idem, Art. 6o.
+parág. 1o.);
+.  Dos  documentos  eliminados  serão  conservadas  amostragens  para
+acervo  do  Arquivo  Histórico  Municipal,  que  serão  a  ele  encaminhadas
+conforme calendário a ser estabelecido  (idem, Art. 7o.).
+
+62
+
+63
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+COMO FAZER 1 - COMO AVALIAR DOCUMENTOS DE ARQUIVO
+
+PRESERVAÇÃO
+
+Legislação Federal
+
+  Constituição da República Federativa do Brasil (1988):
+.  É  competência  comum  da  União,  dos  Estados,  do  Distrito  Federal  e  dos
+Municípios:  ...  III-  proteger  os  documentos,  as  obras  e  outros  bens  de  valor
+histórico, artístico e cultural, os monumentos, as paisagens naturais notáveis  e  os
+sítios arqueológicos;  IV- impedir  a  evasão,  a  destruição  e  a  descaracterização  de
+obras de arte e de outros bens de valor histórico, artístico ou cultural (Art. 23);
+. Constituem patrimônio cultural brasileiro os bens de natureza material e imaterial,
+tomados individualmente ou em conjunto, portadores de referência à identidade, à
+ação,  à  memória  dos  diferentes  grupos  formadores  da  sociedade  brasileira,  nos
+quais  se  incluem:  ...  IV-  as  obras,  objetos,  documentos,  edificações  e  demais
+espaços destinados às manifestações artístico-culturais (Art. 216);
+.  O  Poder  Público,  com  a  colaboração  da  comunidade,  promoverá  e  protegerá  o
+patrimônio  cultural  brasileiro,  por  meio  de  inventários,  registros,  vigilância,
+tombamento  e  desapropriação,  e  de  outras 
+formas  de  acautelamento  e
+preservação (Art. 216, parág. 1o.);
+
+ Lei no. 8.159, de 08/01/91: dispõe sobre a Política Nacional de Arquivos Públicos
+e Privados
+.  É  dever  do  Poder  Público  a  gestão  documental  e  a  proteção  especial  a
+documentos de arquivos, como instrumento de apoio à administração, à cultura, ao
+desenvolvimento científico e como elementos de prova e informação (Art. 1o.);
+. Os documentos de valor permanente são inalienáveis e imprescritíveis  (Art. 10);
+.  Ficará  sujeito  a  responsabilidade  penal,  civil  e  administrativa,  na  forma  da
+legislação  em  vigor  aquele  que  desfigurar  ou  destruir  documentos  de  valor
+permanente ou considerado como de interesse público e social (Art. 25);
+
+  Decreto no. 82.308, de 25/09/78: institui o Sistema Nacional de Arquivo (SINAR)
+.  Fica  instituído  o  Sistema  Nacional  de  Arquivo  (SINAR)  com  a  finalidade  de
+assegurar, com  vistas  ao  interesse  da  comunidade,  ou  pelo  seu  valor  histórico,  a
+preservação de documentos do Poder Público (Art. 1o.);
+.  Compete  ao  Órgão  Central  do  Sistema:  ...  III-supervisionar  a  conservação  dos
+documentos sob sua custódia  (Art. 4o.);
+.  Compete  aos  Órgãos  Setoriais  e  Seccionais  do  Sistema:  ...  III  -  preservar  os
+documentos sob sua guarda, responsabilizando-se pela sua segurança (Art. 5o.);
+
+Decreto no. 1799, de 30 de janeiro de 1996: Regulamenta a Lei no. 5.433, de 8 de
+maio de 1968, que regula a microfilmagem de documentos oficiais, e dá outras
+providências)
+.  Os  documentos  oficiais  ou  públicos,  com  valor  de  guarda  permanente,  não
+poderão  ser  eliminados  após  a microfilmagem  devendo  ser  recolhidos  ao  arquivo
+público  de  sua  esfera  de  atuação  ou  preservados  pelo  próprio  órgão  detentor
+(Art.13).
+
+PRESERVAÇÃO(cont.)
+
+Legislação do Estado de São
+Paulo
+
+Legislação do Município de São Paulo
+
+de 
+
+imaterial, 
+
+referências 
+
+.  Constituem  patrimônio  cultural
+estadual  os  bens  de  natureza
+tomados
+material  e 
+individualmente  ou  em  conjunto,
+portadores 
+à
+identidade, à ação e à memória dos
+diferentes  grupos  formadores  da
+sociedade nos  quais de  incluem: ...
+III -  as  obras,  objetos, documentos,
+edificações  e  demais  espaços
+destinados 
+às  manifestações
+artístico-culturais  (Constituição  do
+Estado de São Paulo, Art. 260);
+.  O  Poder  Público  pesquisará,
+identificará, protegerá e valorizará o
+patrimônio cultural  paulista,  através
+do  Conselho  de  Defesa 
+do
+Patrimônio  Histórico,  Arqueológico,
+Artístico  e  Turístico  do  Estado  de
+São  Paulo,  CONDEPHAAT,  na
+forma  que  a  lei  estabelecer  (idem,
+Art. 261);
+. O Poder Público incentivará a livre
+manifestação  cultural  mediante:  ...
+VIII-  preservação  dos  documentos,
+obras  e  demais  registros  de  valor
+histórico  ou  científico  (idem,  Art.
+262);
+lei  estimulará,  mediante
+.  A 
+mecanismos 
+os
+empreendimentos  privados  que  se
+voltem 
+à
+restauração  do  patrimônio  cultural
+do  Estado,  bem  como  incentivará
+os  proprietários  de  bens  culturais
+tombados, 
+às
+recomendações  de  preservação  do
+patrimônio cultural (idem, Art. 263).
+. O Sistema  de  Arquivos do Estado
+de  São  Paulo  -  SAESP  tem  como
+objetivos  principais:  I  -  assegurar  a
+proteção 
+dos
+documentos  arquivísticos  do  Poder
+Público  Estadual,  tendo  em  vista
+seu  valor  administrativo  e  histórico
+e  os 
+interesses  da  comunidade
+(Decreto  no.  22.789,  de  19/10/84,
+Art. 2o.).
+
+preservação 
+
+preservação 
+
+específicos, 
+
+atendam 
+
+que 
+
+à 
+
+e 
+
+e 
+
+I 
+
+de 
+
+casas 
+
+centros 
+
+cultura, 
+
+imaterial, 
+
+.  O  Município  adotará  medidas  de  preservação
+das manifestações e dos bens de valor  histórico,
+artístico  e  cultural,  bem  como  das  paisagens
+naturais  e  construídas,  notáveis  e  dos  sítios
+arqueológicos (Lei Orgânica, Art. 191);
+.  O  disposto  neste  artigo  abrange  os  bens  de
+natureza  material 
+tomados
+e 
+individualmente,  ou  em  conjunto,  relacionados
+com  a  identidade,  a  ação  e  a  memória  dos
+diferentes  grupos 
+formadores  da  sociedade,
+incluídos: ... IV -  as  obras,  objetos,  documentos,
+edificações  e  demais  espaços  destinados  às
+manifestações  culturais  (idem,  Art.  191,  parág.
+único);
+.  O  Poder  Público  Municipal  promoverá  através
+dos  órgãos  competentes: 
+-  a  criação,
+manutenção,  conservação  e  abertura  de:
+teatros,  bibliotecas,  arquivos,
+sistemas  de 
+de
+centros 
+museus, 
+documentação, 
+técnico-científicos,
+centros  comunitários  de  novas  tecnologias  de
+difusão  e  bancos  de  dados,  como  instituições
+básicas,  detentoras  da  ação  permanente,  na
+integração da coletividade com  os  bens culturais
+(idem, Art. 193);
+.  O  Poder  Municipal  providenciará,  na  forma  da
+lei,  a  proteção  do  patrimônio  histórico,  cultural,
+paisagístico  e  arquitetônico,  através  de:  ...  II  -
+custódia  dos  documentos  públicos  (idem,  Art.
+194);
+.  O  Município  estimulará,  na  forma  da  lei,  os
+empreendimentos  privados  que  se  voltem  à
+criação artística, à preservação e restauração  do
+patrimônio cultural e histórico (idem, Art. 195);
+.  Ao  Departamento  do  Patrimônio  Histórico  da
+Secretaria  Municipal  de  Cultura  compete:  “II-
+Recolher,  organizar, 
+restaurar  e  divulgar
+documentos de  valor histórico  e  outros  materiais
+que  possibilitem  a  pesquisa  e  o  estudo  sobre  a
+história  da  cidade  de  São  Paulo”  (Lei  no.  8.204,
+de 13/01/75, Art. 20);
+.Os  documentos  de  valor  probatório  ou  cultural,
+sem  vigência  definida  e  com  evidente  interesse
+transferidos  para  o  Arquivo
+político,  serão 
+Histórico  Municipal,  nos  prazos  estabelecidos
+nas 
+temporalidade,  e  conforme
+calendário previsto no artigo 7o., parág. 2o. deste
+Decreto  (Decreto  no.  29.745,  de  14/05/91,  Art.
+10).
+
+tabelas  de 
+
+64
+
+65
+
+LOCAL / DATA 
+
+LOCAL / DATA 
+
+___________    _____________ 
+
+                                     RESPONSÁVEL  
+
+                                     PELA SELEÇÃO 
+
+______________          ________________ 
+
+                                    PRESIDENTE DA COMISSÃO  
+
+                                             PERMANENTE DE AVALIAÇÃO 
+
+___ / ___ / ___ 
+
+___ / ___ / ___ 
+
+LOCAL / DATA          AUTORIZO: 
+
+___________     ________________ 
+
+                                       AUTORIDADE DO 
+
+                             ÓRGÃO A  QUEM COMPETE  
+
+                                          AUTORIZAR  
+
+___ / ___ / ___ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+COMO FAZER 1 - COMO AVALIAR DOCUMENTOS DE ARQUIVO
+
+ANEXO 5
+ARQUIVOS E DOCUMENTOS PÚBLICOS:
+fundamentos legais (textos integrais)
+
+LEI Nº. 8.159, DE 8 DE JANEIRO DE 1991
+
+Dispõe  sobre  a  política
+nacional  de  arquivos  pú-
+blicos e privados e dá ou-
+tras  providências.
+
+O PRESIDENTE DA REPÚBLICA
+
+Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
+
+CAPÍTULO I
+DISPOSIÇÕES GERAIS
+
+Art. 1º - É dever do poder público a gestão documental e a proteção especial a documen-
+tos de arquivos, como instrumento de apoio à administração, à cultura e ao desenvolvi-
+mento científico e como elementos de prova e informação.
+
+Art.  2º  -  Consideram-se  arquivos,  para  os  fins  desta  Lei,  os  conjuntos  de  documentos
+produzidos e recebidos por órgãos públicos, instituições de caráter público e entidades
+privadas, em decorrência de exercício de atividades específicas, bem como por pessoa
+física, qualquer que seja o suporte da informação ou a natureza dos documentos.
+
+Art. 3º - Considera-se gestão de documentos o conjunto de procedimentos e operações
+técnicas referentes à sua produção, tramitação, uso, avaliação e arquivamento em fase
+corrente e intermediária, visando a sua eliminação ou recolhimento para guarda perma-
+nente.
+
+Art. 4º - Todos têm direito a receber dos órgãos públicos informações de seu interesse
+particular  ou  de  interesse  coletivo  ou  geral,  contidas  em  documentos  de  arquivos  que
+serão prestadas no prazo da lei, sob pena de responsabilidade, ressalvadas aquelas cujo
+sigilo seja imprescindível à segurança da sociedade e do Estado, bem como à inviolabilidade
+da intimidade, da vida privada, da honra e da imagem das pessoas.
+
+Art.  5º  -  A  administração  pública  franqueará  a  consulta  aos  documentos  públicos  na
+forma da Lei.
+
+Art. 6º - Fica resguardado o direito de indenização pelo dano material ou moral decorren-
+te da violação do sigilo, sem prejuízo das ações penal, civil e administrativa.
+
+CAPÍTULO II
+DOS ARQUIVOS PÚBLICOS
+
+Art. 7º - Os arquivos públicos são os conjuntos de documentos produzidos e recebidos, no
+exercício de suas atividades, por órgãos públicos de âmbito federal, estadual, do Distrito
+Federal e municipal em decorrência de suas funções administrativas, legislativas e judi-
+ciárias.
+
+§ 1º - São também públicos os conjuntos de documentos produzidos e recebidos
+por  instituições  de  caráter  público,  por  entidades  privadas  encarregadas  da  gestão  de
+serviços públicos no exercício de suas atividades.
+
+§ 2º - A cessação de atividade de instituições públicas e de caráter público implica
+o recolhimento de sua documentação à instituição arquivística pública ou a sua transfe-
+rência à instituição sucessora.
+
+Art.  8º  -  Os  documentos  públicos  são  identificados  como  correntes,  intermediários  e
+permanentes.
+
+§ 1º - Consideram-se documentos correntes aqueles em curso ou que, mesmo sem
+
+movimentação, constituam objeto de consultas freqüentes.
+
+§ 2º - Consideram-se documentos intermediários aqueles que, não sendo de uso
+corrente nos órgãos produtores, por razões de interesse administrativo, aguardam a sua
+eliminação ou recolhimento para guarda permanente.
+
+§ 3º - Consideram-se permanentes os conjuntos de documentos de valor histórico,
+
+probatório e informativo que devem ser definitivamente preservados.
+
+Art. 9º - A eliminação de documentos produzidos por instituições públicas e de caráter
+público será realizada mediante autorização da instituição arquivística pública, na sua
+específica esfera de competência.
+
+Art. 10 - Os documentos de valor permanente são inalienáveis e imprescritíveis.
+
+CAPÍTULO III
+DOS ARQUIVOS PRIVADOS
+
+Art. 11 - Consideram-se arquivos privados os conjuntos de documentos produzidos ou
+recebidos por pessoas físicas ou jurídicas, em decorrência de suas atividades.
+
+Art.  12  -  Os  arquivos  privados  podem  ser  identificados  pelo  Poder  Público  como  de
+interesse público e social, desde que sejam considerados como conjuntos de fontes rele-
+vantes para a história e desenvolvimento científico nacional.
+
+66
+
+67
+
+
+COMO FAZER 1 - COMO AVALIAR DOCUMENTOS DE ARQUIVO
+
+Art. 13 - Os arquivos privados identificados como de interesse público e social não pode-
+rão ser alienados com dispersão ou perda da unidade documental, nem transferidos para
+o exterior.
+
+Parágrafo único - Na alienação desses arquivos o Poder Público exercerá preferên-
+
+cia na aquisição.
+
+Art. 14 - O acesso aos documentos de arquivos privados identificados como de interesse
+público e social poderá ser franqueado mediante autorização de seu proprietário e possui-
+dor.
+
+Art. 15 - Os arquivos privados identificados como de interesse público e social poderão
+ser depositados a título revogável, ou doados a instituições arquivísticas públicas.
+
+Art. 19 - Competem aos arquivos do Poder Legislativo Federal a gestão e o recolhimento
+dos documentos produzidos e recebidos pelo Poder Legislativo Federal no exercício de
+suas funções, bem como preservar e facultar o acesso aos documentos sob sua guarda.
+
+Art. 20 - Competem aos arquivos do Poder Judiciário Federal a gestão e o recolhimento
+dos documentos produzidos e recebidos pelo Poder Judiciário Federal no exercício de
+suas funções, tramitados em juízo e oriundos de cartórios e secretarias, bem como preser-
+var e facultar o acesso aos documentos sob sua guarda.
+
+Art.  21  -  Legislação  estadual,  do  Distrito  Federal  e  municipal  definirá  os  critérios  de
+organização e vinculação dos arquivos estaduais e municipais, bem como a gestão e o
+acesso aos documentos, observado o disposto na Constituição Federal e nesta Lei.
+
+Art. 16 - Os registros civis de arquivos de entidades religiosas produzidos anteriormente
+à vigência do Código Civil ficam identificados como de interesse público e social.
+
+CAPÍTULO V
+DO ACESSO E SIGILO DOS DOCUMENTOS PÚBLICOS
+
+CAPÍTULO IV
+DA ORGANIZAÇÃO E ADMINISTRAÇÃO DE
+INSTITUIÇÕES ARQUIVÍSTICAS PÚBLICAS
+
+Art.  17  -  A  administração  da  documentação  pública  ou  de  caráter  público  compete  às
+instituições arquivísticas federais, estaduais, do Distrito Federal e municipais.
+
+§ 1º - São Arquivos Federais o Arquivo Nacional do Poder Executivo, e os arqui-
+vos  do  Poder  Legislativo  e  do  Poder  Judiciário.  São  considerados,  também,  do  Poder
+Executivo os arquivos do Ministério da Marinha, do Ministério das Relações Exteriores,
+do Ministério do Exército e do Ministério da Aeronáutica.
+
+§ 2º - São Arquivos Estaduais o arquivo do Poder Executivo, o arquivo do Poder
+
+Legislativo e o arquivo do Poder Judiciário.
+
+§ 3º - São Arquivos do Distrito Federal o arquivo do Poder Executivo, o arquivo
+
+do Poder Legislativo e o arquivo do Poder Judiciário.
+
+§  4º  -  São  Arquivos  Municipais  o  arquivo  do  Poder  Executivo  e  o  arquivo  do
+
+Poder Legislativo.
+
+§ 5º - Os arquivos públicos dos Territórios são organizados de acordo com sua
+
+estrutura  político-jurídica.
+
+Art. 18 - Compete ao Arquivo Nacional a gestão e o recolhimento dos documentos produ-
+zidos e recebidos pelo Poder Executivo Federal, bem como preservar e facultar o acesso
+aos  documentos  sob  sua  guarda,  e  acompanhar  e  implementar  a  política  nacional  de
+arquivos.
+
+Parágrafo  único  -  Para  o  pleno  exercício  de  suas  funções,  o  Arquivo  Nacional
+
+poderá criar unidades regionais.
+
+Art. 22 - É assegurado o direito de acesso pleno aos documentos públicos.
+
+Art. 23 - Decreto fixará as categorias de sigilo que deverão ser obedecidas pelos órgãos
+públicos na classificação dos documentos por eles produzidos.
+
+§ 1º - Os documentos cuja divulgação ponha em risco a segurança da sociedade e
+o Estado, bem como aqueles necessários ao resguardo da inviolabilidade e da intimidade,
+da vida privada, da honra e da imagem das pessoas são originariamente sigilosos.
+
+§ 2º - O acesso a documentos sigilosos referentes à segurança da sociedade e do
+Estado será restrito por um prazo máximo de 30 (trinta) anos, a contar da data de sua
+produção, podendo esse prazo ser prorrogado, por uma única vez, por igual período.
+
+§ 3º - O acesso aos documentos sigilosos referentes à honra e à imagem das pesso-
+as será restrito por um prazo máximo de 100 (cem) anos, a contar da data de sua produ-
+ção.
+
+Art. 24 - Poderá o Poder Judiciário, em qualquer instância, determinar a exibição reser-
+vada de qualquer documento sigiloso, sempre que indispensável à defesa de direito pró-
+prio ou esclarecimento de situação pessoal da parte.
+
+Parágrafo único - Nenhuma norma de organização administrativa será interpreta-
+
+da de modo a, por qualquer forma, restringir o disposto neste artigo.
+
+68
+
+69
+
+
+COMO FAZER 1 - COMO AVALIAR DOCUMENTOS DE ARQUIVO
+
+DISPOSIÇÕES FINAIS
+
+Art.  25  -  Ficará  sujeito  à  responsabilidade  penal,  civil  e  administrativa,  na  forma  da
+legislação em vigor, aquele que desfigurar ou destruir documentos de valor permanente
+ou considerado de interesse público e social.
+
+Art. 26 - Fica criado o Conselho Nacional de Arquivos - CONARQ, órgão vinculado
+ao Arquivo Nacional, que definirá a política nacional de arquivos, como órgão central de
+um Sistema Nacional de Arquivos - SINAR.
+
+§  1º  -  O  Conselho  Nacional  de  Arquivos  será  presidido  pelo  Diretor-Geral  do
+Arquivo Nacional e integrado por representantes de instituições arquivísiticas e acadê-
+micas públicas e privadas.
+
+§ 2º - A estrutura e funcionamento do Conselho criado neste artigo serão estabele-
+
+cidos em regulamento.
+
+Art. 27 - Esta Lei entra em vigor na data de sua publicação.
+
+Art. 28 - Revogam-se as disposições em contrário.
+
+Brasília, em 8 de janeiro de 1991; 170º da Independência e 103º da República.
+
+FERNANDO COLLOR
+Jarbas  Passarinho
+
+DECRETO Nº 1.799 DE 30 DE JANEIRO DE 1996.
+
+Regulamenta a Lei nº 5.433, de 8 de maio de
+1968, que regula a microfilmagem de docu-
+mentos oficiais, e dá outras providências.
+
+O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art.
+84, inciso IV, da Constituição, e tendo em vista o disposto no art. 3º da Lei nº 5.433, de 8
+de maio de 1968.
+
+DECRETA:
+
+Art. 1º A microfilmagem, em todo território nacional, autorizada pela Lei nº 5.433,
+de 8 de maio de 1968, abrange os documentos oficiais ou públicos, de qualquer espécie e
+em qualquer suporte, produzidos e recebidos pelos órgãos dos Poderes Executivo, Judici-
+ário e Legislativo, inclusive da Administração indireta da União, dos Estados, do Distrito
+Federal e dos Municípios, e os documentos particulares ou privados, de pessoas físicas ou
+jurídicas.
+
+Art. 2º A emissão de cópias, traslados e certidões extraídas de microfilmes, bem
+assim  a  autenticação  desses  documentos,  para  que  possam  produzir  efeitos  legais,  em
+juízo ou fora dele, é regulada por este Decreto.
+
+Art. 3º Entende-se por microfilme, para fins deste Decreto, o resultado do proces-
+so de reprodução em filme, de documentos, dados e imagens, por meios fotográficos ou
+eletrônicos, em diferentes graus de redução.
+
+Art. 4º A microfilmagem será feita em equipamentos que garantam a fiel reprodu-
+
+ção das informações, sendo permitida a utilização de qualquer microforma.
+
+Parágrafo único. Em se tratando da utilização de microfichas, além dos procedi-
+mentos previstos neste Decreto, tanto a original como a cópia terão, na sua parte superi-
+or, área reservada à titulação, à identificação e à numeração seqüencial, legíveis com a
+vista desarmada, e fotogramas destinados à indexação.
+
+Art. 5º A microfilmagem, de qualquer espécie, será feita sempre em filme origi-
+nal, com o mínimo de 180 linhas por milímetro de definição, garantida a segurança e a
+qualidade de imagem e de reprodução.
+
+§ 1º Será obrigatória, para efeito de segurança, a extração de filme cópia do filme
+
+original.
+
+§ 2º Fica vedada a utilização de filmes atualizáveis, de qualquer tipo, tanto para a
+
+confecção do original, como para a extração de cópias.
+
+70
+
+71
+
+
+COMO FAZER 1 - COMO AVALIAR DOCUMENTOS DE ARQUIVO
+
+§ 3º O armazenamento do filme original deverá ser feito em local diferente do seu
+
+§ 1º A microfilmagem destes documentos será precedida de uma imagem de ob-
+
+filme cópia.
+
+Art. 6º Na microfilmagem poderá ser utilizado qualquer grau de redução, garan-
+
+tida a legibilidade e a qualidade de reprodução.
+
+Parágrafo único. Quando se tratar de original cujo tamanho ultrapasse a dimensão
+máxima do campo fotográfico do equipamento em uso, a microfilmagem poderá ser feita
+por etapas, sendo obrigatória a repetição de uma parte da imagem anterior na imagem
+subseqüente, de modo que se possa identificar, por superposição, a continuidade entre as
+seções adjacentes microfilmadas.
+
+Art. 7º Na microfilmagem de documentos, cada série será precedida de imagem
+
+de abertura, com os seguintes elementos:
+
+I - identificação de detentor dos documentos, a serem microfilmados;
+II - número do microfilme, se for o caso;
+III - local e data da microfilmagem;
+IV - registro no Ministério da Justiça;
+V  -  ordenação,  identificação  e  resumo  da  série  de  documentos  a  serem
+
+microfilmados;
+
+VI - menção, quando for o caso, de que a série de documentos a serem microfilmados
+
+é continuação da série contida em microfilme anterior;
+
+VII - identificação do equipamento utilizado, da unidade filmadora e do grau de
+
+redução;
+
+VIII  -  nome  por  extenso,  qualificação  funcional,  se  for  o  caso,  e  assinatura  do
+
+detentor dos documentos a serem microfilmados;
+
+IX - nome por extenso, qualificação funcional e assinatura do responsável pela
+
+unidade, cartório ou empresa executora da microfilmagem.
+
+Art. 8º No final da microfilmagem de cada série, será reproduzida a imagem de
+
+encerramento, imediatamente após o último documento, com os seguintes elementos:
+
+I - identificação do detentor dos documentos microfilmados;
+II - informações complementares relativas ao inciso V do artigo anterior;
+III - termo de encerramento atestando a fiel observância às disposições deste De-
+
+creto;
+
+IV  -  menção,  quando  for  o  caso,  de  que  a  série  de  documentos  microfilmados
+
+continua em microfilme posterior;
+
+V  -  nome  por  extenso,  qualificação  funcional  e  assinatura  do  responsável  pela
+
+unidade, cartório ou empresa executora da microfilmagem.
+
+Art.  9º  Os  documentos  da  mesma  série  ou  seqüência,  eventualmente  omitidos
+quando da microfilmagem, ou aqueles cujas imagens não apresentarem legibilidade, por
+falha de operação ou por problema técnico, serão reproduzidos posteriormente, não sen-
+do permitido corte ou inserção no filme original.
+
+servação, com os seguintes elementos:
+
+a) identificação do microfilme, local e data;
+b) descrição das irregularidades constatadas;
+c) nome por extenso, qualificação funcional e assinatura do responsável pela uni-
+
+dade, cartório ou empresa executora da microfilmagem.
+
+§ 2º É obrigatório fazer indexação remissiva para recuperar as informações e asse-
+
+gurar a localização dos documentos.
+
+§  3º  Caso  a  complementação  não  satisfaça  os  padrões  de  qualidade  exigidos,  a
+
+microfilmagem dessa série de documentos deverá ser repetida integralmente.
+
+Art. 10. Para o processamento dos filmes, serão utilizados equipamentos e técni-
+cas que assegurem ao filme alto poder de definição, densidade uniforme e durabilidade.
+
+Art. 11. Os documentos, em tramitação ou em estudo, poderão, a critério da auto-
+ridade competente, ser microfilmados, não sendo permitida a sua eliminação até a defini-
+ção de sua destinação final.
+
+Art. 12. A eliminação de documentos, após a microfilmagem, dar-se-á por meios
+que garantam sua inutilização, sendo a mesma precedida de lavratura de termo próprio e
+após a revisão e a extração de filme cópia.
+
+Parágrafo único. A eliminação de documentos oficiais ou públicos só deverá ocor-
+rer se prevista na tabela de temporalidade do órgão, aprovada pela autoridade competente
+na esfera de sua atuação e respeitado o disposto no art. 9º  da Lei nº 8.159, de 8 de janeiro
+de 1991.
+
+Art.  13.  Os  documentos  oficiais  ou  públicos,  com  valor  de  guarda  permanente,
+não poderão ser eliminados após a microfilmagem, devendo ser recolhidos ao arquivo
+público de sua esfera de atuação ou preservados pelo próprio órgão detentor.
+
+Art. 14. Os traslados, as certidões e as cópias em papel ou em filme de documen-
+tos microfilmados, para produzirem efeitos legais em juízo ou fora dele, deverão estar
+autenticados pela autoridade competente detentora do filme original.
+
+§ 1º Em se tratando de cópia em filme, extraída de microfilmes de documentos
+privados, deverá ser emitido termo próprio, no qual constará que o filme que o acompa-
+nha é cópia fiel do filme original, cuja autenticação far-se-á nos cartórios que satisfize-
+rem os requisitos especificados no artigo seguinte.
+
+§ 2º Em se tratando de cópia em papel, extraída de microfilmes de documentos
+privados, a autenticação far-se-á por meio de carimbo, aposto em cada folha, nos cartóri-
+os que satisfizerem os requisitos especificados no artigo seguinte.
+
+72
+
+73
+
+
+COMO FAZER 1 - COMO AVALIAR DOCUMENTOS DE ARQUIVO
+
+Art. 22. Este Decreto entra em vigor na data de sua publicação.
+
+Brasília, 30 de janeiro de 1996; 175º da Independência e 108º da República.
+
+FERNANDO HENRIQUE CARDOSO
+Milton Seligan
+
+§  3º  A  cópia  em  papel,  de  que  trata  o  parágrafo  anterior,  poderá  ser  extraída
+utilizando-se qualquer meio de reprodução, desde que seja assegurada a sua fidelidade e
+a sua qualidade de leitura.
+
+Art. 15. A microfilmagem de documentos poderá ser feita por empresas e cartóri-
+
+os habilitados nos termos deste Decreto.
+
+Parágrafo único. Para exercer a atividade de microfilmagem de documentos, as
+empresas e cartórios a que se refere este artigo, além da legislação a que estão sujeitos,
+deverão requerer registros no Ministério da Justiça e sujeitar-se à fiscalização que por
+este será exercida quanto ao cumprimento do disposto no presente Decreto.
+
+Art. 16. As empresas e os cartórios que se dedicarem à microfilmagem de docu-
+mentos de terceiros, fornecerão, obrigatoriamente, um documento de garantia, declaran-
+do:
+
+I - que a microfilmagem foi executada de acordo com o disposto neste Decreto;
+II - que se responsabilizam pelo padrão de qualidade do serviço executado;
+III  -  que  o  usuário  passa  a  ser  responsável  pelo  manuseio  e  conservação  das
+
+microformas.
+
+Art.  17.  Os  microfilmes  e  filmes  cópias,  produzidos  no  exterior,  somente  terão
+
+valor legal, em juízo ou fora dele, quando:
+
+I - autenticados por autoridade estrangeira competente;
+II - tiverem reconhecida, pela autoridade consular brasileira, a firma da autorida-
+
+de estrangeira que os houver autenticado;
+
+III - forem acompanhados de tradução oficial.
+
+Art. 18. Os microfilmes originais e os filmes cópias resultantes de microfilmagem
+de documentos sujeitos à fiscalização, ou necessários à prestação de contas, deverão ser
+mantidos pelos prazos de prescrição a que estariam sujeitos os seus respectivos originais.
+
+Art. 19. As infrações às normas deste Decreto, por parte dos cartórios e empresas
+registrados no Ministério da Justiça sujeitarão o infrator, observada a gravidade do fato,
+às penalidades de advertência do registro, sem prejuízo das sanções penais e civis cabí-
+veis.
+
+Parágrafo único. No caso de reincidência por falta grave, o registro para microfilmar
+
+será cassado definitivamente.
+
+Art. 20. O Ministério da Justiça expedirá as instruções que se fizerem necessárias
+
+ao cumprimento deste Decreto.
+
+Art. 21. Revoga-se o Decreto nº 64.398, de 24 de abril de 1969.
+
+74
+
+75
+
+
+COMO FAZER 1 - COMO AVALIAR DOCUMENTOS DE ARQUIVO
+
+Decreto nº 22.789, de 19 de outubro de 1984:
+Institui o Sistema de Arquivos do Estado de São Paulo - SAESP.
+
+ANDRÉ FRANCO MONTORO, GOVERNADOR DO ESTADO DE SÃO PAU-
+LO, no uso de suas atribuições legais e com fundamento no artigo 89, da Lei nº 9.717, de
+30 de janeiro de 1967, e
+
+CONSIDERANDO que todos os documentos arquivísticos gerados pela atuação
+do  Governo  do  Estado  de  São  Paulo  constituem  parte  integrante  de  seu  patrimônio
+arquivístico;
+
+CONSIDERANDO que o patrimônio arquivístico é um bem público cuja integri-
+
+dade cabe ao Estado assegurar;
+
+CONSIDERANDO que a destruição indiscriminada de documentos efetuada sem
+
+critérios pode acarretar prejuízos irrecuperáveis à Administração e à História;
+
+CONSIDERANDO  que  as  atividades  de  administração  dos  documentos
+arquivísticos  compõem-se  de  diversas  fases  que  devem  ser  desenvolvidas  de  modo
+harmônico e integrado, respeitando-se as especificidades de cada órgão gerador de docu-
+mentação;
+
+CONSIDERANDO as conclusões apresentadas pela Comissão Especial de Estu-
+dos, instituída por Despacho de 10, publicado no Diário Oficial do Estado de 11.11.1983,
+com a finalidade de realizar estudos relativos à organização de um Sistema Estadual de
+Arquivos;
+
+CONSIDERANDO, finalmente, a Exposição de Motivos apresentada pelo Secre-
+
+tário  Extraordinário  da  Cultura,
+
+DECRETA:
+Artigo 1º - Fica instituído, nos termos deste Decreto, o Sistema de Arquivos do
+
+Estado de São Paulo - SAESP.
+
+Artigo 2º - O Sistema de Arquivos do Estado de São Paulo - SAESP tem como
+
+objetivos principais:
+
+I  -  assegurar  a  proteção  e  preservação  dos  documentos  arquivísticos  do
+Poder Público Estadual, tendo em vista o seu valor administrativo e histó-
+rico e os interesses da comunidade;
+II  -  harmonizar  as  diversas  fases  da  administração  dos  documentos
+arquivísticos, atendendo às peculiaridades dos órgãos geradores da docu-
+mentação;
+III - facilitar o acesso ao patrimônio arquivístico público de acordo com as
+necessidades da comunidade.
+
+Artigo  3º  -  Para  os  fins  deste  Decreto  consideram-se  integrantes  do  patrimônio
+arquivístico público todos os documentos, de qualquer tipo e natureza, gerados e acumu-
+lados no decurso das atividades da cada órgão da administração do Estado de São Paulo,
+que se distribuem em:
+
+I - arquivos correntes, constituídos pelos conjuntos de documentos em cur-
+so,  ou  que,  mesmo  sem  movimentação,  constituam  objeto  de  consultas
+freqüentes;
+
+II - arquivos intermediários, constituídos pelos conjuntos de documentos
+procedentes de arquivos correntes e que aguardam destinação final em de-
+pósitos de armazenagem temporária;
+III  -  arquivos  permanentes,  constituídos  pelos  conjuntos  de  documentos
+que assumem valor cultural, de testemunho, extrapolando a finalidade es-
+pecífica de sua criação e aos quais devem ser assegurados a preservação e o
+acesso público.
+
+Artigo 4º - O Sistema de Arquivos do Estado de São Paulo - SAESP conta com:
+I - órgão central: Divisão de Arquivo do Estado, do Departamento de Mu-
+seus e Arquivos, da Secretaria de Estado da Cultura;
+II - órgãos regionais: Delegacias Regionais da Cultura, do Departamento
+de Atividades Regionais da Cultura, da Secretaria de Estado da Cultura;
+III - órgãos setoriais: 1 (um) em cada secretaria de estado e autarquia.
+Parágrafo único - A definição dos órgãos setoriais previstos no inciso III deste
+artigo  será  objeto  de  decretos  específicos  e  recairá  em  unidade  técnica  já  existente  na
+estrutura organizacional de cada secretaria de estado e autarquia.
+
+Artigo 5º - Poderão, também, participar do Sistema de Arquivos do Estado de
+São Paulo - SAESP, mediante celebração de convênios com o Governo do Estado, por sua
+Secretaria de Estado da Cultura, após prévia autorização e observada a legislação perti-
+nente, órgãos dos poderes legislativo e judiciário estaduais, das administrações munici-
+pais, as fundações instituídas pelo poder público, as empresas nas quais o Estado tenha
+participação majoritária e demais entidades de direito privado.
+
+Artigo  6º  -  À  Divisão  de  Arquivo  do  Estado  do  Departamento  de  Museus  e
+Arquivos, como órgão central do Sistema de Arquivos do Estado de São Paulo e além de
+suas atribuições normais, cabe:
+
+I - estabelecer a articulação com os órgãos integrantes do SAESP e com
+unidades afins;
+II - elaborar princípios, diretrizes, normas e métodos sobre organização e
+funcionamento das atividades de arquivo;
+III - prestar orientação técnica aos órgãos integrantes do Sistema e a unida-
+des responsáveis pela guarda de documentos arquivísticos;
+IV - orientar e controlar a elaboração dos planos de destinação de docu-
+mentos;
+V - controlar o encaminhamento obrigatório aos arquivos competentes dos
+documentos acumulados nas unidades responsáveis pela guarda dos arqui-
+vos intermediários e correntes;
+VI - providenciar a celebração de convênios entre o Governo do Estado,
+por sua Secretaria de Estado da Cultura, e entidades, públicas e
+
+76
+
+77
+
+
+COMO FAZER 1 - COMO AVALIAR DOCUMENTOS DE ARQUIVO
+
+privadas, municipais, estaduais, nacionais ou internacionais, visando atin-
+gir os objetivos do Sistema;
+VII - administrar os convênios de que trata o inciso anterior e fiscalizar as
+correspondentes prestações de contas;
+VIII  -  manter  cadastro  geral  atualizado  das  unidades  responsáveis  pela
+guarda de documentos arquivísticos;
+IX - produzir textos de interesse para o SAESP;
+X - elaborar programas de divulgação do Sistema e dos acervos à disposi-
+ção do público;
+XI - desenvolver estudos visando à instalação de arquivos intermediários
+ou permanentes;
+XII - propor a política de acesso aos documentos públicos;
+XIII - promover a organização de eventos culturais relacionados ao Siste-
+ma;
+XIV - promover a realização de cursos para o desenvolvimento dos recur-
+sos humanos do Sistema.
+
+Artigo 7º - As Delegacias Regionais da Cultura do Departamento de Atividades
+Regionais da Cultura, além de suas atribuições normais, têm, como órgãos regionais da
+SAESP, em suas respectivas áreas de atuação, as seguintes atribuições:
+
+I - manter contatos com autoridades públicas e com responsáveis pela guarda
+de documentos arquivísticos, com a finalidade de divulgar o Sistema;
+II - promover a articulação entre as unidades responsáveis pela guarda de
+documentos arquivísticos;
+III  -  colaborar  com  o  órgão  central  do  Sistema  no  desempenho  de  suas
+atribuições, especialmente:
+a) na orientação e controle da elaboração dos planos de destinação de docu-
+mentos;
+b)  no  controle  do  encaminhamento  aos  arquivos  competentes  dos  docu-
+mentos  acumulados  nas  unidades  responsáveis  pela  guarda  de  arquivos
+intermediários e correntes;
+c) em estudos visando a instalação de arquivos intermediários ou perma-
+nentes;
+d) na coleta de dados necessários à elaboração de programas e projetos;
+e) na promoção de eventos culturais relacionados ao Sistema.
+
+Artigo 8º - Os órgãos setoriais do Sistema de Arquivos do Estado de São Paulo
+
+têm as seguintes atribuições:
+
+I - assistir as autoridades das secretarias de Estado ou das autarquias a que
+pertencerem, nos assuntos relacionados com o Sistema;
+II - planejar e acompanhar a execução, no âmbito das secretarias de Estado
+ou autarquias a que pertencerem, dos programas, diretrizes e normas ema-
+nadas do órgão central do Sistema;
+
+III - elaborar, em conformidade com as diretrizes emanadas do órgão cen-
+tral,  o  conjunto  de  normas  disciplinadoras  da  recepção,  produção,
+tramitação, arquivamento, preservação e transferência de documentos ge-
+rados em seus respectivos âmbitos de atuação;
+IV - prestar orientação técnica, controlar e, quando for o caso, executar as
+atividades arquivísticas, em seus respectivos âmbitos de atuação;
+V  -  manter  cadastro  das  unidades  pertencentes  às  suas  estruturas
+organizacionais responsáveis por atividades de arquivo, bem como das re-
+lações  de  séries  documentais  que  essas  unidades  mantêm  sob  custódia  e
+que não fazem parte de seus arquivos correntes;
+VI - prestar ao órgão central informações sobre suas atividades;
+VII - apresentar sugestões para o aprimoramento do Sistema.
+
+Artigo 9º - Ao diretor da Divisão de Arquivo do Estado, enquanto dirigente de
+unidade de despesa, cabe exercer as competências previstas nos artigos 92 e 105 do De-
+creto nº 20.955, de 1º de junho de 1983.
+
+Artigo 10 - Fica instituída, junto ao órgão central do Sistema de Arquivos do
+
+Estado de São Paulo, a Comissão Estadual de Arquivo.
+
+Artigo 11 - À Comissão Estadual de Arquivo cabe:
+
+I - prestar, ao órgão central do SAESP, assessoramento de ordem técnica e
+histórico-cultural;
+II - manifestar-se sobre instruções normativas emanadas do órgão central
+ou dos órgãos setoriais do SAESP;
+III - propor modificações aprimoradoras do Sistema;
+IV - propor medidas para o inter-relacionamento das atividades dos arqui-
+vos correntes e dos arquivos intermediários e permanentes;
+V - propor a constituição de comissões ou grupos de trabalho para tratar de
+assuntos específicos;
+VI - elaborar seu regimento interno.
+
+Artigo 12 - A Comissão Estadual de arquivo tem a seguinte composição:
+I - 2 (dois) membros escolhidos pelo Secretário da Cultura;
+II - diretor da Divisão de Arquivo do Estado, do Departamento de Museus
+e Arquivos, da Secretaria de Estado da Cultura;
+III - 1 (um) representante da Fundação para o Desenvolvimento Adminis-
+trativo - FUNDAP;
+IV - 1 (um) representante do Curso de Arquivo ou do Curso de História da
+cada Universidade Estadual;
+V - 1 (um) representante da Associação dos Arquivistas Brasileiros - nú-
+cleo do Estado de São Paulo.
+
+§1º - Os Membros da Comissão Estadual de Arquivo serão designados pelo Secretá-
+
+rio da Cultura para um mandato de 2 (dois) anos, permitida a recondução,
+
+78
+
+79
+
+
+COMO FAZER 1 - COMO AVALIAR DOCUMENTOS DE ARQUIVO
+
+sendo,  no  caso  dos  representantes  previstos  nos  incisos  III  a  V  deste  artigo,  mediante
+indicação dos respectivos órgãos de origem.
+
+§2º - No caso de vaga em data anterior à do término do mandato, o Secretário da
+
+Cultura designará novo membro para o período restante.
+
+§3º - O presidente será indicado pelos membros da Comissão, dentre seus pares, em
+
+lista tríplice apresentada ao Secretário da Cultura, que o designará.
+
+§4º - O presidente, além do voto de membro da Comissão, terá o voto de desempate.
+
+Artigo 13 - Fica vedada a eliminação de documentos integrantes do patrimônio
+arquivístico  público,  sem  prévia  consulta  ao  órgão  central  do  Sistema  de  Arquivos  do
+Estado de São Paulo.
+
+Artigo  14  -  A  implantação  do  Sistema  instituído  por  este  Decreto  será  feita
+
+gradativamente, de acordo com as disponibilidades orçamentárias e financeiras.
+
+Artigo 15 - Este Decreto entrará em vigor na data de sua publicação.
+
+PALÁCIO DOS BANDEIRANTES, aos 19 de outubro de 1984.
+
+DECRETO Nº 29.838, DE 18 DE ABRIL DE 1989
+
+Dispõe sobre a constituição de Comis-
+são  de  Avaliação  de  Documentos  de
+Arquivo nas Secretarias de Estado e dá
+outras providências
+
+ORESTES QUÉRCIA, Governador do Estado de São Paulo, no uso de suas atri-
+
+buições legais, e
+
+Considerando as disposições do Decreto nº 22.789, de 19 de outubro de 1984, que
+
+criou o Sistema de Arquivos do Estado de São Paulo - SAESP;
+
+Considerando  a  responsabilidade  dos  órgãos  da  Administração  do  Estado  na
+proteção e conservação dos documentos de valor probatório, informativo, cultural e his-
+tórico;
+
+Considerando a necessidade de reduzir ao mínimo essencial a documentação acu-
+mulada  nos  arquivos  das  Secretarias  de  Estado,  sem  prejuízo  da  salvaguarda  dos  atos
+administrativos, constitutivos e extintivos de direito, das informações indispensáveis ao
+processo decisório e à preservação da memória histórica.
+
+Decreta:
+Artigo  1º  -  Em  cada  Secretaria  de  Estado  deverá  ser  constituída,  dentro  de  45
+(quarenta e cinco) dias, a conta da publicação deste decreto, uma Comissão de Avaliação
+de Documentos de Arquivo visando à elaboração de tabela de temporalidade dos docu-
+mentos mantidos nos arquivos da respectiva Pasta.
+
+Artigo 2º - A Comissão de que trata o artigo anterior deverá ser integrada, neces-
+sariamente, por funcionários e/ou servidores representantes das áreas jurídica, de admi-
+nistração geral, de administração financeira e de arquivo e por representantes das áreas
+específicas da documentação a ser avaliada.
+
+Parágrafo único - A Comissão deverá ser composta por 5 (cinco), 7 (sete) ou 9
+
+(nove) membros, designados pelo Titular da Pasta.
+
+Artigo 3º - A Comissão será assessorada por funcionário ou servidor ligado à área
+de História, indicado pelo órgão central do Sistema de Arquivos do Estado de São Paulo
+- SAESP.
+
+Artigo 4º - Para proceder à identificação dos conjuntos documentais a serem ana-
+lisados pela Comissão, será designada uma equipe de funcionários e/ou servidores pelo
+Titular da Pasta.
+
+80
+
+81
+
+
+COMO FAZER 1 - COMO AVALIAR DOCUMENTOS DE ARQUIVO
+
+Artigo 12 - Este decreto entrará em vigor na data de sua publicação.
+
+Palácio dos Bandeirantes, 18 de abril de 1989.
+ORESTES QUÉRCIA
+Fernando Gomes de Moraes, Secretário da Cultura
+Roberto Valle Rollemberg, Secretário do Governo
+Publicado na Secretaria de Estado do Governo, aos 18 de abril de 1989.
+
+Artigo 5º - Os trabalhos a que se referem os artigos 2º, 3º e 4º deste decreto não
+serão remunerados e serão prestados sem prejuízo das atribuições  próprias dos cargos ou
+funções e considerados como de serviço público relevante.
+
+Artigo  6º  -  Para  o  atendimento  do  estabelecimento  no  artigo  1º,  deste  decreto,
+
+caberá à Comissão:
+
+I - escolher, dentre seus membros, o responsável pela coordenação dos trabalhos;
+II - indicar a equipe que procederá à identificação dos conjuntos documentais a
+
+serem analisados;
+
+III - propor os prazos de retenção e eliminação dos conjuntos documentais identi-
+
+ficados.
+
+Artigo 7º - Concluídos os trabalhos, a Comissão elaborará relatório propondo a
+tabela de temporalidade a ser instituída, o qual, apreciado pelo órgão central do Sistema
+de Arquivos do Estado de São Paulo - SAESP, será submetido ao Titular da Pasta.
+
+Parágrafo único - Acolhida a proposta, a tabela de temporalidade será publicada
+
+no Diário Oficial do Estado por 3 (três) dias consecutivos.
+
+Artigo 8º - Qualquer impugnação aos critérios de valoração adotados na tabela de
+temporalidade  deverá  ser  dirigida  ao  Titular  da  Pasta  no  prazo  de  15  (quinze)  dias,  a
+contar da última publicação.
+
+§  1º  -  A  impugnação  será  encaminhada,  previamente,  à  Comissão  e  ao  órgão
+central do Sistema de Arquivos do Estado de São Paulo - SAESP, que deverão se mani-
+festar, sucessivamente, no prazo de 10 (dez) dias cada um, o primeiro deles, contado da
+data do protocolamento da impugnação.
+
+§ 2º - A decisão da impugnação será irrecorrível e deverá ser publicada no prazo
+
+de 30 (trinta) dias a contar da data do protocolamento da impugnação.
+
+Artigo 9º - A homologação da tabela de temporalidade pelo Titular da Pasta será
+
+publicada no Diário Oficial do Estado.
+
+Artigo  10  -  A  execução  das  determinações  fixadas  na  tabela  de  temporalidade
+
+caberá às unidades responsáveis pelos arquivos de cada Secretaria de Estado.
+
+Artigo 11 - Ao órgão central do Sistema de Arquivos do Estado de São Paulo -
+SAESP caberá o reexame, a qualquer tempo, das tabelas de temporalidade e a prestação
+de orientação técnica necessária ao fiel cumprimento deste decreto.
+
+82
+
+83
+
+
+COMO FAZER 1 - COMO AVALIAR DOCUMENTOS DE ARQUIVO
+
+ARQUIVO NACIONAL
+
+Conselho Nacional de Arquivos
+
+ARQUIVO NACIONAL
+
+Conselho Nacional de Arquivos
+
+RESOLUÇÃO nº 5, DE 30 DE SETEMBRO DE 1996
+
+RESOLUÇÃO nº 7, DE 20 DE MAIO DE 1997
+
+Dispõe sobre a publicação de editais
+para Eliminação de Documentos nos
+Diários  Oficiais  da  União,  Distrito
+Federal, Estados e Municípios.
+
+Dispõe sobre os procedimentos para
+a eliminação de documentos no âm-
+bito dos órgãos e entidades integran-
+tes do Poder Público
+
+O Presidente do Conselho Nacional de Arquivos-CONARQ, no uso de suas
+atribuições previstas no item VII, do art. 17, de seu Regimento Interno, de conformidade
+com deliberação do Plenário, em sua 6ª reunião ordinária realizada nos dias 22 e 23 de
+agosto de 1996 e,
+
+Considerando o disposto na alínea C, do parágrafo único, do artigo 5º, do
+
+Anexo do Decreto nº. 96.671, de 9 de Setembro de 1988.
+
+Considerando o disposto no item 3 da  Tabela Básica de Temporalidade e
+Destinação de Documentos de Arquivo Relativos às Atividades-Meio da Administração
+Pública, aprovada pela Resolução nº 4, de 28 de março de 1996, deste Conselho;
+
+Considerando as recomendações contidas na NBR - 10.519, da Associação
+Brasileira de Normas Técnicas - ABNT, sobre Critérios de Avaliação de Documentos de
+Arquivo, resolve:
+
+Art. 1º - Os órgãos e entidades integrantes do Poder Público farão publicar
+nos Diários Oficiais da União, do Distrito Federal, dos Estados e Municípios, correspon-
+dentes ao seu âmbito de atuação, os editais para eliminação de documentos, decorrentes
+da aplicação de suas Tabelas de Temporalidade, observado o disposto no art. 9º da Lei
+8.159, de 08 de janeiro de 1991.
+
+Parágrafo  único  -  Os  editais  referidos  neste  artigo  serão  publicados  em
+outro veículo de divulgação local quando a administração pública municipal não editar
+Diário Oficial.
+
+Art. 2º - Os editais para eliminação de documentos deverão consignar um
+prazo de 30 a 45 dias para possíveis manifestações ou, quando for o caso, possibilitar às
+partes interessadas requererem, a suas expensas, o desentranhamento de documentos ou
+cópias de peças de processos.
+
+JAIME ANTUNES DA SILVA
+
+O Presidente do Conselho Nacional de Arquivos-CONARQ, no uso de suas
+atribuições previstas no item VII, do art. 17, de seu Regimento Interno, de conformidade
+com deliberação do Plenário, em sua 18ª reunião ordinária realizada nos dias 12 e 13 de
+maio de 1997 e,
+
+Considerando o disposto no art. 9º da Lei Federal nº 8.159, de 8 de janeiro
+
+de 1991, que trata da política nacional de arquivos públicos e privados;
+
+Considerando a Resolução nº 5 deste Conselho, de 30 de setembro de 1996,
+que  dispõe  sobre  a  publicação  de  editais  para  eliminação  de  documentos  nos  Diários
+Oficiais da União, do Distrito Federal, dos Estados e dos Municípios; e
+
+Considerando as recomendações contidas nos itens 3 e 4 da Tabela Básica
+de Temporalidade e Destinação de Documentos de Arquivo Relativos às Atividades-Meio
+da Administração Pública, aprovada pela Resolução nº 4 deste Conselho, de 28 de março
+de 1996, resolve:
+
+Art. 1º A eliminação de documentos nos órgãos e entidades do Poder Pú-
+blico ocorrerá após concluído o processo de avaliação conduzido pelas respectivas Co-
+missões  Permanentes  de  Avaliação,  responsáveis  pela  elaboração  de  tabelas  de
+temporalidade, e será efetivada quando cumpridos os procedimentos estabelecidos nesta
+Resolução.
+
+Art. 2º O registro dos documentos a serem eliminados deverá ser efetuado
+por meio de Listagem de Eliminação de Documentos e de Termo de Eliminação de
+Documentos.
+
+Art. 3º A Listagem de Eliminação de Documentos tem por objetivo registrar
+informações pertinentes aos documentos a serem eliminados e se constituirá basicamente
+dos seguintes itens:
+
+I - cabeçalho contendo a identificação do órgão ou entidade e da unidade/
+
+setor responsável pela eliminação, o título e número da listagem e o número da folha;
+
+II - quadro contendo os seguintes campos:
+a)  código  do  assunto  ou,  caso  não  tenha  esta  informação,  o  número  de
+
+ordem dos itens documentais listados;
+
+84
+
+85
+
+
+COMO FAZER 1 - COMO AVALIAR DOCUMENTOS DE ARQUIVO
+
+b) assunto/série, correspondente aos conjuntos documentais a serem elimi-
+
+nados;
+
+c) datas-limite de cada conjunto documental citado na alínea anterior;
+d) quantidade e especificação das unidades de arquivamento a serem eli-
+
+minadas em cada conjunto documental;
+
+e) observações complementares  úteis ao esclarecimento das informações
+contidas nos demais campos, ou justificativa, quando se tratar dos órgãos e entidades aos
+quais se refere o art. 5º desta resolução; e
+
+III - rodapé contendo local e data, nome, cargo e assinatura do titular da
+unidade/setor responsável pela seleção, do Presidente da Comissão Permanente da Avali-
+ação,  bem  como  da  autoridade  a  quem  compete  autorizar  a  eliminação  no  âmbito  do
+órgão ou entidade.
+
+II - desenvolvimento do assunto tratado contendo:
+a) identificação da autoridade signatária do edital;
+b) número e data dos atos legais e/ou do documento oficial que legitima a
+
+c) nome do órgão ou entidade produtor dos documentos a serem elimina-
+
+eliminação;
+
+dos;
+
+d) referência aos conjuntos documentais a serem eliminados, com as datas-
+
+limite correspondentes;
+
+e) prazo para efetivação da eliminação, que deverá situar-se entre 30 (trin-
+
+ta) e 45 (quarenta e cinco) dias subseqüentes à publicação do edital; e
+
+III - encerramento:
+a) local e data do edital;
+b) nome, cargo e assinatura da autoridade citada no art. 5º, parágrafo úni-
+
+Art. 4º O Termo de Eliminação de Documentos tem por objetivo registrar
+
+co, item II, alínea “a” desta resolução.
+
+Art  6º  A  eliminação  de  documentos  públicos  será  efetuada  por  meio  de
+
+fragmentação manual ou mecânica, com a supervisão de servidor autorizado.
+
+Art.  7º  Os  procedimentos  a  serem  observados  quando  da  eliminação  de
+
+documentos serão estabelecidos na forma dos anexos 1, 2 e 3 desta Resolução.
+
+JAIME ANTUNES DA SILVA
+
+as informações relativas ao ato de eliminação, devendo conter essencialmente:
+
+I - data da eliminação;
+II - indicação dos atos oficiais/legais que autorizam a eliminação e infor-
+
+mação relativa à publicação em periódico oficial;
+
+III - nome do órgão ou entidade produtor/acumulador dos documentos eli-
+
+minados;
+
+IV - nome do órgão ou entidade responsável pela eliminação;
+V  -  referência  aos  conjuntos  documentais  eliminados  especificados  na
+
+Listagem de Eliminação de Documentos, anexa ao Termo;
+VI - datas-limite dos documentos eliminados;
+VII - quantificação/mensuração dos documentos eliminados;
+VIII - nome da unidade orgânica responsável pela eliminação; e
+IX  -  nome  e  assinatura  do  titular  da  unidade  orgânica  responsável  pela
+
+eliminação.
+
+Art.  5º  Os  órgãos  e  entidades  que  ainda  não  elaboraram  suas  tabelas  de
+temporalidade e pretendem proceder à eliminação de documentos deverão constituir suas
+Comissões Permanentes de Avaliação, responsáveis pela análise dos documentos e pelo
+encaminhamento das propostas à instituição arquivística pública, na sua específica esfe-
+ra de competência, para aprovação.
+
+Parágrafo  único  -  Os  órgãos  e  entidades  referidos  no  caput  deste  artigo
+deverão elaborar, além da Listagem de Eliminação de Documentos e do Termo de Elimi-
+nação de Documentos, o Edital de Ciência de Eliminação de Documentos, que tem por
+objetivo  dar  publicidade,  em  periódicos  oficiais,  ao  ato  de  eliminação  dos  acervos
+arquivísticos  sob  a  sua  guarda,  devendo  conter  necessariamente  as  seguintes  informa-
+ções:
+
+I - cabeçalho:
+a) nome do órgão ou entidade que efetuará a eliminação;
+b) título, número e ano do edital;
+
+86
+
+87
+
+
+   ANEXO 1
+
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+
+:
+.
+º
+N
+M
+E
+G
+A
+T
+S
+L
+
+I
+
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+
+.
+º
+N
+A
+H
+L
+O
+F
+
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+
+:
+
+R
+O
+T
+E
+S
+
+/
+
+O
+Ã
+G
+R
+Ó
+
+I
+
+A
+V
+T
+A
+C
+F
+T
+S
+U
+J
+
+I
+
+I
+
+/
+
+S
+E
+Õ
+Ç
+A
+V
+R
+E
+S
+B
+O
+
+O
+T
+N
+E
+M
+A
+V
+U
+Q
+R
+A
+
+I
+
+E
+D
+E
+D
+A
+D
+N
+U
+
+I
+
+I
+
+O
+Ã
+Ç
+A
+C
+F
+C
+E
+P
+S
+E
+
+I
+
+.
+
+T
+N
+A
+U
+Q
+
+I
+
+E
+T
+M
+L
+-
+
+I
+
+S
+O
+T
+N
+E
+M
+U
+C
+O
+D
+E
+D
+
+I
+
+I
+
+O
+Ã
+Ç
+A
+N
+M
+L
+E
+E
+D
+M
+E
+G
+A
+T
+S
+L
+
+I
+
+S
+A
+T
+A
+D
+
+I
+
+E
+R
+É
+S
+
+/
+
+O
+T
+N
+U
+S
+S
+A
+
+U
+O
+O
+G
+D
+Ó
+C
+
+I
+
+M
+E
+T
+
+I
+
+O
+D
+
+.
+º
+N
+
+E
+D
+A
+D
+T
+N
+E
+
+I
+
+/
+
+O
+Ã
+G
+R
+Ó
+
+R
+O
+T
+E
+S
+
+/
+
+E
+D
+A
+D
+N
+U
+
+I
+
+COMO FAZER 1 - COMO AVALIAR DOCUMENTOS DE ARQUIVO
+
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+
+O
+D
+E
+D
+A
+D
+R
+O
+T
+U
+A
+
+I
+
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+
+:
+
+I
+
+O
+Z
+R
+O
+T
+U
+A
+
+A
+T
+A
+D
+
+/
+
+L
+A
+C
+O
+  L
+
+I
+
+O
+Ã
+S
+S
+M
+O
+C
+A
+D
+E
+T
+N
+E
+D
+S
+E
+R
+P
+
+I
+
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+
+E
+T
+E
+P
+M
+O
+C
+M
+E
+U
+Q
+
+A
+O
+Ã
+G
+R
+Ó
+
+I
+
+R
+A
+Z
+R
+O
+T
+U
+A
+
+_
+_
+_
+
+/
+
+_
+_
+_
+
+/
+
+_
+_
+_
+
+I
+
+O
+Ã
+Ç
+A
+L
+A
+V
+A
+E
+D
+E
+T
+N
+E
+N
+A
+M
+R
+E
+P
+
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+
+A
+T
+A
+D
+
+/
+
+L
+A
+C
+O
+  L
+
+_
+_
+_
+
+/
+
+_
+_
+_
+
+/
+
+_
+_
+  _
+
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+
+L
+E
+V
+Á
+S
+N
+O
+P
+S
+E
+R
+
+O
+Ã
+Ç
+E
+L
+E
+S
+A
+L
+E
+P
+
+A
+T
+A
+D
+
+/
+L
+A
+C
+O
+  L
+
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+_
+
+_
+_
+_
+/
+_
+_
+_
+/
+_
+_
+  _
+
+      ANEXO 2 
+
+(NOME DO ÓRGÃO OU ENTIDADE) 
+
+TERMO DE ELIMINAÇÃO DE DOCUMENTOS 
+
+Aos  ______  dias  do  mês  de  _______________  do  ano  de  ________,  o 
+(indicar  o  nome  do  órgão  ou  entidade  responsável  pela eliminação), de acordo com 
+o  que  consta  do/da  (indicar  a  Tabela  de  Temporalidade  de  Documentos  ou  a 
+Listagem  de  Eliminação  de  Documentos  e  respectivo  Edital  de  Ciência  de 
+Eliminação  de  Documentos),  aprovados  pelo  (titular)  do/da  (indicar  a  instituição 
+arquivística),  por  intermédio  do  (indicar  o  documento  de  aprovação),  e  publicada(o) 
+no  (indicar  o  periódico  oficial),  de  (indicar  a  data  de  publicação  da  tabela  ou  do 
+edital),  procedeu  à  eliminação  de  (indicar  a  quantificação  mensuração),  de 
+documentos  relativos  a  (referência  aos  conjuntos  documentais  eliminados), 
+integrantes  do  acervo  do(a)  (indicar  o  nome  do  órgão  ou  entidade  produtor  / 
+acumulador), do período (indicar as datas-limite dos documentos eliminados). 
+
+(nome da unidade orgânica responsável pela eliminação, nome, cargo e assinatura do titular) 
+
+ANEXO 3 
+
+(NOME DO ÓRGÃO OU ENTIDADE) 
+
+EDITAL DE CIÊNCIA DE ELIMINAÇÃO DE DOCUMENTOS 
+
+O  Presidente  da  Comissão  Permanente  de  Avaliação,  designado  pela 
+Portaria nº. ___, de ___ / ___ / ___, publicada  no (indic ar o periódic o ofic ial, de 
+___ / ___ / ___), de acordo com (indicar a Listagem de Eliminação de Documentos), 
+aprovada  pelo  (titular)  do(a)  (indicar  a  instituição  arquivística),  por  intermédio  do 
+(indicar  o documento de aprovação), faz saber a quem possa interessar que a partir 
+do  (30º  a  45º)  (escrever  por  extenso,  entre  parênteses,  o  número  ordinal 
+correspondente)  dia  subseqüente  a  data  de  publicação  deste  Edital  no  (indicar  o 
+periódico  oficial),  se  não  houver  oposição,  o(a)  (indicar  a  unidade  orgânica 
+responsável  pela  eliminação)  eliminará  os  documentos  relativos  a  (indicar  os 
+conjuntos  documentais  a  serem  eliminados),  do  período  (indicar  as  datas-limite), 
+do(a)  (indicar  o  nome  do  órgão  ou  entidade  produtor  dos  documentos  a  serem 
+eliminados). 
+
+Os  interessados,  no  prazo  citado,  poderão  requerer  às  suas  expensas,  o 
+desentranhamento  de  documentos  ou  cópias  de  peças  do  processo,  mediante 
+petição,  desde  que  tenha  respectiva  qualificação  e  demonstração  de  legitimidade 
+do  pedido,  dirigida  à  Comissão  Permanente  de  Avaliação  do(a)  (indicar  o  órgão  ou 
+entidade). 
+
+(Local e data) 
+
+(Nome e assinatura do Presidente da Comissão Permanente de Avaliação) 
+
+88
+
+89
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+

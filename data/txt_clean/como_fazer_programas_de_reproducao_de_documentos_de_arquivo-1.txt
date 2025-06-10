@@ -1,0 +1,2168 @@
+COMO FAZER 7 - COMO FAZER PROGRAMAS DE REPRODUÇÃO DE DOCUMENTOS DE ARQUIVO
+
+COMO FAZER PROGRAMAS
+DE REPRODUÇÃO DE
+DOCUMENTOS DE ARQUIVO
+
+COMO FAZER VOL. 7
+
+
+COMO FAZER 7 - COMO FAZER PROGRAMAS DE REPRODUÇÃO DE DOCUMENTOS DE ARQUIVO
+
+GOVERNO DO ESTADO DE SÃO PAULO
+Geraldo Alckmin
+GOVERNADOR
+
+SECRETARIA DE ESTADO DA CULTURA
+Marcos Mendonça
+SECRETÁRIO
+
+DEPARTAMENTO DE MUSEUS E ARQUIVOS
+Marilda Suyama Tegg
+DIRETORA
+
+DIVISÃO DE ARQUIVO DO ESTADO
+Fausto Couto Sobrinho
+DIRETOR
+
+IMPRENSA OFICIAL DO ESTADO
+Luiz Carlos Frigerio
+DIRETOR-PRESIDENTE EM EXERCÍCIO
+
+Carlos Nicolaewsky
+DIRETOR INDUSTRIAL
+
+Richard Vainberg
+DIRETOR FINANCEIRO E ADMINISTRATIVO
+
+CEETEPS
+CENTRO DE EDUCAÇÃO TECNOLÓGICA PAULA SOUZA
+Prof. Marcos Antônio Monteiro
+DIRETOR-SUPERINTENDENTE
+
+Prof.ª Laura Laganá
+CHEFE DE GABINETE
+
+ESTHER  CALDAS  BERTOLETTI
+
+COMO FAZER PROGRAMAS
+DE REPRODUÇÃO DE
+DOCUMENTOS DE ARQUIVO
+
+COMO FAZER VOL. 7
+
+Arquivo do Estado de São Paulo
+R. Voluntários da Pátria, 596 – Santana
+CEP: 02010-000 – São Paulo – SP
+Fone/Fax: (11) 6221-4785
+www.arquivoestado.sp.gov.br
+arquivoestado@sp.gov.br
+
+Imprensa Oficial do Estado
+Rua da Mooca, 1.921 – Mooca
+03103-902 – São Paulo – SP
+Tel.: (11) 6099-9800
+Fax: (11) 6692-3503
+www.imprensaoficial.com.br
+divulgacaoeditoriais@imprensaoficial.com.br
+SAC  0800-123  401
+
+Foi feito o depósito legal na Biblioteca Nacional
+(Lei n. 1825, de 20/12/1997)
+
+ARQUIVO  DO  ESTADO/IMPRENSA  OFICIAL  DO  ESTADO
+
+SÃO  PAULO
+2002
+
+
+COMO FAZER 7 - COMO FAZER PROGRAMAS DE REPRODUÇÃO DE DOCUMENTOS DE ARQUIVO
+
+ARQUIVO DO ESTADO DE SÃO PAULO
+
+ASSOCIAÇÃO DE ARQUIVISTAS
+DE SÃO PAULO - ARQ/SP
+
+SUMÁRIO
+
+DIRETORIA
+
+APRESENTAÇÃO
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+Diretora
+ANA MARIA DE ALMEIDA CAMARGO
+
+PROJETO COMO FAZER
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+Coordenação  editorial
+LAURO ÁVILA PEREIRA
+MARIZA ROMERO
+
+Editora  responsável
+JULIANA PADUA MELO ALKMIN
+
+Editor Assistente
+FERNANDO F. DE SOUSA LIMA
+
+Revisão dos textos
+ADRIANA DE MATOS
+ALEXANDRE MICHELLIN TRISTÃO
+
+Capa  e  diagramação
+FERNANDO F. DE SOUSA LIMA
+
+Criação de arte
+TEREZA REGINA CORDIDO
+
+Fotolito, impressão e acabamento
+IMPRENSA OFICIAL DO ESTADO
+
+Vice-Diretora
+SILVANA GOULART FRANÇA GUIMARÃES
+
+Secretária
+RITA DE CÁSSIA MARTINEZ LO SCHIAVO
+
+Tesoureiro
+JOÃO MARTINS RODRIGUES NETO
+
+COORDENADORA DE CURSOS
+
+IEDA PIMENTA BERNARDES
+
+Co-edição
+ARQUIVO DO ESTADO DE SÃO PAULO
+IMPRENSA OFICIAL DO ESTADO
+
+Apoio Técnico:
+CEETEPS - Centro de Educação Tecnológica Paula Souza
+Governo do Estado de São Paulo
+
+Ficha catalográfica elaborada por Arquivo do Estado
+
+B462c   Bertoletti, Esther Caldas
+
+Como fazer programas de reprodução de documentos de arquivo / Esther
+
+Caldas Bertoletti. - São Paulo : Arquivo do Estado, Imprensa Oficial, 2002.
+
+48 p. (Projeto como fazer, 7).
+
+Bibliografia p. 56
+ISBN: 85-86726-40-0 (Arquivo do Estado)
+ISBN: 85-7060-114-X (Imprensa Oficial do Estado)
+
+1. Documentos – Reprodução. 2. Pesquisa – Instrumentos. 3. Arquivística. I.
+
+Título. II. Série.
+
+CDD  025.129
+CDU  930.253
+
+SOBRE A AUTORA
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+INTRODUÇÃO
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+CONHECER PARA PRESERVAR
+
+Identificação do acervo da instituição ou da seção que será objeto
+
+do programa e/ou projeto de preservação.
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+ORGANIZAR ANTES DE TUDO
+
+Necessidade de análise da dinâmica atual e do potencial
+
+de acesso à documentação.
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+ESTUDO DO TIPO DA DOCUMENTAÇÃO E DA DEMANDA DO USUÁRIO
+
+○
+
+○
+
+○
+
+PLANEJAR É ESSENCIAL
+
+Planejamento do programa e/ou projeto de reprodução.
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+CONSCIÊNCIA DA PRIORIDADE
+
+Definição de critérios de prioridade.
+
+RECURSOS HUMANOS E FINANCEIROS
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+Análise da relação custo x benefício do investimento no
+
+programa e/ou projeto.
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+REFLEXÃO CRÍTICA
+
+Análise dos resultados do programa para a instituição
+
+e para os usuários.
+
+REPRODUZIR PARA QUÊ?
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+Atendimento das demandas a partir do término do
+
+programa e/ou projeto de reprodução.
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+VISIBILIDADE E EXEMPLO
+
+Divulgação do programa fora do âmbito da instituição.
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+VIVA O DOCUMENTO!
+
+Diálogo e Conclusão.
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+BIBLIOGRAFIA
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+○
+
+07
+
+08
+
+09
+
+10
+
+12
+
+14
+
+18
+
+20
+
+24
+
+26
+
+28
+
+32
+
+36
+
+40
+
+42
+
+
+COMO FAZER 7 - COMO FAZER PROGRAMAS DE REPRODUÇÃO DE DOCUMENTOS DE ARQUIVO
+
+APRESENTAÇÃO
+
+O PROJETO COMO FAZER
+
+O Arquivo do Estado de São Paulo tem sob a sua tutela um
+rico acervo e um grupo técnico capacitado para o desenvolvimento
+de suas atividades, o que lhe permite assumir o papel de relevo que
+lhe cabe historicamente na administração pública e entre os seus
+congêneres.
+
+Este caráter da instituição manifesta-se, entre outros aspectos,
+pela  ampliação  da  gama  de  serviços  prestados  na  área  cultural,
+dentre os quais destaca-se a publicação sistemática de instrumentos
+de pesquisa e de manuais técnicos que auxiliem no processo de
+formação e aperfeiçoamento dos profissionais da área de arquivos.
+O Arquivo do Estado tem-se valido, para esse trabalho, de
+valiosas  parcerias,  cabendo  especial  relevo  às  mantidas  com  a
+Imprensa  Oficial    e  a  Associação  de    Arquivistas  de  São  Paulo  -
+ARQ/SP. A primeira delas vem possibilitando o desenvolvimento de
+um extenso programa de publicações e a segunda tem resultado
+numa assessoria permanente - tanto formal, quanto informal - na
+área da Arquivística, eis que a ARQ/SP congrega especialistas de
+renome internacional nesse campo de atuação.
+
+A  presente  publicação  é,  pois,  o  resultado  do  esforço
+conjugado das três instituições e integra o Projeto “Como Fazer”,
+elaborado pela Comissão de Cursos da AAB/SP. Orientado, como o
+próprio  nome  indica,  para  aspectos  práticos  do  dia-a-dia  dos
+profissionais  da  área,  esse  projeto  prevê  uma  série  de  outras
+publicações, sempre de autoria de professores com larga experiência
+na organização de arquivos.
+
+A direção e o corpo técnico do Arquivo do Estado sentem-se
+gratificados  pelos  excelentes  frutos  já  colhidos  desse  profícuo
+relacionamento, contando que o mesmo se perpetue e se intensifique,
+em benefício da comunidade arquivística e da cultura em nosso Estado.
+
+Dr. Fausto Couto Sobrinho
+Diretor  do Arquivo do Estado
+
+  7
+
+O Projeto Como Fazer compreende uma série de oficinas
+de trabalho que abordam temas específicos em profundidade, tanto
+em seu aspecto teórico, quanto metodológico e operacional, capa-
+citando o aluno a planejar e realizar as atividades inerentes ao as-
+pecto da Arquivística em foco. Visa não só o aperfeiçoamento técni-
+co de profissionais que atuam na área, como a difusão de conheci-
+mentos arquivísticos básicos entre os interessados. Como uma de
+suas marcas características, a cada oficina corresponde um manual,
+de responsabilidade do professor.
+
+Comissão de Cursos da ARQ/SP
+
+  8
+
+
+COMO FAZER 7 - COMO FAZER PROGRAMAS DE REPRODUÇÃO DE DOCUMENTOS DE ARQUIVO
+
+SOBRE A AUTORA
+
+INTRODUÇÃO
+
+Esther  Caldas  Bertoletti
+
+Advogada e jornalista. Funcionária da Fundação Biblioteca
+Nacional do Ministério da Cultura,  desempenhando  a  função  de
+Técnica  Consultora  em  Documentação. Vem  atuando  na  área  de
+programas de reprodução de documentos desde 1975, notadamente
+com projetos de microfilmagem sistêmica de documentação históri-
+ca. Implantou e coordenou o Plano Nacional de Microfilmagem de
+Periódicos Brasileiros (1979-1992). Foi Consultora da Fundação Ford
+(1975-1978). Atualmente, coordena o Projeto Resgate de Documen-
+tação Histórica sobre o Período Colonial no Brasil e no Exterior, do
+Ministério da Cultura. É membro titular do Instituto Histórico e Geo-
+gráfico Brasileiro (IHGB) e correspondente de diversos institutos his-
+tóricos estaduais.
+
+O nosso propósito, ao aceitarmos compartilhar uma longa ex-
+periência na condução de projetos de reprodução documental atra-
+vés da microfilmagem sistêmica, foi exatamente o de compartilhar,
+com todos os interessados, um conhecimento nascido da vivência,
+da dedicação, do labor quotidiano e, por que não, de sonhos, além,
+é óbvio, de constantes leituras e observações, no país e no exterior,
+de trabalhos nas bibliotecas e nos arquivos brasileiros e, agora, tam-
+bém estrangeiros. São reflexões muito pessoais, à guisa de orienta-
+ções, que não excluem a leitura profunda e reflexiva dos textos téc-
+nicos indicados na bibliografia.
+
+Recomendo, por outro lado, vivamente, uma visita à Divisão de
+Microfilmagem da Biblioteca Nacional, no Rio de Janeiro (Av. Rio
+Branco, 210-239, tel: (21) 262-8255), onde vi nascer e acompanhei
+inúmeros projetos de microfilmagem sistêmica espalhados pelo Bra-
+sil, cujos resultados orgulham a todos nós. Refiro-me ao Plano Na-
+cional de Microfilmagem de Periódicos Brasileiros, criado em 1976,
+e aos projetos Resgate e Reencontro, em pleno desenvolvimento
+no momento, notadamente em Portugal e no Brasil.
+
+  9
+
+10
+
+
+COMO FAZER 7 - COMO FAZER PROGRAMAS DE REPRODUÇÃO DE DOCUMENTOS DE ARQUIVO
+
+CONHECER PARA PRESERVAR
+
+Identificação do acervo da instituição ou da
+seção que será objeto do programa e/ou
+projeto de reprodução.
+
+Quando os dirigentes de uma instituição tomam consciência de
+que é necessário iniciar uma ação de preservação de seu acervo ou
+de parte dele, podemos considerar parte do trabalho já realizado,
+pois nem sempre isso acontece. Na maioria das vezes, alguns fun-
+cionários da instituição – geralmente os que estão em contato direto
+com os documentos e que acompanham a sua deterioração, lenta,
+mas inexorável – é que procuram por todos os meios e formas “con-
+vencer” os responsáveis, hierarquicamente superiores, da necessi-
+dade de que sejam tomadas as providências para a salvaguarda da
+documentação.
+
+O que acontece na maioria das nossas instituições que possu-
+em documentos de memória, sejam elas públicas ou privadas, é que
+só em situações extremas, quase de catástrofes, se começa a pen-
+sar em um trabalho de preservação dos documentos, em reproduzi-
+los para permitir a consulta sem acelerar sua já iminente perda.
+Utilizo aqui o conceito de documento como “unidade de registro de
+informação, qualquer que seja o suporte utilizado”, como consagra
+o Dicionário de Terminologia Arquivística (Camargo, Bellotto, 1996).
+É assim que - e aqui enfatizamos a necessidade - o conjunto docu-
+mental que será objeto do programa e/ou projeto de preservação
+precisa ser compreendido, não só pelos que são responsáveis pela
+sua guarda direta, mas também pelos responsáveis da instituição e,
+até, se possível, pelos usuários.
+
+O primeiro passo de qualquer programa de reprodução de um de-
+terminado acervo, visando-se a preservação e o acesso aos seus do-
+cumentos, é o conhecimento mais aprofundado desse acervo. Conhe-
+cimento esse que pode variar em cada caso, conforme a necessidade.
+12
+
+
+COMO FAZER 7 - COMO FAZER PROGRAMAS DE REPRODUÇÃO DE DOCUMENTOS DE ARQUIVO
+
+Quando  nos  deparamos  com  enormes  massas  documentais,
+completamente desarrumadas, não é possível, a curto prazo, conhe-
+cer, de forma mais completa, o seu conteúdo. Mas o conhecimento
+da importância do conteúdo informativo dos documentos armaze-
+nados é um fator preponderante de convencimento, que irá alavancar
+as possibilidades de se iniciar um programa de reprodução de acer-
+vos com a finalidade de preservação e/ou disseminação da infor-
+mação. E esse conhecimento do conjunto de documentos dar-se-á
+mais ou menos rapidamente, à proporção que se conheça a história
+do produtor do documento (pessoa ou instituição). Pesquisas sobre
+a história da instituição e sobre as pessoas são essenciais para que
+se possa elaborar um programa e/ou projeto de preservação dos
+documentos. Vale aqui lembrar a importância da leitura atenta do
+texto Como classificar e ordenar documentos de arquivos (Gonçal-
+ves, 1998).
+
+A identificação do acervo da instituição e/ou da seção que será
+objeto do programa ou do projeto de preservação é, pois, condição
+sine qua non da consecução dos meios de realização do programa
+de reprodução.
+
+13
+
+ORGANIZAR ANTES DE TUDO
+
+Necessidade de análise da dinâmica atual e do
+potencial de acesso à documentação.
+
+A partir do momento em que se decide, em nível organizacional,
+elaborar um programa e/ou projeto de reprodução do acervo docu-
+mental, uma vez identificados sua importância e o nível de deterio-
+ração e/ou intensidade de consulta, vamos enfrentar o problema da
+organização. Não se pode reproduzir o caos, pois teremos sempre o
+caos. Costuma-se dizer nos manuais de microfilmagem produzidos
+por  especialistas  americanos  -  como  argumento  a  favor  da
+microfilmagem,  o  que  endosso  plenamente  -  que  um  projeto  de
+microfilmagem pode ser a única chance que um conjunto documen-
+tal tem de ser organizado e conhecido plenamente. E isto porque
+um  conjunto  documental  para  ser  microfilmado  precisa  ser  antes
+“preparado”, manuseado com desvelo, página por página, item por
+item. Enfim, precisa ser conhecido interna e profundamente.
+
+A organização dos diversos tipos de acervos documentais pode
+ser feita nos mais variados níveis: desde a complexa identificação
+peça por peça, como no caso de documentos textuais avulsos ou de
+fotografias, até a identificação de séries e/ou sub-séries, de volu-
+mes e de coleções. Tudo vai depender da análise do conteúdo infor-
+mativo do conjunto documental e da resposta a diversas perguntas,
+tais como: Essa é uma documentação muito utilizada?; Poderá vir a
+ser muito utilizada caso seja organizada?; Qual a dinâmica de uso
+no momento em que se organiza para reproduzir?; Qual a sua im-
+portância para a organização e para a sociedade?
+
+Muitas vezes, ocorre que o conjunto documental nunca foi utili-
+zado pelo simples fato de que não se conhecia a sua existência ou
+a sua importância. Ele simplesmente estava guardado, em maços
+ou em caixas nas prateleiras, com uma identificação muito simples:
+um nome, uma data etc. Alguém poderá argumentar que para tudo
+14
+
+
+COMO FAZER 7 - COMO FAZER PROGRAMAS DE REPRODUÇÃO DE DOCUMENTOS DE ARQUIVO
+
+na vida há exceção. E é verdade. Só em casos extremos é que se
+aconselha a microfilmagem de documentos sem antes identificá-los
+ou organizá-los. Nos casos extremos em que o suporte da informa-
+ção esteja fragilizado de tal forma que qualquer demora na interven-
+ção possa significar a perda total do seu conteúdo. Páginas de ma-
+nuscritos completamente acidificadas, praticamente sem condições
+de leitura, corroídas pela tinta que rasga o papel no próprio traçado
+da escrita (e quem de nós que trabalhamos com acervos documen-
+tais ainda não se deparou com casos desse tipo?). A intervenção aí
+é sempre in extremis para salvar a informação, pois qualquer demo-
+ra significará não mais conhecer o seu conteúdo. Assim proceden-
+do,  estaremos  dando  início  a  um  processo  que  não  acaba  na
+microfilmagem in extremis, mas que terá seu curso na leitura dos
+textos e num trabalho na área de restauração do suporte, transcre-
+vendo-o, editando-o etc.
+
+Por outro lado, devemos analisar com atenção a potencialidade
+da documentação face aos usuários, pesquisando nos boletins de
+consulta (onde houver) ou entrevistando os funcionários que aten-
+dem normalmente ao público, além de estarmos atentos às datas
+comemorativas (houve uma grande demanda em torno da documen-
+tação da Inconfidência Mineira por ocasião da comemoração dos
+seus 200 anos, assim como por ocasião da comemoração dos 100
+anos da Abolição da Escravatura). Esses dados são importantes no
+fornecimento de elementos que justifiquem a necessidade de ela-
+boração de programas e/ou projetos de reprodução. Uma simples
+notícia nos jornais pode desencadear uma intensa pesquisa em um
+determinado fundo documental e isso é o bastante para que os já
+fragilizados documentos acelerem o processo de diminuição de sua
+vida útil. Profissionais de uma instituição de guarda de acervo, seja
+esse  acervo  de  memória  ou  simplesmente  administrativo,  devem
+estar sempre preocupados com o acervo de sua instituição, devem
+estar sempre atentos ao que acontece interna e externamente a ele.
+Recordo aqui os casos de ameaça interna à integridade física dos
+documentos, como infiltrações em tempos de muita chuva e de en-
+chentes, excesso de poeira, falta de ambientação adequada, ata-
+
+ques de insetos e de agentes degradadores dos suportes (já se ou-
+viu dizer que o melhor guardião de um arquivo era o gato mal ali-
+mentado da vizinhança, porque este saía à noite à caça dos ratos
+que existiam no prédio). Por outro lado, as situações de intensa con-
+sulta, que pode ser cíclica ou permanente, de um grupo pequeno de
+pessoas,  constantemente,  ou  de  várias  pessoas,  eventualmente,
+devem estar sempre na pauta dos administradores dos acervos e dos
+“gerentes de preservação” (termo que começa a se insinuar no Brasil,
+ao lado do termo “agentes de preservação”). Confesso-lhes que gosto
+muito dos dois termos, um porque empresta uma visão de modernidade
+à nossa área, o outro porque dá uma idéia de ação, de movimento.
+
+Nos estudos da administração moderna, tem sido vitoriosa a idéia
+de que as chefias hoje devem agir como verdadeiros maestros, pen-
+sando no comando não mais como generais que dão ordens que
+são repassadas sucessivamente, mas como maestros regendo uma
+orquestra, na qual cada um dos músicos é essencial para a harmo-
+nia do todo. Cada elemento do processo administrativo é importante
+para uma administração eficaz, que alcance os objetivos da organi-
+zação que, no nosso caso, é a preservação dos documentos. Esta
+imagem da orquestra cai como uma luva no caso de elaboração dos
+programas de reprodução de documentos de arquivos. Um progra-
+ma bem elaborado e bem estruturado envolve todos os indivíduos
+da organização. Não é apenas o grupo, a equipe ou a seção que
+está desenvolvendo o projeto que deve estar empenhado; muito pelo
+contrário, pois, muitas vezes, o grupo do projeto é temporário, pas-
+sageiro. E aqui vai um bom conselho: que nunca se pense em elaborar
+e executar um programa e/ou projeto de reprodução de documentos
+sem antes dialogar e envolver os demais membros que trabalham na
+organização, desde o porteiro até o pessoal da limpeza e a telefonista,
+os quais aparentemente não têm nada a ver com o processo.
+
+Muitas vezes há um sofisticado projeto de reprodução de acer-
+vos. Pensemos em um projeto de fotografar mapas e desenhos de
+grande formato, para o qual um fotógrafo especializado é introduzi-
+do na instituição - geralmente ganhando muito mais do que o funcio-
+nário que durante décadas foi o responsável pelo acervo - para pro-
+
+15
+
+16
+
+
+COMO FAZER 7 - COMO FAZER PROGRAMAS DE REPRODUÇÃO DE DOCUMENTOS DE ARQUIVO
+
+duzir negativos fotográficos de alta qualidade e precisão, com equi-
+pamentos modernos e complexos. Imaginem a presença passiva dos
+funcionários. A fim de evitar constrangimentos, deve-se tentar ao
+máximo a integração e o apoio do pessoal institucional, pois essa
+interação é muito importante: mesmo que as sofisticadas e perfeitas
+reproduções em cromos com escala de cores estejam disponíveis
+em outro setor da instituição, ou já em modernos CD-ROMs, os ori-
+ginais precisam ser preservados.
+
+A reprodução de um acervo não significa o seu abandono, muito
+pelo contrário. Já se disse também que, em alguns casos, o manu-
+seio eventual dos pesquisadores é que tem salvado os documentos
+da inércia permanente, da paralisia, que leva à deterioração. Uma
+documentação que nunca é manuseada termina por sofrer algum
+estrago, ficando esquecida, “guardada”. E é por isso que inspeções
+permanentes devem ser feitas nos originais, mesmo depois deles
+terem sido reproduzidos em microfilmes, mesmo depois deles te-
+rem sido “retirados de circulação” ou colocados “fora de consulta”,
+como se costuma dizer na nossa área.
+
+Enfatizo, pois, a importância da colaboração dos funcionários res-
+ponsáveis pelo acervo e a importância da sua reeducação, quando
+for o caso, em relação ao tratamento do acervo, pois, muitas vezes,
+não vale dizer que “afinal de contas nada fizeram até hoje pelo acer-
+vo”... Essa posição não leva em consideração que, na maioria das
+vezes, nunca lhes foi dada a devida atenção, sequer perguntado-
+lhes o que pensavam ou o que achavam da situação de “caos”; ou o
+que se poderia fazer para tentar, pelo menos, minimizar essa situa-
+ção. São inúmeros os casos de antigos funcionários, extremamente
+dedicados, que, literalmente, “salvaram” muitos documentos. O con-
+trário também é verdadeiro.
+
+ESTUDO DO TIPO DA DOCUMENTAÇÃO E
+DA DEMANDA DO USUÁRIO
+
+Cada conjunto documental deve ser estudado cuidadosamente.
+Temos acervos com apenas um tipo de documento; outros acervos
+oferecem um verdadeiro estudo geral das tipologias documentais,
+tendo de tudo um pouco. E, normalmente, isso é o que mais acontece.
+Cada vez que uma instituição decide elaborar um programa de
+reprodução de documentos, de modo geral, pensa grande, ou seja,
+em todo o seu acervo. Mas à proporção que vai adentrando nas in-
+formações  colhidas,  percebe  que  as  dificuldades  e  as
+especificidades são muito maiores do que se pensava inicialmente
+e que, para cada conjunto documental, é necessário um subprojeto
+específico. Não se pode microfilmar tudo, nem digitalizar tudo, nem
+fotografar tudo. Podemos dizer que também não se pode reproduzir
+tudo. Enfim, não se pode preservar tudo. Estamos já enfrentando o
+dilema de escolher o que preservar, o que reproduzir.
+
+As diversas formas de reprodução de documentos que conhece-
+mos hoje - sem levarmos em consideração a reprodução pelos pro-
+cessos  de:  a)  impressão,  fac-similada  ou  não,  dos  textos  e  b)
+reprográfico (tipo xerox) - passam pelos processos do que se está
+chamando atualmente de “fotografia química” e de “fotografia digi-
+tal”, entendendo-se aqui por fotografia química os processos foto-
+gráfico e/ou micrográfico e, por fotografia digital, os modernos pro-
+cessos de digitalização, de armazenamento em “bits”.
+
+Tenho repetido aqui e acolá, para simplificar o entendimento e a
+aceitação da microfilmagem, que o rolo de microfilme nada mais é
+do que a soma de vários rolos de filmes fotográficos de 35 mm, jun-
+tos,  emendados  sem  perfuração.  Antes  os  filmes  destinados  à
+microfilmagem eram também perfurados nas bordas, iguais aos fil-
+mes cinematográficos e aos filmes de fotografia comum.  Já há uns
+
+17
+
+18
+
+
+COMO FAZER 7 - COMO FAZER PROGRAMAS DE REPRODUÇÃO DE DOCUMENTOS DE ARQUIVO
+
+20 anos, os filmes para a microfilmagem apresentam-se sem perfu-
+ração nas bordas, com ganho de ocupação pela imagem captada,
+mas o suporte e o processamento, ou seja, a revelação, são idênti-
+cos aos das fotografias. Refiro-me aqui aos microfilmes utilizados
+para reprodução com fins arquivísticos, de sais de prata, com dura-
+ção prevista de 500 anos.
+
+Uma vez identificado o tipo (ou os tipos) da documentação que
+será objeto do programa e/ou projeto de reprodução, temos que es-
+tudar a provável demanda do usuário: - Quem e quantos vão se inte-
+ressar por aqueles documentos? E onde? Respondendo a essas
+perguntas, poderemos com mais propriedade e segurança partir para
+definir melhor o programa e/ou projeto de reprodução.
+
+Nesse “definir” se esconde, muitas vezes, o perigo. É preciso que
+se tenha consciência das necessidades reais do conjunto documen-
+tal, para que não se pense em informatizar, digitalizar e/ou microfilmar
+conjuntos documentais que não são consultados ou que estão lite-
+ralmente em estado avançado de deterioração, enquanto existem
+outros conjuntos com documentos mais importantes ou mais con-
+sultados. É preciso estar muito atento aos modismos e à suposta
+modernidade: ter um equipamento de digitalização, um “scanner”,
+não significa muito se o programa e/ou projeto de reprodução não é
+consciente e coerentemente elaborado. Adquirir equipamentos pode
+ser fácil, o difícil é utilizá-los com propriedade.
+
+Para cada tipo de documento existe uma verdade de reprodu-
+ção, uma tomada certa de decisão. Existem – e cada vez mais vêm
+se impondo - os chamados sistemas híbridos e já se tem conheci-
+mento de equipamentos que microfilmam e digitalizam os documen-
+tos ao mesmo tempo, atendendo-se às duas finalidades precípuas
+de um programa e/ou projeto de reprodução: preservação e acesso.
+No entanto, são equipamentos ainda muito custosos (cerca de US$
+50.000,00 no exterior). Querendo-se adquirir tais equipamentos no
+Brasil, eles sairiam, com os impostos, por pelo menos o dobro do
+preço do exterior - talvez um pouco caro, ainda, para a área de ar-
+quivos e de bibliotecas.
+
+PLANEJAR É ESSENCIAL
+
+Planejamento do programa e/ou
+projeto de reprodução.
+
+Considerando-se que já foi identificado na instituição o tipo
+de acervo e, nesse acervo, o tipo do conjunto documental objeto da
+ação de reprodução, visando sua preservação e sua divulgação, e
+que já foram devidamente organizados, preparados e selecionados
+o instrumento de pesquisa que identificou os itens documentais bem
+como  a  tecnologia  a  ser  empregada  –  microfilmagem,  fotografia,
+digitalização etc. -, podemos começar a pensar em planejar a ação
+de intervenção, ou seja, a reprodução propriamente dita.
+
+Um cronograma de trabalho tem necessariamente que ser feito
+dentro da sistemática de elaboração de projetos, com prazos e ações
+bem definidos, identificando-se a tecnologia a ser empregada, o es-
+paço e o tempo da ação, o pessoal e os equipamentos necessários.
+Não nos esqueçamos nunca da margem de segurança no tempo de
+execução (que na metodologia de elaboração de projetos chama-
+mos de “folga”). É muito mais “simpático” acabar o projeto antes do
+tempo do que ficar solicitando prorrogações intermináveis. Não que
+essa margem tenha que ser “inchada” ou “irreal”, só para se ganhar
+a simpatia, muito pelo contrário. Havendo sobra de recursos e de
+tempo, pode-se sempre avançar com outros conjuntos documentais.
+Qualquer  instituição  financiadora  de  projetos,  seja  ela  pública
+ou privada, percebe claramente quando um projeto está fora dos
+parâmetros de tempo de execução. Outro fator muito importante que
+se deve ter sempre em mente é que o “preparo” da documentação
+para qualquer tipo de reprodução demora pelo menos o dobro do
+tempo de execução da reprodução propriamente dita, seja ela reali-
+zada através do processo fotográfico químico ou digital. E esse pre-
+paro consiste na ordenação, na contagem de páginas, na identifica-
+ção, na elaboração de resumos e sinaléticas técnicas (muito facilita-
+
+19
+
+20
+
+
+COMO FAZER 7 - COMO FAZER PROGRAMAS DE REPRODUÇÃO DE DOCUMENTOS DE ARQUIVO
+
+pamentos não terem sido avaliados antes do início dos trabalhos.
+Pensem que nenhum de nós planeja uma grande viagem de carro
+sem antes fazer nele uma vistoria. No planejamento de um projeto
+executado  com  equipamentos  próprios  acontece  a  mesma  coisa.
+Pode ser também – e a cada dia está se tornando mais comum –
+que o projeto seja executado fora da instituição, em empresas ou
+em outras instituições, ou com equipamentos colocados à disposi-
+ção pela empresa.
+
+das hoje pelo uso do computador), e na retirada de todos os ele-
+mentos estranhos ao documento (como clipes ou grampos), bem
+como de dobras e vincos. Em alguns casos, como por exemplo as
+coleções de jornais, o ferro elétrico de passar roupa é utilizado como
+elemento  de  apoio  para  aplainar  o  máximo  possível  as  páginas
+enrugadas, obviamente que com um papelão protetor.
+
+Um detalhamento do projeto em campos específicos é solicitado
+hoje em qualquer formulário de apresentação de um projeto às ins-
+tituições financiadoras. Cada instituição tem um modelo próprio, po-
+rém com poucas diferenças entre si. Muitos desses formulários já
+estão disponíveis na Internet. Vejam-se nesse sentido os formulários
+do  Ministério  da  Cultura  no  livro  Projetos Culturais  (Malagodi  e
+Cesnik, 1999). E certamente cada uma dessas instituições possui
+pessoas capazes e consultores especializados nas diversas áreas,
+de forma a bem analisar no projeto apresentado a dimensão dos
+trabalhos a serem realizados; portanto não vale tentar “esconder”
+informações, ou camuflá-las.
+
+A credibilidade do projeto está na sua transparência, no propósi-
+to honesto de sua realização e nas referências das pessoas respon-
+sáveis pela sua execução. De modo geral, as instituições de fomen-
+to possuem recursos para implementar programas e/ou projetos e
+têm todo o interesse em fazê-lo. Além disso, cada projeto concluído
+– bem concluído - significa também um retorno dos recursos empre-
+gados, resultando num “marketing” positivo para o investimento e
+para a instituição. Mesmo quando o programa e/ou projeto é elabo-
+rado para a própria instituição, com seus próprios recursos, são a
+sua boa contextualização e o seu bom desenvolvimento que gratifi-
+cam a todos, principalmente aos dirigentes, que podem apresentar
+um projeto bem concluído sob a sua administração.
+
+Nesta fase do planejamento, é preciso analisar todos os compo-
+nentes que irão interferir na dinâmica de sua execução. Cada item
+deve ser estudado com muito cuidado: espaço para sua execução,
+pessoal qualificado e disponível, equipamentos perfeitamente man-
+tidos etc. Muitos projetos podem atrasar pelo simples fato de os equi-
+
+21
+
+22
+
+
+COMO FAZER 7 - COMO FAZER PROGRAMAS DE REPRODUÇÃO DE DOCUMENTOS DE ARQUIVO
+
+CONSCIÊNCIA DAS PRIORIDADES
+
+Definição dos critérios de prioridade.
+
+Para a pessoa responsável pela elaboração de um determinado
+programa e/ou projeto de reprodução, aquele conjunto documental
+é o mais importante, o mais raro, e o que precisa de maior atenção e
+de maior investimento.
+
+Contudo,  devemos,  com  humildade,  ter  sempre  em  mente  o
+relativismo das coisas. Conhecendo bem a instituição, analisando
+com isenção de ânimo todos os documentos que merecem sofrer
+uma intervenção e adentrando em cada conjunto documental espe-
+cífico, estaremos conscientes de que a decisão do objeto primeiro
+do programa e/ou projeto foi corretamente tomada. Quase ousaria
+dizer, aqui, que está “politicamente correta”...
+
+A  definição  dos  critérios,  mesmo  que  crie  prioridades,  não  é
+excludente. Ou seja, mesmo que se tenha definido como prioritário
+o tratamento técnico completo de um determinado conjunto docu-
+mental, não se pode tratá-lo sem procurar “trabalhar” os outros con-
+juntos documentais que lhe são próximos e/ou semelhantes.
+
+Existem vários critérios a serem levados em consideração, os
+quais podem variar de instituição para instituição e de acervo para
+acervo. Entre eles podemos citar:
+
+·  antigüidade (os mais antigos);
+·  índice de consulta (os mais consultados);
+·  importância (os mais importantes do ponto de vista da
+
+organização);
+
+·  tamanho (os maiores ou mais extensos e os menores);
+·  oportunidade (a proximidade de uma data histórica ou de
+
+um evento ou exposição).
+
+24
+
+
+COMO FAZER 7 - COMO FAZER PROGRAMAS DE REPRODUÇÃO DE DOCUMENTOS DE ARQUIVO
+
+É cada um desses critérios que, isolada ou associadamente,
+acionará a alavanca que determinará o início do rompimento da inér-
+cia em relação ao “tratamento técnico” completo de um determinado
+tipo de documento. Muitas vezes temos que criar a oportunidade...
+Nunca se deve iniciar um trabalho de reprodução de documen-
+tos  pelos  conjuntos  mais  complexos  ou  maiores,  pois  o  cansaço
+chegará e o desânimo fará com que certamente ocorram atrasos.
+Uma boa estratégia de projetos é intercalar conjuntos documentais
+menores e/ou mais “atraentes” do ponto de vista da informação com
+aqueles  conjuntos  mais  extensos,  para  os  quais  será  necessária
+muita paciência para a conclusão dos trabalhos, devido a sua com-
+plexidade ou tamanho. Porém não estamos querendo sugerir aqui
+que os conjuntos documentais mais difíceis, maiores ou mais com-
+plexos  sejam  sempre  deixados  para  depois.  Muito  pelo  contrário,
+são exatamente esses conjuntos que deverão ser mais bem “traba-
+lhados”, porque senão nunca surgirá a oportunidade de serem eles
+objeto  de  um  programa  e/ou  projeto  de  reprodução  que  vise  sua
+preservação e/ou acesso facilitado.
+
+RECURSOS HUMANOS E FINANCEIROS
+
+Análise da relação custo x benefício do
+investimento no programa e/ou projeto.
+
+Atualmente, existem duas palavras mágicas em financiamento
+de projetos: parceria e contrapartida. Vejamos o que elas significam
+hoje no mundo dos financiamentos dos programas e/ou projetos de
+reprodução documental.
+
+Parceria: é toda achega que se acrescenta ao trabalho – e que
+pode ser interna ou externa. É tudo o que é compartilhado com o
+mesmo objetivo. Um exemplo: quando um projeto é apresentado a
+uma instituição de financiamento e podemos demonstrar que àque-
+les recursos solicitados irão se juntar outros recursos próprios e/ou
+de  outras  instituições,  sejam  estes  materiais  ou  financeiros.  Hoje
+existe também um tipo de aprovação quanto ao mérito, ou seja, nos
+projetos destinados à captação de recursos de incentivos fiscais,
+existe uma análise do ponto de vista de sua importância e de sua
+adequação por uma instituição determinada. Esse é o caso do Mi-
+nistério da Cultura, que “aprova” o projeto para a Lei Rouanet como
+um projeto de interesse cultural, possibilitando, então, a captação
+de recursos junto à iniciativa privada, levando a marca do Ministério
+da Cultura. Da mesma forma, atuou a Comissão Nacional para as
+Comemorações do Descobrimento do Brasil, “aprovando” (mas não
+financiando) os projetos considerados de interesse e que podiam
+usar a marca dos 500 anos.
+
+Contrapartida: é a comprovação do esforço que a instituição
+que está solicitando apoio externo coloca à disposição do bom an-
+damento do programa e/ou projeto. A contrapartida pode ser a mais
+variada possível, desde o próprio local, o mobiliário, o equipamento,
+o material de consumo, o material de expediente e o pessoal até os
+recursos propriamente ditos. A quantificação honesta das necessi-
+dades do projeto e das contrapartidas pode muitas vezes ser decisi-
+
+25
+
+26
+
+
+COMO FAZER 7 - COMO FAZER PROGRAMAS DE REPRODUÇÃO DE DOCUMENTOS DE ARQUIVO
+
+va para uma tomada de posição. Não se deve inflacionar o projeto,
+colocando uma quantificação absurdamente grande na contrapartida
+institucional. O recentíssimo Manual de Elaboração e Administra-
+ção de Projetos Culturais acaba de alcançar uma segunda edição e
+deve se transformar na Bíblia de todos aqueles que elaboram e coor-
+denam projetos culturais (MALAGODI e CESNIK, 1999). Nesse manual,
+tudo está minuciosamente detalhado. Recomendo-o vivamente.
+
+Chamo a atenção para a necessidade de o projeto contar com
+um pessoal técnico especializado na própria instituição e, quando
+isso não for possível, de se preparar tal pessoal o mais rapidamente
+possível, incluindo-se como um benefício indireto do programa e/ou
+projeto a qualificação do pessoal interno que acompanhará a exe-
+cução dos trabalhos.
+
+REFLEXÃO CRÍTICA
+
+Análise dos resultados do programa para
+a instituição e para os usuários.
+
+Suponhamos que tudo o que se desejou desde o início dos
+trabalhos de organização e de reprodução do conjunto de documen-
+tos tenha se realizado. Encontramo-nos com o acervo devidamente
+organizado, limpo, armazenado em local adequado, em ambiente
+com temperaturas controladas. Enfim, tudo “nos conformes”, temos
+os microfilmes e os CDs. Devemos dar por encerrada nossa tarefa
+de “salvar” a documentação? Devemos deixar a consulta, a disse-
+minação da informação sob a responsabilidade apenas de outras
+pessoas? Sim ou não? Do meu ponto de vista, não. Quem se envol-
+ve técnica e emocionalmente com a organização de um acervo ou
+de um conjunto de documentos deve também participar dos seus
+resultados práticos. Não se organizam e microfilmam documentos
+só para tê-los organizados e reproduzidos. Eles são organizados
+para facilitar a consulta e para viabilizar o acesso às fontes. Mas se
+os meios adequados de uso dos documentos apresentados em no-
+vos  suportes  não  tiverem  sido  considerados,  não  adianta  nada
+microfilmar.  Se  não  existem  leitoras  simples  ou  copiadoras  de
+microfilmes, e, conseqüentemente, a possibilidade de se fornecer
+cópias de partes desses conjuntos de documentos ao estudioso ou
+usuário, atingiu-se apenas um dos objetivos do programa e/ou pro-
+jeto de reprodução. Explico-me melhor: tenho visto muita gente pre-
+ocupada com a preservação, com a restauração dos itens documen-
+tais,  com  a  organização  do  acervo,  com  a  catalogação  e  com  a
+microfilmagem de uma determinada coleção, mas se o fim é apenas
+organizar, limpar, acondicionar e microfilmar, na verdade estaremos
+falhando na execução do programa e/ou projeto de reprodução de
+documentos, pois devemos nos envolver em todo o processo, e este
+só estará concluído quando os documentos fluírem normal e  conti-
+
+27
+
+28
+
+
+COMO FAZER 7 - COMO FAZER PROGRAMAS DE REPRODUÇÃO DE DOCUMENTOS DE ARQUIVO
+
+nuamente para o usuário, para o consulente. E é preciso ainda mais,
+é preciso divulgar o trabalho que se fez, tornando pública a nova
+disponibilidade das fontes, em congressos ou em instrumentos de
+pesquisa, desde os mais sucintos que podemos produzir, como guias
+e inventários, até os catálogos, em que se identifica documento por
+documento.  Exemplo  significativo:  o  trabalho  do Projeto Resgate,
+em pleno desenvolvimento em Portugal. Todas as dificuldades fo-
+ram sendo superadas para se fazer chegar aos pesquisadores inte-
+ressados  não  apenas  o  documento  microfilmado,  mas  também  o
+Catálogo, e, graças à moderna tecnologia, os CD-ROMs, contendo,
+na íntegra, as imagens dos fotogramas dos rolos de microfilmes e,
+conseqüentemente,  os  documentos  microfilmados.  Como  em  um
+passe de mágica, nas telas de muitos computadores, poderemos
+passar a ler e a decifrar os documentos coloniais. E este processo
+pode e deve ser feito ad infinitum.
+
+É preciso que se tenha consciência de que o trabalho de preser-
+vação e de reprodução de documentos nos arquivos não se esgota
+na conclusão do arranjo dos documentos em estantes novas ou em
+caixas sem acidez, ou na informatização das velhas fichas manus-
+critas. O nosso trabalho só se completará quando atingirmos em ple-
+nitude a perfeita fluidez das informações para todos os interessa-
+dos. Com as dificuldades da vida moderna, com a quantidade as-
+sustadora de informações, cabe cada vez mais à competência dos
+documentalistas proporcionar a acessibilidade aos documentos, até
+mesmo porque somos os guardiões dessa massa documental que
+se acumulou nas bibliotecas e nos arquivos, em qualquer de seus
+níveis, públicos ou privados, nos lugares e nos templos de memória.
+Já se disse que a melhor maneira de sonegar informações é fornecê-
+las  todas  ao  mesmo  tempo,  de  forma  desordenada.  Diante  de
+quilômetros de prateleiras cheias de maços ou de caixas lotadas de
+documentos manuscritos, qualquer pesquisador desistirá de seu in-
+tento de consultá-lo. E mesmo que teimosamente inicie sua peregri-
+nação pelas caixas à cata de documentos, desistirá pela demora e
+pela dificuldade de encontrar aquilo que necessita. De modo geral,
+mesmo as mais desordenadas massas documentais possuem uma
+
+organização, geralmente por data ou por ordem alfabética, mas qua-
+se sempre também muitos documentos deixaram de entrar nessa
+ordem, aparecendo soltos aqui e acolá, e só o acaso fará o pesqui-
+sador encontrá-los.
+
+É preciso ter muito claro que o melhor projeto de reprodução de
+documentos é aquele que permitirá ao futuro usuário ter acesso ple-
+no à informação e dela usufruir, podendo consultar os documentos
+e deles tirar cópia, se assim o desejar.
+
+O mundo moderno está a oferecer um sem número de possibili-
+dades até então impossíveis. Quando se chegava a uma instituição
+de pesquisa, as perguntas geralmente se referiam à organização
+dos documentos, à sua acessibilidade, ao horário de consulta e à
+possibilidade  de  se  tirar  cópias  (geralmente  tipo  xerox).  E  quase
+sempre se ouvia : “- A documentação não está totalmente organiza-
+da (para esconder a organização precária), pode-se ter acesso ao
+documento e, dependendo do estado físico, não se pode tirar cópia
+(tipo  xerox)”.  Caso  a  instituição  possuísse  um  sistema  de
+microfilmagem implantado – fato muito raro –, o pesquisador pode-
+ria solicitar a microfilmagem do todo ou de parte da documentação.
+Surgia aí então o problema da leitura do microfilme. Onde o pesqui-
+sador poderia ler o “seu” microfilme, onde ele poderia tirar a “sua”
+cópia em papel para que pudesse ler confortavelmente e fazer suas
+anotações ou citações – fosse esse documento um manuscrito, uma
+notícia em jornal etc.?
+
+Hoje existem equipamentos que “lêem” digitalmente o documen-
+to e que tiram cópias na hora, sem prejudicar a encadernação. Tam-
+bém existem equipamentos que “lêem” o microfilme em formato di-
+gital, possibilitando a tiragem de cópia em papel ou a gravação de
+seu conteúdo em um CD-ROM, que é entregue ao usuário. São equi-
+pamentos ainda caros e que só existem em algumas instituições no
+Brasil, mas que, dentro de pouco tempo, como todo equipamento
+digital, poderão estar disponíveis em qualquer instituição de pes-
+quisa ou em qualquer instituição que possua um conjunto documental
+de certa monta a ser disponibilizado. Além disso, pode-se até mes-
+mo  transferir  a  imagem  dos  documentos  por  fax  ou  por  e-mail,
+diretamente  a  partir  da  tela  do  computador.  Estamos  vivendo  um
+momento  de  transição  que  não  podemos  deixar  de  acompanhar,
+
+29
+
+30
+
+
+COMO FAZER 7 - COMO FAZER PROGRAMAS DE REPRODUÇÃO DE DOCUMENTOS DE ARQUIVO
+
+esperando sempre os melhores resultados para o nosso trabalho
+de responsáveis - de algum modo - pela preservação e reprodução
+de documentos.
+
+Cada vez que converso com algum arquivista, bibliotecário ou
+pesquisador desesperado com o problema da situação dos acervos
+documentais  e  da  sua  acessibilidade,  tento  dizer  que  é  possível
+equacionar o problema a partir de um programa ou projeto de repro-
+dução de acervos coerente e factível. Os financiamentos existem,
+estão disponíveis. Certamente que não são automáticos, ou seja,
+não basta possuir um bom projeto ou um bom conjunto documental
+para que se tenha garantido o financiamento.
+
+Devemos ter consciência de que é muito difícil começar o pro-
+cesso: convencer os dirigentes, mudar a cultura da instituição, reno-
+var as estantes, melhorar o ambiente do local de armazenamento,
+organizar o acervo, elaborar o programa e/ou projeto de reprodução
+sistêmica, implantar o projeto de microfilmagem, de reprodução fo-
+tográfica ou de digitalização, adquirir equipamentos para leitura, seja
+dos microfilmes ou dos CDs, armazenar adequadamente os negati-
+vos fotográficos ou os rolos de microfilmes, ter pessoal em número e
+perfil adequados etc.; mas os exemplos do que já se conseguiu fa-
+zer estão aí a nos estimular. Um simples Guia Institucional de Acer-
+vo pode ser um bom começo para quem nada tinha. Um simples
+“paper” em um Congresso ou em um Seminário falando da impor-
+tância de um determinado conjunto documental pode ser outro bom
+começo. Um bom relatório de final de ano, informando a demanda
+não satisfeita por causa de falta de equipamento ou indicando o ní-
+vel dos pesquisadores, pode sensibilizar os dirigentes. E, principal-
+mente, é preciso que se tenha persistência e crença no “seu proje-
+to”. Leva-se algum tempo, mas se consegue.
+
+É preciso ser otimista (embora nestes 25 anos de trabalho com
+projetos de preservação e reprodução algumas vezes cheguei a sentir
+a impotência do “não consegui fazer”). Algumas vezes, apesar da
+persistência  e  da  crença,  não  se  consegue  elaborar  e  concluir  o
+trabalho. Mas deve-se guardar ainda e sempre o desejo de voltar ao
+ponto interrompido para poder conclui-lo.
+
+REPRODUZIR PARA QUÊ?
+
+Atendimento das demandas a partir do término
+do programa e/ou projeto de reprodução.
+
+A pergunta “Reproduzir para quê?” deve estar presente des-
+de o início de qualquer programa de reprodução de acervo. Deve-se
+ter presentes também os programas de salvaguarda, ou seja, de pre-
+servação de acervos, incluindo-se aí a complementação dos mes-
+mos - pois salvar apenas parte de um conjunto documental que está
+sob a guarda de uma instituição não será nunca satisfatório nem
+completo -, assim como a(s) forma(s) de reprodução dos originais.
+Quando um acervo que foi organizado, arquivisticamente orga-
+nizado e identificado, é oferecido ao público-alvo, ou seja, aos cida-
+dãos que possuem – por preceito constitucional – o direito de aces-
+so às fontes, passa a ser incorporada a esse trabalho a satisfação
+do atendimento às demandas. Em outras palavras, uma vez organi-
+zado e em condição de uso, mesmo que não tenha sido reproduzido
+através de microfilme, o acervo deve estar disponível para a consul-
+ta, com instrumentos de pesquisa adequados, seja num simples fi-
+chário atualizado e completo, seja em dados informatizados, para
+consulta “on-line”, enquanto se aguarda a publicação do instrumen-
+to. Muitas vezes, aguardam-se meses e até anos antes que se publi-
+que um instrumento impresso, o que algumas vezes nunca aconte-
+ce. Mas o instrumento de pesquisa, datilografado em fichas, está lá,
+perto do acervo, para facilitar o acesso ao pesquisador, ao usuário.
+Todo o possível e o impossível deve ser feito para divulgar a nova
+situação  do  acervo,  daquele  conjunto  documental.  E  hoje  com  a
+Internet, a maioria dos arquivos, das bibliotecas e dos centros de
+pesquisa já têm a sua “página”, o seu “site” para disseminar as infor-
+mações,  valorizando  o  seu  acervo  e  disponibilizando  as  informa-
+ções para todos. Mesmo que a demanda seja maior do que a capa-
+cidade de atendimento, não se deve deixar de divulgar a “boa nova”:
+
+31
+
+32
+
+
+COMO FAZER 7 - COMO FAZER PROGRAMAS DE REPRODUÇÃO DE DOCUMENTOS DE ARQUIVO
+
+concluiu-se a organização ou a microfilmagem de mais um conjunto
+documental, mais uma coleção passa a estar disponível, com o seu
+acesso facilitado ao usuário. E dessa maneira o objeto do programa
+e/ou projeto de reprodução passa a cumprir o seu objetivo maior: o
+atendimento ao usuário.
+
+Muitas vezes me perguntam o que é mais importante: a preser-
+vação ou a disseminação da informação. Esse velho dilema deve
+ter sido objeto da preocupação de muitos documentalistas, desde
+que se tomou consciência de que os documentos foram produzidos
+para durar, porque transmitem alguma coisa a alguém, geração após
+geração. Já na Antigüidade Clássica, poderosos governantes como
+Alexandre  O  Grande  mandavam  copiar,  através  dos  chamados
+“copistas”, a literatura clássica grega para que os seus filósofos e
+homens  de  pensamento  aumentassem  o  seu  conhecimento  e  foi
+graças a muitas dessas cópias que a humanidade conheceu verda-
+deiros tesouros do pensamento das civilizações antigas e orientais.
+Porém  sabemos  todos  que  as  cópias  eram  limitadas  a  um  grupo
+privilegiado de “eleitos”, não se difundia o saber, pois antes como
+agora valia a máxima “informação é poder”. Temos todos na lem-
+brança  a  magnífica  figura  do  monge  do  mosteiro  no  romance “O
+Nome da Rosa”, de Umberto Eco, o qual envenenava as páginas
+dos códices para levar à morte quem manuseasse os livros do co-
+nhecimento. Ainda hoje muita gente pensa que conhecimento é po-
+der, e isso é verdade. Quem sabe, quem lê, ainda é um privilegiado,
+mas é exatamente contra essa idéia que todos queremos lutar. O
+documento, isto é, a informação deve estar ao alcance de todos, e
+não mais apenas daqueles que por algum motivo se dizem os “elei-
+tos”. Cada vez mais estamos democratizando a informação e aí está
+o mundo da Internet completamente aberto e revolucionário para as
+próximas  gerações. Todas  as  dificuldades  podem  ser  superadas,
+desde que, repito, tenhamos conservados e preservados os textos
+em seus suportes originais ou alternativos.
+
+E agora podemos entrar em uma nova discussão: o suporte dos
+documentos. Tradicionalmente a informação repousa placidamente
+no suporte papel, na folha em branco, seja a do velho pergaminho –
+
+quase eterno - ou a do papel de trapo, tão duradouro, até chegarmos
+aos quase voláteis papéis modernos de polpa de madeira. Se por
+um lado os papéis permitem a disseminação da informação, por ou-
+tro lado não são suficientemente duradouros para levar até as no-
+vas gerações as informações neles contidas. A vulgarização do pro-
+cesso de feitura das tintas, ao mesmo tempo que permitiu a expan-
+são de diversas cópias das informações, levou à corrosão do papel,
+rasgando-o ou manchando-o, deixando-o quase ilegível, dificultan-
+do a leitura da informação. E o que podemos falar dos modernos
+disquetes e CDs? Nossa geração está convivendo com a increduli-
+dade e com o dilema: quanto tempo de duração possuem as infor-
+mações digitais? A digitalização nos seduz a todos, é como um pas-
+se de mágica, copiam, chegam até mesmo a “limpar” os documen-
+tos manchados, fazendo uma verdadeira restauração virtual. Mas
+quanto tempo essas informações permanecem para as novas gera-
+ções? A esta pergunta escutamos muitas vezes a seguinte respos-
+ta: a tecnologia se encarregará de encontrar a solução, novos su-
+portes, novas conversões do papel para o CD, do CD para o DVD,
+do DVD para .....? Na dúvida, aconselham os mais cautelosos: deve-
+se recorrer ao microfilme de sais de prata, que tem uma duração
+comprovada em laboratório de 500 anos, confirmação obtida atra-
+vés de testes de envelhecimento realizados pelas autoridades ame-
+ricanas, já que a base do microfilme, sendo a mesma da fotografia,
+não tem ainda 200 anos.
+
+Essa velha discussão aparece sempre a cada vez que se pensa
+em elaborar um programa e/ou projeto de reprodução de acervos
+arquivísticos, incluindo documentos manuscritos, impressos, fotos,
+discos ou fitas magnéticas. Quantos arquivos são formados hoje ape-
+nas de fitas magnéticas, produzidos já em forma eletrônica e/ou di-
+gital? Quantos disquetes guardam a memória de uma instituição, e
+mesmo quantas memórias de computadores guardam a produção
+intelectual das pessoas que nela trabalham?
+
+Existe hoje a preocupação de organizar as cópias das corres-
+pondências  recebidas  e  expedidas,  mesmo  que  por  e-mail?  Pen-
+sem um pouco nessas situações, essa preocupação é constante e
+
+33
+
+34
+
+
+COMO FAZER 7 - COMO FAZER PROGRAMAS DE REPRODUÇÃO DE DOCUMENTOS DE ARQUIVO
+
+permanente nos Estados Unidos e, nos últimos anos, têm sido rea-
+lizados inúmeros estudos e pesquisas na tentativa de encontrar so-
+luções para o problema do armazenamento e conservação dos da-
+dos produzidos na forma digital. Tudo fica no ar e tudo pode sumir no
+ar... Mas temos que preservar, temos que dar acesso, temos que re-
+produzir, pois o cidadão pode desejar conhecer alguma informação
+de seu interesse. Qualquer programa e/ou projeto de reprodução de
+documentos visa ao mesmo tempo, sem nível de hierarquia de valo-
+res, preservar e dar acesso às informações neles contidas.
+
+VISIBILIDADE E EXEMPLO
+
+Divulgação do programa fora do
+âmbito da instituição.
+
+Uma vez elaborado, executado e concluído com êxito o esforço
+empreendido – com maior ou menor grau de dificuldade - na im-
+plantação de um programa e/ou projeto de preservação de docu-
+mentos em um arquivo, deve-se pensar em dar a ele a maior divul-
+gação possível, para que, de alguma forma, sirva de exemplo para
+projetos  semelhantes.  Quando  falamos  em  programa,  temos  em
+mente – no senso comum – uma ação desenvolvida de forma contí-
+nua, e que não tem caráter eventual. E, quando falamos em projeto,
+significa que estamos considerando um trabalho com princípio, meio
+e fim. Toda metodologia de projeto nos leva à idéia de que o projeto
+está inserido em um ambiente maior e que pode ser executado le-
+vando-se em conta diversos elementos intrínsecos ou extrínsecos,
+com recursos financeiros e humanos amalgamados (o que é o ideal)
+ou apenas externos.
+
+Com um programa de reprodução de acervo temos a idéia de
+permanência, ou seja, durará enquanto durarem os problemas que
+lhe deram origem. É duradouro e contínuo e deve estar presente em
+todas as instituições arquivísticas. Faz parte da própria essência do
+fazer arquivístico. Não se guardam papéis apenas pelo prazer de
+guardá-los ou pela obrigação de guardá-los, mas para servirem um
+dia a alguém, seja à própria instituição geradora dos mesmos, seja
+a um pesquisador.
+
+Os americanos vêm falando já há algum tempo em programas
+de preservação da “Memória da Humanidade”, no sentido de que
+cada informação serve a uma comunidade e serve à humanidade
+como um todo, isto é, tudo que o Homem produz é importante para
+todos os homens. Temos hoje as “cidades-memórias” da humanida-
+de. Ouro Preto é uma delas. Por que preservar a cidade de Ouro
+
+35
+
+36
+
+
+COMO FAZER 7 - COMO FAZER PROGRAMAS DE REPRODUÇÃO DE DOCUMENTOS DE ARQUIVO
+
+Preto? Para os mineiros? Para os brasileiros? Apenas porque ela é
+um exemplo da arquitetura colonial ou porque ela é a síntese de um
+processo da evolução do Homem na Terra?
+
+Não devemos acreditar que é impossível conseguir os meios para
+realizar um programa e/ou projeto de reprodução de acervo visando
+sua preservação ou sua disseminação. É difícil, sem dúvida algu-
+ma,  uma  vez  que  os  recursos  são  escassos,  a  sensibilidade  das
+pessoas não está tão voltada para este problema e o homem não
+está pensando no passado. Vive o aqui e o agora e poucas vezes
+pensa no futuro. Ninguém quer começar um programa de reprodu-
+ção cujos frutos aparecerão somente daqui a alguns anos, assim
+como  pouca  gente  planta  uma  árvore  que  dará  frutos  só  daqui  a
+muitos anos. Nosso compromisso é sempre com o imediato... Mas
+temos que mudar essa postura. Quantos se dedicaram no passado
+a armazenar, a reunir peças que hoje constituem os nossos museus,
+as nossas bibliotecas, e quantos guardaram os papéis e as fotos
+que hoje nos encantam e nos trazem tantas informações do passa-
+do? Quantos foram os responsáveis pelo legado que hoje tentamos
+preservar para que outros tenham acesso a ele no futuro?
+
+Cabe a alguns pensar na problemática da preservação, da re-
+produção e da transmissão da informação com mais facilidade. E
+hoje isto está cabendo a nós, a todos nós que nos interessamos
+pelos documentos, em todos os seus formatos, em todos os seus
+suportes. Imaginem os colecionadores de discos nos arquivos de
+audiovisuais ou de vídeos, nos dirigentes e funcionários dos cha-
+mados Museus de Imagem e do Som. Para eles deve ser muito mais
+difícil, pois ao conservarem um disco de 78 rotações eles devem se
+preocupar também em conservar e manter funcionando um apare-
+lho que possa “rodar” o disco. Mesmo para regravar aquela música,
+devem ter um aparelho para escutá-la. Não nos esqueçamos de que,
+de modo geral, em uma biblioteca ou em um arquivo podemos en-
+contrar muitas vezes – e não é raro isso acontecer – todos os tipos
+de  suporte  da  informação:  papel,  fitas  magnéticas,  fotos,  discos,
+medalhas etc., bem como todos os tipos de documento: manuscri-
+tos, impressos, sonoros, visuais etc. Um programa de reprodução
+
+de documentos de arquivo deve tentar contemplar o conjunto docu-
+mental como um todo e diversos projetos devem ser delineados para
+atender  à  especificidade  do  suporte.  Não  existe  uma  mesma
+tecnologia  de  reprodução  para  o  suporte  papel,  para  os  códices
+manuscritos ou para os jornais impressos, bem como não existe uma
+mesma tecnologia para a reprodução de coleções de negativos fo-
+tográficos, de recortes de jornais, de álbuns de fotografias, de fitas
+com gravação de entrevistas em rolos, em cassetes, das modernas
+fitas de vídeo, dos filmes de cinema em 16 mm ou em 35 mm ou dos
+microfilmes.
+
+Podemos encontrar retratos em molduras (pintados ou simples
+fotografias), medalhas, placas comemorativas, etc. Um mundo de
+espécimes  documentais  em  seus  respectivos  suportes  exigirá  de
+cada um de nós novas articulações, pois ninguém domina todos os
+processos de reprodução e/ou de preservação da informação, nos
+diversos suportes em que hoje se nos apresentam. Nos séculos XVI,
+XVII e XVIII a diferença talvez fosse apenas em relação ao tamanho
+dos  documentos,  se  estes  eram  apenas  manuscritos,  desenhos
+aquarelados, impressos, etc. Já no século XIX, a variedade foi au-
+mentando à proporção que a tecnologia foi sendo descoberta e em-
+pregada pelos homens. O cinema veio revolucionar a informação,
+assim como a fotografia trouxe uma proximidade do real em relação
+ao retrato ou à paisagem desenhados ou pintados. E dentro de cada
+tipo de suporte da informação vamos encontrar uma gama bastante
+grande de tipos e processos: filmes mudos e sonoros, fotografias
+nos seus mais variados processos e formas e, depois, as fotos colo-
+ridas, que substituíram as em preto e branco e que hoje convivem
+harmoniosamente com as mesmas, graças ao grande retorno das
+fotos em preto e branco.
+
+Em função dessa variedade é que entendemos que todo progra-
+ma e/ou projeto de reprodução de documentos de arquivo deve ser
+amplamente divulgado, pelo mais simples dos motivos: é divulgan-
+do que se cumpre o papel do Arquivo. Mesmo o instrumento de pes-
+quisa mais rudimentar deve ser levado ao conhecimento do público
+de modo que ele possa sempre aperfeiçoar. Uma massa documen-
+
+37
+
+38
+
+
+COMO FAZER 7 - COMO FAZER PROGRAMAS DE REPRODUÇÃO DE DOCUMENTOS DE ARQUIVO
+
+tal desconhecida é uma massa documental sem acesso, ou, em outras
+palavras, é uma massa documental fria, estéril. Prateleiras de livros
+sem ordenação são prateleiras de livros inacessíveis. Portanto, or-
+ganizar é sempre o primeiro passo.
+
+VIVA O DOCUMENTO!
+
+Diálogo e conclusão.
+
+Este pequeno manual de Como Fazer Programas de Reprodu-
+ção de Documentos de Arquivo foi uma oportunidade que tivemos
+para refletir com os que aqui estão e com outros que se interessem
+pelo assunto, com o objetivo de ajudar na manutenção dos acervos
+e na divulgação do direito ao acesso à informação. Não podemos
+polemizar sobre a utilização das modernas tecnologias digitais. Elas
+não surgiram para serem desprezadas pelos arquivistas, mas tam-
+bém não podemos colocá-las como a solução para todos os nossos
+problemas.
+
+Um excelente móvel de guarda de acervo nunca foi o suficiente
+para garantir  a preservação dos documentos, uma vez que guardar,
+sem organizar, não é preservar. Climatizar o ambiente pode até deixá-
+lo mais agradável para todos, mas também não significa preservar
+os  documentos.  Até  mesmo  microfilmar  ou  digitalizar  em
+moderníssimos “scanners” também por si só não é preservar os do-
+cumentos. Mas afinal o que é preservar os documentos? Diria que
+preservar  é  reproduzir  os  documentos  da  forma  mais  adequada,
+facilitando o acesso às informações neles contidas ao maior núme-
+ro de pessoas.
+
+Transferência  de  suportes  é  uma  frase  muito  escutada  em
+alguns congressos. Mas apenas transferir de suporte não garante o
+acesso às informações; às vezes, até complica. No meu entender,
+só um programa e/ou projeto de reprodução de documentos de ar-
+quivo coerente e consciente poderá dar ao documento o seu valor
+intrínseco, que é fornecer a alguém a informação nele contida. VIVA
+O DOCUMENTO! Que ele seja o objeto do nosso esforço maior, nós
+que, por qualquer motivo, nos encontramos próximos aos acervos,
+
+39
+
+40
+
+
+COMO FAZER 7 - COMO FAZER PROGRAMAS DE REPRODUÇÃO DE DOCUMENTOS DE ARQUIVO
+
+utilizando-os como fonte de pesquisa ou como objeto de nossa pre-
+ocupação funcional. Quem trabalha com documentos, com acervos,
+tem que possuir uma capacidade muito grande de convencimento
+para transmitir aos que o cercam a importância dos programas de
+reprodução – visando sua preservação e sua disseminação. O do-
+cumento só vale pelo seu conteúdo informacional, em seu contexto.
+Ele não existe isoladamente, faz parte do passado, é tempo e tem-
+plo da memória dos homens. VIVA O DOCUMENTO!
+
+BIBLIOGRAFIA
+
+ASSOCIATION  OF  RESEARCH  LIBRARIES. Preservation micro-
+filming: a guide to librarians and archivists. 2.ed. Chicago: Elisa
+L. Fox, 1996.
+
+BECK, Ingrid. Building preservation knowledge in Brazil. Washing-
+ton: Council on     Library and Information Resources, 1999.
+____.  Projeto cooperativo: conservação preventiva em bibliotecas e
+arquivos. In: Arquivo & Administração, Rio de Janeiro, v. 1, n. 1-2,
+jan./dez. 1999.
+
+BERNARDES, Ieda Pimenta. Como avaliar documentos de arquivo.
+
+São Paulo: Arquivo do Estado/IMESP, 1998.
+
+BERTOLETTI, Esther Caldas. Brasil Colônia: 300 anos de história
+em documentos organizados e acessíveis. In: Revista Oceanos,
+Lisboa, n. 40, out./dez. 1999.
+
+____. Documentos históricos: preservação e acesso. Responsabili-
+dade de todos. In: Revista do Instituto Histórico e Geográfico Bra-
+sileiro, Rio de Janeiro, v. 158, n. 397, 1998. (Discurso de posse).
+____. Microfilmagem e memória nacional. Rio de Janeiro: Funda-
+
+ção Casa de Rui Barbosa, 1994. (Papéis avulsos, 12).
+
+____. Preservação e acesso de acervos de documentos históricos
+considerados como patrimônio comum. In: Revista A&B. Arqui-
+vos e Bibliotecas, Lisboa, n.1, 1997.
+
+BEZERRA, Francisco Octavio da Silva. Microfilmagem e documenta-
+ção: preservar ou destruir? Rio de Janeiro: Plangeo Projetos, 1987.
+BOJANOSKI, Silvana. Estudo sobre as condições de preservação
+dos acervos documentais brasileiros. In: Arquivo & Administra-
+ção, Rio de Janeiro, v. 2, n. 1-2, jan./dez. 1999.
+
+41
+
+42
+
+
+COMO FAZER 7 - COMO FAZER PROGRAMAS DE REPRODUÇÃO DE DOCUMENTOS DE ARQUIVO
+
+BOMBA de tempo: pesquisa revela que dados em CD-ROM se per-
+dem mais rápido do que se imaginava. In: Veja, São Paulo, 18 de
+fevereiro de 1998.
+
+CABRAL, Maria Luisa. Microfilmagem & digitalização: a coexistên-
+cia pacífica. In: Revista A&B. Arquivos e Bibliotecas, Lisboa, n. 2,
+1998.
+
+CAMARGO,  Ana  Maria  de  Almeida;  BELLOTTO,  Heloísa  Liberalli
+(Coord.). Dicionário de terminologia arquivística. São Paulo: As-
+sociação  dos  Arquivistas  Brasileiros.  Núcleo  Regional  de  São
+Paulo/  Secretaria  de  Estado  da  Cultura.  Departamento  de  Mu-
+seus e Arquivos, 1996.
+
+CARUSO,  Francisco;  ARAUJO,  Roberto  Moreira  Xavier  de.  Dal
+volumen al libro, dal codex allo schermo: saggio sulle interrelazioni
+tra i supporti sella scrittua e le concezioni fisico-filosofiche dello
+spazio  nella  storia  della  cultura  occidentale.  In: Boletim Centro
+Brasileiro de Pesquisas Físicas/CNPq, Rio de Janeiro, n. 9, 1998.
+CONSERVAÇÃO preventiva. Trad. por Helena Maria Correa de Sousa
+Pessi. In: Revista Ágora,  Florianópolis,  v.  12,  n.  25,  1º  sem.  de
+1997.
+
+COSTA, Pe. Avelino de Jesus da. Princípios gerais da elaboração
+de instrumentos de trabalho em Arquivologia: arquivos públicos
+e arquivos eclesiásticos. Coimbra: s.c.p., 1966.
+
+DIGITALIZE  por  menos,  microfilme  de  graça.  Fremont:  Sunrise
+
+Imaging, 1996.
+
+FÉDÉRATION INTERNATIONALE DE DOCUMENTATION. Manuel
+pratique de  reproduction documentaire et de sélection.  Paris:
+UNESCO, 1964.
+
+GILLILAND-SWETLAND, Anne J. Enduring paradigm: the value of
+the archival perspective in the digital environment. Washington:
+Council on Library and Information Resources, 2000.
+
+GONÇALVES, Janice. Como classificar e ordenar documentos de
+
+arquivo. São Paulo: Arquivo do Estado/IMESP, 1998.
+
+HAZEN, Dan; HORRELL, Jeffrey; MERRIL-OLDHAM, Jan. Selec-
+tion research collections for digitalization. Washington: Council on
+Library and Information Resources. Commission on Preservation
+and Access. Digital Libraries, 1998.
+
+KENNEY, Anne R.; CHAPMAN, Stephen. Digital imaging for librar-
+ies and archives. New York: Cornell University Library. Department
+of Preservation and Conservation, 1996.
+
+MALAGODI, Maria Eugênia; CESNIK, Fábio de Sá. Projetos culturais:
+elaboração, administração, aspectos legais, busca de patrocínio.
+São Paulo: Escrituras, 1999.
+
+MARCUN, Deanna B. We can’t save everything. Bulletin Council on
+Library and Information Resources, Washington, n. 5, sept./oct. 1998.
+MITRE, Oscar Sbarra. La biblioteca global. In: INFOLAC: Boletim da
+División de Información e Informática – América Latina/UNESCO,
+Caracas, v. 10, n. 4, out./dez. 1997.
+
+MOISÉS,  José  Álvaro;  BOTELHO,  Isaura  (Org.).  Modelos de
+financiamento da cultura: os casos do Brasil, França, Inglaterra,
+Estados Unidos e Portugal. Rio de Janeiro: FUNARTE, 1997.
+OSTROW, Stephen E. Digitizing historical pictorial collections for the
+Internet.  Washington:  Council  on  Library  and  Information  Re-
+sources. Commission on Preservation and Access, 1998.
+
+PRESERVING digital information: report of the task force on archiving
+of digital information. Washington: Commission on Preservation
+and Access. The Research Libraries Group, 1996.
+
+PRICE, Laura; SMITH, Abby. Managing cultural assets from a busi-
+ness perspective. Washington: Council on Library and Informa-
+tion Resources. Library of Congress, 2000.
+
+THE RESEARCH LIBRARIES GROUP. Archives microfilm manual.
+
+California: Nancy E. Elkington, 1994.
+
+REYES, Victório Rodriguez. Los servicios de información en el próxi-
+mo milenio. In: INFOLAC: Boletim da División de Información e In-
+formática – América Latina/UNESCO, Caracas, v. 10, n. 4, out./dez.
+1997.
+
+43
+
+44
+
+
+COMO FAZER 7 - COMO FAZER PROGRAMAS DE REPRODUÇÃO DE DOCUMENTOS DE ARQUIVO
+
+LA RIPRODUZIONE dei documenti d’archivio: fotografia chimica e
+digitale.  Atti  del  Seminario,  Roma,  11  dicembre,  1997.  Roma:
+Ministero per i Beni e le Attivitá Culturali. Ufficio Centrale per i
+Beni Archivistici, 1999.
+
+RITA, Wanda. Conscientização da preservação do patrimônio histó-
+
+rico. Revista Ágora, Florianópolis, v. 12, n. 26, 2. sem. 1997.
+
+RODRIGUES, José Honório. A pesquisa histórica no Brasil. 3. ed.
+
+São Paulo: Ed. Nacional, 1978. (Brasiliana)
+
+ROTHRNBERG,  Jeff. Avoiding technological quicksand: finding a
+viable technical foundation for digital preservation. Washington:
+Council on Library and Information Resources. Commission on
+Preservation and Access. Digital Libraries, 1999.
+
+____. Ensuring the longevity of digital documents. Scientific Ameri-
+
+can, jan. 1995.
+
+SCHOLARSHIP, instruction and libraries at the turn of the century:
+results from five task forces appointed by the American Council of
+Learned  Societies  and  the  Council  on  Library  and  Information
+Resources. Washington: Council on Library and Information Re-
+sources. Commission on Preservation and Access, 1999.
+
+WEBWE, Hartmut; DORR, Marianne. Digitalisation as a method of
+preservation? Revista A&B. Arquivos e Bibliotecas, Lisboa, n. 2, 1998.
+
+45
+
+

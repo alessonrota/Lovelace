@@ -1,0 +1,1869 @@
+COMO FAZER 6 - COMO DESCREVER DOCUMENTOS DE ARQUIVO: ELABORAÇÃO DE INSTRUMENTOS DE PESQUISA
+
+COMO DESCREVER
+DOCUMENTOS DE ARQUIVO:
+ELABORAÇÃO  DE  INSTRUMENTOS  DE  PESQUISA
+
+
+COMO FAZER 6 - COMO DESCREVER DOCUMENTOS DE ARQUIVO: ELABORAÇÃO DE INSTRUMENTOS DE PESQUISA
+
+GOVERNO DO ESTADO DE SÃO PAULO
+Geraldo Alckmin
+GOVERNADOR
+
+SECRETARIA DE ESTADO DA CULTURA
+Marcos Mendonça
+SECRETÁRIO
+
+DEPARTAMENTO DE MUSEUS E ARQUIVOS
+Marilda Suyama Tegg
+DIRETORA
+
+DIVISÃO DE ARQUIVO DO ESTADO
+Fausto Couto Sobrinho
+DIRETOR
+
+IMPRENSA OFICIAL DO ESTADO
+Luiz Carlos Frigerio
+DIRETOR-PRESIDENTE EM EXERCÍCIO
+
+Carlos Nicolaewsky
+DIRETOR INDUSTRIAL
+
+Richard Vainberg
+DIRETOR FINANCEIRO E ADMINISTRATIVO
+
+CEETEPS
+CENTRO DE EDUCAÇÃO TECNOLÓGICA PAULA SOUZA
+Prof. Marcos Antônio Monteiro
+DIRETOR-SUPERINTENDENTE
+
+Prof.ª Laura Laganá
+CHEFE DE GABINETE
+
+ANDRÉ  PORTO  ANCONA  LOPEZ
+
+COMO DESCREVER
+DOCUMENTOS DE ARQUIVO:
+ELABORAÇÃO  DE  INSTRUMENTOS  DE  PESQUISA
+
+COMO FAZER VOL. 6
+
+Arquivo do Estado de São Paulo
+R. Voluntários da Pátria, 596 – Santana
+CEP: 02010-000 – São Paulo – SP
+Fone/Fax: (11) 6221-4785
+www.arquivoestado.sp.gov.br
+arquivoestado@sp.gov.br
+
+Imprensa Oficial do Estado
+Rua da Mooca, 1.921 – Mooca
+03103-902 – São Paulo – SP
+Tel.: (11) 6099-9800
+Fax: (11) 6692-3503
+www.imprensaoficial.com.br
+divulgacaoeditoriais@imprensaoficial.com.br
+SAC  0800-123  401
+
+Foi feito o depósito legal na Biblioteca Nacional
+(Lei n . 1825, 20/12/1997)
+
+ARQUIVO  DO  ESTADO/IMPRENSA  OFICIAL  DO  ESTADO
+
+SÃO  PAULO
+2002
+
+
+COMO FAZER 6 - COMO DESCREVER DOCUMENTOS DE ARQUIVO: ELABORAÇÃO DE INSTRUMENTOS DE PESQUISA
+
+ARQUIVO DO ESTADO DE SÃO PAULO
+
+ASSOCIAÇÃO DE ARQUIVISTAS
+DE SÃO PAULO - ARQ/SP
+
+SUMÁRIO
+
+Coordenação  editorial
+LAURO ÁVILA PEREIRA
+MARIZA ROMERO
+
+Editora  responsável
+JULIANA PADUA MELO ALKMIN
+
+Assistente  editorial
+FERNANDO F. DE SOUSA LIMA
+
+Revisão dos textos
+ADRIANA DE MATOS
+ALEXANDRE MICHELLIN TRISTÃO
+
+Capa  e  diagramação
+FERNANDO F. DE SOUSA LIMA
+
+Criação de arte
+TEREZA REGINA CORDIDO
+
+Fotolito, impressão e acabamento
+IMPRENSA OFICIAL DO ESTADO
+
+DIRETORIA
+
+Diretora
+ANA MARIA DE ALMEIDA CAMARGO
+
+APRESENTAÇÃO
+
+O PROJETO COMO FAZER
+
+Vice-Diretora
+SILVANA GOULART FRANÇA GUIMARÃES
+
+SOBRE O AUTOR
+
+Secretária
+RITA DE CÁSSIA MARTINEZ LO SCHIAVO
+
+Tesoureiro
+JOÃO MARTINS RODRIGUES NETO
+
+COORDENADORA DE CURSOS
+
+IEDA PIMENTA BERNARDES
+
+1.  O QUE SÃO INSTRUMENTOS DE PESQUISA
+
+Conceito 
+Instrumentos de pesquisa e classificação arquivística 
+Importância das atividades de descrição 
+
+07
+
+08
+
+09
+
+10
+10
+11
+12
+
+2. A NORMA INTERNACIONAL DE DESCRIÇÃO ARQUIVÍSTICA 
+
+14
+O que é a norma ISAD (G)                                                                               14 
+16
+Importância de uma normalização 
+17
+Problemas de uma normalização 
+Cuidados na aplicação da ISAD (G)
+19
+
+2
+
+9
+
+Co-edição
+ARQUIVO DO ESTADO DE SÃO PAULO
+IMPRENSA OFICIAL DO ESTADO
+
+Apoio Técnico:
+CEETEPS - Centro de Educação Tecnológica Paula Souza
+Governo do Estado de São Paulo
+
+3. TIPOS DE INSTRUMENTOS DE PESQUISA 
+
+Guias 
+Inventários 
+Catálogos e índices 
+Problemas de nomenclatura 
+
+                               Ficha Catalográfica elaborada pelo Arquivo do Estado
+
+4. DIRETRIZES PARA A ELABORAÇÃO DOS INSTRUMENTOS DE PESQUISA 
+
+L85C
+
+LOPEZ, ANDRÉ PORTO ANCONA
+     COMO DESCREVER DOCUMENTOS DE ARQUIVO: ELABORAÇÃO DE INSTRUMENTOS DE
+PESQUISA / ANDRÉ PORTO ANCONA LOPEZ . - SÃO PAULO : ARQUIVO DO ESTADO,
+IMPRENSA OFICIAL, 2002.
+     64 P. (PROJETO COMO FAZER, 6).
+
+     BIBLIOGRAFIA P. 57
+
+ISBN: 85-86.726-39-7 (ARQUIVO DO ESTADO)
+ISBN:  85-7060-113-1 (IMPRENSA OFICIAL DO ESTADO)
+
+       1. DOCUMENTOS – DESCRIÇÃO. 2. PESQUISA – INSTRUMENTOS. 3. ARQUIVÍSTICA. 4.
+SUPORTE ELETRÔNICO – CD, DISQUETE E INTERNET. I. TÍTULO. II. SÉRIE.
+
+CDD  025.37
+CDU  930.251
+
+Que instrumento realizar 
+A importância dos guias e inventários 
+Etapas de elaboração 
+
+5. FORMATOS DE DIVULGAÇÃO DOS INSTRUMENTOS DE PESQUISA 
+Para uso local (fichário, encadernado, etc.) 
+Parte de publicação (em revista ou obra coletiva) 
+Publicação autônoma formal (livro, fascículo, etc.) 
+Suporte eletrônico (CD, disquete, Internet) 
+
+REFERÊNCIAS GERAIS SOBRE OS INSTRUMENTOS DE PESQUISA 
+
+Glossário dos termos utilizados 
+Bibliografia 
+Outras obras de interesse 
+
+22
+23
+29
+32
+34
+
+36
+36
+37
+38
+
+44
+44
+45
+46
+47
+
+50
+50
+54
+55
+
+
+COMO FAZER 6 - COMO DESCREVER DOCUMENTOS DE ARQUIVO: ELABORAÇÃO DE INSTRUMENTOS DE PESQUISA
+
+APRESENTAÇÃO
+
+O Arquivo do Estado de São Paulo tem sob a sua tutela um
+rico acervo e um grupo técnico capacitado para o desenvolvimento
+de suas atividades, o que lhe permite assumir o papel de relevo que
+lhe cabe historicamente na administração pública e entre os seus
+congêneres.
+
+Este caráter da instituição manifesta-se, entre outros aspectos,
+pela  ampliação  da  gama  de  serviços  prestados  na  área  cultural,
+dentre os quais destaca-se a publicação sistemática de instrumentos
+de pesquisa e de manuais técnicos que auxiliem no processo de
+formação e aperfeiçoamento dos profissionais da área de arquivos.
+O Arquivo do Estado tem-se valido, para esse trabalho, de
+valiosas  parcerias,  cabendo  especial  relevo  às  mantidas  com  a
+Imprensa  Oficial    e  a  Associação  de    Arquivistas  de  São  Paulo  -
+ARQ/SP. A primeira delas vem possibilitando o desenvolvimento de
+um extenso programa de publicações e a segunda tem resultado
+numa assessoria permanente - tanto formal, quanto informal - na
+área da Arquivística, eis que a ARQ/SP congrega especialistas de
+renome internacional nesse campo de atuação.
+
+A  presente  publicação  é,  pois,  o  resultado  do  esforço
+conjugado das três instituições e integra o Projeto “Como Fazer”,
+elaborado pela Comissão de Cursos da AAB/SP. Orientado, como o
+próprio  nome  indica,  para  aspectos  práticos  do  dia-a-dia  dos
+profissionais  da  área,  esse  projeto  prevê  uma  série  de  outras
+publicações, sempre de autoria de professores com larga experiência
+na organização de arquivos.
+
+A direção e o corpo técnico do Arquivo do Estado sentem-se
+gratificados  pelos  excelentes  frutos  já  colhidos  desse  profícuo
+relacionamento, contando que o mesmo se perpetue e se intensifique,
+em benefício da comunidade arquivística e da cultura em nosso Estado.
+
+Dr. Fausto Couto Sobrinho
+Diretor  do Arquivo do Estado
+
+  7
+
+O PROJETO COMO FAZER
+
+O Projeto Como Fazer compreende uma série de oficinas
+de trabalho que abordam temas específicos em profundidade, tanto
+em seu aspecto teórico, quanto metodológico e operacional, capa-
+citando o aluno a planejar e realizar as atividades inerentes ao as-
+pecto da Arquivística em foco. Visa não só o aperfeiçoamento técni-
+co de profissionais que atuam na área, como a difusão de conheci-
+mentos arquivísticos básicos entre os interessados. Como uma de
+suas marcas características, a cada oficina corresponde um manual,
+de responsabilidade do professor.
+
+Comissão de Cursos da ARQ/SP
+
+  8
+
+
+COMO FAZER 6 - COMO DESCREVER DOCUMENTOS DE ARQUIVO: ELABORAÇÃO DE INSTRUMENTOS DE PESQUISA
+
+SOBRE O AUTOR
+
+André Porto Ancona Lopez é professor do curso de História da
+Universidade Estadual de Maringá desde 1994. Especializou-se em orga-
+nização de arquivos pelo IEB/ECA-USP, após ter se graduado em História
+pela FFLCH-USP. Seu mestrado em História Social (USP) foi publicado sob o
+título Tipologia documental de partidos e associações políticas brasileiras
+(Ed. Loyola, 1999). Doutorou-se recentemente em História pela FFLCH-USP
+com o trabalho As razões e os sentidos: finalidades da produção docu-
+mental e interpretação de conteúdos na organização arquivística de docu-
+mentos imagéticos. Participou, como convidado, do curso Archives of
+Political Parties after the Collapse of the Comunism, promovido pela Open
+Society Archives e pela Central European University em Budapeste. É
+autor de diversos artigos nas áreas de Arquivologia e de História, tendo
+editado os Anais do X Congresso Brasileiro de Arquivologia (CD-ROM). Sua
+experiência arquivística inclui passagens por várias instituições, entre as
+quais podemos destacar o Centro de Documentação do Movimento Ope-
+rário (CEMAP), o Arquivo de Negativos da Prefeitura de São Paulo (SMC-
+DPH) e o Arquivo do Município de Amparo, do qual foi diretor. Atua na área
+de arquivos através da participação em projetos e consultorias e é res-
+ponsável pela disciplina de descrição no Curso de Especialização em Ar-
+quivos do IEB/ECA-USP, desde 2001.
+
+e-mail: apalopez@uol.com.br
+
+1
+
+O QUE SÃO INSTRUMENTOS
+DE PESQUISA
+
+Um arquivo sem os instrumentos de pesquisa adequados cor-
+
+re o risco de se tornar um verdadeiro mistério para os usuários.
+
+CONCEITO
+
+Os  instrumentos  de  pesquisa  são  as  ferramentas  utilizadas
+para descrever um arquivo, ou parte dele, tendo a função de orientar
+a consulta e de determinar com exatidão quais são e onde estão os
+documentos. Tais instrumentos são assim definidos:
+
+obra de referência, publicada ou não, que identifica, localiza, resume ou
+transcreve, em diferentes graus e amplitudes, fundos, grupos, séries e pe-
+ças documentais existentes num arquivo permanente, com a finalidade de
+controle e de acesso ao acervo.1
+
+Além dos instrumentos de pesquisa também existem os instru-
+mentos de controle. Estes últimos têm como função principal auxili-
+ar no processo de organização e manutenção de um acervo. São de
+acesso restrito, destinados basicamente ao corpo técnico do arqui-
+vo e não aos consulentes. Geralmente são compostos por tabelas,
+fichas avulsas, listagens etc., apresentando-se como documentos
+únicos e em constante confecção.
+
+Os instrumentos de pesquisa referem-se ao acesso e ao con-
+trole de um acervo, geralmente permanente, e com pelo menos uma
+identificação ou organização mínima.    Têm como função principal
+
+1 Dicionário de terminologia arquivística, 1996, p.45.
+
+  9
+
+10
+
+
+COMO FAZER 6 - COMO DESCREVER DOCUMENTOS DE ARQUIVO: ELABORAÇÃO DE INSTRUMENTOS DE PESQUISA
+
+tende a apresentar resultados incompletos e excessivamente tran-
+sitórios. Sem as referências mínimas da classificação, a descrição
+tende a esvaziar os significados dos documentos.
+
+IMPORTÂNCIA DAS ATIVIDADES DE DESCRIÇÃO
+
+A organização arquivística de qualquer acervo pressupõe não
+apenas as atividades de classificação, mas também as de descri-
+ção. Somente a descrição arquivística garante a compreensão am-
+pla do conteúdo de um acervo, possibilitando tanto o conhecimento
+como a localização dos documentos que o integram. Nesse sentido,
+podemos afirmar que as atividades de classificação só conseguem
+ter seus objetivos plenamente atingidos mediante a descrição do-
+cumental. Sem a descrição, corre-se o risco de criar uma situação
+análoga à do analfabeto diante de um livro, que ele pode pegar e
+folhear, mas ao qual não pode ter acesso completo por não possuir
+meios que lhe permitam compreender a informação. A classificação
+arquivística, desprovida das atividades de descrição, somente é in-
+teligível para as pessoas que organizaram o acervo.
+
+disponibilizar documentos para a consulta. Apresentam-se na for-
+ma de guias, inventários, catálogos e índices, sendo destinados não
+só ao corpo técnico do arquivo (para controle do acervo) como tam-
+bém a todos os potenciais consulentes. Em geral, os instrumentos
+de  pesquisa  almejam  uma  grande  difusão,  motivo  pelo  qual  são
+publicados em meios impressos ou eletrônicos, sempre que a insti-
+tuição responsável dispõe de recursos para isso.
+
+INSTRUMENTOS DE PESQUISA E CLASSIFICAÇÃO
+ARQUIVÍSTICA
+
+Muitas vezes, as atividades de descrição são iniciadas duran-
+te a própria classificação dos documentos. A sistematização de in-
+formações geradas para o controle durante a organização pode aju-
+dar a constituir ótimos instrumentos de pesquisa. Dados como o pla-
+no de classificação, os critérios de ordenação dos documentos nas
+séries, o arrolamento das datas-limite dos tipos documentais, entre
+outros, serão ótimos pontos de partida. Na organização arquivística,
+é necessário ter sempre em mente a importância das atividades de
+descrição. Igualmente importante é prever os instrumentos de pes-
+quisa que poderão ser produzidos como resultado direto da classifi-
+cação  arquivística.  Muitas  vezes,  uma  informação,  secundária  no
+momento da classificação, pode vir a ser importante para a descri-
+ção do documento. Um bom planejamento pode concentrar esfor-
+ços, ao coletar essa informação durante a classificação, agilizando
+a produção dos instrumentos de pesquisa.
+
+Entretanto, em muitas situações isso não ocorre e as atividades
+de descrição acabam sendo realizadas em um momento posterior à
+classificação arquivística, como atividade à parte. Nesses casos, a
+descrição costuma ser mais trabalhosa, justamente por ter que par-
+tir do zero, sem contar com informações previamente reunidas pela
+classificação arquivística. Do mesmo modo, a simples descrição de
+conjuntos documentais que não estejam devidamente classificados
+na organização arquivística é uma tarefa não recomendada, já que
+
+11
+
+12
+
+
+COMO FAZER 6 - COMO DESCREVER DOCUMENTOS DE ARQUIVO: ELABORAÇÃO DE INSTRUMENTOS DE PESQUISA
+
+2
+
+A NORMA INTERNACIONAL
+DE DESCRIÇÃO ARQUIVÍSTICA
+
+Tendo em vista a importância das atividades de descrição, o
+Conselho Internacional de Arquivos (CIA), em sua reunião de 1988
+(Otawa, Canadá), iniciou a formulação de diretrizes para a criação
+de uma norma mundial de descrição arquivística, elaborando uma
+versão  preliminar  da  General International Standard Archival
+Description, a ISAD (G). A aprovação desse documento deu-se so-
+mente na reunião do CIA de 1993 (Estocolmo, Suécia), apoiada no
+pressuposto  de  que,  durante  aqueles  cinco  anos,  a  comunidade
+arquivística internacional tivesse discutido profundamente o docu-
+mento inicial e apresentado contribuições. Em setembro de 1999,
+novamente  em  Estocolmo,  foi  elaborada  uma  segunda  edição  da
+norma, cuja divulgação é ainda bastante restrita. A segunda edição
+da norma só foi disponibilizada no web site do CIA às vésperas do
+XIV Congresso Internacional de Arquivos (Sevilla, 21-26 set. 2000),
+em 8 de agosto de 2000.
+
+O QUE É A NORMA ISAD (G)
+
+A norma ISAD (G) propõe padronizar a descrição arquivística a
+partir de uma estruturação multinível, isto é, do geral ao particular,
+inserindo cada item da descrição na estrutura geral do fundo de ar-
+quivo, em uma relação hierárquica.
+
+No primeiro nível a descrição deve dar informações do fundo como um todo.
+Nos níveis seguintes deve-se dar informação sobre as partes descritas. As
+
+14
+
+
+COMO FAZER 6 - COMO DESCREVER DOCUMENTOS DE ARQUIVO: ELABORAÇÃO DE INSTRUMENTOS DE PESQUISA
+
+descrições resultantes se mostrarão em uma relação hierárquica da parte
+até o todo, indo do nível mais amplo (fundo) até o mais específico.2
+
+no próprio acervo como em outros arquivos, instituições ou
+publicações.
+
+Na definição do sistema multinível, a aplicação do conceito de
+fundo de arquivo é fundamental. Como sabemos, tal conceito en-
+contra-se  intimamente  ligado  ao  princípio  da  proveniência,  o  que
+pressupõe uma relação direta entre as atividades de descrição e as
+de classificação arquivística. Entretanto, a ISAD (G) pouco se detém
+no estabelecimento de critérios e de conceitos para a classificação,
+criando o risco de defasagem entre essas duas atividades.
+
+A norma propõe campos específicos, hierarquizados nos cin-
+
+co grandes tópicos indicados abaixo:
+
+N(a): identificação — determina o que está sendo descrito, o
+nível hierárquico que ocupa, volume, datas, códigos e títulos;
+N(b): contexto — indica tanto os dados básicos referentes ao
+produtor  dos  documentos  em  questão  como  procura
+historicizar o percurso desses documentos até o ingresso
+no arquivo;
+
+N(c): conteúdo  e  estrutura  —  procura  resumir  para  o
+consulente as principais características dos documentos em
+questão, destacando as potencialidades de pesquisa, a for-
+ma de organização e a representatividade do conjunto em
+função de descartes prévios ou de posteriores acréscimos
+de documentos;
+
+N(d): acesso e utilização — orienta em relação aos aspectos
+práticos da consulta documental, realçando a situação jurí-
+dica, as condições de acesso, as possibilidades legais de
+utilização e reprodução, o idioma e os instrumentos de pes-
+quisa disponíveis sobre os documentos em questão;
+
+N(e): documentação associada — aponta a relação dos do-
+cumentos em questão com suas eventuais cópias ou repro-
+duções e com os demais documentos relacionados, tanto
+
+2 CONSEJO INTERNACIONAL DE ARCHIVOS. ISAD (G); item 2.1, p.17-18. Trad. livre.)
+
+A adoção do sistema multinível, somada à indicação dos títu-
+los e à definição de cada campo e subcampo da descrição, auxilia
+bastante na padronização. O sistema multinível permite descrever
+unidades ou conjuntos documentais sem o risco de perda de sua
+relação orgânica com o fundo do qual faz parte, desde que sua clas-
+sificação obedeça ao princípio da proveniência. A estrutura dos cam-
+pos e subcampos possibilita que somente as informações pertinen-
+tes  à  hierarquia  dos  documentos  descritos  sejam  anotadas,  não
+havendo ônus para a descrição no caso de descarte dos campos
+não essenciais. A estrutura hierárquica dos campos de descrição
+no sistema multinível facilita sobremodo a implantação de sistemas
+informáticos de controle.
+
+IMPORTÂNCIA DE UMA NORMALIZAÇÃO
+
+A importância de um instrumental como a ISAD (G) para a comu-
+nidade arquivística é mais evidente quando pensamos nas possibi-
+lidades abertas pelo avanço da informática em nível mundial. Para
+que  a  troca  eletrônica  de  informações  entre  os  acervos  seja
+satisfatória é necessário que, cada vez mais, os arquivistas come-
+cem a falar a mesma língua. Nesse sentido, é fundamental o estabe-
+lecimento de diretrizes básicas para todas as atividades relaciona-
+das à organização arquivística, inclusive a descrição. A normaliza-
+ção da descrição arquivística também facilita o acesso às informa-
+ções do acervo por parte dos mais diversos consulentes. Assim, um
+pesquisador especializado pode localizar com facilidade a informa-
+ção que deseja em diversos arquivos. A normalização contribui não
+apenas para o intercâmbio entre diferentes instituições, como tam-
+bém facilita o acesso e a consulta em geral.
+
+15
+
+16
+
+
+COMO FAZER 6 - COMO DESCREVER DOCUMENTOS DE ARQUIVO: ELABORAÇÃO DE INSTRUMENTOS DE PESQUISA
+
+PROBLEMAS DE UMA NORMALIZAÇÃO
+
+Para que o ideal perseguido pela normalização se torne con-
+creto resta um longo caminho. Em linhas gerais, as críticas à norma
+ISAD (G) focalizam dois aspectos: a representatividade e a relação
+entre as atividades de descrição e as de classificação arquivística.
+A respeito da primeira versão da norma, a arquivista espanho-
+la Antonia Heredia Herrera aponta um total descompasso entre os
+países representados na Comissão ad hoc, responsável pela ela-
+boração da norma, e os grandes produtores de documentos em ní-
+vel mundial. A situação agrava-se com a ausência de representan-
+tes  de  países  cuja  tradição  teórico-metodológica  na  discussão
+arquivística não é desprezível, como a Itália, por exemplo. Experiên-
+cias de diferentes nações ficaram completamente à margem da ela-
+boração de uma norma com pretensões de alcance mundial. Antonia
+Heredia também indica a utilização de uma bibliografia extremamen-
+te reduzida — e redundante — como base teórica para a elabora-
+ção da norma. Esses problemas de representatividade — que acar-
+retam também problemas de divulgação — comprometeram a inten-
+ção de que a norma aprovada em 1993 fosse o resultado de uma
+ampla rediscussão, em nível mundial, do rascunho iniciado em 1988.
+A segunda versão da ISAD (G), de 1999, procurou ampliar seu
+escopo de representatividade, ao contemplar exemplificações em
+português (do Brasil) e em italiano. No entanto, nota-se que a ques-
+tão de uma normalização terminológica mais aprofundada continua
+necessária. Por exemplo, o entendimento espanhol da definição de
+série apresentada pelo CIA em teoria não comporta o estabeleci-
+mento de séries temáticas, alfabéticas ou cronológicas, as quais,
+todavia, são incluídas nos exemplos da norma, apresentando uma
+certa confusão entre as atividades arquivísticas de classificação e
+de ordenação.
+
+A maior conseqüência do descompasso entre o alcance inter-
+nacional pretendido e as representatividades nacionais contempla-
+das é de cunho terminológico. O conceito de tipologia documental
+definido  pela  norma,  por  exemplo,  ao  contrário  das  terminologias
+
+brasileira e espanhola, não estabelece qualquer relação direta com
+uma atividade e, por conseqüência, com o estabelecimento de séries
+documentais. No Brasil, as definições de série e de tipo documental
+postuladas pelo Dicionário de terminologia arquivística distanciam-
+se tanto da ISAD (G) original como de sua versão nacional. A norma,
+na realidade, não trabalha com o conceito de tipo e sim com o de
+forma,  substituído  na  versão  nacional  pelas  terminologias forma,
+espécie e tipo do documento, criando, assim, outras divergências
+conceituais.
+
+Diferentemente dos espanhóis, os responsáveis pela versão
+brasileira da norma não entendem a série definida em função de
+uma atividade institucional, mas por um sistema de arquivamento.
+Na realidade, o segundo entendimento aproxima-se mais de uma
+tradução  literal  da  norma  original  (filing system  ou  système
+d’archivage), enquanto a interpretação espanhola está mais próxi-
+ma da organicidade proposta pelos princípios arquivísticos e con-
+templada nas definições de fundo e proveniência da ISAD (G). A utili-
+zação da norma em países de tradição ibérica, por exemplo, esbar-
+ra em inúmeros problemas de ordem conceitual que acabam por
+comprometer os objetivos iniciais do CIA.
+
+A segunda questão diz respeito à falta de uma definição mais
+precisa das atividades de classificação arquivística, destacando-se,
+ainda  na  opinião  de  Antonia  Heredia,  a  ausência  de  qualquer
+conceituação capaz de definir os grupos e as coleções. A definição
+de tais termos nos parece fundamental dentro das atividades de clas-
+sificação, por se referir à relação existente entre os documentos e
+seus produtores, conforme o princípio da proveniência. Na realida-
+de, a maior preocupação da norma está em satisfazer as demandas
+de consulta, limitando o vínculo orgânico das unidades documen-
+tais apenas ao fundo de arquivo. A proveniência, como sabemos,
+identifica a organicidade entre os documentos e as atividades que
+os produziram, configurando uma relação hierárquica dentro do fun-
+do arquivístico, a qual não é contemplada pela ISAD (G).
+
+Os estudos de tipologia documental — que buscam estabele-
+cer as possibilidades de inserção de diferentes espécies documen-
+tais em funções hierarquizadas —,  segundo outra arquivista espa-
+
+17
+
+18
+
+
+COMO FAZER 6 - COMO DESCREVER DOCUMENTOS DE ARQUIVO: ELABORAÇÃO DE INSTRUMENTOS DE PESQUISA
+
+te,  contemplando  mais  profundamente  as  questões  relativas  à
+organicidade da classificação arquivística. O caminho do estabele-
+cimento de pequenas modificações pelos diferentes usuários da ISAD
+(G) é, provavelmente, o mais acertado para o momento. Esperamos
+que tais ajustes tenham ressonância na Comissão ad hoc, respon-
+sável pela elaboração da norma, de modo que a próxima versão
+venha a representar melhor os procedimentos adotados pelos ar-
+quivistas, conforme o objetivo do documento preliminar de 1988.
+
+No Brasil, a sistematização das propostas de descrição foi ini-
+ciada por Maria Amélia Migueis em 1976 (Roteiro para elaboração
+de instrumentos de pesquisa), sendo alvo de uma revisão por parte
+de Heloísa Bellotto em 1987 (Descrição: processo e instrumentos).
+Tais propostas não diferem do espírito geral da norma, embora este-
+jam mais preocupadas com a inserção das atividades de descrição
+junto à classificação arquivística. Heloísa Bellotto procura enfatizar
+a compreensão da organicidade dos documentos ao invés de favo-
+recer uma descrição individualizada. Acreditamos que, ao lado da
+norma, as propostas de descrição sistematizadas no Brasil, espe-
+cialmente a partir do final da década de 1980, podem se constituir
+num referencial, sobretudo no que diz respeito a uma definição sis-
+temática dos diferentes tipos de instrumentos de pesquisa, supe-
+rando os problemas ainda não resolvidos pela ISAD (G).
+
+nhola, Vicenta Cortés Alonso, são relegados a um segundo plano
+pela  norma,  com  a  priorização  das  pequenas  unidades  e  de  seu
+conteúdo. Para essa autora, a tipologia é o eixo principal do sistema
+e  o  seu  conhecimento  deverá  ocorrer  dentro  dos  princípios
+arquivísticos e não:
+
+por  meio  de  sistemas  feitos  em  função  da  informação  pedida  pelos
+consulentes. [...] O consulente deve conhecer o método de busca com os
+dados que o arquivista lhe oferece e que, em poucos casos, pode e deve
+descer até a unidade.3
+
+A opção da norma, por favorecer as demandas dos consulentes
+em detrimento da organicidade do acervo, também é apontada por
+Vicenta  Cortés  como  um  desvio  de  cunho  biblioteconômico  e
+documentalístico. Para essa arquivista, há na ISAD (G) o risco de per-
+da da idéia de globalidade dos fundos arquivísticos; há também uma
+distinção entre administração e história que ignora o dinamismo da
+teoria arquivística das três idades, isto é, ignora que o documento
+corrente de hoje se tornará o permanente de amanhã. Nesse senti-
+do, deve-se questionar sobre a pertinência da aplicação da descri-
+ção ISAD (G) aos arquivos correntes ou intermediários.
+
+CUIDADOS NA APLICAÇÃO DA ISAD (G)
+
+É preciso, contudo, valorizar os méritos da ISAD (G), a despeito
+dos problemas apresentados. Ela é, sem dúvida, uma primeira refe-
+rência fundamental para qualquer atividade de descrição. Entretan-
+to, talvez o melhor seja encará-la mais como uma diretriz geral do
+que como uma norma propriamente dita. A utilização dos princípios
+da estrutura multinível proposta pela ISAD (G), somada a uma classi-
+ficação arquivística guiada pelo princípio da proveniência, pode atin-
+gir resultados promissores. Antonia Heredia, uma das mais ferre-
+nhas críticas da norma, apresenta uma interessante proposta de ajus-
+
+3 CORTÉS ALONSO, V. Prólogo, p. 11. Trad. livre.
+
+19
+
+20
+
+
+COMO FAZER 6 - COMO DESCREVER DOCUMENTOS DE ARQUIVO: ELABORAÇÃO DE INSTRUMENTOS DE PESQUISA
+
+3
+TIPOS DE INSTRUMENTOS DE PESQUISA
+
+Apesar de serem atividades absolutamente distintas, classifi-
+cação  e  descrição  guardam  entre  si  uma  relação  de
+complementaridade  intensa.  Assim,  o  ideal  é  que,  tanto  no
+planejamento como na execução de tais atividades, essa inter-rela-
+ção seja considerada. Isso significa que os níveis das atividades de
+descrição  deverão  sempre  corresponder  aos  níveis  da  classifica-
+ção  dos  documentos.  Assim,  diferentes  tipos  de  instrumentos  de
+pesquisa se definem em função da menor ou maior profundidade
+desejada na descrição dos níveis da classificação arquivística.
+
+A tabela seguinte resume a relação entre cada tipo de instru-
+
+mento de pesquisa e o nível da descrição.
+
+22
+
+
+COMO FAZER 6 - COMO DESCREVER DOCUMENTOS DE ARQUIVO: ELABORAÇÃO DE INSTRUMENTOS DE PESQUISA
+
+GUIAS
+
+O guia é, preferencialmente, o primeiro instrumento de pesqui-
+sa a ser produzido por um arquivo. Ele é a porta de entrada da insti-
+tuição e permite um mapeamento panorâmico do acervo. No guia
+deverão constar todos os dados básicos necessários para orientar
+os consulentes, desde as informações práticas — tais como o ende-
+reço da instituição, os telefones, o horário de atendimento etc. — até
+as informações específicas sobre o acervo, como por exemplo os
+fundos e as coleções que ele possui, seu nível de organização, as
+condições físicas e jurídicas do acesso, as possibilidades de repro-
+dução de documentos etc. O guia também deve conter uma peque-
+na introdução que apresente o histórico da instituição e explique o
+processo pelo qual seu acervo foi formado. Através do guia, o pes-
+quisador poderá programar sua visita, sabendo exatamente quais
+são  as  condições  de  consulta,  quais  conjuntos  documentais  são
+pertinentes para seus interesses de pesquisa e quais são as condi-
+ções de acesso. Ele será o primeiro instrumento solicitado por qual-
+quer consulente familiarizado com os procedimentos técnicos do
+arquivo.
+
+Por ser o principal instrumento de divulgação, o guia permite
+diversas propostas para sua elaboração e apresentação. Algumas
+instituições fazem guias extremamente elaborados, repletos de ima-
+gens coloridas, impressos em papel de alta qualidade, com enca-
+dernações luxuosas, acrescidos de textos complementares etc. Por
+outro lado, existem instituições que optam pela elaboração de ins-
+trumentos mais técnicos, em formatos modestos - geralmente com-
+postos por algumas folhas grampeadas ou encadernadas -, conten-
+do apenas as informações mínimas necessárias, mas nem por isso
+menos importantes. Na realidade, o fundamental é que as informa-
+ções básicas estejam presentes, de modo claro e acessível para o
+pesquisador. A confecção de guias mais elaborados (e custosos) é
+uma opção que cabe à política de divulgação da instituição. Porém
+é importante tomar cuidado para que a produção de um guia não
+seja retardada devido à elaboração de um projeto “faraônico”.
+
+Também há que se considerar que a informação disposta nos
+guias é extremamente sumária e efêmera. As condições do atendi-
+mento (horários, equipamentos, restrições legais etc.) e dos acer-
+vos (organização de antigos acervos, incorporação de novos docu-
+mentos etc.) modificam-se com muita freqüência. Assim, a elabora-
+ção de um guia não pode ser vista como uma atividade definitiva. É
+necessário programar-se para as atualizações deste instrumento já
+no momento da confecção do primeiro guia.
+
+Tecnicamente o guia se divide em duas partes distintas. A pri-
+meira (G1) traz os dados gerais sobre a instituição e sobre as condi-
+ções de consulta, podendo conter, em princípio, as seguintes in-
+formações:
+
+G1(a): nome da instituição;
+G1(b): endereço completo, telefone, fax etc.;
+G1(c): endereço eletrônico (somente se tiver um sistema que
+
+garanta a leitura e a resposta de todos os e-mails);
+G1(d): web site (não indicar endereços eletrônicos provisórios);
+G1(e): dias e horários de consulta (não esquecer de indicar a
+
+situação em férias e feriados);
+
+G1(f): ficha técnica da instituição (indicar tanto a situação na
+estrutura administrativa — se faz parte de uma universida-
+de, de uma fundação etc. e os setores em que se decompõe
+— como o nome e a função dos principais responsáveis);
+G1(g): localização e facilidades externas à instituição (meios
+de transporte, existência nas proximidades de estacionamen-
+tos, lanchonetes, restaurantes, papelarias etc.);
+
+G1(h): breve  histórico  da  instituição,  indicando  sua  situação
+
+atual;
+
+G1(i): perfil do acervo (temático ou não), indicando os objetivos
+e  os  critérios  gerais  para  aquisição  de  fundos  ou  de
+coleções, destacando a importância de seus documentos;
+G1(j): condições e restrições à consulta (se necessita de re-
+querimento  prévio,  se  o  acervo  é  aberto  a  qualquer
+consulente ou apenas ao público especializado, se neces-
+sita de agendamento prévio da consulta,  se  a  consulta  é
+
+23
+
+24
+
+
+COMO FAZER 6 - COMO DESCREVER DOCUMENTOS DE ARQUIVO: ELABORAÇÃO DE INSTRUMENTOS DE PESQUISA
+
+Reproduzimos à direita, à guisa de exemplificação, parte da
+introdução do guia do Arquivo Edgard Leuenroth (AEL-UNICAMP):
+
+paga ou gratuita, se há limites para a requisição de materiais
+(ex: uma caixa de cada vez); se é permitido levar material
+próprio, como pastas e cadernos, para a área de consulta
+etc.);
+
+G1(k): suporte à consulta (indicar os equipamentos de que dis-
+põe — tais como leitora de microfilmes, tomadas para a co-
+nexão de notebooks, equipamentos de áudio e vídeo etc.—
+a existência de uma biblioteca de apoio, a possibilidade de
+acesso à Internet etc.);
+
+G1(l): política de reprodução (se existe possibilidade de repro-
+dução dos documentos: quais as formas, qual o custo e qual
+o prazo);
+
+G1(m): política de intercâmbio institucional (se empresta arqui-
+vos e documentos de e para outras instituições e em que
+condições);
+
+G1(n): formas de acesso aos documentos (indicação dos ins-
+
+trumentos de pesquisa de que dispõe);
+
+G1(o): outras publicações da instituição;
+G1(p): prestação de serviços (se oferece serviços para tercei-
+ros como xerox, reprodução de documentos, transcrição de
+fitas, organização de acervos etc).
+
+25
+
+26
+
+
+COMO FAZER 6 - COMO DESCREVER DOCUMENTOS DE ARQUIVO: ELABORAÇÃO DE INSTRUMENTOS DE PESQUISA
+
+A segunda parte do guia (G2) se preocupa em descrever su-
+mariamente os fundos e as coleções. A melhor forma de fazer isso
+nos parece ser o estabelecimento de verbetes específicos para cada
+conjunto, nos quais deverão constar basicamente os seguintes dados:
+
+G2(a): nome  do  fundo,  da  coleção  ou  do  conjunto  docu-
+
+mental;
+
+G2(b): pequeno histórico contendo:
+
+·  identificação e trajetória do titular (quando cabível);
+·  trajetória do conjunto documental em si (quem gerou,
+acumulou,  custodiou  etc.)  até  a  sua  incorporação  ao
+acervo (modo e data de aquisição, pessoas e institui-
+ções envolvidas );
+
+G2(c): caracterização  sumária  do  perfil  do  fundo  ou  da
+
+coleção;
+
+G2(d): tipos documentais mais freqüentes (quando for re-
+
+levante e possível determinar);
+
+G2(e): documentos complementares (indicar os fundos e
+as coleções na mesma ou em outra instituição que pos-
+sam complementar o conjunto em pauta);
+
+G2(f): condições físicas gerais do acervo, indicando não
+apenas o estado de conservação dos documentos, mas
+também a existência de microfilmes e de cópias para a
+consulta, se for o caso;
+
+G2(g): estágio atual da organização;
+G2(h): quantidade aproximada de documentos e datas-limite;
+G2(i): condições de acesso;
+G2(j): condições de reprodutibilidade;
+G2(k): instrumentos de pesquisa.
+
+27
+
+28
+
+
+COMO FAZER 6 - COMO DESCREVER DOCUMENTOS DE ARQUIVO: ELABORAÇÃO DE INSTRUMENTOS DE PESQUISA
+
+A descrição efetuada pela Central de Documentação e Infor-
+mação  Científica  “Prof.  Casemiro  Reis  Filho”  (CEDIC-PUC/SP),
+reproduzida a seguir, serve para exemplificar um verbete de guia:
+
+INVENTÁRIOS
+
+Os inventários são, pela ordem hierárquica dos níveis da clas-
+sificação, os instrumentos de pesquisa que se seguem ao guia. Eles
+buscam  oferecer  um  quadro  sumário  de  um  ou  mais  fundos  ou
+coleções. O objetivo é descrever as atividades de cada titular, as
+séries integrantes, o volume de documentos, as datas-limite e os
+critérios de classificação e de ordenação. Ao contrário do guia, os
+inventários devem, necessariamente, abordar conjuntos documen-
+tais com algum nível de organização do ponto de vista da classifica-
+ção arquivística. A descrição das séries documentais de cada fundo
+é uma atividade fundamental para permitir o pleno acesso aos do-
+cumentos  de  um  arquivo.  Uma  boa  descrição  de  cada  fundo
+arquivístico permite que o pesquisador consiga detectar, preliminar-
+mente, a possível existência e a localização de documentos de seu
+
+interesse. O acesso a um documento individual e específico ocorre-
+rá mediante o conhecimento dos critérios de classificação e de or-
+denação interna das séries.
+
+Os inventários, por se referirem a conjuntos documentais clas-
+sificados, têm, ao contrário do guia, uma vida útil mais longa. No
+entanto, suas informações deverão ser reavaliadas sempre que no-
+vas inclusões documentais forem feitas (no caso de fundos aber-
+tos), ou novos sistemas de ordenação e de acesso (com o incre-
+mento da informática, por exemplo) forem executados. Pelo fato de
+o inventário ser basicamente um instrumento para a pesquisa espe-
+cializada,  a  elaboração  de  edições  sofisticadas  não  compensa  o
+investimento.
+
+Os inventários também costumam ser apresentados em duas
+partes distintas. A primeira, na forma de introdução, busca descre-
+ver sumariamente o conjunto em pauta, enquanto a segunda procu-
+ra delinear mais especificamente o conteúdo de cada série. Para a
+descrição sumária do fundo, ou da coleção, as informações existen-
+tes no guia serão de grande valia, mas, para o corpo do inventário
+propriamente dito, haverá a necessidade de constituir novos verbetes.
+Para a introdução do inventário (I1) são necessárias as mes-
+mas informações destacadas na segunda parte do guia, acrescidas
+dos seguintes itens:
+
+I1(a): indicação  da  impor tância  dos  documentos
+
+inventariados para a pesquisa;
+
+I1(b): explicação da forma e dos critérios de classificação
+adotados na organização dos documentos em pauta;
+I1(c): delineamento e explicação do plano de classificação
+
+adotado;
+
+I1(d): definição terminológica dos conceitos empregados.
+As referências constitutivas do corpo do inventário (I2) deve-
+
+rão apresentar os seguintes itens:
+
+I2(a): situação no plano de classificação (nome do fundo,
+
+grupo etc.);
+
+I2(b): nome da série e explicação de sua caracterização,
+
+quando necessário;
+
+I2(c): datas-limite e quantidade de documentos;
+
+29
+
+30
+
+
+COMO FAZER 6 - COMO DESCREVER DOCUMENTOS DE ARQUIVO: ELABORAÇÃO DE INSTRUMENTOS DE PESQUISA
+
+I2(d): notação  ou  localização  da  série  no  fundo  ou  na
+
+CATÁLOGOS E ÍNDICES
+
+coleção;
+
+I2(e): forma de ordenação dos documentos dentro da série.
+O excerto do instrumento de pesquisa, reproduzido abaixo —
+elaborado para a organização de documentos do Partido Comunis-
+ta Brasileiro —, é uma amostra da possibilidade de organização de
+informações de um inventário:
+
+Os catálogos e índices constituem instrumentos voltados para
+a localização específica de unidades documentais. O catálogo dará
+continuidade à descrição da série iniciada com o inventário, deten-
+do-se, agora, em cada documento, respeitando ou não a ordenação
+destes dentro da série. Quando necessária, a descrição peça a peça
+também contará com instrumentos de pesquisa divididos em duas
+partes: introdução e corpo.
+
+O fundamental do catálogo é que ele se atenha à compreen-
+são  dos  documentos  dentro  de  suas  relações  orgânicas  com  as
+atividades que os produziram. Só é possível elaborar catálogos de
+séries  que  já  estejam  organizadas  e,  preferencialmente,
+inventariadas. Na introdução do catálogo, deverão constar, além dos
+dados gerais da série (ou séries), levantados por ocasião da con-
+fecção do inventário, as seguintes informações
+
+C1(a): explicação  sobre  a  importância  do  catálogo  e  da
+descrição individualizada dos documentos em questão;
+C1(b): contextualização da(s) série(s) escolhida(s) dentro
+
+das atividades do titular do fundo;
+
+C1(c): indicação dos critérios eleitos para a ordenação dos
+documentos na classificação e na descrição, caso haja
+diferença entre ambas.
+
+A montagem do corpo do catálogo pode adotar tanto o formato
+de  verbete  (mais  recomendável  para  documentação  muito
+diversificada) como o de tabela. De qualquer modo, é necessário
+indicar o seguinte:
+
+C2(a) tipo documental (caso não esteja determinado na série);
+C2(b) título do documento (se houver);
+C2(c) emissor e destinatário (se for o caso);
+C2(d) função imediata do documento (objetivo para o qual foi
+
+produzido);
+
+C2(e) resumo ou descritores do documento;
+
+31
+
+32
+
+
+COMO FAZER 6 - COMO DESCREVER DOCUMENTOS DE ARQUIVO: ELABORAÇÃO DE INSTRUMENTOS DE PESQUISA
+
+C2(f) datas tópica e cronológica;
+C2(g) caracteres externos mais relevantes (número de pági-
+
+nas, formato, dimensão etc.);
+
+C2(h) notação ou localização do documento.
+
+complementados por algum tipo de índice. A título ilustrativo, pode-
+mos verificar, no mesmo instrumento da Coleção Lamego, a indica-
+ção  retirada  do  índice  onomástico  para  a  referência  documental
+reproduzida anteriormente:
+
+A descrição dos manuscritos da Coleção Lamego é um exem-
+plo bastante ilustrativo da disposição das informações em um ver-
+bete de catálogo, como podemos ver abaixo:
+
+Os catálogos seletivos transcendem a dimensão arquivística
+dos catálogos convencionais ao escolher documentos que atendam
+a critérios temáticos, independentemente de sua posição no plano
+de classificação, podendo, inclusive, reunir documentos de fundos
+e arquivos distintos.
+
+Os índices, como instrumentos de pesquisa autônomos, pro-
+curam  decompor  os  documentos  em  descritores,  que  podem  ser
+temáticos, cronológicos, onomásticos, geográficos etc. Os índices
+têm  como  objetivo  permitir  uma  rápida  localização  das  unidades
+documentais que atendam a critérios específicos, tanto de uma úni-
+ca série como de diferentes fundos. Na confecção de índices, deve-
+se tomar muito cuidado com a escolha dos termos a serem utiliza-
+dos.  Em  tais  tarefas  a  utilização  de  vocabulários  controlados  e
+tesauros é imperativa.
+
+Entretanto, a forma mais comum de ocorrência dos índices é
+sua integração dentro de outros instrumentos de pesquisa, visando
+garantir  possibilidades  variadas  de  acesso  aos  documentos  em
+questão. Os instrumentos de pesquisa muito extensos, como os ca-
+tálogos  de  conjuntos  documentais  volumosos,  geralmente  são
+
+33
+
+É importante atentar nesses instrumentos de pesquisa que so-
+mente  algumas  possibilidades  se  configuram  como  inerentes  às
+atividades do arquivo. A descrição de documentos de vários acer-
+vos pode ser uma atividade importante para determinadas pesqui-
+sas; no entanto, não deve ser encarada como uma das obrigações
+da instituição de guarda. Assim, a confecção de catálogos seletivos
+ou de índices que extrapolem o universo de um acervo específico é
+uma  atividade  de  responsabilidade  dos  pesquisadores
+especializados ou dos documentalistas, mas não do arquivista. Uma
+das diferenças básicas do documento arquivístico em relação aos
+documentos  biblioteconômicos  é  a  sua  relação  orgânica  com  as
+atividades do produtor. Isso significa que os documentos arquivísticos
+são sempre produzidos em séries e que sua compreensão se dará
+de um modo coletivo e não isolado. A aplicação de procedimentos
+descritivos às unidades documentais, através de catálogos e de ín-
+dices, deve ser encarada como uma exceção.
+
+PROBLEMAS DE NOMENCLATURA
+
+As definições terminológicas dos instrumentos de pesquisa na
+arquivística brasileira modificaram-se com o tempo, embora o espí-
+rito geral da descrição tenha permanecido o mesmo. O primeiro im-
+pulso no sentido do estabelecimento terminológico dessas atividades
+foi  dado  pela  publicação  do Dicionário Brasileiro de Terminologia
+Arquivística, em 1990, reformulado em 1996 sob o título de Dicioná-
+rio de Terminologia Arquivística. O avanço da profissionalização dos
+arquivistas  no  Brasil  tem  direcionado  a  descrição  para  a
+34
+
+
+COMO FAZER 6 - COMO DESCREVER DOCUMENTOS DE ARQUIVO: ELABORAÇÃO DE INSTRUMENTOS DE PESQUISA
+
+contextualização  dos  documentos  dentro  da  organicidade
+estabelecida pelas séries documentais. Nesse sentido, as exausti-
+vas descrições de peças individualizadas têm dado lugar à confec-
+ção de inventários, na prática cotidiana dos arquivistas. As defini-
+ções  anteriores  à  publicação  dos  dicionários  citados  contemplam
+uma grande gama de instrumentos de pesquisa destinados à des-
+crição de documentos individualizados. Com a nova terminologia,
+tais instrumentos foram incorporados ao conceito de catálogo.
+
+O  quadro  a  seguir  procura  traçar  uma  equivalência
+terminológica, considerando essa alteração e visando o melhor en-
+tendimento de obras ou de instrumentos que tenham sido publica-
+dos de acordo com a terminologia vigente antes da normalização
+proposta pelos dicionários.
+
+Não se pode precisar o momento da mudança. Em geral, as
+obras publicadas a partir de 1995 já incorporam as novas terminolo-
+gias,  enquanto  que  todas  as  anteriores  a  1990  utilizam  a  antiga.
+Determinadas obras publicadas no início dos anos 1990 — mesmo
+algumas nas quais membros da equipe responsável pela elabora-
+ção da primeira versão do Dicionário colaboraram — não incorpora-
+ram a nova terminologia, muitas vezes, em função de os textos já
+estarem prontos e editados nas gráficas.
+
+4
+DIRETRIZES PARA A ELABORAÇÃO DOS
+INSTRUMENTOS DE PESQUISA
+
+A confecção de instrumentos de pesquisa constitui uma das
+atividades essenciais de qualquer instituição detentora de acervos.
+As atividades de descrição, ao lado das de classificação, são eta-
+pas inerentes ao processo de organização de um arquivo. Uma boa
+descrição, entretanto, requer um planejamento adequado que leve
+em  conta  tanto  o  estabelecimento  de  prioridades  (que  conjuntos
+descrever?, que instrumento realizar?) como a infra-estrutura neces-
+sária para tal atividade.
+
+QUE INSTRUMENTO REALIZAR
+
+A escolha do instrumento de pesquisa a ser produzido deve
+ser feita em função do estabelecimento de uma política de descri-
+ção  por  parte  da  entidade.  Essa  política  deve,  em  primeiro  lugar,
+voltar-se para a efetivação do acesso a todos os arquivos de forma
+mais ou menos uniforme. Infelizmente, é muito comum encontrar ins-
+tituições  que  direcionam  grandes  esforços  para  a  classificação  e
+descrição detalhada de determinadas séries ou coleções, relegan-
+do a um segundo plano o restante de seu acervo. É importante lem-
+brar que a importância (histórica, artística, estética etc.) atribuída a
+determinados documentos é sempre embasada em critérios alheios
+às atividades do arquivo. Nesse sentido, a descrição sistemática de
+unidades documentais (por meio de catálogos) só deve se impor
+quando a totalidade do acervo já estiver devidamente descrita em
+inventários. Não obstante, muitas vezes o perfil dos acervos e do
+
+35
+
+36
+
+
+COMO FAZER 6 - COMO DESCREVER DOCUMENTOS DE ARQUIVO: ELABORAÇÃO DE INSTRUMENTOS DE PESQUISA
+
+tipo de consulta dos quais são objeto demandam uma referenciação
+mais individualizada. Para esses casos, uma boa política de descri-
+ção será capaz de estabelecer as prioridades.
+
+A IMPORTÂNCIA DOS GUIAS E DOS INVENTÁRIOS
+
+A primeira atividade de descrição de qualquer instituição de-
+tentora de acervos arquivísticos deve ser a elaboração de um bom
+guia — o que não implica, necessariamente, edições esteticamente
+agradáveis. É a maneira mais rápida e mais eficiente de disponibilizar
+aos pesquisadores em geral uma visão mais global do acervo e da
+instituição de guarda. Mesmo em instituições cujo acervo ainda não
+esteja completamente organizado, o mapeamento geral feito por um
+guia é fundamental para que se possa conhecer melhor a situação
+dos documentos e, assim, elaborar estratégias de organização.
+
+Se o consulente dispuser de um guia que lhe apresente o per-
+fil de cada conjunto documental armazenado pela instituição pode-
+rá localizar rapidamente os documentos de seu interesse, utilizan-
+do, então, os inventários. A descrição individualizada de todo o acer-
+vo, feita sem a elaboração prévia de um quadro de classificação, é
+incapaz de apresentar um panorama geral de cada série documen-
+tal, tal como faria, por exemplo, um inventário. Ainda por meio dos
+inventários,  ele  conseguirá  localizar  documentos  específicos  —
+quando for o caso — mediante a compreensão dos critérios de or-
+denação interna das séries. Com estes dois instrumentos, o acesso
+pleno aos acervos pode ser efetivado. A importância da elaboração
+dos inventários é ratificada por Antonia Heredia, para quem o arquivista:
+
+tem que tirar proveito da minuciosidade, do rigor e da precisão do instrumen-
+to primeiro e primordial da atividade arquivística, que é o inventário. [...] A
+tarefa de inventariar que requer conhecimentos históricos mais amplos e
+gerais para executar uma organização sistemática das séries de um fundo
+completo — fixadas em um Inventário, cumprindo finalidades orientadoras
+—, dificilmente seria possível com um processo mecanizado.4
+
+4 HEREDIA HERRERA, A. Manual de instrumentos de descripción documental; p.32-39. (Trad. livre.)
+37
+
+Os demais instrumentos responsáveis por descrições mais de-
+talhadas de cada unidade documental devem ser encarados como
+um refinamento da política de descrição da instituição. A valoriza-
+ção dada, no passado, à confecção de catálogos é desproporcional
+à importância prática dessa atividade. Os esforços para a realiza-
+ção dos catálogos e dos índices somente devem ser mobilizados
+quando o guia e os inventários estiverem plenamente finalizados.
+
+Apenas em algumas situações excepcionais, ligadas à políti-
+ca  de  acervo  da  instituição,  ou  a  interesses  muito  específicos  de
+consulta, é que o tratamento descritivo de unidades se justifica. A
+descrição extremamente detalhada de peças documentais isoladas,
+por meio de catálogos e de índices, deve ser encarada como uma
+exceção no universo dos arquivos. Não obstante, quando necessá-
+ria, deverá ser realizada rigorosamente, tomando-se o cuidado de
+não desligar os documentos de seu contexto de produção, evidenci-
+ado pelo fundo e pela série. O caráter serial e coletivo dos docu-
+mentos arquivísticos coloca a série — e não os documentos isola-
+dos — como a unidade documental básica.
+
+ETAPAS DE ELABORAÇÃO
+
+Na tarefa de elaboração dos instrumentos de pesquisa é ne-
+cessário saber, em primeiro lugar, em que nível de sintonia se en-
+contram as atividades de descrição em relação às de classificação.
+Como  já  mencionamos  antes,  o  ideal  é  que  a  descrição  seja
+planejada ainda antes da classificação documental. Muitas vezes, o
+gasto de algum tempo extra durante a classificação — para a anota-
+ção de dados relativos à descrição — pode significar uma grande
+racionalização de esforços. Por exemplo: se durante a ordenação
+interna dos documentos de uma série for possível a anotação das
+datas-limite, no momento da descrição não será necessário voltar
+àqueles documentos. A elaboração de inventários de modo integra-
+do à classificação também tem como vantagem o fato de que as
+informações sobre os documentos, sobre os critérios de classifica-
+ção e ordenação etc. estarão “frescos” na mente do arquivista, evi-
+
+38
+
+
+COMO FAZER 6 - COMO DESCREVER DOCUMENTOS DE ARQUIVO: ELABORAÇÃO DE INSTRUMENTOS DE PESQUISA
+
+tando-se a duplicação de esforços. Infelizmente essa situação nem
+sempre  ocorre  e  os  arquivistas  acostumaram-se  a  descrever  a
+posteriori os conjuntos documentais já classificados.
+
+Independentemente de se efetuar a descrição no mesmo mo-
+mento ou após a classificação, é necessário estabelecer uma siste-
+mática de coleta de informações do acervo e de seus documentos.
+Nesse sentido, a utilização de fichas eficientes, informatizadas ou
+manuais, é muito importante. Também é fundamental a realização
+de um bom controle sobre o preenchimento e o processamento das
+fichas, a fim de se garantir uma padronização rigorosa. A criação de
+manuais de preenchimento e a revisão sistemática são imprescindí-
+veis. Igualmente importante é ter controle do vocabulário e das si-
+glas utilizadas. O preenchimento em suporte informatizado diminui
+os encargos do revisor, graças aos bloqueios e padrões que podem
+ser previamente programados; o esquema geral, porém, permanece
+o mesmo.
+
+As fichas devem conter outros campos além daqueles requeri-
+dos pelo verbete em si, os quais contemplarão informações de uso
+interno para viabilização e para controle do trabalho, tais como: nú-
+mero da ficha, indicação de quem a preencheu, localização topo-
+gráfica das unidades de armazenamento etc. A seguir apresenta-
+mos,  à  guisa  de  exemplificação,  a  ficha  confeccionada  para
+mapeamento do acervo do Centro Paranaense de Documentação e
+Pesquisa (CPDP) e o manual correspondente:
+
+39
+
+40
+
+
+COMO FAZER 6 - COMO DESCREVER DOCUMENTOS DE ARQUIVO: ELABORAÇÃO DE INSTRUMENTOS DE PESQUISA
+
+A listagem a seguir procura sintetizar as principais etapas da
+
+confecção de um instrumento de pesquisa:
+
+E(a): planejamento e definição de prioridades:
+
+· escolha do material a ser descrito;
+· escolha do tipo de instrumento;
+· definição da forma de divulgação do instrumento;
+· definição dos recursos materiais, humanos e financeiros;
+· estabelecimento de cronograma;
+
+E(b): estabelecimento do conteúdo do instrumento:
+
+· definição das informações a serem apresentadas;
+· definição do modo pelo qual as informações serão
+apresentadas;
+· estabelecimento  do  sistema  de  coleta  e  de
+processamento dos dados;
+
+E(c): preparação para o recolhimento das informações:
+
+· definição dos elementos do sistema informatizado (se
+for o caso);
+· elaboração de fichas para coleta da informação;
+· elaboração de manuais para o preenchimento das fi-
+chas a fim de se garantir sua correta utilização e a ma-
+nutenção de um padrão;
+·
+·
+·
+preenchimento das fichas;
+· escolha  de  um  técnico  responsável  pelo  preenchi-
+mento (será o revisor das fichas, com o objetivo de ga-
+rantir a padronização das informações);
+
+teste das fichas e do manual em uma parte do acervo;
+finalização das fichas e do manual;
+treinamento  do  pessoal  técnico  responsável  pelo
+
+E(d): recolhimento das informações:
+· preenchimento das fichas;
+·
+
+revisão das fichas;
+
+E(e): confecção do instrumento de pesquisa;
+E(f): divulgação do instrumento de pesquisa.
+
+41
+
+42
+
+
+COMO FAZER 6 - COMO DESCREVER DOCUMENTOS DE ARQUIVO: ELABORAÇÃO DE INSTRUMENTOS DE PESQUISA
+
+5
+
+FORMATOS DE DIVULGAÇÃO
+DOS INSTRUMENTOS DE PESQUISA
+
+A escolha do formato mais apropriado para a divulgação dos
+instrumentos de pesquisa deve levar em consideração sua dupla
+função no acervo: controle e acesso. Dessa forma, instrumentos mais
+ligados ao controle do acervo demandarão um formato menos ela-
+borado e, por vezes, mais funcional. Por outro lado, quando o objetivo
+principal for uma ampla difusão, formas mais abrangentes de divul-
+gação deverão ser buscadas. Isso significa que a escolha do forma-
+to para a difusão do instrumento varia em função dos objetivos que
+norteiam sua criação. Também é preciso ter em mente as disponibi-
+lidades financeiras, lembrando-se que nem sempre a solução mais
+cara e elaborada é a mais adequada para o que se pretende.
+
+PARA USO LOCAL (FICHÁRIO, ENCADERNADO ETC.)
+
+Instrumentos mais ligados ao controle do acervo, voltados prin-
+cipalmente para uma aplicação dentro da própria instituição, podem
+ser feitos em forma de fichários (manuais ou eletrônicos), compos-
+tos, por exemplo, por fichas de coleta de informações. Apesar de
+propiciar um acesso restrito, têm grande eficácia, dependendo da
+qualidade da descrição efetuada. Entre seus pontos positivos des-
+tacam-se o baixo custo e a facilidade de atualização, sendo alta-
+mente recomendáveis para os casos em que as informações sobre
+os conjuntos documentais sejam efêmeras, devido à inclusão/ex-
+clusão constante de documentos. Uma versão eletrônica de um fi-
+chário tem a vantagem (dependendo do tamanho) de ser portátil e
+fácil de ser copiada a baixo custo.
+
+44
+
+
+COMO FAZER 6 - COMO DESCREVER DOCUMENTOS DE ARQUIVO: ELABORAÇÃO DE INSTRUMENTOS DE PESQUISA
+
+O fichário, entretanto, apresenta um caráter provisório. À medi-
+da que as informações da parte descrita adquirem mais estabilida-
+de, é recomendável fixá-las também em um formato mais estável. A
+produção de volumes encadernados — com espiral, por exemplo —
+é uma alternativa simples e eficaz para que o instrumento passe a
+ter status de publicação, ainda que artesanal, em um formato mais
+agradável para a consulta do que o fichário. O volume encadernado
+também pode ser distribuído a bibliotecas, a outras instituições de
+arquivo e até a pesquisadores, permitindo uma divulgação maior do
+acervo. A divulgação de instrumentos de pesquisa na forma de volu-
+mes encadernados talvez seja uma das melhores soluções atuais,
+se pensarmos na relação custo/benefício.
+
+Não obstante, é preciso ter em mente que a aparência artesanal
+do  volume  encadernado  pode  atrapalhar  na  divulgação  para  um
+público mais amplo. A criação de um guia, voltado apenas para o
+pessoal  técnico  da  instituição  e  para  o  usuário  especializado,  no
+formato de volume encadernado, é perfeitamente adequada. Esse
+público-alvo preocupa-se principalmente com a precisão das infor-
+mações e não com a sua disposição estética. Entretanto, se o guia
+for feito com o intuito de divulgação para um público não especi-
+alizado — visando apresentar-se como um cartão de visita da insti-
+tuição —, a edição em espiral não é recomendável. Nesse caso, o
+que está em pauta não é apenas a qualidade das informações, po-
+rém o modo como elas são apresentadas. Os demais instrumentos
+de pesquisa, por sua própria natureza mais técnica, não enfrentam
+tantos problemas em relação a uma divulgação artesanal, uma vez
+que o tipo de informação que contêm é, por excelência, voltado ao
+público  especializado.
+
+PARTE DE PUBLICAÇÃO
+(EM REVISTA OU EM OBRA COLETIVA)
+
+A publicação de instrumentos de pesquisa, sobretudo de gui-
+as e de pequenos inventários, em obras coletivas, como revistas
+científicas, anais de congressos ou coletâneas, nos parece uma for-
+ma de divulgação extremamente eficiente e igualmente barata. Nes-
+45
+
+sas publicações há a garantia de ampla circulação em um público
+altamente especializado. Não são recomendáveis, entretanto, quan-
+do o objetivo da difusão é atingir um público mais amplo.
+
+Esse tipo de difusão requer um nível de classificação e de des-
+crição razoavelmente avançado. É necessário considerar, ainda, que
+geralmente o tempo mínimo decorrido entre o envio dos originais e
+o lançamento da publicação supera um ano. De igual modo, é preci-
+so lembrar que o momento do lançamento da publicação represen-
+ta apenas o início de um longo período de difusão do instrumento,
+que compreende as doações dos autores, a entrada das obras em
+bibliotecas, o tempo necessário para elaboração de resumos e de
+resenhas da obra, a indicação do trabalho em teses e em artigos
+etc.  Assim,  há  que  se  tomar  cuidado  para  que  as  informações
+divulgadas se mantenham fidedignas não apenas no momento do
+envio dos originais, mas, pelo menos, durante meia década.
+
+Garantir a precisão das informações por tanto tempo não sig-
+nifica manter estática a organização do acervo. Os avanços da clas-
+sificação e da descrição devem correr naturalmente, mesmo porque
+o acúmulo documental — por meio de produção cotidiana, transfe-
+rência, recolhimento, compra ou doação — é uma constante nos ar-
+quivos. Assim, não haverá problema se determinado fundo descrito
+no guia como “não organizado” vier a ser organizado ou se novos
+documentos forem acrescentados ao acervo. O que não pode acon-
+tecer é a informação publicada deixar de guardar similaridade com
+a realidade do arquivo; por exemplo, se ocorrer modificação nos sis-
+temas de classificação, ordenação etc.
+
+PUBLICAÇÃO AUTÔNOMA FORMAL
+(LIVRO, FASCÍCULO ETC.)
+
+A  publicação  autônoma  formal  —  definida  em  oposição  às
+edições artesanais encadernadas com espiral — tem como vanta-
+gem transmitir uma imagem mais rigorosa do instrumento de pes-
+quisa. No entanto, deve-se considerar que o rigor não está na forma
+
+46
+
+
+COMO FAZER 6 - COMO DESCREVER DOCUMENTOS DE ARQUIVO: ELABORAÇÃO DE INSTRUMENTOS DE PESQUISA
+
+da publicação em si, porém na qualidade do trabalho arquivístico. A
+transformação de um trabalho de descrição mal executado em livro
+em nada contribui para a imagem da instituição. O nível de corres-
+pondência entre as informações publicadas e a realidade do acervo
+deve ser muito alto, garantindo uma razoável permanência. De modo
+geral, a exigência do público — especializado ou não — é bem maior
+em  relação  às  publicações  autônomas  do  que  em  relação  às  de
+caráter coletivo ou provisório, demandando cuidados redobrados. O
+custo mais elevado das publicações autônomas impõe que a opção
+por esse tipo de divulgação seja resultante de uma criteriosa avalia-
+ção da relação custo/benefício.
+
+A consulta a instrumentos descritivos pelos pesquisadores fora
+do ambiente do arquivo pode, muitas vezes, ser muito útil. O acesso
+às informações por parte do consulente em seu próprio ambiente de
+pesquisa  possibilita  uma  seleção  prévia  dos  materiais  a  serem
+pesquisados, permitindo um planejamento e, conseqüentemente, um
+melhor aproveitamento da visita ao arquivo. Nesse sentido, a edição
+de instrumentos como publicações autônomas — e a sua corres-
+pondente distribuição ao público especializado — deve ser encara-
+da também como uma forma de incrementar o atendimento ao públi-
+co e o acesso ao acervo.
+
+SUPORTE ELETRÔNICO (CD, DISQUETE, INTERNET)
+
+A edição eletrônica vem se tornando uma alternativa prática e
+de baixo custo em relação às edições convencionais. No entanto, a
+divulgação de instrumentos de pesquisa em suportes informáticos
+deve levar em conta o caráter efêmero desses suportes, a necessi-
+dade de equipamentos e softwares adequados, além de pressupor
+um certo nível de conhecimento informático por parte do público em
+questão. Nesse sentido, tais limitações devem ser pesadas na hora
+da opção por uma difusão informatizada.
+
+Com  o  barateamento  dos  custos  e  com  a  ampliação  das
+potencialidades da informática, algumas instituições já permitem o
+acesso on-line, via Internet, não só a seus instrumentos de pesqui-
+sa, como também a alguns documentos do acervo. O escaneamento
+e a inclusão em CD-ROM de conjuntos documentais inteiros têm sido
+cada vez mais freqüentes. É possível que, em breve, a terminologia
+arquivística se veja obrigada a incorporar um novo tipo de catálogo
+que, em vez de descrever, reproduza digitalmente os documentos.
+No entanto, o fundamental é que não se perca a organicidade exis-
+tente dentro do conjunto documental.
+
+A  despeito  das  sedutoras  possibilidades  abertas  pela
+informática, não podemos nos esquecer de que ela é apenas uma
+ferramenta destinada a auxiliar em um trabalho arquivístico, cuja ló-
+gica o computador desconhece. A correta descrição arquivística deve
+ocorrer como resultado complementar da atividade de classificação
+— fiel ao princípio da proveniência — e não como processo auto-
+mático,  apenas  resultante  da  inserção  desordenada  de  dados  no
+computador, alimentado pela ilusão de que a máquina será capaz
+de restabelecer a lógica interna das séries e das unidades docu-
+mentais. A informação desorganizada, quando informatizada, conti-
+nua sendo apenas informação desorganizada.
+
+Atualmente, contamos com três formas de difusão eletrônica
+de  dados,  mais  ou  menos  acessíveis  a  todos  os  consulentes:  os
+disquetes, os CDs e a Internet. Cada uma delas tem especificidades
+que devem ser ponderadas, sempre tendo em mente o tipo de ins-
+trumento que será realizado. A divulgação de um guia, por exemplo,
+enquadra-se com perfeição ao perfil da Internet, por seu pequeno
+volume de dados, pela sua necessidade de atualização constante e
+pela sua vocação em se converter em cartão de visita da instituição.
+Um catálogo muito extenso, por outro lado, seria mais adequado a
+um CD-ROM, tanto em função de seu tamanho como em função de
+seu caráter mais estável. O quadro a seguir procura sintetizar as
+principais  diferenças  existentes  entre  esses  meios  de  divulgação
+eletrônica:
+
+47
+
+48
+
+
+COMO FAZER 6 - COMO DESCREVER DOCUMENTOS DE ARQUIVO: ELABORAÇÃO DE INSTRUMENTOS DE PESQUISA
+
+REFERÊNCIAS GERAIS SOBRE
+OS INSTRUMENTOS DE PESQUISA
+
+GLOSSÁRIO DOS TERMOS UTILIZADOS
+
+As explicações dos termos aqui apresentados foram transcri-
+
+tas e/ou traduzidas das seguintes obras:
+Þ CONSEJO INTERNACIONAL DE ARCHIVOS. ISAD (G): norma internacional
+
+general de descripción archivística; ISAD-ESP;
+
+Þ CONSELHO  INTERNACIONAL  DE  ARQUIVOS.  ISAD (G):  normas gerais
+
+internacionais de descrição em arquivo; ISAD-BRA;
+
+Þ DICCIONARIO de terminología archivística; DIC-ESP;
+Þ DICIONÁRIO de terminologia arquivística; DIC-BRA;
+Þ INTERNATIONAL COUNCIL ON ARCHIVES. ISAD (G): general international
+
+standard archival description. 2ª ed; ISAD-2ª ed.
+
+Catálogo: instrumento de pesquisa em que a descrição exaustiva
+ou parcial de um fundo ou de uma ou mais de suas subdivisões
+toma por unidade a peça documental, respeitada ou não a ordem
+de classificação. DIC-BRA
+
+Catálogo seletivo: catálogo que toma por unidade documentos pre-
+viamente selecionados, pertencentes a um ou mais fundos ou ar-
+quivos, segundo um critério temático. DIC-BRA
+
+Classificação: seqüência de operações que, de acordo com as di-
+ferentes estruturas, funções e atividades da entidade produtora,
+visam a distribuir os documentos de um arquivo. DIC-BRA
+
+Coleção: reunião artificial de documentos que, não mantendo relação
+orgânica entre si, apresentam alguma característica comum. DIC-BRA
+Datas-limite: elemento de identificação cronológica em que são men-
+cionados os anos de início e término do período abrangido pelos do-
+cumentos de um processo, dossiê, série, fundo ou coleção. DIC-BRA
+
+49
+
+50
+
+
+COMO FAZER 6 - COMO DESCREVER DOCUMENTOS DE ARQUIVO: ELABORAÇÃO DE INSTRUMENTOS DE PESQUISA
+
+Descrição: fase do tratamento arquivístico destinada à elaboração
+de instrumentos de pesquisa para facilitar o conhecimento e a con-
+sulta  dos  fundos  documentais  e  das  coleções  dos  arquivos.
+DIC-ESP
+
+Forma: uma classe de documentos distinguidos com base em ca-
+racterísticas documentais físicas (por exemplo, aquarela, desenho)
+e/ou intelectuais (por exemplo, diário, jornal, agenda, livro de mi-
+nutas) comuns. ISAD-2ª; ed Forma, espécie ou tipo de documento
+incluído na unidade de descrição, por exemplo, cartas, livros de
+registro.  ISAD-BRA; O mesmo que tipologia. ISAD-ESP
+
+Fundo de arquivo: conjunto de documentos, de qualquer formato
+ou suporte, produzidos organicamente e/ou reunidos e utilizados
+por  uma  pessoa  física,  família  ou  organismo  no  exercício  das
+atividades e funções deste produtor. ISAD-ESP
+
+Guia:  instrumento  de  pesquisa  que  fornece  informações  básicas
+
+sobre um ou mais arquivos e seus fundos. DIC-BRA
+
+Índice:  produto  da  indexação,  como  instrumento  de  pesquisa
+autônomo ou complemento de outro. DIC-BRA; Indexação: processo
+pelo qual se relacionam de forma sistemática descritores ou pala-
+vras-chave que permitem a recuperação posterior do conteúdo de
+documentos e informações. DIC-BRA
+
+Instrumentos de controle: instrumentos elaborados nas fases de
+identificação e avaliação. (...) os instrumentos de controle são os
+seguintes: fichários de organismos, fichários de tipos documen-
+tais, controles de séries, planos de classificação, registros topo-
+gráficos, registro gráfico de depósitos; e na fase de avaliação: rela-
+ções, tabelas de temporalidade, registros gerais de entrada e saí-
+da, relações de eliminação, informes e projetos de eliminação, re-
+lação de testemunhos resultantes de amostragem etc. DIC-ESP
+Inventário: instrumento de pesquisa em que a descrição exaustiva
+ou parcial de um fundo ou de uma ou mais de suas subdivisões
+toma por unidade a série, respeitada ou não a ordem de classifica-
+ção. DIC-BRA
+
+Ordenação: disposição dos documentos de uma série, a partir de
+elemento convencionado para sua recuperação [alfabético, crono-
+
+lógico,  geográfico,  numérico-cronológico,  numérico  simples,
+temático, temático-dicionário, temático-enciclopédico]. DIC-BRA
+Organicidade:  qualidade  segundo  a  qual  os  arquivos  refletem  a
+estrutura, funções e atividades da entidade acumuladora em suas
+relações internas e externas. DIC-BRA
+
+Plano de classificação: esquema pelo qual se processa a classifi-
+cação de um arquivo. DIC-BRA; Instrumento de controle resultante da
+fase de identificação, que reflete a organização de um fundo docu-
+mental ou da totalidade dos fundos de um arquivo e contém os
+dados essenciais de sua estrutura (denominação de grupos, séri-
+es, datas-limite etc.). DIC-ESP
+
+Princípio da proveniência: princípio segundo o qual os arquivos
+originários de uma instituição ou de uma pessoa devem manter
+sua individualidade, não sendo misturados aos de origem diversa.
+DIC-BRA
+
+Proveniência: a relação existente entre os documentos e as insti-
+tuições ou indivíduos que os criaram, acumularam e/ou mantive-
+ram  e  utilizaram  na  condução  de  atividades  pessoais  ou
+institucionais. ISAD-ESP
+
+Recolhimento: passagem de documentos do arquivo intermediário
+
+para o arquivo permanente. DIC-BRA
+
+Série documental: seqüência de unidades de um mesmo tipo do-
+cumental. DIC-BRA; Documentos organizados de acordo com o pro-
+cedimento administrativo ou conservados como uma unidade por-
+que são o resultado da mesma gestão ou procedimento, ou da mes-
+ma atividade, têm uma mesma tipologia, ou devido a qualquer outra
+relação derivada de sua criação, recepção ou utilização. ISAD-ESP
+Teoria das três idades: sistematização das características dos ar-
+quivos correntes, intermediários e permanentes quanto à sua gê-
+nese, tratamento documental e utilização. DIC-BRA
+
+Tesauro: vocabulário controlado, baseado nas relações de hierar-
+quia, sinonímia e outras, no âmbito de uma ou mais áreas do co-
+nhecimento. DIC-BRA
+
+Tipologia documental:  estudo  dos  tipos  documentais.  DIC-BRA
+Tipo documental: configuração que assume uma espécie docu-
+mental de acordo com a atividade que a gerou. DIC-BRA; Tipologia:
+
+51
+
+52
+
+
+COMO FAZER 6 - COMO DESCREVER DOCUMENTOS DE ARQUIVO: ELABORAÇÃO DE INSTRUMENTOS DE PESQUISA
+
+o tipo de documento que pode existir em uma unidade de descri-
+ção, por exemplo: cartas, livros de atas. ISAD-ESP
+
+Transferência: passagem de documentos do arquivo corrente para
+
+o arquivo intermediário. DIC-BRA
+
+Vocabulário controlado: lista uniformizada ou padronizada de ter-
+mos usados para garantir a recuperação da informação. DIC-BRA
+
+BIBLIOGRAFIA
+
+ARQUIVO EDGARD LEUENROTH. Guia 1990. Campinas: IFCH, 1990.
+ASSOCIAÇÃO DOS ARQUIVISTAS BRASILEIROS (Núcleo Regi-
+onal  de  São  Paulo).  Dicionário brasileiro de terminologia
+arquivística: contribuição para o estabelecimento de uma termi-
+nologia arquivística em língua portuguesa. São Paulo: CENADEM, 1990.
+BELLOTTO, Heloísa Liberalli. Descrição: processo e instrumentos.
+Arquivo Rio Claro. Rio Claro (SP): Arquivo Público e Histórico do
+Município de Rio Claro, v.6, n.1, p. 8-30, jan. 1987; v.6, n.2, p. 40-
+49, jun. 1987.
+
+CONSEJO INTERNACIONAL DE ARCHIVOS. ISAD (G): norma in-
+ternacional general de descripción archivística. Trad. Luiz García
+et al. Madrid: Ministerio de Cultura, 1995.
+
+CONSELHO INTERNACIONAL DE ARQUIVOS. ISAD (G): normas
+gerais internacionais de descrição em arquivo. Trad. Vitor Manoel
+Fonseca et al. Rio de Janeiro: Arquivo Nacional, 1998.  (Publica-
+ções Técnicas, 48).
+
+CORTÉS ALONSO, Vicenta. Prólogo. In: HEREDIA HERRERA, A.
+
+La norma ISAD (G); p. 9-11. Ver abaixo.
+
+DICCIONARIO de terminología archivística. 2. ed. Madrid: Ministerio
+de Cultura, 1995. (Normas técnicas de la Subdirección General
+de los Archivos Estatales, 1).
+
+DICIONÁRIO de terminologia arquivística. São Paulo: Associação
+dos Arquivistas Brasileiros (Núcleo Regional de São Paulo); Se-
+cretaria de Estado da Cultura, 1996.
+
+DICIONÁRIO brasileiro de terminologia arquivística. Ver: ASSOCIA-
+
+ÇÃO DOS ARQUIVISTAS BRASILEIROS.
+
+Guia da Central de Documentação e Informação Científica “Prof.
+Casemiro Reis Filho”. São Paulo: EDUC, 1995. (Memória, docu-
+mentação e pesquisa, 3).
+
+HEREDIA HERRERA, Antonia. Manual de instrumentos de descrip-
+
+ción documental. Sevilla: Diputación Provincial, 1982.
+
+53
+
+54
+
+
+COMO FAZER 6 - COMO DESCREVER DOCUMENTOS DE ARQUIVO: ELABORAÇÃO DE INSTRUMENTOS DE PESQUISA
+
+__________. La norma ISAD (G) y su terminología: análisis, estudio y
+
+alternativas. Madrid: Anabad/Arco, 1995. (Normas).
+
+INTERNATIONAL COUNCIL ON ARCHIVES. ISAD (G): general in-
+ternational standard archival description. 2. ed. Ottawa, 2000.
+LOPEZ, André Porto Ancona. Tipologia documental de partidos e
+associações políticas brasileiras. São Paulo: História Social USP/
+Loyola, 1999. (Teses).
+
+__________. Centro Paranaense de Documentação e pesquisa:
+mapeamento e confecção de guia. Relatório de pesquisa, 1996.
+Universidade Estadual de Maringá, Pró-Reitoria de Pesquisa e
+Pós-Graduação. Processo 01665/95.
+
+MIGUEIS, Maria Amélia Porto. Roteiro para elaboração de instru-
+mentos  de  pesquisa. Arquivo & Administração.  Rio  de  Janeiro,
+v.5, n. 2, p.7-20, ago. 1976.
+
+NOGUEIRA, Arlinda Rocha; BELLOTTO, Heloísa Liberalli; HUTTER,
+Lucy  Maffei.  Inventário analítico dos manuscritos da Coleção
+Lamego.  São Paulo: IEB-USP, 1983. 2 v.
+
+OUTRAS OBRAS DE INTERESSE
+
+Com  o  incremento  da  profissionalização  dos  arquivistas  no
+Brasil, sobretudo a partir da década de 1990, inúmeras publicações
+vêm surgindo a todo momento. Para não cometer injustiças, as refe-
+rências abaixo não pretendem mostrar nem o mais significativo nem
+o mais importante de nossa literatura técnica. Trata-se somente de
+indicações de algumas obras que, de algum modo, complementam
+as idéias aqui expostas e que, em princípio, podem ser adquiridas
+com alguma facilidade.
+Þ As referências básicas sobre as atividades de descrição e os di-
+ferentes tipos de instrumentos de pesquisa encontram-se em:
+
+·BELLOTTO,  Heloísa,  Liberalli.  Arquivos permanentes:
+
+tratamento documental. São Paulo: TAQ, 1991.
+
+É uma obra que se tornou referência na literatura arquivística
+brasileira. Com relação à descrição, tomamos por base funda-
+mentalmente o cap. 11, “O processo da descrição: instrumen-
+
+tos de pesquisa”, que aprimora os artigos publicados em 1987,
+no  Arquivo  Rio  Claro,  já  citados.  Apesar  de  a  edição  ser  de
+1991, a redação é de 1988, obrigando à adaptação da termi-
+nologia usada nesse capítulo de acordo com o quadro apre-
+sentado na página 22.
+
+Þ Outra obra de caráter geral é o CD-ROM contendo os Anais do
+10º Congresso da Associação dos Arquivistas Brasileiros. Ape-
+sar de o congresso ter ocorrido em 1994, o CD só foi publicado em
+1998 e apresenta um grande mosaico (mais de 100 textos) sobre
+a arquivística brasileira:
+
+·CONGRESSO BRASILEIRO DE ARQUIVOLOGIA, 10º, 1994,
+São  Paulo.  Anais do 10º Congresso Brasileiro de
+Arquivologia: rumos e consolidação da arquivologia. São
+Paulo:  Associação  dos  Arquivistas  Brasileiros  (Núcleo
+Regional de São Paulo), 1988 (CD-ROM).
+
+Em relação direta com os tópicos aqui tratados os Anais apre-
+sentam uma boa síntese das críticas que Antonia Heredia faz
+à norma ISAD (G) no texto Observaciones sobre la norma ISAD
+(G).  Os  princípios  básicos  do  sistema  multinível  estão
+exemplificados nos materiais apresentados por Jaime Antunes
+Silva em Descrição multinível: regras da descrição. Ana Célia
+Navarro de Andrade e Viviane Tessitore explicam como elabo-
+raram o Guia da CEDIC, seguindo a norma ISAD (G), no texto Ela-
+boração de guias: a experiência de um centro de documenta-
+ção universitário sobre movimentos sociais. Outros relatos so-
+bre experiências com instrumentos de pesquisa podem ser ob-
+servados em: MARTINS, Daniela Francescutti.  Relações entre o
+usuário e o guia de fundos na era digital: um relato de experiên-
+cias; MIRANDA, Vânia Regina. Projeto NURC: a elaboração de um
+instrumento de pesquisa e LOPEZ, André.  Integração de cen-
+tros de documentação: a definição de patamares teóricos co-
+muns como atividade preliminar.
+
+Þ A versão oficial da norma ISAD (G) encontra-se disponível no web
+site do Conselho Internacional de Arquivos, em inglês e em francês:
+
+·<http://www.ica.org/cds/isad(g)e.html>
+·<http://www.ica.org/cds/isad(g)f.html>
+
+55
+
+56
+
+
+COMO FAZER 6 - COMO DESCREVER DOCUMENTOS DE ARQUIVO: ELABORAÇÃO DE INSTRUMENTOS DE PESQUISA
+
+Þ A versão espanhola da norma, assim como a íntegra da análise
+de Antonia Heredia sobre ela, além do dicionário de terminologia
+dos arquivistas espanhóis, referidos anteriormente, podem ser en-
+comendados no web site da Associação Espanhola de Arquivis-
+tas, Bibliotecários e Documentalistas (ANABAD) em:
+
+·<http://www.anabad.org/catalogo.htm>
+
+Þ Publicações relativas à arquivologia em língua espanhola tam-
+bém podem ser encontradas no web site da livraria Marcial Pons
+(Espanha), que contém uma seção dedicada aos arquivos:
+
+·<http://www.marcialpons.es>
+
+Þ Com relação às nossas concepções sobre tipologia documental,
+além do livro já citado, a comunicação Tipologia documental e
+história, parte integrante do CD ANAIS DO 10º CBA, traz algu-
+mas reflexões a esse respeito. Maiores informações sobre o livro
+podem ser obtidas na Internet em:
+
+·<http://sites.uol.com.br/tipologia/>
+
+Þ Algumas diretrizes básicas sobre a publicação de textos em CD-
+
+ROMs podem ser vistas em:
+
+·LOPEZ, André Porto Ancona. Publicação em CD-ROM: uma
+alternativa à edição convencional para divulgação de tra-
+balhos de Ciências Humanas. Revista da Aduem.  Maringá:
+Associação  dos  Docentes  da  Universidade  Estadual  de
+Maringá, v.2, n.1, p.29-33, jan./jun. 1999.
+
+Esse artigo também está disponível na Internet em:
+·<http://www.aduem.org.br/revista2/publicacao_em_cd-
+
+rom.htm>
+
+57
+
+

@@ -1,0 +1,3455 @@
+ARQUIVO PÚBLICO DO ESTADO 
+
+Sistema de Arquivos do Estado de São Paulo – SAESP 
+
+MMaannuuaall  ddee  AApplliiccaaççããoo  ddoo  PPllaannoo  ddee  CCllaassssiiffiiccaaççããoo  
+TREINAMENTO 
+Sistema de Arquivos do Estado de São Paulo - SAESP 
+ee  TTaabbeellaa  ddee  TTeemmppoorraalliiddaaddee  ddee  DDooccuummeennttooss  ddaa  
+
+AAddmmiinniissttrraaççããoo  PPúúbblliiccaa  ddoo  EEssttaaddoo  ddee  SSããoo  PPaauulloo::  
+
+AAttiivviiddaaddeess--MMeeiioo  
+
+Manual de aplicação do Plano de Classificação e Tabela de 
+
+Temporalidade de Documentos da Administração 
+
+Pública do Estado de São Paulo:  Atividades-Meio 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+Manual de aplicação do Plano de Classificação e 
+Tabela de Temporalidade de Documentos da 
+Administração Pública do Estado de São Paulo: 
+Atividades-Meio 
+
+Ieda Pimenta Bernardes (Coordenação) 
+Hilda Delatorre 
+Camila Brandi de Souza 
+Eliana Martinelli 
+
+Governo do Estado de São Paulo 
+São Paulo 
+2008 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+GOVERNO DO ESTADO DE SÃO PAULO 
+
+José Serra 
+Governador 
+
+CASA CIVIL 
+
+Aloysio Nunes Ferreira Filho 
+Secretário Chefe 
+
+ARQUIVO PÚBLICO DO ESTADO 
+
+Carlos de Almeida Prado Bacellar 
+Coordenador 
+
+DEPARTAMENTO DE GESTÃO DO SISTEMA DE 
+ARQUIVOS DO ESTADO DE SÃO PAULO - SAESP 
+
+Ieda Pimenta Bernardes 
+Diretora Técnica 
+
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+______________________________________________________________________________________________________________________ 
+
+FICHA CATALOGRÁFICA 
+
+ Ieda Pimenta Bernardes (Coordenação) 
+       Aplicação do plano de classificação e tabelas de temporalidade de documentos da 
+       administração pública do Estado de São Paulo: atividades-meio / Ieda Pimenta Bernardes, 
+       Hilda Delatorre, Camila Brandi de Souza, Eliana Martinelli. São Paulo: Arquivo Público  
+       do Estado de São Paulo, 2008 
+       72 p. 
+
+       ISBN: 978-85-61599-01-0 
+
+       1. Arquivologia 2. Arquivos públicos – São Paulo (Estado) 3. Gestão documental 4. Plano de      
+classificação 5. Tabela de temporalidade 6. Documentos Públicos – São Paulo (Estado) 
+I. Título 
+______________________________________________________________________________  
+
+Copyright ã 2008 by Sistema de Arquivos do Estado de São Paulo – SAESP 
+Rua Voluntários da Pátria, 596, 02010-000, São Paulo-SP 
+Fone: (0xx11) 6221-3990 
+saesp@arquivoestado.sp.gov.br 
+www.saesp.sp.gov.br 
+
+Arquivo Público do Estado 
+www.arquivoestado.sp.gov.br 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Manual de aplicação do Plano de Classificação e 
+
+Tabela de Temporalidade de Documentos: 
+Atividades-Meio 
+
+Este manual foi preparado pela equipe de técnicos em arquivo do Sistema de Arquivos do Estado de São 
+Paulo - SAESP para subsidiar o treinamento “Aplicação da Tabela de Temporalidade das Atividades-
+Meio”, oferecido pelo Arquivo do Estado, na condição de órgão central do SAESP, às Comissões de 
+Avaliação de Documentos instituídas nos órgãos e entidades do governo paulista. 
+
+ 
+ 
+
+Índice  
+
+M Ó D U L O   1  
+
+Arquivo do Estado 
+
+Sistema de Arquivos do Estado de São 
+
+Paulo – SAESP 
+
+Legislação arquivística 
+
+M Ó D U L O   4  
+
+Benefícios da Gestão Documental pra a 
+
+Administração Pública do Estado de São 
+
+Paulo 
+
+35 
+
+6 
+
+6 
+
+7 
+
+A N E X O   I  
+
+M Ó D U L O   2  
+
+Ementas das Funções e Subfunções 
+
+36 
+
+Um Sistema de Gestão Documental para 
+
+o Estado de São Paulo 
+
+9 
+
+A N E X O   I I  
+
+Objetivos do Projeto Um Sistema de 
+
+Legislação 
+
+42 
+
+A N E X O   I I I  
+
+Dicas para conservar o documento 
+
+70 
+
+Gestão Documental para o Estado de São 
+
+Paulo 
+
+Breve histórico do Projeto 
+
+Agentes envolvidos no Projeto 
+
+Estratégias adotadas no 
+
+desenvolvimento do Projeto 
+
+Produtos do Projeto 
+
+10 
+
+11 
+
+12 
+
+12 
+
+13 
+
+MÓDULO   3 
+
+Aplicação do Plano de Classificação e da 
+
+Tabela de Temporalidade 
+
+Planejamento das atividades 
+
+14 
+
+15 
+
+Quem tem competência para planejar as 
+
+atividades de aplicação do Plano de 
+
+Classificação e da Tabela de 
+
+Temporalidade no órgão ou entidade? 
+
+16 
+
+O que justifica a realização do trabalho?  18 
+
+Conhecer a produção documental 
+
+18 
+
+Plano de Classificação de Documentos  20 
+
+Índice alfabético, remissivo e permutado 25 
+
+Tabela de Temporalidade de Documentos27 
+
+Como eliminar documentos públicos com 
+
+segurança? 
+
+30 
+
+Como aplicar o Plano de Classificação e 
+
+a Tabela de Temporalidade na massa 
+
+documental acumulada? 
+
+33 
+
+ 
+ 
+ 
+ 
+ 
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+Módulo  
+
+ARQUIVO DO ESTADO  
+
+I 
+
+nstituição  criada  em  1721,  o  Arquivo  do  Estado  de  São  Paulo  é  a  mais 
+
+antiga repartição pública do Estado. Além de Arquivo Histórico do Estado, 
+
+é  o  órgão  central  do  Sistema  de  Arquivos  do  Estado  de  São  Paulo  -  SAESP, 
+
+instituído pelo Decreto estadual n° 22.789, de 19 de outubro de 1984, e, nessa 
+
+condição, é responsável pela coordenação geral da implantação de uma política 
+
+arquivística na administração estadual, propondo normas e procedimentos de 
+
+organização  de  arquivos,  autorizando  eliminações  de  documentos  e  prestando 
+
+orientação técnica aos órgãos integrantes do Sistema.  
+
+SISTEMA DE ARQUIVOS DO ESTADO DE 
+SÃO PAULO - SAESP  
+
+P 
+
+ara assegurar a proteção e a preservação dos documentos arquivísticos do Poder 
+
+Público  Estadual,  harmonizar  as  diversas  fases  da  administração  dos 
+
+documentos arquivísticos (corrente, intermediária e permanente) e facilitar o acesso ao 
+
+patrimônio arquivístico público o SAESP, em parceria com as Comissões de Avaliação 
+
+de  Documentos  de  Arquivo  instituídas  nas  Secretarias  de  Estado,  Fundações, 
+
+Autarquias,  Empresas  Públicas,  Sociedades  de  Economia  mista,  Entidades  Privadas 
+
+encarregadas  da  gestão  de  serviços  públicos  e  Organizações  Sociais,  vem 
+
+desenvolvendo  um  conjunto  de  ações  que,  uma  vez  implementadas,  garantirão  ao 
+
+Estado  de  São  Paulo  um Sistema  de Gestão Documental efetivo. Entre as ações 
+
+6 
+
+ 
+
+7 A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+estacam-se  as  consolidadas  no  Plano  de  Classificação  e  na  Tabela  de 
+
+Temporalidade de Documentos, instrumentos de gestão documental, a saber: 
+
+§ elaboração de fórmulas e padrões homogêneos para o registro dos 
+
+atos administrativo independentemente do suporte; 
+
+§ atribuição de códigos de classificação; 
+
+§ definição da temporalidade dos documentos; 
+
+§ padronização da tipologia documental; 
+
+§ garantia de acesso aos administradores e ao usuário do serviço 
+
+público. 
+
+ 7
+
+ 
+
+8 A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+LEGISLAÇÃO ARQUIVÍSTICA 
+
+ORIENTA TODO TRABALHO DO SAESP 
+
+ØLei Federal n. 8.159, de 8 de janeiro de 1991 
+
+  Dispõe sobre a política nacional de arquivos públicos e 
+
+privados 
+
+ØDecreto Estadual n. 22.789, de 19 de outubro de 1984 
+
+Institui o Sistema de Arquivos do Estado de São Paulo 
+
+Informação: toda 
+legislação arquivística, 
+federal, estadual e 
+municipal, pode ser 
+obtida no site do SAESP 
+www.saesp.sp.gov.br 
+
+ØDecreto Estadual n. 29.838, de 18 de abril de 1989 
+
+Dispõe sobre a constituição da Comissão de Avaliação de Documentos de Arquivo nas 
+
+Secretarias de Estado 
+
+ØDecreto Estadual 48.897, de 27 de agosto de 2004 
+
+Dispõe sobre os Arquivos Públicos, os documentos de arquivo e sua gestão, os Planos de 
+
+Classificação e a Tabela de Temporalidade de Documentos da Administração Pública do 
+
+Estado de São Paulo, define normas para a avaliação, guarda e eliminação de documentos 
+
+de arquivo e dá providências correlatas.  
+
+ØDecreto Estadual 48.898, de 27 de agosto de 2004  
+
+Aprova  o  Plano  de  Classificação  e  a  Tabela  de  Temporalidade  de  Documentos  da 
+
+Administração Pública do Estado de São Paulo: Atividades-Meio e dá providências correlatas. 
+
+ 8
+
+ 
+ 
+ 
+ 
+ 
+  
+
+9 A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+Módulo  
+
+Um Sistema de Gestão Documental 
+para o Estado de São Paulo 
+
+C 
+
+om a explosão da produção documental,  principalmente a partir de 1950, 
+
+os  órgãos  públicos  sentiram  a  necessidade  de  repensar  a  questão  da 
+
+organização de seus documentos. Era preciso, para administrar os arquivos, pensar 
+
+os  documentos  desde  o  momento  de  sua  criação,  racionalização  de  seu  uso, 
+
+distribuição, arquivamento permanente ou eliminação. 
+
+Ao  conjunto  de  conhecimentos,  procedimentos  e  políticas  que  viabilizaram  a 
+
+eficácia da administração dos documentos, chamou-se Gestão Documental. 
+
+“Considera-se gestão de documentos o conjunto de procedimentos e operações técnicas 
+
+referentes à sua produção, tramitação, uso, avaliação e arquivamento em fase corrente e 
+
+intermediária, visando a sua eliminação ou recolhimento para guarda permanente.” 
+
+Lei Federal 8.159/91, art. 3º 
+
+ 9
+
+ 
+ 
+ 
+ 
+
+1 0 A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+OBJETIVOS DO PROJETO UM 
+SISTEMA DE GESTÃO DOCUMENTAL 
+PARA O ESTADO DE SÃOPAULO 
+
+O 
+
+presente manual apresenta o Decreto n. 48.898, de 27 de agosto de 2004, que 
+
+aprova o Plano de Classificação e a Tabela de Temporalidade de Documentos 
+
+da Administração Pública do Estado de São Paulo: Atividades - Meio, e o Decreto n. 
+
+48.897,  de  27  de  agosto  de  2004,  que  dispõe  sobre  os  Arquivos  Públicos,  os 
+
+documentos  de  arquivo  e  sua  gestão,  os  Planos  de  Classificação  e  a  Tabela  de 
+
+Temporalidade  de  Documentos  da  Administração  Pública  do Estado de São Paulo, 
+
+define  normas  para  a  avaliação,  guarda  e  eliminação  de 
+
+documentos de arquivo. 
+
+A importância de elaborar e oficializar esses dois instrumentos 
+
+de  gestão  documental 
+
+foi 
+
+reforçada 
+
+ao 
+
+longo  do 
+
+desenvolvimento  do  trabalho  pela  necessidade  urgente  e 
+
+recorrente aos órgãos da Administração Paulista de se definirem 
+
+Atividades da 
+gestão documental: 
+
+Ø Produção 
+
+Ø Classificação 
+
+Ø Avaliação 
+
+Ø Tramitação 
+
+critérios  para  gestão  documental,  sem  prejuízo  da  salvaguarda 
+
+Ø Uso 
+
+dos  atos  administrativos,  constitutivos  e  extintivos  de  direitos, 
+
+das  informações  indispensáveis  ao  processo  decisório  e  à 
+
+Ø Organização 
+
+Ø Reprodução 
+
+preservação da memória institucional. 
+
+A efetiva implantação desses instrumentos objetiva a simplificação e racionalização dos 
+
+procedimentos de gestão dos documentos e das informações, ou seja, permitirá uma 
+
+considerável redução da massa documental acumulada, eliminando enormes volumes 
+
+de  documentos  rotineiros  e  desprovidos  de  valor  que  justifique  a  sua  guarda,  com 
+
+conseqüente otimização do espaço físico e racionalização de custos. 
+
+ 10
+
+ 
+ 
+ 
+
+1 1 A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+Esse trabalho será utilizado por todos os órgãos e entidades da Administração Pública 
+
+Estadual, inclusive pela Procuradoria Geral do Estado e Ministério Público Estadual, 
+
+contribuindo à racionalização administrativa, à agilidade e à transparência no acesso às 
+
+informações e à preservação do patrimônio documental do Governo do Estado de São 
+
+Paulo.  
+
+BREVE HISTÓRICO DO PROJETO 
+
+1999 - 2002 
+
+§  Elaboração do Projeto pela equipe técnica do SAESP  
+
+§  Aprovado e financiado pela FAPESP (Programa Políticas Públicas) 
+
+§  Levantamento da produção documental relativa às atividades-meio 
+
+§  Elaboração do Plano de Classificação e Tabela de Temporalidade 
+
+§  Publicação de Proposta de Tabela de Temporalidade no DOE 12/12/2002 
+
+2003 
+
+§  Manifestações das Comissões de Avaliação, do Tribunal de Contas do 
+
+Estado de São Paulo, da Procuradoria Geral do Estado e do Ministério 
+
+Público do Estado de São Paulo 
+
+§  Inclusões de manifestações e versão final da Tabela de Temporalidade 
+
+§  Encaminhamento para Assessoria Técnica do Governo 
+
+2004 
+
+§  Ajustes finais para publicação Decreto 
+
+§ Publicação do Decreto 48.897/2004 e do Decreto 48.898/2004 
+
+ 11
+
+ 
+ 
+
+1 2 A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+AGENTES ENVOLVIDOS NO PROJETO 
+
+O  trabalho  resulta  de  um  esforço  coletivo,  efetivamente  participativo,  realizado  em 
+
+parceria com 51 Comissões de Avaliação de Documentos de Arquivo, instituídas em 
+
+20 Secretarias de Estado, 8 Fundações, 13 Autarquias, 8 Empresas, Procuradoria Geral 
+
+do  Estado  e Ministério  Público  Estadual,  em  conjunto  com  os  grupos  auxiliares  de 
+
+trabalho  e  eventuais  colaboradores,  totalizando  cerca  de  800  agentes  públicos 
+
+envolvidos no projeto,  entre assessores, procuradores, diretores de departamentos e 
+
+técnicos altamente especializados, além da consultoria de profissionais especializados 
+
+em arquivística da Universidade de São Paulo. 
+
+ESTRATÉGIAS ADOTADAS NO 
+DESENVOLVIMENTO DO PROJETO 
+
+As  estratégias  adotadas  no  desenvolvimento  do  trabalho  asseguraram  a  efetiva 
+
+participação  dos  órgãos  e  entidades  da  Administração  Estadual,  bem  como  da 
+
+Procuradoria  Geral  do  Estado,  do  Tribunal  de  Contas  do  Estado  e  do  Ministério 
+
+Público Estadual.  
+
+§ Reuniões de trabalho com as Comissões de Avaliação de Documentos 
+
+§ Visitas técnicas junto aos órgãos e entidades para cotejar informações, esclarecer 
+
+dúvidas e analisar os documentos 
+
+§ Reuniões de trabalho com os representantes de inúmeros órgãos e entidades, 
+
+reconhecidamente  especializados  em  suas  respectivas  áreas  de  atuação  para 
+
+apresentar, debater e analisar as propostas de classificação e temporalidade de 
+
+cada tipo documental 
+
+§ Reuniões com representantes da Procuradoria Geral do Estado, designadas para 
+
+acompanhar o SAESP garantiram a consistência jurídica ao trabalho 
+
+ 12
+
+
+1 3 A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+§ Exaustiva  pesquisa  em  mais  de  250  textos  legais  (federais,  estaduais  e 
+
+municipais) 
+
+§ Análise criteriosa dos dados coletados 
+
+§ Experimentação  de  hipóteses  que  permitiram  o  mapeamento  da  produção 
+
+documental produzida e acumulada na Administração 
+
+PRODUTOS DO PROJETO 
+
+DECRETO 48.897/2004 
+þ 
+Dispõe sobre os Arquivos Públicos, os documentos de arquivo e sua gestão, 
+os  Planos  de  Classificação  e  a  Tabela  de  Temporalidade  de  Documentos  da 
+Administração  Pública  do  Estado  de  São  Paulo,  define  normas  para  a  avaliação, 
+guarda e eliminação de documentos de arquivo e dá providências correlatas 
+
+DECRETO 48.898/2004 
+þ 
+Aprova  o  Plano  de  Classificação  e  a  Tabela  de  Temporalidade  de 
+Documentos da Administração Pública do Estado de São Paulo: Atividades-Meio e 
+dá providências correlatas. 
+
+Ø  Plano de Classificação de Documentos: atividades-meio 
+
+Ø  Tabela de Temporalidade de Documentos: atividades-meio 
+
+Ø  Índice Alfabético, Remissivo e Permutado 
+
+ 13
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+1 4 A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+Módulo  
+
+Aplicação do Plano de Classificação 
+e da Tabela de Temporalidade de 
+Documentos: atividades-meio 
+
+P 
+
+ara iniciar o objetivo de garantir agilidade no acesso às informações e a 
+
+meta  de  aumentar  a  transparência  e  a  qualidade  no  serviço  público  é 
+
+necessário  priorizar  a  aplicação  de  instrumentos  arquivísticos  fundamentados 
+
+em  princípios  de  classificação  que  recuperem  o  contexto  no  qual  os 
+
+documentos foram produzidos, recebidos e acumulados, associados à avaliação 
+
+documental, 
+
+controle 
+
+e 
+
+acompanhamento  da  produção, 
+
+tramitação,  
+
+arquivamento, destinação final de documentos. 
+
+É fundamental que os documentos recebam um tratamento técnico adequado e 
+
+homogêneo,  normalizado,  afim  de  que  possam  cumprir  com  eficiência  sua 
+
+finalidade,  autorizando,  iniciando  ou  regulamentando  ações,  bem  como  sua 
+
+função de prova.  
+
+O trabalho de aplicação dos instrumentos arquivísticos nos órgãos e entidades 
+
+da administração compreende dois grandes momentos: 
+
+Ä Planejamento das atividades 
+
+ 14
+
+ 
+ 
+ 
+ 
+
+1 5 A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+§ Conhecer a produção documental 
+
+Ä Desenvolvimento das atividades 
+
+A efetivação deste trabalho de aplicação dos instrumentos arquivísticos, Plano 
+
+de  Classificação  e  Tabela  de  Temporalidade,  permitirá  a  organização  dos 
+
+documentos  que  estão  sendo  produzidos  atualmente,  dos  documentos 
+
+acumulados  no  passado  que  estão  desorganizados  e  ainda  garantirá  a 
+
+continuidade dos critérios adotados no futuro. Ou seja, constitui um dos passos 
+
+indispensáveis  à  implementação  de  uma  política  de  gestão  documental  no 
+
+órgão/entidade. 
+
+PLANEJAMENTO DAS ATIVIDADES 
+
+O trabalho consiste na aplicação do Plano de Classificação de Documentos e da Tabela 
+de Temporalidade de Documentos: atividades-meio à produção documental atual dos 
+órgãos,  bem  como  à  massa  documental  acumulada  ao  longo  dos  anos  devido  à 
+ausência de critérios de gestão documental. 
+
+Lembrem-se: 
+
+É impossível conter um vazamento se não 
+solucionarmos sua causa! 
+
+Faz-se,  portanto,  urgente  e  prioritário 
+normalizar, controlar e agir sobre a produção 
+documental atual de modo a interromper o 
+acúmulo desordenado de documentos 
+
+ 15
+
+ 
+ 
+ 
+
+1 6 A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+1
+
+Quem tem a competência para planejar as 
+atividades de aplicação do Plano Classificação e 
+da TTD no órgão ou entidade?   
+
+A  competência para conduzir as atividades de gestão de documentos no interior de 
+cada  órgão/entidade  é  da  Comissão  de  Avaliação  de  Documentos  de  Arquivo, 
+devidamente instituída e oficializada. 
+
+As Comissões de Avaliação de Documentos de Arquivo são grupos 
+
+permanentes  e  multidisciplinares 
+
+instituídos  nos  órgãos  da 
+
+Administração Pública Estadual nos termos do artigo 2º do Decreto 
+
+nº 29.838, de 18 de abril de 1989 
+
+(Decreto Estadual n. 48.897/2004, art. 34 ) 
+
+Entre  as  atividades  da  Comissão  está  o  planejamento  da  aplicação  do  Plano  de 
+Classificação e da Tabela de Temporalidade de Documentos no seu respectivo 
+órgão/entidade. 
+
+As  Comissões  de  Avaliação  de  Documentos  de  Arquivo  farão 
+
+aplicar,  em  suas  respectivas  áreas  de  atuação,  os  Planos  de 
+
+Classificação e as Tabelas de Temporalidade de Documentos da 
+
+Administração Pública do Estado de São Paulo.  
+
+(Decreto Estadual n. 48.897/2004, art. 35 ) 
+
+ 16
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+1 7 A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+O R I E N T A Ç Ã O   T É C N I C A   S A E S P  
+
+F A  equipe  técnica  do  SAESP  encontra-se  à  disposição  das 
+Comissões de Avaliação de Documentos de Arquivo para prestar 
+orientação  técnica  através  do  telefone/fax  (11)  6221-3990  e  do 
+endereço eletrônico saesp@sp.gov.br  
+
+F Visite www.saesp.sp.gov.br 
+
+São também atividades da Comissão de Avaliação de Documentos: 
+
+Ø Conduzir a eliminação de documentos respeitando os procedimentos estabelecidos 
+
+do Decreto 48.897/2004 
+
+Ø Propor critérios para orientar a seleção de amostragens dos documentos destinados 
+
+à eliminação 
+
+Ø Comunicar ao Arquivo do Estado a eventual existência de outros documentos de 
+arquivo produzidos em decorrência do exercício de atividades-meio não indicados 
+no  Plano  de  Classificação  e  na  Tabela  de  Temporalidade  de  Documentos  da 
+Administração  Pública  do  Estado  de  São  Paulo:  Atividades  -  Meio,  para  sua 
+incorporação 
+
+A comunicação deverá ser obrigatoriamente 
+acompanhada de proposta de temporalidade, 
+devidamente justificada 
+
+Ø Elaborar  e  atualizar  o  Plano  de  Classificação  de  Documentos  e  a  Tabela  de 
+Temporalidade  de  Documentos  decorrente  do  exercício  da  atividade-fim  de  seu 
+respectivo órgão 
+
+Considerando os critérios e conceitos adotados no 
+Estado para a gestão de documentos, aplicados 
+para as atividades – meio  
+
+ 17
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+O que justifica a realização do trabalho? 
+
+§ PPEERRTTIINNEENNTTEE em relação às necessidades da Administração Pública 
+
+Paulista  
+
+§ PPAARRTTIICCIIPPAATTIIVVOO, pois é compreendido e compartilhado pelos agentes 
+
+envolvidos 
+
+§ EEXXPPLLÍÍCCIITTOO, pois é formulado por escrito e apresentado oficialmente 
+
+§ LLEEGGÍÍTTIIMMOO,,  pois atende às demandas reais 
+
+§ LLEEGGAALL, pois está em conformidade com as exigências legais 
+
+CONHECER A PRODUÇÃO DOCUMENTAL 
+
+Conhecer a produção documental significa: 
+
+–  Identificar os documentos produzidos e recebidos pelo 
+órgão/entidade no exercício de suas atividades-meio  
+
+–  Identificar o contexto no qual os documentos foram produzidos 
+
+(função, subfunção e atividade) 
+
+20 
+
+ 
+  
+  
+  
+ 
+ 
+ 
+ 
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+Todo esforço de levantar os documentos relativos às atividades meio (cerca de 800 
+
+tipos)  e  vincular  cada  um  deles  à  atividade  que  o  gerou,  bem  como  agrupar  as 
+
+atividades por funções e subfunções, já foi realizado e está consolidado no Plano 
+
+de Classificação e na Tabela de Temporalidade de Documentos oficializados. 
+
+As  Comissões  de  Avaliação  funcionam  como  agentes  multiplicadores  dos 
+
+procedimentos e normas de gestão documental, cada qual no seu órgão/entidade. 
+
+A  Comissão  deverá,  portanto,  conhecer  a  produção  documental  da  área  meio, 
+
+estudando  os  instrumentos  oficializados,  para  que  possa  apresentar  e  divulgar  o 
+
+Plano e a Tabela junto aos demais servidores. 
+
+Os servidores por sua vez deverão: 
+
+v Saber reconhecer no Plano e na Tabela, as atividades que executam 
+
+cotidianamente 
+
+v Se tornar apto a aplicar o Plano e a Tabela de Temporalidade aos 
+
+documentos por ele produzidos, recebidos e acumulados 
+
+ 19
+
+ 
+ 
+ 
+ 
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+PLANO DE CLASSIFICAÇÃO DE DOCUMENTOS DA 
+ADMINISTRAÇÃO PÚBLICA DO ESTADO DE SÃO PAULO 
+
+Um importante instrumento de gestão documental que permite 
+classificar os documentos produzidos, recebidos ou acumulados pelos 
+órgãos, entidades e empresas da Administração Estadual no 
+exercício de suas funções, subfunções e atividades. 
+
+P 
+
+ermite  a  recuperação  do  contexto  original  da  produção  documental  ao 
+
+agrupar  os  tipos  de  documentos  de  acordo  como  o  órgão  produtor,  a 
+
+função, a subfunção e a atividade responsável por sua produção ou acumulação.  
+
+O Plano de Classificação de Documentos das atividades-meio da administração 
+
+paulista  reúne  cerca  de  800  tipos  documentais  e,  para  garantir  sua  aplicação 
+
+segura, conta com um instrumento auxiliar: o Índice Alfabético, Remissivo e 
+
+Permutado, que também será apresentado neste manual. 
+
+MODELO DO PLANO DE CLASSIFICAÇÂO 
+
+ 20
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+As Funções podem ser 
+identificadas como: 
+
+FUNÇÃO - corresponde ao conjunto das atividades que o 
+
+Estado  exerce  para  a  consecução  de  seus  objetivos.    As 
+
+1. direta ou 
+essencial 
+
+2. indireta ou 
+auxiliar 
+
+funções  podem  ser  diretas  ou  essenciais  e  indiretas  ou 
+
+auxiliares.  As  funções  indiretas  ou  auxiliares  são  as  que 
+
+possibilitam  a  infra-estrutura  administrativa,  financeira,  de 
+
+recursos humanos, de material e patrimônio, transporte e de 
+
+comunicação,  infra-estrutura  necessária  ao  desempenho  concreto  e  eficaz  das 
+
+funções  essenciais.  Cada  função  está  acompanhada  do  seu  respectivo  código 
+
+numérico. 
+
+SUBFUNÇÃO - A subfunção refere-se a um agrupamento de atividades afins, 
+
+correspondendo  cada  subfunção  a  uma  vertente  da  respectiva  função.  A 
+
+subfunção está acompanhada de seu respectivo código numérico. 
+
+ATIVIDADES - Nesse campo estão relacionadas as ações, encargos ou 
+
+serviços decorrentes do exercício de uma função.  
+
+ 21
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+Atividades-meio 
+
+Este  treinamento  busca  capacitar  os  agentes  públicos  a  aplicar  a  Tabela  de 
+Temporalidade  que  contempla  apenas  as  atividades-meio,  ou  seja,  os  
+documentos  considerados  de  caráter  instrumental  e  acessório,  produzidos, 
+recebidos  e  acumulados  no  exercício  de  operações  e  procedimentos 
+administrativos  que  os  órgãos  e  entidades  da  Administração  Estadual    Paulista 
+levam  a  efeito  para  auxiliar  e  viabilizar  o  desempenho  de  suas  atribuições 
+específicas (FUNÇÃO DIRETA OU ESSENCIAL). 
+
+DOCUMENTOS  -  Nesse  campo  constam  todos  os  tipos  de  documentos 
+
+produzidos, recebidos ou acumulados na Unidade. Um tipo de documento 
+
+se distingue de outro a partir da função, subfunção e atividade que lhe dá 
+
+origem, da sua forma de produção e tramitação e da instância decisória a 
+
+que se submete.  
+
+CÓDIGO  DE  CLASSIFICAÇÃO  -  Os  documentos  são  acompanhados 
+
+dos  seus  respectivos  códigos  de  classificação,  sendo  a  primeira  unidade 
+
+numérica indicativa da função, a segunda unidade numérica indicativa da 
+
+subfunção, a terceira unidade numérica indicativa da atividade e a quarta 
+
+unidade numérica indicativa do tipo documental. 
+
+ 22
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+No  Plano  de  Classificação,  as  funções,  subfunções,  atividades  e  documentos 
+
+apresentam-se  hierarquicamente  organizados  e  recebem  códigos  numéricos 
+
+próprios.  
+
+O  Plano  de  Classificação é, portanto, a representação gráfica da classificação, 
+
+nesse caso, realizada de acordo com o critério funcional e não estrutural, uma 
+
+vez  que  as  estruturas  são  freqüentemente  alteradas,  enquanto  as  funções, 
+
+subfunções  e  atividades  permanecem  praticamente  inalteradas  com  o  decorrer 
+
+do tempo.  
+
+Foram  identificadas  7  funções  correspondentes  às  grandes  áreas-meio  de 
+
+atuação do Governo Paulista, a saber:  
+
+01 Organização Administrativa 
+
+02 Comunicação Institucional 
+
+03 Gestão de Bens Materiais e Patrimoniais 
+
+04 Gestão de Recursos Humanos 
+
+05 Gestão Orçamentária e Financeira 
+
+06 Gestão de Documentos e Informações 
+
+07 Gestão de Atividades Complementares 
+
+ 23
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+I M P O R T A N T E  
+
+F Consta  do  ANEXO  I  a  ementa  de  cada  uma  das  Funções  e 
+Subfunções  presentes  no  Plano  de  Classificação  e  na  Tabela  de 
+Temporalidade  de  Documentos  das 
+atividades-meio  da 
+Administração Pública Paulista. 
+
+Os  processos,  expedientes  e  demais  documentos  produzidos  no  exercício  das 
+
+FUNDO: unidade 
+constituída pelo 
+conjunto de 
+documentos 
+acumulados por 
+um órgão ou 
+entidade. 
+
+atividades-meio  são  comuns  a  todos  os  órgãos  e  entidades  da 
+
+Administração  Pública  Estadual.  Os  mesmos  tipos  documentais 
+
+serão produzidos, recebidos e acumulados nos diferentes órgãos 
+
+ou  entidades  quando  estes  executarem  uma  mesma  atividade-
+
+meio. Apenas o órgão produtor irá sinalizar a diferença e garantir 
+
+o respeito ao “fundo documental”. 
+
+ 24
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+ÍNDICE ALFABÉTICO, REMISSIVO E PERMUTADO 
+
+Instrumento complementar do Plano de Classificação que 
+favorece a recuperação dos documentos a partir das variantes de 
+seu conteúdo e das modalidades de sua produção 
+
+A 
+
+Gestão  Documental  pressupõe,  entre  outros  fatores,  o  acesso  ágil  e 
+
+preciso à informação disponibilizada. Nesse sentido, o Índice Alfabético, 
+
+Remissivo  e  Permutado  confere credibilidade e confiabilidade ao Sistema que 
+
+está  sendo  adotado  ao  cumprir  a  função  de  padronizar  a  denominação  dos 
+
+documentos, possibilitando o controle do vocabulário.  
+
+É um instrumento auxiliar durante a aplicação do Plano de Classificação 
+
+de Documentos, pois é capaz de estabelecer um sistema de “pontes” ao ligar as 
+
+expressões  não  adotadas  pelo  Plano  de  Classificação  às  expressões  adotadas 
+
+pelo mesmo, permitindo a busca de tipos documentais a partir das variantes de 
+
+seu conteúdo e das modalidades de sua produção. 
+
+O Índice Alfabético, Remissivo e Permutado contempla basicamente quatro 
+
+tipos de informação, a saber: 
+
+·  Expressões adotadas pelo Plano de Classificação, organizadas em ordem 
+
+alfabética 
+
+·  Nomeações  que  ocorrem  no  quotidiano  da  Administração  Pública 
+Paulista, entre órgãos e entidades com culturas organizacionais diferentes. 
+Esta é a função das remissivas incluídas nos Índices (USE) 
+
+·  Sugestão para análise de outras possibilidades, relacionadas à expressão 
+pesquisada,  mas  que  não  mantêm  com  esta  uma  relação  de  sinonímia 
+(VER TAMBÉM) 
+
+·  O Índice é apresentado sob forma permutada 
+
+ 25
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+Exemplo de padronização de vocabulário 
+
+Contas da luz 
+
+Contas de água 
+
+Processo de pagamento de contas  
+
+USE 
+
+de utilidade pública 
+
+Exemplo de Índice Alfabético, Remissivo e Permutado 
+
+Acidente de trabalho ou doença profissional, Licença por USE Processo de afastamentos ou licenças  03.03.04.05 
+
+Adoção, Licença por USE Processo de afastamentos ou licenças 
+
+Afastamento com vencimentos USE Processo de afastamentos ou licenças 
+
+Afastamento de funcionário preso USE Processo de afastamentos ou licenças 
+
+03.03.04.05 
+
+03.03.04.05 
+
+03.03.04.05 
+
+Afastamento para desempenho de mandato eletivo USE Processo de afastamentos ou licenças 
+
+03.03.04.05 
+
+Afastamento para executar serviços obrigatórios por lei USE Processo de afastamentos ou licenças 
+
+03.03.04.05 
+
+Afastamento para exercício de cargo em comissão USE Processo de afastamentos ou licenças 
+
+03.03.04.05 
+
+Afastamento para exercício de cargo em sindicato USE Processo de afastamentos ou licenças 
+
+03.03.04.05 
+
+Afastamento para exercício em atividades com as quais o Estado mantenha convênio USE Processo 
+de afastamentos ou licenças 
+Afastamento para participação em congressos e outros certames culturais, técnicos ou científicos 
+USE Processo de afastamentos ou licenças 
+
+03.03.04.05 
+
+03.03.04.05 
+
+ 26
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+TABELA DE TEMPORALIDADE DOS DOCUMENTOS DA 
+ADMINISTRAÇÃO PÚBLICA DO ESTADO DE SÃO PAULO: 
+ATIVIDADES-MEIO 
+
+Instrumento resultante da avaliação documental, aprovado por 
+autoridade competente, que define prazos de guarda e a destinação de 
+cada série documental 
+
+O 
+
+Programa de Gestão de Documentos que vem sendo implantado pelo 
+
+SAESP  tem  como  sua  ação  prioritária  a  elaboração  e  oficialização  de 
+
+Tabela de Temporalidade, instrumento fundamental que  consolida o estudo dos 
+
+valores de cada tipo documental identificado, definindo os prazos de guarda e a 
+
+destinação  dos  documentos produzidos pelo Governo do Estado de São Paulo 
+
+no exercício de suas funções, subfunções e atividades. 
+
+PRAZOS  DE  GUARDA  (em  anos)  -  Com  fundamento  em  legislação 
+
+específica ou nas demandas administrativas, nesse campo está registrado 
+
+o tempo de permanência de cada documento no lugar indicado, a saber: 
+
+Unidade Produtora - Número de anos em que o documento deve 
+
+permanecer  no  arquivo  corrente  do  órgão  produtor/acumulador, 
+
+cumprindo a finalidade para a qual foi produzido. (Fase corrente) 
+
+ 27
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+Ä Vigência:  intervalo  de  tempo  durante  o  qual  o  documento 
+produz efeitos administrativos e legais plenos, cumprindo as finalidades 
+
+que  determinaram  sua  produção.  O  prazo  de  guarda  na Unidade com 
+
+Atribuição  de  Arquivo,  portanto,  deve  ser  contado  a  partir  do 
+
+cumprimento  do  prazo  de  vigência  na  Unidade  produtora.  Quando  a 
+
+vigência do documento esgotar-se antes de 1 (um) ano, fica autorizada a 
+
+sua eliminação, desde que cumprido o prazo de vigência.  
+
+Ä Até  a  aprovação  das  contas:  o  prazo  definido  no  campo 
+Unidade com Atribuição de Arquivo começa a contar a partir da data de 
+
+aprovação pelo Tribunal de Contas do Estado de São Paulo. 
+
+Unidade com Atribuições de Arquivo - Número de anos em que 
+
+o documento, após o prazo de guarda na Unidade Produtora, deve 
+
+ainda  permanecer  no  arquivado  para  eventuais  consultas,  em 
+
+decorrência  do  cumprimento  de  prazos  prescricionais  ou 
+
+precaucionais. (Fase intermediária) 
+
+Definido  os  prazos  de  guarda  de  cada  tipo  documental,  em  razão  dos  seus 
+
+valores  administrativo,  fiscal,  jurídico-legal,  técnico,  histórico,  a  Tabela  de 
+
+Temporalidade  determina  também  qual  deve  ser  a  sua  destinação  final: 
+
+eliminação ou guarda permanente. 
+
+DESTINAÇÃO - Nesse campo está registrado o resultado da avaliação 
+
+de  cada  tipo  de  documento,  a  partir  da  qual  se  define  se  o  documento 
+
+deve ser eliminado ou encaminhado para guarda permanente. 
+
+ 28
+
+ 
+ 
+ 
+ 
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+Eliminação – Este campo indica quando os documentos podem ser 
+
+eliminados  após  cumprimento  de  prazos  definidos  na  Unidade 
+
+Produtora  e/ou  na  Unidade  com  Atribuições  de  Arquivo,  por  não 
+
+apresentarem valor que justifique sua guarda definitiva. 
+
+Guarda Permanente – Este campo indica quando os documentos 
+
+foram considerados de valor permanente, após esgotados os prazos 
+
+de  guarda  previstos  na  Unidade  Produtora  e/ou  na  Unidade  com 
+
+Atribuições de Arquivo.  
+
+OBSERVAÇÕES – Neste campo estão informados os atos legais ou as 
+
+razões de natureza administrativa que fundamentaram, para cada tipo de 
+
+documento  mencionado,  a  indicação  dos  prazos  propostos  nos  campos 
+
+anteriores  (Prazos  de  Guarda  e  Destinação).  Consta  ainda  informações 
+
+relevantes  sobre  a  natureza  do  documento,  sobre  seu  conteúdo, 
+
+esclarecimentos sobre sua produção, guarda ou destinação. 
+
+ 29
+
+ 
+ 
+ 
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+COMO ELIMINAR DOCUMENTOS PÚBLICOS COM 
+SEGURANÇA? 
+
+A 
+
+eliminação de documentos públicos é hoje um procedimento regulado por 
+
+normas específicas e que devem ser de pleno conhecimento por parte dos 
+
+integrantes da Comissão de Avaliação de Documentos de Arquivo de órgãos e 
+
+entidades, reguladas pelo Decreto 48.897/2004. 
+
+Como  definir  amostras  dos  documentos  destinados  à 
+eliminação? 
+
+A Comissão de Avaliação de Documentos de Arquivo deve retirar amostras dos 
+documentos  destinados 
+sejam  guardados 
+permanentemente, devendo levar em consideração as disposições do artigo 29 
+do Decreto 48.897/2004, observando sempre o conteúdo, a natureza e a forma 
+do documento a ser eliminado. 
+
+eliminação,  para  que 
+
+à 
+
+A  Comissão  pode  entender  amostragem  como  “o  fragmento  de  uma  série 
+documental  destinada  à  eliminação,  selecionado  por  meio  de  critério 
+específicos  para  guarda  permanente,  a  fim  de  exemplifica-la,  revelar 
+especificidades ou alterações de rotninas administrativas ou de procedimentos 
+técnicos, ou registrar ocorrências em momentos marcantes.”1 
+
+A  Comissão  também  deve  orientar  sua  ação  pela  busca  contínua  de  critérios, 
+sejam  eles  quantitativos  ou  qualitativos,  os  mais  objetivos  possíveis,  para 
+selecionar  amostras  dos  documentos  a  serem  eliminados.  A  amostragem  pode 
+ser  estatística,  geográfica,  cronológica  ou  por  séries  documentais.  Alguns  dos 
+critérios mais comuns para se definir as amostragens são: 
+
+1.  Amostragem  anual  ou  decenal:  aplicada  aos  documentos  que  foram 
+
+organizados segundo critério cronológico; 
+
+1 Glossário elaborado por Ieda Pimenta Bernardes e Daíse Apparecida Oliveira e publicado em Como avaliar documentos de 
+arquivo de Ieda Pimenta Bernardes. Arquivo do Estado, São Paulo, 1998. 
+
+ 30
+
+ 
+ 
+ 
+ 
+                                                 
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+2.  Método  alternativo  ou  por  turno:  sistema  de  rodízio  que  pode  ser 
+
+acompanhado de métodos estatísticos; 
+
+3.  Amostragens regionais; 
+
+4.  Amostragem  estatística  aleátória:  aplicada  em  acervos  volumosos, 
+
+completos, ordenados de forma lógica. 
+
+Somam-se,  aos  procedimentos  apresentados,  algumas  observações  de  grande 
+importância  que  conferirão  credibilidade  aos 
+trabalhos  coordenados  e 
+executados pelas Comissões de Avaliação de Documentos, a saber: 
+
+Como eliminar documentos que não constam nas Tabela 
+de Temporalidade? 
+
+A eliminação de documentos que não constam na Tabela de Temporalidade só 
+será  possível  mediante  autorização  do  Arquivo  do  Estado  de  São  Paulo,  após 
+análise da Relação de Eliminação de Documentos que deverá ser encaminhada 
+pelo  órgão  ou  entidade,  conforme  disposição  do  artigo  25  do  Decreto 
+48.897/2004. 
+
+Como verificar a situação de ações judiciais encerradas ou 
+em curso onde a Fazenda Estadual figura como autora ou 
+ré? 
+
+A  Comissão  de  Avaliação  de  Documentos  deverá  consultar  a  Procuradoria 
+Geral do Estado sobre as ações judiciais encerradas ou em curso onde a Fazenda 
+Estadual  figure  como  autora  ou  ré,  para  que  se  possa  dar  cumprimento  aos 
+prazos  prescricionais  e  precaucionais  de  guarda  previstos  na  Tabela  de 
+Temporalidade de Documentos, conforme artigo 36 do Decreto 48.897/2004.  
+
+Como  proceder  quando  os  documentos  a  serem 
+eliminados encontram-se fora da Sede (interior do Estado)? 
+
+Quando  nenhum  membro  da  Comissão  de  Avaliação  de  Documentos  de 
+Arquivo  puder  presenciar  a  eliminação  de  documentos  no  local  do  evento,  a 
+
+ 31
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+  
+ 
+ 
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+mesma  deverá  designar  um  representante  junto  à  Unidade  que  efetivará  a 
+eliminação,  para  que  este  presencie  a  fragmentação  e  assine  o  Termo  de 
+Eliminação  de  Documentos,  em  consonância  com  as  determinações  do  Artigo 
+28 do Decreto 48.897/2004. 
+
+É  permitida  a  eliminação  de  documentos  de  guarda 
+permanente  após  sua  microfilmagem  ou  reprodução  em 
+outro suporte? 
+
+Não.  Todo  documento  considerado  de  guarda  permanente  não  poderá  ser 
+eliminado  após  microfilmagem,  digitalização  ou  qualquer  outra  forma  de 
+reprodução,  devendo  ser  preservado  pelo próprio órgão produtor ou recolhido 
+ao  Arquivo  do  Estado,  ao  qual  caberá  decidir  sobre  a  conveniência  e  a 
+oportunidade de recolhimento de documentos ao seu acervo. Cabe lembrar que 
+o documento de guarda permanente é inalienável e imprescritível. 
+
+Eliminação de documentos públicos 
+
+1.  Preparar a "Relação de Eliminação de Documentos" 
+
+2.  Elaborar "Ata da Comissão aprovando a relação proposta"  
+
+3.  Elaborar  e  encaminhar  para  publicação  no  DOE  o  "Edital  de  Ciência  de 
+
+Eliminação de Documentos" 
+
+4.  Proceder  à  fragmentação  dos  documentos,  independentemente  do  seu 
+suporte, e doar ao Fundo os documentos em suporte papel, nos termos da 
+legislação em vigor. 
+
+6.  Lavrar o "Termo de Eliminação de Documentos” 
+
+7.  Encaminhar  uma  cópia  do  “Termo  de  Eliminação  de  Documentos”  ao 
+
+Arquivo do Estado 
+
+ 32
+
+ 
+ 
+ 
+ 
+ 
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+COMO APLICAR O PLANO DE CLASSIFICAÇÃO E A TABELA 
+DE TEMPORALIDADE DE DOCUMENTOS NA MASSA 
+DOCUMENTAL ACUMULADA? 
+
+O Plano de Classificação e a Tabela de Temporalidade deverão ser aplicados á 
+
+massa  documental  acumulada  adotando  os  mesmos  critérios  utilizados  para 
+
+classificar  os  documentos  atualmente  produzidos  e 
+
+recebidos  pelo 
+
+Trabalhando com a massa documental acumulada 
+
+1. Levantamento da massa documental 
+
+2. Definir o espaço físico 
+
+3. Preparar o local de trabalho 
+
+4. Verificar os materiais necessários 
+
+5. Definir os grupos de trabalho 
+
+Análise documental 
+
+1. Verificar o critério segundo o qual os documentos estão organizados nas caixas 
+
+2. Retirar todos os documentos de suas caixas e identificá-los de acordo com a atividade que 
+provocou sua produção (Função/Atividade) 
+
+3. Identificar as unidades produtoras (departamentos) dos documentos 
+
+Aplicando o Plano de Classificação 
+
+1. Identificar os tipos documentais de acordo com o Plano de Classificação 
+
+2. Codificar os tipos documentais de acordo com o Plano de Classificação 
+
+Aplicando a Tabela de Temporalidade 
+
+1. Identificar os prazos de guarda de cada tipo documental de acordo com a Tabela de 
+Temporalidade 
+
+2.  Elaborar  etiquetas  padronizadas  para  serem  afixadas  nas  novas  caixas  de  documentos 
+que ainda devem cumprir prazos de guarda 
+
+ 33
+
+ 
+ 
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+órgão/entidade.  
+
+ 34
+
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+Módulo  
+
+BENEFÍCIOS DA GESTÃO DOCUMENTAL PARA A 
+ADMINISTRAÇÃO PÚBLICA DO ESTADO DE SÃO PAULO 
+
+A  aplicação  do  Plano  de  Classificação  e  da  Tabela  de  Temporalidade  de 
+
+Documentos  consignará  inúmeros  benefícios  para  a  Administração  Pública 
+
+Estadual, entre eles: 
+
+þ 
+
+Simplificação e racionalização dos procedimentos de gestão dos documentos 
+
+þ 
+
+Garantia de acesso às informações  
+
+þ 
+
+Agilidade na tomada de decisões 
+
+þ 
+
+Maior qualidade e produtividade ao serviço público 
+
+þ 
+
+Favorece o planejamento, o controle e a transparência nas finanças públicas 
+
+ 35
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+ANEXO  
+
+EMENTAS DAS FUNÇÕES E 
+SUBFUNÇÕES  
+
+01  ORGANIZAÇÃO ADMINISTRATIVA (FUNÇÃO) 
+
+Esta função compreende as diretrizes e regulamentação interna, o funcionamento, a 
+criação  e  as  ações  de  planejamento  e  controle  que  possibilitam  o  andamento  das 
+rotinas  administrativas  dos  diferentes  órgãos,  definindo  as  regras 
+jurídico-
+administrativas da organização estatal e estratégias para assegurar a defesa dos direitos 
+de usuários do serviço público. 
+
+01.01 Ordenamento jurídico (SUBFUNÇÃO) 
+
+Esta  subfunção  refere-se  ao  cumprimento  das  determinações  de  caráter  de 
+direito  administrativo  organizatório  que  estabelecem  as  relações  entre  os 
+órgãos,  as  funções  e  os  agentes  que  irão  desempenhá-las.  Abrange  as 
+atividades  de  elaboração  de  atos  administrativos,  formalização  de  acordos 
+bilaterais, habilitação jurídica e regulamentação fiscal dos órgãos, entidades e 
+empresas,  acompanhamento  de  ações  judiciais,  elaboração  de  pareceres, 
+uniformização  da  jurisprudência  administrativa  e  assessoramento  técnico-
+legislativo. 
+
+01.02  Planejamento  das  ações  de  governo  e  controle  dos  serviços 
+(SUBFUNÇÃO) 
+
+Esta  subfunção  refere-se  à  elaboração,  com  bases  técnicas,  de  planos  e 
+diretrizes, permitindo o desenvolvimento de programas de governo com fins 
+específicos, abrangendo também o acompanhamento sistemático e o controle 
+da execução daqueles planos e diretrizes, bem como, ações que assegurem a 
+qualidade e a produtividade na prestação dos serviços públicos e a defesa dos 
+direitos de seus usuários.  
+
+ 36
+
+ 
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+01.03 Apoio à administração pública (SUBFUNÇÃO) 
+
+refere-se  ao  agendamento  e  acompanhamento  de 
+Esta  subfunção 
+compromissos  oficiais,  assim  como  à  publicidade  de  atos  oficiais  no  Diário 
+Oficial e o controle da redação, do envio e da publicação. 
+
+02  COMUNICAÇÃO INSTITUCIONAL (FUNÇÃO) 
+
+Esta  função  compreende  o  conjunto  de  procedimentos  destinados  a  difundir 
+informações sobre as políticas e sobre o funcionamento dos órgãos, de modo a 
+torná-las claras e compreensíveis para diferentes públicos, internos e externos. 
+
+02.01 Assessoria de Imprensa (SUBFUNÇÃO) 
+
+Esta  subfunção  refere-se  ao  acompanhamento  das  relações  entre  os  órgãos 
+governamentais e a imprensa escrita, falada e televisiva, por meio da redação, 
+seleção  e  distribuição  de  press  releases  e  de  notícias,  organização  de 
+entrevistas,  elaboração  de    normas  de  redação  e  de  declarações  a  serem 
+divulgadas, bem como da cobertura dos eventos ou solenidades oficiais. 
+
+02.02  Cerimonial (SUBFUNÇÃO) 
+
+Esta  subfunção  refere-se  ao  conjunto  de  formalidades  que  devem  ser 
+obedecidas  nas  cerimônias  oficiais,  incluindo-se  pessoal  a  ser  convocado, 
+normas para a execução de atos e serviços e todo o atendimento consular. 
+
+02.03  Promoção de eventos ou cerimônias oficiais (SUBFUNÇÃO) 
+
+Esta subfunção refere-se à organização de eventos tais como congressos, cursos, 
+seminários, simpósios, encontros, feiras e exposições, bem como solenidades e  
+recepções oficiais. 
+
+02.04  Propaganda e marketing (SUBFUNÇÃO) 
+
+Esta subfunção refere-se ao planejamento, criação e execução de atividades  
+de  propaganda  e  campanhas  de    publicidade,  bem  como  à  promoção  de 
+ações  governamentais  relativas  à  divulgação  de  determinados  serviços 
+públicos. 
+
+02.05 Produção editorial (SUBFUNÇÃO) 
+
+ 37
+
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+Esta  subfunção  refere-se  à  edição  de  publicações  oficiais  ou  de publicações 
+editadas por órgãos públicos em parceria com outras entidades. 
+
+03  GESTÃO DE RECURSOS HUMANOS (FUNÇÃO) 
+
+Esta  função  corresponde  a  coordenação  das  ações  de  recrutamento,  seleção, 
+desenvolvimento e capacitação, avaliação e acompanhamento da vida funcional 
+dos funcionários ou servidores encarregados da execução de serviços públicos 
+ou  de  natureza  pública,  dentro  das  hierarquias  funcionais  e  dos  regimes 
+jurídicos aos quais se submetem.  
+
+03.01  Planejamento  e  formulação  de  políticas  de  recursos  humanos 
+(SUBFUNÇÃO)  
+
+Esta  subfunção  refere-se  à  elaboração  de  manuais  de  procedimentos, 
+realização  de  estudos  e  pesquisas  relativos  aos  padrões  de  lotação,  de 
+adequação  dos  quadros  de  pessoal,  de  planos  de  salários  e  programas  de 
+regimes de trabalho e da classificação e cadastro de cargos e funções.  
+
+03.02 Seleção e desenvolvimento de recursos humanos (SUBFUNÇÃO) 
+
+Esta subfunção refere-se à coordenação dos processos seletivos, concursos 
+públicos, capacitação e qualificação dos funcionários e servidores públicos 
+ou dos candidatos a cargos e funções nos diferentes órgãos. 
+
+03.03 Expediente de pessoal (SUBFUNÇÃO) 
+
+Esta subfunção refere-se à elaboração de atos administrativos relativos à vida 
+funcional,  às  atividades  de  avaliação  de  desempenho,  de  elaboração  de 
+expedientes  para  concessão  de  vantagens  e  benefícios  e  aos  procedimentos 
+para apuração e aplicação de punição disciplinar. 
+
+03.04 Controle da freqüência (SUBFUNÇÃO) 
+
+Esta subfunção refere-se ao registro da freqüência, à concessão de horário de 
+estudante  e    horário  especial,  à  apuração  do  tempo  de  serviço  para 
+aposentadoria e expedição de certidões para comprovação de direitos. 
+
+03.05 Pagamento de pessoal (SUBFUNÇÃO) 
+
+Esta  subfunção  refere-se  à  elaboração  dos  expedientes  necessários  ao 
+processamento da folha de pagamento e ao controle efetivo do pagamento. 
+
+ 38
+
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+03.06 Segurança e medicina do trabalho (SUBFUNÇÃO) 
+
+Esta  subfunção  refere-se  às  atividades  relativas  à  avaliação  da  saúde  do 
+funcionário  ou  servidor,  registro  de  ocorrências  médicas,  medicina  do 
+trabalho e  prevenção de acidentes do trabalho. 
+
+03.07  Promoção  do  desenvolvimento  social  de  funcionários  e 
+servidores (SUBFUNÇÃO) 
+
+Esta subfunção refere-se às atividades de promoção da qualidade de vida 
+dos funcionários ou servidores, atendimento de suas necessidades básicas e 
+de seus familiares. 
+
+03.08  Coordenação  das  atividades  de 
+(SUBFUNÇÃO) 
+
+convivência 
+
+infantil 
+
+Esta  subfunção  refere-se  às  atividades  de  atendimento  e  assistência  às 
+crianças, filhos e dependentes de funcionários ou servidores, nos Centros 
+de Convivência Infantil. 
+
+04  GESTÃO DE BENS MATERIAIS E PATRIMONIAIS (FUNÇÃO) 
+
+Esta  função  corresponde  à  administração  de  bens  móveis  e  imóveis  do  Estado, 
+compreendendo sua aquisição, controle, uso, alienação e inutilização, assim como a 
+contratação e administração de serviços, nas mais diversas modalidades, previstas 
+em legislação específica. 
+
+04.01  Controle de compras e serviços (SUBFUNÇÃO) 
+
+Esta  subfunção  refere-se  à  administração  das  diferentes  modalidades  de 
+aquisição  de  material  de  consumo  ou  permanente,  seja  por  compra  direta, 
+adiantamento,  licitação  (concorrência,  convite,  tomada  de  preço),  seja  por 
+doação,  empréstimo, 
+também  a 
+administração das contratações de serviço por concorrência, por convite, por 
+tomada  de  preços    e  as  relações  com  os  prestadores  de  serviços  e 
+fornecedores. 
+
+leasing  ou  permuta.  Compreende 
+
+04.02  Controle de bens patrimoniais (SUBFUNÇÃO) 
+
+ 39
+
+ 
+ 
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+Esta  subfunção  refere-se  às  ações  de  registro,  defesa,  acompanhamento  da 
+utilização  e  arrolamento  das  baixas  para  inutilização  ou  alienação  de  bens 
+patrimoniais  do  Estado  em  suas  diferentes  modalidades  (doação,  cessão, 
+transferência). 
+
+04.03  Controle de almoxarifado (SUBFUNÇÃO) 
+
+Esta  subfunção  refere-se  às  ações  de  recebimento,  formação,  distribuição  e 
+controle  de  estoque  de  material  de  consumo  e  permanente  dos  órgãos 
+públicos, incluindo previsão de consumo. 
+
+04.04  Controle do patrimônio imobiliário (SUBFUNÇÃO) 
+
+Esta  subfunção  refere-se  às  ações  de  aquisição  de  bens  imóveis,  nas  mais 
+diversas  modalidades  (compra,  permuta,  doação,  dação  em  pagamento, 
+desapropriação, adjudicação em execução de sentença, reintegração de posse, 
+transferência,  usucapião),  bem  como  do  cadastramento,  conservação, 
+alienação, locação e administração dos próprios do Estado. 
+
+04.05  Controle de transportes internos (SUBFUNÇÃO) 
+
+Esta subfunção refere-se às ações relativas à fixação da frota, aquisição, registro, 
+regularização, manutenção, abastecimento, controle do uso, da movimentação e 
+da guarda de veículos oficiais, em convênio ou locados. 
+
+05 
+(FUNÇÃO) 
+
+  GESTÃO  ORÇAMENTÁRIA  E  FINANCEIRA 
+
+Esta  função  compreende  o  cumprimento  das  diretrizes  da  política  orçamentária  e 
+financeira  por  meio  do  planejamento  orçamentário  e  da  execução  orçamentária  e 
+financeira    no  que  se  refere  ao  controle  da  execução,  distribuição  de  recursos  e 
+alterações orçamentárias, até o pagamento de despesas e a prestação de contas.  
+
+05.01  Planejamento orçamentário (SUBFUNÇÃO) 
+
+Esta  subfunção refere-se à fixação das diretrizes e formulação de propostas 
+orçamentárias  por  meio  da  elaboração,  consolidação  e  formalização  de 
+projetos de lei.    
+
+05.02  Execução orçamentária e financeira (SUBFUNÇÃO) 
+
+ 40
+
+ 
+ 
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+Esta  subfunção  refere-se  às  atividades  de  distribuição,  acompanhamento, 
+reserva  de  recursos,  adiantamento  de  despesas,  prestação  de  contas, 
+pagamento de despesas, operações de crédito e pagamento da dívida pública, 
+abrangendo  todo  o  controle  da  contabilidade  dos  órgãos  públicos  da 
+Administração Estadual. 
+
+  GESTÃO  DE  DOCUMENTOS  E  INFORMAÇÕES 
+
+06 
+(FUNÇÃO) 
+
+Esta  função  refere-se  ao  controle  das  políticas  arquivísticas  do  órgão  e  dos 
+procedimentos relativos à comunicação externa e interna, aos serviços de protocolo, 
+arquivo e acesso aos documentos, bem como às ações de incorporação e utilização de 
+tecnologias da informação. 
+
+06.01  Comunicação administrativa (SUBFUNÇÃO) 
+
+Esta  subfunção  refere-se  às  atividades  relativas  ao  recebimento,  registro, 
+classificação,  arquivamento,  avaliação  e  descrição  de  documentos,  assim 
+como ao fornecimento de certidões e à transcrição de documentos. 
+
+06.02  Gestão de tecnologia da informação (SUBFUNÇÃO)  
+
+Esta  subfunção  refere-se  ao  controle  da  implantação,  funcionamento  e 
+manutenção  dos  sistemas  informatizados  e  dos  equipamentos  eletrônicos, 
+bem como às atividades de desenvolvimento de programas de computador e 
+de vistoria e proteção à integridade dos documentos eletrônicos.    
+
+  GESTÃO  DE  ATIVIDADES  COMPLEMENTARES 
+
+07 
+(FUNÇÃO) 
+
+Esta  função  compreende  os  serviços  de  recepção  e  controle  de  portaria, 
+manutenção  e  vigilância  de  edifícios  e  equipamentos, assim como serviços de 
+limpeza, de copa, de reprografia, de gráfica e de telecomunicações. 
+
+ 41
+
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+ANEXO  
+
+LEGISLAÇÃO  
+
+Lei Federal 8.159, de 8 de janeiro de 1991 
+Dispõe  sobre  a  política  nacional  de  arquivos  públicos  e  privados  e  dá  outras 
+providências 
+
+CAPÍTULO I 
+
+Disposições Gerais 
+
+Artigo 1º - É dever do Poder Público a gestão documental e a de proteção especial 
+a documentos de arquivos, como instrumento de apoio à administração, à cultura, 
+ao desenvolvimento científico e como elementos de prova e informação.  
+
+Artigo  2º  -  Consideram-se  arquivos,  para  os  fins  desta  lei,  os  conjuntos  de 
+documentos  produzidos  e  recebidos  por  órgãos  públicos,  instituições  de  caráter 
+público e entidades privadas, em decorrência do exercício de atividades específicas, 
+bem  como  por  pessoa  física,  qualquer  que  seja  o  suporte  da  informação  ou  a 
+natureza dos documentos.  
+
+Artigo  3º  -  Considera-se  gestão  de  documentos  o  conjunto  de  procedimentos  e 
+operações técnicas à sua produção, tramitação, uso, avaliação e arquivamento em 
+fase  corrente  e  intermediária,  visando  a  sua  eliminação  ou  recolhimento  para 
+guarda permanente.  
+
+Artigo 4º - Todos têm direito a receber dos órgãos públicos, informações de seu 
+interesse particular ou de interesse coletivo ou geral, contidas em documentos de 
+arquivos,  que  serão  prestadas  no  prazo  da  lei,  sob  pena  de  responsabilidade, 
+ressalvadas  aquelas  cujo  sigilo  seja  imprescindível  à  segurança  da  sociedade  e  do 
+Estado, bem como à inviolabilidade da intimidade, da vida privada, da honra e da 
+imagem das pessoas.  
+
+ 42
+
+ 
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+Artigo  5º  -  A  Administração  Pública  franqueará  a  consulta  aos  documentos 
+públicos na forma desta lei.  
+
+Artigo 6º - Fica resguardado o direito de indenização pelo dano material ou moral 
+decorrente  da  violação  do  sigilo,  sem  prejuízo  das  ações  penal,  civil  e 
+administrativa.  
+
+CAPÍTULO II 
+
+Dos Arquivos Públicos 
+
+Artigo  7º  -  Os  arquivos  públicos  são  os  conjuntos  de  documentos  produzidos  e 
+recebidos, no exercício de suas atividades, por órgãos públicos de âmbito federal, 
+estadual,  do  Distrito  Federal  e  municipal  em  decorrência  de  suas  funções 
+administrativas, legislativas e judiciárias.  
+
+§ 1º - São também públicos os conjuntos de documentos produzidos e recebidos 
+por  instituições de caráter público, por entidades privado encarregadas da gestão 
+de serviços públicos no exercício de suas atividades.  
+
+§ 2º - A cessação de atividades de instituições públicas e de caráter público implica 
+o  recolhimento  de  sua  documentação  à  instituição  arquivística  pública  ou  a  sua 
+transferência à instituição sucessora.  
+
+Artigo  8º  -  Os  documentos  públicos  são 
+intermediários e permanentes.  
+
+identificados  como  correntes, 
+
+§ 1º - Consideram-se documentos correntes aqueles em curso ou que, mesmo sem 
+movimentação, constituam de consultas freqüentes.  
+
+§  2º  -  Consideram-se  documentos  intermediários  aqueles  que,  não  sendo  de  uso 
+corrente nos órgãos produtores, por razões de interesse administrativo, aguardam a 
+sua eliminação ou recolhimento para guarda permanente.  
+
+§ 3º - Consideram-se permanentes os conjuntos de documentos de valor histórico, 
+probatório e informativo que devem ser definitivamente preservados.  
+
+Artigo 9º - A eliminação de documentos produzidos por instituições públicas e de 
+caráter  público  será  realizada  mediante  autorização  da  instituição  arquivística 
+pública, na sua específica esfera de competência.  
+
+Artigo 10º - Os documentos de valor permanente são inalienáveis e imprescritíveis.  
+
+ 43
+
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+CAPÍTULO III 
+
+Dos Arquivos Privados 
+
+Artigo  11  -  Consideram-se  arquivos  privados  os  conjuntos  de  documentos 
+produzidos ou recebidos por pessoas físicas ou jurídicas, em decorrência de suas 
+atividades.  
+
+Artigo  12  -  Os  arquivos  privados  podem  ser  identificados  pelo  Poder  Público 
+como de interesse público e social, desde que sejam considerados como conjuntos 
+de fontes relevantes para a história e desenvolvimento científico nacional.  
+
+Artigo 13 - Os arquivos privados identificados como de interesse público e social 
+não  poderão  ser  alienados com dispersão ou perda da unidade documental, nem 
+transferidos para o exterior.  
+
+Parágrafo  único  -  Na  alienação  desses  arquivos  o  Poder  Público  exercerá 
+preferência na aquisição.  
+
+Artigo 14 - O acesso aos documentos de arquivos privados identificados como de 
+interesse  público  e  social  poderá  ser  franqueado  mediante  autorização  de  seu 
+proprietário ou possuidor.  
+
+Artigo 15 - Os arquivos privados identificados como de interesse público e social 
+poderão  ser  depositados  a  título  revogável,  ou  doados  a instituições arquivísticas 
+públicas.  
+
+Artigo  16  -  Os  registros  civis  de  arquivos  de  entidades  religiosas  produzidos 
+anteriormente  à  vigência  do  Código  Civil  ficam  identificados  como  de  interesse 
+público e social.  
+
+CAPÍTULO IV 
+
+Da Organização e Administração de Instituições Arquivísticas Públicas 
+
+Artigo  17  -  A  administração  da  documentação  pública  ou  de  caráter  público 
+compete  às  instituições  arquivísticas  federais,  estaduais,  do  Distrito  Federal  e 
+municipais.  
+
+§  1º  -  São  Arquivos  Federais  o  Arquivo  Nacional,  os  do  Poder  Executivo,  e  os 
+arquivos  do  Poder  Legislativo  e  do  Poder  Judiciário.  São  considerados,  também, 
+do  Poder  Executivo  os  arquivos  do  Ministério  da  Marinha,  do  Ministério  das 
+Relações Exteriores, do Ministério do Exército e do Ministério da Aeronáutica.  
+
+ 44
+
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+§ 2º - São Arquivos Estaduais os arquivos do Poder Executivo, o arquivo do Poder 
+Legislativo e o arquivo do Poder Judiciário.  
+
+§ 3º - São Arquivos do Distrito Federal o arquivo do Poder Executivo, o Arquivo 
+do Poder Legislativo e o arquivo do Poder Judiciário.  
+
+§  4º  -  São  Arquivos  Municipais  o  arquivo  do  Poder  Executivo  e  o  arquivo  do 
+Poder Legislativo.  
+
+§  5º  -  Os  arquivos  públicos  dos  Territórios  são  organizados  de  acordo  com  sua 
+estrutura político-jurídica.  
+
+Artigo  18  -  Compete  ao  Arquivo  Nacional  a  gestão  e  o  recolhimento  dos 
+documentos  produzidos  e  recebidos  pelo  Poder  Executivo  Federal,  bem  como 
+preservar  e  facultar  o  acesso  aos  documentos  sob  sua  guarda,  e  acompanhar  e 
+implementar a política nacional de arquivos.  
+
+Parágrafo  único  -  Para  o  pleno  exercício  de  suas  funções,  o  Arquivo  Nacional 
+poderá criar unidades regionais.  
+
+Artigo  19  -  Competem  aos  arquivos  do  Poder  Legislativo  Federal  a  gestão  e  o 
+recolhimento  dos  documentos  produzidos  e  recebidos  pelo  Poder  Legislativo 
+Federal no exercício das suas funções, bem como preservar e facultar o acesso aos 
+documentos sob sua guarda.  
+
+Artigo  20  -  Competem  aos  arquivos  do  Poder  Judiciário  Federal  a  gestão  e  o 
+recolhimento  dos  documentos  produzidos  e  recebidos  pelo  Poder  Judiciário 
+Federal no exercício de suas funções, tramitados em juízo e oriundos de cartórios e 
+secretarias,  bem  como  preservar  e  facultar  o  acesso  aos  documentos  sob  sua 
+guarda.  
+
+Artigo 21 - Legislação estadual, do Distrito Federal e municipal definirá os critérios 
+de  organização  e  vinculação  dos  arquivos  estaduais  e  municipais,  bem  como  a 
+gestão e o acesso aos documentos, observado o disposto na Constituição Federal e 
+nesta lei.  
+
+CAPÍTULO V 
+
+Do Acesso e do Sigilo dos Documentos Públicos 
+
+Artigo 22 - É assegurado o direito de acesso pleno aos documentos públicos.  
+
+ 45
+
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+Artigo 23 - Decreto fixará as categorias de sigilo que deverão ser obedecidas pelos 
+órgãos públicos na classificação dos documentos por eles produzidos.  
+
+§ 1º - Os documentos cuja divulgação ponha em risco a segurança da sociedade e 
+do  Estado,  bem  como  aqueles  necessários  ao  resguardo  da  inviolabilidade  da 
+intimidade, da vida privada, da honra e da imagem das pessoas são originariamente 
+sigilosos.  
+
+§ 2º - O acesso aos documentos sigilosos referentes à segurança da sociedade e do 
+Estado será restrito por um prazo máximo de 30 (trinta) anos, a contar da data de 
+sua  produção,  podendo  esse  prazo  ser  prorrogado,  por  uma  única vez, por igual 
+período.  
+
+§  3º  -  O  acesso  aos  documentos  sigilosos  referentes  à  honra  e  à  imagem  das 
+pessoas será restrito por um prazo máximo de 100 (cem) anos, a contar da sua data 
+de produção.  
+
+Artigo 24 - Poderá o Poder Judiciário, em qualquer instância, determinar a exibição 
+reservada  de  qualquer  documento  sigiloso,  sempre  que  indispensável  à defesa de 
+direito próprio ou esclarecimento de situação pessoal da parte.  
+
+Parágrafo único - Nenhuma norma de organização administrativa será interpretada 
+de modo a, por qualquer forma, restringir o disposto neste artigo.  
+
+Disposições Finais 
+
+Artigo 25 - Ficará sujeito à responsabilidade penal, civil e administrativa, na forma 
+da  legislação  em  vigor,  aquele  que  desfigurar  ou  destruir  documentos  de  valor 
+permanente ou considerado como de interesse público e social.  
+
+Artigo  26  -  Fica  criado  o  Conselho  Nacional  de  Arquivos  (Conarq),  órgão 
+vinculado ao Arquivo Nacional, que definirá a política nacional de arquivos, como 
+órgão central de um Sistema Nacional de Arquivos (SINAR).  
+
+§  1º  -  O  Conselho  Nacional  de  Arquivos  será  presidido  pelo  Diretor-Geral  do 
+Arquivo  Nacional  e  integrado  por  representantes  de  instituições  arquivísticas  e 
+acadêmicas, públicas e privadas.  
+§  2º  -  A  estrutura  e  funcionamento  do  conselho  criado  neste  artigo  serão 
+estabelecidos em regulamento.  
+
+Artigo 27 - Esta lei entra em vigor na data de sua publicação.  
+
+Artigo 28 - Revogam-se as disposições em contrário.  
+
+ 46
+
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+Decreto nº 22.789, de 19 de outubro de 1984 
+Institui o Sistema de Arquivos do Estado de São Paulo – SAESP 
+
+FRANCO  MONTORO,  Governador  do  Estado  de  São  Paulo,  no  uso  de  suas 
+atribuições legais, com fundamento no artigo 89, da lei nº 9.717, de 30 de janeiro 
+de 1967, 
+
+Considerando  que  todos  os  documentos  arquivísticos  gerados  pela  atuação  do 
+Governo do Estado de São Paulo constituem parte integrante de seu patrimônio 
+arquivístico; 
+
+Considerando  que  o  patrimônio  arquivístico  é  um  bem  público  cuja  integridade 
+cabe ao Estado assegurar; 
+
+Considerando  que  a  destruição  indiscriminada  de  documentos  efetuada  sem 
+critérios pode acarretar prejuízos irrecuperáveis à Administração e à História; 
+
+Considerando  que  as  atividades  de  administração  dos  documentos  arquivísticos 
+compõem-se de diversas fases que devem ser desenvolvidas de modo harmônico e 
+integrado, 
+respeitando-se  as  especialidades  de  cada  órgão  gerador  de 
+documentação; 
+
+Considerando que as conclusões apresentadas pela Comissão Especial de Estudos 
+instituída  por  Despacho  de  10,  publicado  no  Diário  Oficial  do  Estado  de  11  de 
+novembro de 1983, com a finalidade de realizar estudos relativos à organização à 
+organização de um Sistema Estadual de Arquivos; e 
+
+Considerando finalmente que, a exposição de motivos apresentada pelo Secretário 
+Extraordinário da Cultura, 
+
+Decreta: 
+
+Artigo  1º  -  Fica  instituído,  nos  termos  deste  decreto,  o  Sistema  de  Arquivos  do 
+Estado de São Paulo - SAESP. 
+
+Artigo  2º  -  O Sistema de Arquivos do Estado de São Paulo - SAESP tem como 
+objetivos principais: 
+
+I.  assegurar  a  proteção  e  apresentação  dos  documentos  do  Poder  Público 
+Estadual,  tendo  em  vista  o  seu  valor  administrativo  e  histórico  e  os 
+interesses da comunidade; 
+
+ 47
+
+ 
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+II.  harmonizar as diversas fases da administração dos documentos arquivísticos, 
+
+atendendo às peculiaridades dos órgãos geradores da documentação; 
+
+III.  facilitar  o  acesso  ao  patrimônio  arquivístico  público  de  acordo  com  as 
+
+necessidades da comunidade. 
+
+Artigo  3º  -  Para  os  fins  deste  decreto  consideram-se  integrantes  do  patrimônio 
+arquivístico público todos os documentos, de qualquer tipo e natureza, gerados e 
+acumulados no decurso das atividades de cada órgão da Administração do Estado 
+de São Paulo, que se distribuem em: 
+
+I.  arquivos  correntes,  constituídos  pelos  conjuntos  de  documentos  em  curso 
+ou  que,  mesmo  sem  movimentação,  constituam  objeto  de  consultas 
+freqüentes; 
+
+II.  arquivos  intermediários,  constituídos  pelos  conjuntos  de  documentos 
+procedentes  de  arquivos  correntes  e  que  aguardam  destinação  final  em 
+depósitos de armazenagem temporária; 
+
+III.  arquivos  permanente,  constituídos  pelos  conjuntos  de  documentos  que 
+assumem valor cultural, de testemunho, extrapolando a finalidade específica 
+de  sua  criação  e  aos  que  devem  ser  assegurados  a  preservação  e  o  acesso 
+público. 
+
+Artigo 4º - O Sistema de Arquivos do Estado de São Paulo - SAESP conta com: 
+
+I.  órgão central: Divisão de Arquivo do Estado, do Departamento de Museus 
+
+e Arquivos, da Secretaria da Cultura; 
+
+II.  órgãos  regionais:  Delegacias  Regionais  da  Cultura,  do  Departamento  de 
+
+Atividades Regionais da Cultura, da Secretaria da Cultura; 
+
+III.  órgãos setoriais: 1 (um) em cada Secretaria do Estado e Autarquia. 
+
+Parágrafo  único  -  A  definição  dos  órgãos  setoriais  previstos  no  inciso  III  deste 
+artigo será objeto de decretos específicos e recairá em unidade técnica já existente 
+na estrutura organizacional de cada Secretaria de Estado e Autarquia. 
+
+Artigo 5º - Poderão, também, participar do Sistema de Arquivos do Estado de São 
+Paulo - SAESP, mediante celebração de convênios com o Governo do Estado, por 
+sua  Secretaria  da  Cultura,  após  prévia  autorização  e  observada  a  legislação 
+pertinente,  órgãos  dos  Poderes  Legislativo  e 
+Judiciário  estaduais,  das 
+Administrações  municipais,  as  Fundações  instituídas  pelo  Poder  Público,  as 
+Empresas nas quais o Estado tenha participação majoritária e demais Entidades de 
+Direito Privado. 
+
+ 48
+
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+Artigo  6º  -  A  Divisão  de  Arquivo  do  Estado,  do  Departamento  de  Museus  e 
+Arquivos, como órgão central do Sistema de Arquivos do Estado de São Paulo e 
+além de suas atribuições normais, cabe: 
+
+I.  estabelecer  a  articulação  com  os  órgãos  integrantes  do  SAESP  e  com 
+
+unidades afins; 
+
+II.  elaborar  princípios,  diretrizes,  normas  e  métodos  sobre  organização  e 
+
+funcionamento das atividades de arquivo; 
+
+III.  prestar orientação técnica aos órgãos integrantes do Sistema e a unidades 
+
+responsáveis pela guarda de documentos arquivísticos; 
+
+IV.  orientar e controlar a elaboração dos planos de destinação de documento; 
+V.  controlar  o  encaminhamento  obrigatório  aos  arquivos  competentes  dos 
+documentos  acumulados  nas  unidades  responsáveis  pela  guarda  dos 
+arquivos intermediários e correntes; 
+
+VI.  providenciar a celebração de convênios entre o Governo do Estado, por 
+sua  Secretaria  da  Cultura,  e  entidades,  públicas  e  privadas,  municipais, 
+estaduais,  nacionais  ou  internacionais,  visando  atingir  os  objetivos  do 
+Sistema; 
+
+VII.  administrar  os  convênios  de  que  trata  o  inciso  anterior  e  fiscalizar  as 
+
+correspondentes prestações de contas; 
+
+VIII.  manter cadastro geral atualizado das unidades responsáveis pela guarda de 
+
+documentos arquivísticos; 
+
+IX.  produzir textos de interesse para o SAESP; 
+X.  elaborar  programas  de  divulgação  do  Sistema  e  dos  acervos à disposição 
+
+do público; 
+
+XI.  desenvolver  estudos  visando  à  instalação  de  arquivos  intermediários  ou 
+
+permanentes; 
+
+XII.  propor a política de acesso aos documentos públicos; 
+XIII.  promover a organização de eventos culturais relacionados ao Sistema; 
+XIV.  promover  a  realização  de  cursos  para  o  desenvolvimento  dos  recursos 
+
+humanos do Sistema. 
+
+Artigo  7º  -  As  Delegacias  Regionais  da  Cultura,  do  Departamento  de  Atividades 
+Regionais  da  Cultura,  além  de  suas  atribuições  normais,  têm,  como  órgãos 
+regionais  do  Sistema  de  Arquivos  do  Estado  de  São  Paulo,  em  suas  respectivas 
+áreas de atuação, as seguintes atribuições: 
+
+I.  manter contatos com autoridades públicas e com responsáveis pela guarda 
+
+de documentos arquivísticos, com a finalidade de divulgar o Sistema; 
+
+II.  promover  a  articulação  entre  as  unidades  responsáveis  pela  guarda  de 
+
+documentos arquivísticos; 
+
+ 49
+
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+III.  colaborar  com  o  órgão  central  do  Sistema  no  desempenho  de  suas 
+
+atribuições, especialmente: 
+
+a.  na orientação e no controle da elaboração dos planos de destinação 
+
+de documentos; 
+
+b.  no  controle  do  encaminhamento  aos  arquivos  competentes  dos 
+documentos  acumulados  nas  unidades  responsáveis  pela  guarda  de 
+arquivos intermediários e correntes; 
+
+c.  em  estudos  visando  à  instalação  de  arquivos  intermediários  ou 
+
+permanentes; 
+
+d.  na coleta de dados necessários à elaboração de programas e projetos; 
+e.  na promoção de eventos relacionados ao Sistema. 
+
+Artigo  8º  -  Os  órgãos  setoriais  do  Sistema  de  Arquivos  do  Estado  de São Paulo 
+têm as seguintes atribuições:  
+
+IV.  assistir  as  autoridades  das  Secretarias  de  Estado  ou  das  Autarquias  a  que 
+
+pertencem, nos assuntos relacionados com o Sistema; 
+
+V.  planejar e acompanhar a execução, no âmbito das Secretarias de Estado ou 
+Autarquias a que pertencerem, dos programas, diretrizes e normas emanadas 
+do órgão central do Sistema; 
+
+VI.  elaborar, em conformidade com as diretrizes emanadas do órgão central, o 
+conjunto  de  normas  disciplinadoras  da  recepção,  produção,  tramitação, 
+arquivamento, preservação e transferência dos documentos gerados em seus 
+respectivos âmbitos de atuação; 
+
+VII.  prestar  orientação  técnica,  controlar  e,  quando  for  o  caso,  executar  as 
+
+VIII.  manter 
+
+atividades arquivísticas, em seus respectivos âmbitos de atuação; 
+suas 
+cadastro  das  unidades  pertencentes 
+
+estruturas 
+organizacionais,  responsáveis  por  atividades  de  arquivo,  bem  como  das 
+relações  de  séries  documentais  que  essas  unidades  mantêm  sob  custódia  e 
+que fazem parte de seus arquivos correntes; 
+
+às 
+
+IX.  prestar ao órgão central informações sobre suas atividades; 
+X.  apresentar sugestões para o aprimoramento do Sistema. 
+
+Artigo  9º  -  Ao  Diretor  da  Divisão  de  Arquivo do Estado, enquanto dirigente de 
+unidade de despesa, cabe exercer as competências previstas nos artigos 92 e 105 do 
+DECRETO nº 20.955, de 1º de junho de 1983. 
+
+Artigo  10  -  Fica  instituída,  junto  ao  órgão  central  do  Sistema  de  Arquivos  do 
+Estado de São Paulo, a Comissão Estadual de Arquivo. 
+
+Artigo 11 - A Comissão Estadual de Arquivo cabe: 
+
+ 50
+
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+I.  prestar,  ao  órgão  central  do  SAESP,  assessoramento  de  ordem  técnica  e 
+
+histórico-cultural; 
+
+II.  manifestar-se  sobre  instruções  normativas  emanadas  do  órgão  central  ou 
+
+dos órgãos setoriais do SAESP; 
+
+III.  propor modificações aprimoradoras do Sistema; 
+IV.  propor  medidas  para  o  inter-relacionamento  das  atividades  dos  arquivos 
+
+correntes e dos arquivos intermediários e permanentes; 
+
+V.  propor  a  constituição  de  comissões  ou  grupos  de  trabalho  para  tratar  de 
+
+assuntos específicos; 
+
+VI.  elaborar seu regimento interno. 
+
+Artigo 12 - A Comissão Estadual de Arquivo tem a seguinte composição: 
+
+I.  2 (dois) membros escolhidos pelo Secretário da Cultura; 
+II.  Diretor da Divisão de Arquivo do Estado, do Departamento de Museus e 
+
+Arquivos, da Secretaria da Cultura; 
+
+III.  1  (um)  representante  da  Fundação  do  Desenvolvimento  Administrativo  - 
+
+FUNDAP; 
+
+IV.  1 (um) representante do Curso de Arquivo ou do Curso de História de cada 
+
+Universidade Estadual; 
+
+V.  1 (um) representante da Associação dos Arquivistas Brasileiros - núcleo do 
+
+Estado de São Paulo. 
+
+§  1º  -  Os  Membros  da  Comissão  Estadual  de  Arquivo  serão  designados  pelo 
+Secretário da Cultura para um mandato de 2 (dois) anos, permitida a recondução, 
+sendo,  no  caso  dos  representantes  previstos  nos  incisos  III  a  V  deste  artigo, 
+mediante indicação dos respectivos órgãos de origem. 
+
+§ 2º - No caso de vaga em data anterior à do término do mandato, o Secretário da 
+Cultura designará novo membro para o período restante. 
+
+§ 3º - O Presidente será indicado pelos membros da Comissão, dentre seus pares, 
+em lista tríplice apresentada ao Secretário da Cultura, que o designará. 
+
+§  4º  -  O  Presidente,  além  do  voto  de  membro  da  Comissão,  terá  o  voto  de 
+desempate. 
+
+Artigo  13  -  Fica  vedada  a  eliminação  de  documentos  integrantes  do  patrimônio 
+arquivístico público, sem prévia consulta ao órgão central do Sistema de Arquivos 
+do Estado de São Paulo. 
+
+ 51
+
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+Artigo  14  -  A  implantação  do  Sistema  instituído  por  este  decreto  será  feita 
+gradativamente, de acordo com as disponibilidades orçamentárias e financeiras. 
+
+Artigo 15 - Este decreto entrará em vigor na data de sua publicação. 
+
+ 52
+
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+Decreto Nº 29.838, de 18 de abril de 1989 
+Dispõe sobre a constituição de Comissão de Avaliação de Documentos de Arquivo 
+nas Secretarias de Estado e dá outras providências 
+
+ORESTES  QUÉRCIA,  Governador  do  Estado  de  São  Paulo,  no  uso  de  suas 
+atribuições legais, e 
+
+Considerando as disposições do DECRETO nº 22.789, de 19 de outubro de 1984, 
+que criou o Sistema de Arquivos do Estado de São Paulo -SAESP; 
+
+Considerando  a  responsabilidade  dos  órgãos  da  Administração  do  Estado  na 
+proteção e conservação dos documentos de valor probatório, informativo, cultural 
+e histórico; 
+
+Considerando  a  necessidade  de  reduzir  ao  mínimo  essencial  a  documentação 
+acumulada nos arquivos das Secretarias de Estado, sem prejuízo da salvaguarda dos 
+atos  administrativos,  constitutivos  e  extintitos  de  direito,  das  informações 
+indispensáveis ao processo decisório e à preservação da memória histórica, 
+
+Decreta: 
+
+Artigo  1º  -  Em  cada  Secretaria  de  Estado  deverá  ser  constituída,  dentro  de  45 
+(quarenta  e  cinco)  dias,  a  contar  da  publicação  deste  decreto,  uma  Comissão  de 
+Avaliação  de  Documentos  de  Arquivo  visando  à  elaboração  de  tabela  de 
+temporalidade dos documentos mantidos nos arquivos da respectiva Pasta. 
+
+Artigo  2º  -  A  Comissão  de  que  trata  o  artigo  anterior  deverá  ser  integrada, 
+necessariamente,  por  funcionários  e/ou  servidores  representantes  das  áreas 
+jurídica,  de  administração  geral,  de  administração  financeira  e  de  arquivo  e  por 
+representantes das áreas específicas da documentação a ser avaliada. 
+
+Parágrafo  único  -  A  Comissão  deverá  ser  composta  por  5  (cinco),  7  (sete)  ou  9 
+(nove) membros, designados pelo Titular da Pasta. 
+
+Artigo 3º - A Comissão será assessorada por funcionário ou servidor ligado à área 
+de História, indicado pelo órgão central do Sistema de Arquivos do Estado de São 
+Paulo-SAESP. 
+
+Artigo  4º  -  Para  proceder  à  identificação  dos  conjuntos  documentais  a  serem 
+analisados  pela  Comissão,  será  designada  uma  equipe  de  funcionários  e/ou 
+servidores pelo Titular da Pasta. 
+
+ 53
+
+ 
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+Artigo 5º - Os trabalhos a que se referem os artigos 2º, 3º e 4º deste decreto não 
+serão  remunerados  e  serão  prestados  sem  prejuízo  das  atribuições  próprias  dos 
+cargos ou funções e considerados como de serviço público relevante. 
+
+Artigo 6º - Para o atendimento do estabelecido no artigo 1º, deste decreto, caberá à 
+Comissão: 
+
+I - escolher, dentre seus membros, o responsável pela coordenação dos trabalhos; 
+
+II  -  indicar  a  equipe  que  procederá  à  identificação  dos  conjuntos  documentais  a 
+serem analisados; 
+
+III  -  propor  os  prazos  de  retenção  e  eliminação  dos  conjuntos  documentais 
+identificados. 
+
+Artigo  7º  -  Concluídos  os  trabalhos,  a  Comissão  elaborará  relatório  propondo  a 
+tabela  de  temporalidade  a  ser  instituída,  o  qual,  apreciado  pelo  órgão  central  do 
+Sistema de Arquivos do Estado de São Paulo - SAESP, será submetido ao Titular 
+da Pasta. 
+
+Parágrafo único - Acolhida a proposta, a tabela de temporalidade será publicada no 
+Diário Oficial do Estado por 3 (três) dias consecutivos. 
+
+Artigo 8º - Qualquer impugnação aos critérios de valoração adotados na tabela de 
+temporalidade deverá ser dirigida ao Titular da Pasta, no prazo de 15 (quinze) dias, 
+a contar da última publicação. 
+
+§  1º  -  A  impugnação  será  encaminhada,  previamente,  à  Comissão  e  ao  órgão 
+central do Sistema de Arquivos do Estado de São Paulo - SAESP, que deverão se 
+manifestar, sucessivamente, no prazo de 10 (dez) dias cada um, o primeiro deles, 
+contado da data do protocolamento da impugnação. 
+
+§ 2º - A decisão da impugnação será irrecorrível e deverá ser publicada no prazo de 
+30 (trinta) dias a contar da data do protocolamento da impugnação. 
+
+Artigo 9º - A homologação da tabela de temporalidade pelo Titular da Pasta será 
+publicada no Diário Oficial do Estado. 
+
+Artigo  10  -  A  execução  das  determinações  fixadas  na  tabela  de  temporalidade 
+caberá às unidades responsáveis pelos arquivos de cada Secretaria de Estado. 
+
+ 54
+
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+Artigo  11  -  Ao  órgão  central  do  Sistema  de  Arquivos  do  Estado  de  São  Paulo  - 
+SAESP  caberá  o  reexame,  a  qualquer  tempo,  das  tabelas  de  temporalidade  e  a 
+prestação de orientação técnica necessária ao fiel cumprimento deste decreto. 
+
+Artigo 12 - Este decreto entrará em vigor na data de sua publicação. 
+
+Palácio dos Bandeirantes, 18 de abril de 1989. 
+
+ORESTES QUÉRCIA 
+
+Fernando Gomes de Moraes, Secretário da Cultura 
+Roberto Valle Rollemberg, Secretário do Governo 
+Publicado na Secretaria de Estado do Governo, aos 18 de abril de 1989. 
+
+ 55
+
+ 
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+Decreto nº 48.897, de 27 de agosto de 2004 
+Dispõe sobre os Arquivos Públicos, os documentos de arquivo e sua gestão, os 
+Planos  de  Classificação  e  a  Tabela  de  Temporalidade  de  Documentos  da 
+Administração Pública do Estado de São Paulo, define normas para a avaliação, 
+guarda e eliminação de documentos de arquivo e dá providências correlatas. 
+
+GERALDO ALCKMIN, GOVERNADOR DO ESTADO DE SÃO PAULO, no 
+uso de suas atribuições legais, com base na manifestação da Secretária da Cultura, e 
+
+Considerando que é dever do Poder Público promover a gestão dos documentos 
+de arquivo, bem como assegurar o acesso às informações neles contidas, de acordo 
+com o § 2º do artigo 216 da Constituição Federal e com o artigo 1º da Lei federal 
+nº 8.159, de 8 de janeiro de 1991; 
+
+Considerando  que  ao  Estado  cabe  a  definição  dos  critérios  de  organização  e 
+vinculação dos arquivos estaduais, bem como a gestão e o acesso aos documentos 
+de arquivo, de acordo com o artigo 21 da Lei federal nº 8.159, de 8 de janeiro de 
+1991; 
+
+Considerando as disposições do Decreto nº 22.789, de 19 de outubro de 1984, que 
+instituiu o Sistema de Arquivos do Estado de São Paulo - SAESP e do Decreto nº 
+29.838,  de  18  de  abril  de  1989,  que  determinou  a  instituição  de  Comissões  de 
+Avaliação de Documentos de Arquivo; 
+
+Considerando  a  necessidade  urgente  de  se  definirem  critérios  para  reduzir  ao 
+essencial os documentos acumulados nos arquivos da Administração Estadual, sem 
+prejuízo  da  salvaguarda  dos  atos  administrativos,  constitutivos  e  extintivos  de 
+direitos, das informações indispensáveis ao processo decisório e à preservação da 
+memória institucional; e 
+
+Considerando,  finalmente,  a  proposta  apresentada  pelo  Arquivo  do  Estado,  na 
+condição  de  órgão  central  do  Sistema  de  Arquivos  do  Estado  de  São  Paulo  - 
+SAESP elaborada em parceria com as Comissões de Avaliação de Documentos de 
+Arquivo 
+
+D e c r e t a: 
+
+SEÇÃO I 
+
+Dos Arquivos Públicos 
+
+ 56
+
+ 
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+Artigo  1º  -  Entende-se  por  arquivos  públicos  os  conjuntos  de  documentos 
+produzidos,  recebidos  e  acumulados  por  órgãos  públicos,  autarquias,  fundações 
+instituídas  ou  mantidas  pelo  Poder  Público,  empresas  públicas,  sociedades  de 
+economia mista, entidades privadas encarregadas da gestão de serviços públicos e 
+organizações  sociais,  definidas  como  tal  pela  Lei  Complementar  nº  846,  de  4  de 
+junho de 1998, no exercício de suas funções e atividades. 
+
+§  1º  -  A  sujeição  das  organizações  sociais  às  normas  arquivísticas  do  Sistema  de 
+Arquivos do Estado de São Paulo - SAESP constará dos contratos de gestão com 
+o Poder Público. 
+
+§  2º  -  A  cessação  de  atividade  dos  entes  referidos  no  “caput”  implica  o 
+recolhimento de seus documentos de guarda permanente ao Arquivo do Estado. 
+
+§  3º  -  Os  documentos  de  valor  permanente  das  empresas  em  processo  de 
+desestatização, parcial ou total, serão recolhidos ao Arquivo do Estado, devendo 
+constar  tal  recolhimento  em  cláusula  específica  de  edital  nos  processos  de 
+desestatização. 
+
+Artigo 2º - A Administração Pública Estadual garantirá acesso aos documentos de 
+arquivos, nos termos da legislação vigente. 
+
+SEÇÃO II 
+
+Dos Documentos de Arquivo 
+
+Artigo  3º  -  São  documentos  de  arquivo  todos  os  registros  de  informação,  em 
+qualquer  suporte,  inclusive  o  magnético  ou  óptico,  produzidos,  recebidos  ou 
+acumulados pelos órgãos e entidades referidos no artigo 1º deste decreto. 
+
+Artigo  4º  -  Os  documentos  de  arquivo  são  identificados  como  correntes, 
+intermediários e permanentes, na seguinte conformidade: 
+
+I  -  consideram-se  documentos  correntes  aqueles  em  curso  ou  que  se  conservam 
+junto  às  unidades  produtoras  em  razão  de  sua  vigência  e  da  freqüência  com  que 
+são por elas consultados; 
+
+II  -  consideram-se  documentos  intermediários  aqueles  com  uso  pouco  freqüente 
+que  aguardam  prazos  de  prescrição  e  precaução  nas  unidades  que  tenham 
+atribuições de arquivo nas Secretarias de Estado, ou na Seção Técnica de Arquivo 
+Intermediário, do Arquivo do Estado; 
+
+ 57
+
+ 
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+II  -  consideram-se  documentos  permanentes  aqueles  com  valor  histórico, 
+probatório e informativo que devem ser definitivamente preservados. 
+
+Artigo 5º - Os documentos de arquivo, em razão de seus valores, podem ter guarda 
+temporária ou guarda permanente, observados os seguintes critérios: 
+
+I  -  são  documentos  de  guarda  temporária  aqueles  que,  esgotados  os  prazos  de 
+guarda na unidade produtora ou nas unidades que tenham atribuições de arquivo 
+nas  Secretarias  de  Estado,  ou  na  Seção  Técnica  de  Arquivo  Intermediário,  do 
+Arquivo  do  Estado,  podem  ser  eliminados  sem  prejuízo  para  a  coletividade  ou 
+memória da Administração Pública Estadual; 
+
+II  -  são  documentos  de  guarda  permanente  aqueles  que,  esgotados  os  prazos  de 
+guarda  previstos  no  inciso  I  deste  artigo,  devem  ser  preservados,  por  força  das 
+informações  neles  contidas,  para  a  eficácia  da  ação  administrativa,  como  prova, 
+garantia de direitos ou fonte de pesquisa. 
+
+Artigo 6º - As unidades de guarda dos documentos produzidos em cada Secretaria 
+de Estado são as previstas na estrutura organizacional de cada Secretaria de Estado, 
+definida de acordo com a legislação que lhe é aplicada. 
+
+SEÇÃO III 
+
+Da Gestão de Documentos de Arquivo 
+
+Artigo 7º - Cabe ao Arquivo do Estado, órgão central do Sistema de Arquivos do 
+Estado de São Paulo - SAESP, além de suas atribuições normais e das previstas no 
+artigo  6º  do  Decreto  nº  22.789,  de  19  de  outubro  de  1984,  propor  a  política 
+estadual de gestão de documentos. 
+
+Artigo  8º  -  Considera-se  gestão  de  documentos  o  conjunto  de  procedimentos  e 
+operações  técnicas referentes à sua produção, classificação, avaliação, tramitação, 
+uso,  arquivamento  e  reprodução,  que assegura a racionalização e a eficiência dos 
+arquivos. 
+
+Parágrafo único - É dever dos órgãos da Administração Pública Estadual a gestão 
+de  documentos  como  instrumento  de  apoio  à  administração,  à  cultura  e  ao 
+desenvolvimento científico. 
+
+Artigo  9º  -  São  instrumentos  básicos  da  gestão  de  documentos  os  Planos  de 
+Classificação de Documentos e as Tabelas de Temporalidade de Documentos. 
+
+SEÇÃO IV 
+
+ 58
+
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+Dos Planos de Classificação de Documentos 
+
+Artigo  10  -  O  Plano  de  Classificação  de  Documentos  é  o  instrumento  utilizado 
+para classificar todo e qualquer documento de arquivo. 
+
+Parágrafo  único  -  Entende-se  por  classificação  de  documentos  a  seqüência  das 
+operações técnicas que visam a agrupar os documentos de arquivo relacionando-os 
+ao órgão produtor, à função, subfunção e atividade responsável por sua produção 
+ou acumulação. 
+
+Artigo 11 - Os Planos de Classificação de Documentos das atividades-meio e das 
+atividades-fim  dos  órgãos  da  Administração  Pública  Estadual  deverão  apresentar 
+os  códigos  de  classificação  das  séries  documentais  com  a  indicação  dos  órgãos 
+produtores,  das  funções,  subfunções  e  atividades  responsáveis  por  sua  produção 
+ou acumulação. 
+
+Artigo  12  -  Série  documental  é  o  conjunto  de  documentos  do  mesmo  tipo 
+documental  produzido  por  um  mesmo  órgão,  em  decorrência  do  exercício  da 
+mesma  função,  subfunção  e  atividade  e  que  resultam  de  idêntica  forma  de 
+produção e tramitação e obedecem à mesma temporalidade e destinação. 
+
+Artigo 13 - O código de classificação da série documental é a referência numérica 
+que a associa ao seu contexto de produção, e é composto das seguintes unidades 
+de informação: 
+
+I - órgão produtor; 
+
+II - função; 
+
+III - subfunção; 
+
+IV - atividade; 
+
+V - série documental. 
+
+Artigo 14 - O órgão produtor é a instituição ou entidade juridicamente constituída 
+e organizada responsável pela execução de funções do Estado. 
+
+Artigo 15 - Considera-se função o conjunto de atividades que o Estado exerce para 
+a consecução de seus objetivos, que pode ser identificada como: 
+
+ 59
+
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+I - direta ou essencial, quando corresponde às razões pelas quais foram criados os 
+diferentes  órgãos,  entidades  ou  empresas,  caracterizando  as  áreas  específicas  nas 
+quais atuam; 
+
+II - indireta ou auxiliar, quando é a que possibilita a infra-estrutura administrativa 
+essencial.  
+necessária 
+Parágrafo  único  -  A  funções  indiretas  ou  auxiliares  na  Administração  Pública 
+Estadual são: 
+
+ao  desempenho 
+
+eficaz  de 
+
+concreto 
+
+função 
+
+e 
+
+1. organização administrativa; 
+
+2. comunicação institucional; 
+
+3. gestão de recursos humanos; 
+
+4. gestão de bens materiais e patrimoniais; 
+
+5. gestão orçamentária e financeira; 
+
+6. gestão de documentos e informações; e 
+
+7. gestão de atividades complementares. 
+
+Artigo  16  -  Considera-se  subfunção  o  agrupamento  de  atividades  afins, 
+correspondendo cada subfunção a uma modalidade da respectiva função. 
+
+Artigo 17 - Considera-se como atividade a ação, o encargo ou o serviço decorrente 
+do exercício de uma função, que pode ser identificada como: 
+
+I - atividade-meio, quando se refere a ação, encargo ou serviço que um órgão leva a 
+efeito para auxiliar e viabilizar o desempenho de suas atribuições específicas e que 
+resulta  na  produção  e  acumulação  de  documentos  de  caráter  instrumental  e 
+acessório; 
+
+II - atividade-fim, quando se refere a ação, encargo ou serviço que um órgão leva a 
+efeito para o efetivo desempenho de suas atribuições específicas e que resulta na 
+produção  e  acumulação  de  documentos de caráter substantivo e essencial para o 
+seu funcionamento.  
+
+Artigo  18  -  Caberá  aos  órgãos  da  Administração  Pública  Estadual  elaborar  e 
+atualizar  os  Planos  de  Classificação  de  Documentos  relativos  às  suas  atividades-
+fim,  os  quais  deverão  ser  aprovados  pelo  Arquivo  do  Estado,  antes  de  sua 
+oficialização. 
+
+ 60
+
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+SEÇÃO V 
+
+Das Tabelas de Temporalidade de Documentos 
+
+Artigo 19 - A Tabela de Temporalidade de Documentos é o instrumento resultante 
+da avaliação documental, aprovado por autoridade competente, que define prazos 
+de guarda e a destinação de cada série documental. 
+
+Parágrafo único - Entende-se por avaliação documental o processo de análise que 
+permite a identificação dos valores dos documentos, para fins da definição de seus 
+prazos de guarda e de sua destinação. 
+
+Artigo  20  -  As  Tabelas  de  Temporalidade  de  Documentos das atividades-meio e 
+das atividades-fim dos órgãos da Administração Pública Estadual deverão indicar 
+os  órgãos  produtores,  as  séries  documentais,  os  prazos  de  guarda  e  a  destinação 
+dos documentos, bem como sua fundamentação jurídica ou administrativa, quando 
+houver. 
+
+§  1º  -  Entende-se  por  destinação  a  decisão  decorrente  da  avaliação  documental, 
+que determina o seu encaminhamento. 
+
+§ 2º - Será destinado para eliminação, após o cumprimento dos respectivos prazos 
+de  guarda,  o  documento  que  não  apresentar  valor  que  justifique  sua  guarda 
+permanente. 
+
+§ 3º - Será destinado para guarda permanente o documento que for considerado de 
+valor histórico, probatório e informativo. 
+
+§  4º  -  Para  cada série documental mencionada nas Tabelas de Temporalidade de 
+Documentos  deverão  ser  registrados,  a  título  de  observações,  os  atos  legais  e  as 
+razões  de  natureza  administrativa  que  fundamentaram  a  indicação  dos  prazos 
+propostos ou ainda informações relevantes sobre a produção, guarda ou conteúdo 
+do documento. 
+
+Artigo 21 - Para cada série documental deverá ser indicado o correspondente prazo 
+de  guarda,  ou  seja,  o  tempo  de  permanência  de  cada  conjunto  documental  nos 
+lugares indicados, a saber: 
+
+I - unidade produtora: deve ser indicado o número de anos em que o documento 
+deverá  permanecer  no  arquivo  corrente,  cumprindo  a  finalidade  para  a  qual  foi 
+produzido; 
+
+ 61
+
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+II  -  unidade  com  atribuições  de  arquivo  de  cada  Secretaria:  deve  ser  indicado  o 
+número  de  anos  em  que  o  documento  deverá  permanecer  na  unidade  com 
+atribuições  de  arquivo  de  cada  Secretaria  cumprindo  prazos  prescricionais  ou 
+precaucionais. 
+
+Parágrafo  único  -  Esgotada  a  vigência  do  documento,  fica  autorizada  a  sua 
+eliminação, desde que cumprido o prazo de guarda previsto na unidade produtora 
+e na unidade com atribuições de arquivo de cada Secretaria. 
+
+Artigo  22  -  Os  prazos  considerados  para  a  definição  do  tempo  de  guarda  na 
+unidade  produtora  ou  na  unidade  com  atribuições  de  arquivo  de  cada  Secretaria 
+são os seguintes: 
+
+I  -  prazo  de  vigência:  intervalo  de  tempo  durante  o  qual  o  documento  produz 
+efeitos administrativos e legais plenos, cumprindo as finalidades que determinaram 
+sua produção. 
+
+II - prazo de prescrição: intervalo de tempo durante o qual pode-se invocar a tutela 
+do Poder Judiciário para fazer valer direitos eventualmente violados. O tempo de 
+guarda  dos  documentos  será  dilatado  sempre  que  ocorrer  a  interrupção  ou 
+suspensão da prescrição, em conformidade com a legislação vigente. 
+
+III  -  prazo  de  precaução:  intervalo  de  tempo  durante  o  qual  guarda-se  o 
+documento  por  precaução,  antes  de  eliminá-lo  ou  encaminhá-lo  para  guarda 
+permanente. 
+
+Artigo  23  -  Caberá  aos  órgãos  da  Administração  Pública  Estadual  elaborar  e 
+atualizar as Tabelas de Temporalidade de Documentos relativas às suas atividades-
+fim,  as  quais  deverão  ser  aprovadas  pelo  Arquivo  do  Estado,  antes  de  sua 
+oficialização. 
+
+SEÇÃO VI 
+
+Da Eliminação de Documentos de Guarda Temporária 
+
+Artigo  24  -  A  eliminação  de  documentos  nos  órgãos  da  Administração  Pública 
+Estadual  é  decorrente  do  trabalho  de  avaliação  documental  conduzido  pelas 
+respectivas  Comissões  de  Avaliação  de  Documentos  de  Arquivo  e  deverá  ser 
+executada de acordo com os procedimentos estabelecidos neste decreto. 
+
+Artigo 25 - Toda e qualquer eliminação de documentos públicos que não constem 
+da Tabela de Temporalidade de Documentos das atividades-meio, ou das Tabelas 
+
+ 62
+
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+de Temporalidade de Documentos das atividades-fim dos órgãos da Administração 
+Pública Estadual, será realizada mediante autorização do Arquivo do Estado. 
+
+Artigo 26 - O registro dos documentos a serem eliminados deverá ser efetuado por 
+meio de “Relação de Eliminação de Documentos”, conforme modelo constante do 
+Anexo I, que faz parte integrante deste decreto. 
+
+Parágrafo  único  -  Os  órgãos  da  Administração  Pública  Estadual,  que  ainda  não 
+oficializaram  sua  Tabela  de  Temporalidade  de  Documento  -  atividades-fim  e 
+pretendam  proceder  à  eliminação  destes  documentos,  deverão  encaminhar  a 
+respectiva  Relação  de  Eliminação  de  Documentos  ao  Arquivo  do  Estado,  para 
+aprovação.  
+
+Artigo  27  -  As  Comissões  de  Avaliação  de  Documentos  de  Arquivo,  em 
+decorrência  da  aplicação  das  Tabelas  de  Temporalidade  de  Documentos,  farão 
+publicar  no  Diário  Oficial  do  Estado  os  “Editais  de  Ciência  de  Eliminação  de 
+Documentos”,  conforme  modelo  constante  do  ANEXO  II,  que  faz  parte 
+integrante deste decreto. 
+
+§ 1º - O “Edital de Ciência de Eliminação de Documentos” tem por objetivo dar 
+publicidade  ao  ato  de  eliminação  de  documentos,  devendo  conter  informações 
+sobre os documentos a serem eliminados e sobre o órgão por eles responsável. 
+
+§ 2º - O “Edital de Ciência de Eliminação de Documentos” deverá consignar um 
+prazo  de  30  (trinta)  dias  para  possíveis  manifestações  ou,  quando  for  o  caso, 
+possibilitar às partes interessadas requererem o desentranhamento de documentos 
+ou cópias de peças de processos ou expedientes. 
+
+Artigo 28 - O registro das informações relativas à execução da eliminação deverá 
+ser  efetuado  por  meio  do  “Termo  de  Eliminação  de  Documentos”,  preenchido 
+conforme  modelo  constante  do  ANEXO  III,  que  faz  parte  integrante  deste 
+decreto. 
+
+Parágrafo único - Uma cópia de cada “Termo de Eliminação de Documentos” será 
+encaminhada ao Arquivo do Estado para a consolidação de dados e a realização de 
+estudos técnicos na área de gestão de documentos. 
+
+Artigos  29  -  Dos  documentos  destinados  à  eliminação  serão  selecionadas 
+amostragens para guarda permanente. 
+
+Parágrafo  único 
+fragmento 
+representativo de um conjunto de documentos destinado à eliminação, selecionado 
+por meio de critérios qualitativos e quantitativos. 
+
+-  Considera-se  amostragem  documental  o 
+
+ 63
+
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+Artigo  30  -  A  eliminação  de  documentos  públicos  sem  valor  para  guarda 
+permanente  será  efetuada  por  meio  da  fragmentação  manual  ou  mecânica  dos 
+suportes de registro das informações. 
+
+Parágrafo único - Os documentos em suporte-papel serão doados nos termos da 
+legislação vigente. 
+
+SEÇÃO VII 
+
+Da Guarda Permanente de Documentos 
+
+Artigo 31 - São considerados documentos de guarda permanente: 
+
+I  -  os  indicados  nas  Tabelas  de  Temporalidade  de  Documentos,  que  serão 
+definitivamente preservados; 
+
+II - os de arquivos privados de pessoas físicas ou jurídicas declarados de interesse 
+público e social, nos termos da lei; 
+
+III- todos os processos, expedientes e demais documentos produzidos, recebidos 
+ou acumulados pelos órgãos da Administração Pública Estadual até o ano de 1940. 
+
+Artigo  32  -  Os  documentos  de  guarda  permanente  não  poderão  ser  eliminados 
+após  a  microfilmagem,  digitalização  ou  qualquer  outra  forma  de  reprodução, 
+devendo  ser  preservados  pelo  próprio  órgão  produtor  ou  recolhidos  ao  Arquivo 
+do Estado. 
+
+Parágrafo único – Os documentos de guarda permanente, ao serem transferidos ou 
+recolhidos  ao  Arquivo  do  Estado,  deverão  estar  avaliados,  organizados, 
+higienizados  e  acondicionados,  bem  como  acompanhados  de  instrumento 
+descritivo que permita sua identificação, acesso e controle. 
+
+Artigo 33 - Ficará sujeito à responsabilidade penal, civil e administrativa, na forma 
+da legislação em vigor, aquele que destruir, inutilizar ou deteriorar documentos de 
+guarda permanente. 
+
+SEÇÃO VIII 
+
+Das Comissões de Avaliação de Documentos de Arquivo 
+
+Artigo  34  -  As  Comissões  de  Avaliação  de  Documentos  de  Arquivo  são  grupos 
+permanentes e multidisciplinares instituídos nos órgãos da Administração Pública 
+Estadual  nos  termos  do  artigo  2º  do  Decreto  nº  29.838,  de  18  de  abril  de  1989, 
+
+ 64
+
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+responsáveis pela elaboração e aplicação de Planos de Classificação e de Tabelas de 
+Temporalidade de Documentos. 
+
+Parágrafo  único  -  Os  órgãos  que  ainda  não  instituíram  suas  Comissões  de 
+Avaliação de Documentos de Arquivo deverão fazê-lo dentro de 15 (quinze) dias, a 
+contar da publicação deste decreto. 
+
+Artigo 35 - As Comissões de Avaliação de Documentos de Arquivo farão aplicar, 
+em  suas  respectivas  áreas  de  atuação,  os  Planos  de  Classificação  e  as  Tabelas  de 
+Temporalidade de Documentos da Administração Pública do Estado de São Paulo. 
+
+Parágrafo único - As Comissões de Avaliação de Documentos de Arquivo deverão 
+propor critérios para orientar a seleção de amostragens dos documentos destinados 
+à eliminação, conforme o disposto no artigo 29, parágrafo único deste decreto. 
+
+Artigo  36  -  Às  Comissões  de  Avaliação  de  Documentos  de  Arquivo  caberá 
+consultar,  em  caso  de  dúvida,  a  Procuradoria  Geral  do  Estado  acerca  das  ações 
+judiciais encerradas ou em curso nas quais a Fazenda Estadual figure como autora 
+ou ré, para que se possa dar cumprimento aos prazos prescricionais e precaucionais 
+de guarda previstos nas Tabelas de Temporalidade de Documentos. 
+
+Artigo  37  -  Às  Comissões  de  Avaliação  de  Documentos  de  Arquivo  cabe  a 
+elaboração e atualização de Planos de Classificação de Documentos e de Tabelas 
+de Temporalidade de Documentos decorrentes do exercício das atividades-fim de 
+seus respectivos órgãos. 
+
+§ 1º- As propostas de Planos de Classificação e de Tabelas de Temporalidade de 
+Documentos  relativos  às  atividades-fim  dos  órgãos  da  Administração  Pública 
+Estadual  deverão  ser  encaminhadas  ao  Arquivo  do  Estado  para  aprovação  e 
+posteriormente oficializadas, nos termos do Decreto nº 29.838, de 18 de abril de 
+1989. 
+
+§ 2º- Ao Arquivo do Estado, na condição de órgão central do Sistema de Arquivos 
+do  Estado  de  São  Paulo,  caberá  o  reexame,  a  qualquer  tempo,  das  Tabelas  de 
+Temporalidade de Documentos. 
+
+Artigo  38  -  Para  garantir  a  efetiva  aplicação  dos  Planos  de  Classificação  e  das 
+Tabelas  de  Temporalidade  de  Documentos,  as  Comissões  de  Avaliação  de 
+Documentos  de  Arquivo  deverão  solicitar  as  providências  necessárias  para  sua 
+inclusão nos sistemas informatizados utilizados nos protocolos e arquivos de seus 
+respectivos órgãos. 
+
+SEÇÃO IX 
+
+ 65
+
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+Disposições Finais 
+
+Artigo 39 - Ao Arquivo do Estado de São Paulo compete, sempre que solicitado, 
+dar  orientação  técnica  na  área  arquivística  às  Comissões  de  Avaliação  de 
+Documentos de Arquivo para elaboração e aplicação de Planos de Classificação e 
+de Tabelas de Temporalidade de Documentos. 
+
+Artigo  40  -  Ao  Arquivo  do  Estado  caberá  decidir  sobre  a  conveniência  e  a 
+oportunidade de transferências e recolhimentos de documentos ao seu acervo. 
+
+Parágrafo  único  -  As  transferências  e  os  recolhimentos  deverão  obedecer  aos 
+cronogramas definidos pelo próprio Arquivo do Estado. 
+
+Artigo  41  -  As  disposições  deste  decreto  aplicam-se  também  aos  documentos 
+arquivísticos eletrônicos, nos termos da lei. 
+
+Artigo 42 - As disposições deste decreto aplicam-se, no que couber, às autarquias 
+estaduais,  às  fundações  instituídas  ou  mantidas  pelo  Poder  Público,  às  empresas 
+públicas, sociedades de economia mista, entidades privadas encarregadas da gestão 
+de  serviços  públicos,  e  às  organizações  sociais,  definidas  como  tal  pela  Lei 
+Complementar  nº  846,  de  4  de  junho  de  1998,  no  exercício  de  suas  funções  e 
+atividades. 
+
+Artigo 43 - Este decreto entra em vigor na data de sua publicação. 
+
+PALÁCIO DOS BANDEIRANTES, 27 de agosto de 2004 
+
+GERALDO ALCKMIN 
+
+ 66
+
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+Decreto nº 48.898, de 27 de agosto de 2004 
+Aprova o Plano de Classificação e a Tabela de Temporalidade de Documentos da 
+Administração Pública do Estado de São Paulo: Atividades-Meio e dá providências 
+correlatas. 
+
+GERALDO ALCKMIN, GOVERNADOR DO ESTADO DE SÃO PAULO, no 
+uso de suas atribuições legais, com base na manifestação da Secretária da Cultura e 
+na proposta apresentada pelo Arquivo do Estado, na condição de órgão central do 
+Sistema de Arquivos do Estado de São Paulo - SAESP, e 
+
+Considerando que é dever do Poder Público promover a gestão dos documentos 
+de arquivo, bem como assegurar o acesso às informações neles contidas, de acordo 
+com o § 2º do artigo 216 da Constituição Federal e com o artigo 1º da Lei federal 
+nº 8.159, de 8 de janeiro de 1991; 
+
+Considerando  que  ao  Estado  cabe  a  definição  dos  critérios  de  organização  e 
+vinculação dos arquivos estaduais, bem como a gestão e o acesso aos documentos 
+de arquivo, de acordo com o artigo 21 da Lei federal nº 8.159, de 8 de janeiro de 
+1991; 
+
+Considerando as disposições do Decreto nº 22.789, de 19 de outubro de 1984, que 
+instituiu o Sistema de Arquivos do Estado de São Paulo - SAESP e do Decreto nº 
+29.838,  de  18  de  abril  de  1989,  que  determinou  a  instituição  de  Comissões  de 
+Avaliação de Documentos de Arquivo; 
+
+Considerando  os  critérios  e  conceitos  adotados  no  Estado  para  a  gestão  de 
+documentos, aplicados para as atividades – meio, 
+
+D e c r e t a: 
+
+SEÇÃO I 
+
+DO PLANO DE CLASSIFICAÇÃO DE DOCUMENTOS DA 
+ADMINISTRAÇÃO PÚBLICA DO ESTADO DE SÃO PAULO: 
+ATIVIDADES - MEIO 
+
+Artigo  1º  -  Fica  aprovado  o  Plano  de  Classificação  de  Documentos  da 
+Administração Pública do Estado de São Paulo: Atividades - Meio, constante do 
+Anexo I, que faz parte integrante deste decreto, como modelo a ser adotado nos 
+órgãos da Administração Pública Estadual. 
+
+ 67
+
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+Artigo 2º - O Plano de Classificação de Documentos da Administração Pública do 
+Estado de São Paulo: Atividades - Meio apresenta um Índice, constante do Anexo 
+II, que faz parte integrante deste decreto. 
+
+Parágrafo  único  -  O  Índice  de  que  trata  este  artigo  é  um  instrumento 
+complementar do Plano de Classificação que relaciona alfabeticamente e de forma 
+permutada,  todos  os  tipos  documentais,  funções,  subfunções  e  atividades,  bem 
+como os termos e expressões utilizados com maior freqüência para a recuperação 
+dos documentos, a partir das variantes do seu conteúdo e das modalidades de sua 
+produção. 
+
+SEÇÃO II 
+
+DA TABELA DE TEMPORALIDADE DE DOCUMENTOS DA 
+ADMINISTRAÇÃO PÚBLICA DO ESTADO DE SÃO PAULO: 
+ATIVIDADES - MEIO 
+
+Artigo  3º  -  Fica  aprovada  a  Tabela  de  Temporalidade  de  Documentos  da 
+Administração Pública do Estado do São Paulo: Atividades - Meio, como modelo a 
+ser  adotado  nos  órgãos  da  Administração  Pública  Estadual  constante  do  Anexo 
+III, que faz parte integrante deste decreto. 
+
+Parágrafo  único  -  A  tabela  referida  no  “caput”  indica  todos  os  documentos  de 
+arquivo  produzidos  pela  Administração  Pública  Estadual  no  exercício  de  suas 
+atividades - meio, nos seguintes suportes: 
+
+1. papel; 
+
+2. magnético; 
+
+3. óptico; 
+
+4. filme; 
+
+5. fita. 
+
+SEÇÃO III 
+
+DAS COMISSOES DE AVALIACAO DE DOCUMENTOS DE ARQU1VO 
+
+Artigo 4º - As Comissões de Avaliação de Documentos de Arquivo farão aplicar, 
+em  suas  respectivas  áreas  de  atuação,  o  Plano  de  Classificação  e  a  Tabela  de 
+
+ 68
+
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+Temporalidade  dos  Documentos  da  Administração  Pública  do  Estado  de  São 
+Paulo: Atividades - Meio, aprovados por este decreto. 
+
+Parágrafo único - As Comissões de Avaliação de Documentos de Arquivo deverão 
+propor critérios para orientar a seleção de amostragens dos documentos destinados 
+à eliminação. 
+
+Artigo  5º  -  Caberá  às  Comissões  de  Avaliação  de  Documentos  de  Arquivo 
+comunicar ao Arquivo do Estado a eventual existência de outros documentos de 
+arquivo produzidos em decorrência do exercício de atividades-meio não indicados 
+no  Plano  de  Classificação  e  na  Tabela  de  Temporalidade  de  Documentos  da 
+Administração  Pública  do  Estado  de  São  Paulo:  Atividades  -  Meio,  para  sua 
+incorporação. 
+
+Parágrafo  único  -  A  comunicação  deverá  ser  obrigatoriamente  acompanhada  de 
+proposta de temporalidade, devidamente justificada. 
+
+Artigo 6º - Este decreto entra em vigor na data de sua publicação. 
+
+PALÁCIO DOS BANDEIRANTES, em 27 de agosto de 2004 
+
+GERALDO ALCKMIN 
+
+ 69
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+A P L I C A Ç Ã O  
+P L A N O   D E   C L A S S I F I C A Ç Ã O   E   T T D   A T I V I D A D E S - M E I O  
+
+ANEXO  
+
+DICAS PARA CONSERVAR MELHOR O 
+DOCUMENTO 
+
+1.  Evite o uso de materiais que provoquem manchas de ferrugem como clipes metálicos e grampos. 
+
+Procure usar clipes plásticos. 
+
+2.  Evite guardar documentos, mapas ou outros objetos de grande tamanho, em forma de rolos ou 
+em gavetas ou caixas pequenas. Acondicione em envelopes de papel neutro e, de preferência, em 
+mapotecas. 
+
+3.  Evite furar ou dobrar os documentos desnecessariamente. 
+
+4.  Evite  fumar,  beber  ou  se  alimentar  perto  de  documentos,  evitando  o  perigo  de  manchas, 
+
+queimaduras e atrativos para insetos. 
+
+5.  Evite o uso indiscriminado do sistema de cópias “xerográficas”, pois acarretam danos à celulose 
+devido a forte e brusca incidência de luz. Para documentos fragilizados pelo uso e pelo tempo, que 
+necessitem de muitas reproduções, recomenda-se que as reproduções sejam feitas a partir de uma 
+primeira cópia, reservada para esse fim, poupando dessa forma, o desgaste do original. 
+
+6.  Evite materiais que derretam tais como elásticos de látex. Use cadarços de algodão. 
+
+7.  Evite colas plásticas e em bastão que favorecem a degradação. Substitua por metilcelulose (a base 
+
+de água) que é neutra e reversível. 
+
+8.  Evite  o  uso  de  fitas  adesivas  ou  gomadas  de  qualquer  espécie,  pois  as  resinas  empregadas  se 
+
+alteram e podem provocar manchas de difícil remoção. 
+
+ 70
+
+ 
+

@@ -1,0 +1,3325 @@
+ARQUIVO PÚBLICO 
+DO ESTADO
+
+SECRETARIA DE
+GOVERNO
+
+ROTEIRO PARA ELABORAÇÃO  
+DE PLANO DE CLASSIFICAÇÃO  
+E TABELA DE TEMPORALIDADE 
+DE DOCUMENTOS DAS 
+ATIVIDADES-FIM
+
+2
+
+l
+
+a
+t
+n
+e
+m
+u
+c
+o
+D
+o
+ã
+t
+s
+e
+G
+o
+ã
+ç
+e
+o
+C
+
+l
+
+ISBN 978-85-69353-03-4 
+
+9     7 8 8 5 6 9     3 5 3 0 3 4  
+
+ARQUIVO PÚBLICO DO ESTADO DE SÃO PAULO
+2018
+
+47455001 capa.indd   1
+
+04/06/2018   15:18:20
+
+ 
+ 
+
+ROTEIRO PARA ELABORAÇÃO  
+
+DE PLANO DE CLASSIFICAÇÃO  
+
+E TABELA DE TEMPORALIDADE DE 
+
+DOCUMENTOS DAS ATIVIDADES-FIM
+
+
+GOVERNO DO ESTADO DE SÃO PAULO
+Governador
+Márcio França
+
+SECRETARIA DE GOVERNO
+Secretário de Governo
+Saulo de Castro Abreu Filho
+
+ARQUIVO PÚBLICO DO ESTADO
+Coordenador
+Fernando Padula Novaes
+
+Diretora Técnica do Departamento de Gestão do Sistema de Arquivos do  
+Estado de São Paulo – DGSAESP
+Ieda Pimenta Bernardes
+
+Diretora Técnica do Departamento de Preservação e Difusão do Acervo - DPDA
+Camila Brandi de Souza Bentes
+
+Adaptação e atualização:
+Alexandre Bianchi Oliveira (Diretor Técnico)
+Bruna Attina 
+Camila Giovana Ribeiro (Diretora Técnica)
+Marcelo Henrique de Assis
+Maria Elisa Pereira
+
+EQUIPE
+Centro de Gestão Documental - CGD
+Alexandre Bianchi Oliveira (Diretor Técnico)
+Ana Maria Barros dos Santos
+Maria Luiza de Araujo
+Núcleo de Normas Técnicas - NNT
+Camila Giovana Ribeiro (Diretora Técnica)
+Keli David Moreira
+Maria Elisa Pereira
+
+Núcleo de Assistência Técnica aos Órgãos do SAESP – NATOS
+Aline Santos Barbosa (Diretora Técnica)
+Alexandre Pazin
+Eder Araújo Cavalcanti
+Fabiana Ribeiro Nogueira
+Joylline Almeida Rodrigues de Moura
+Rosa Maria Rodrigues de Oliveira
+Wilson Virissimo da Silva
+
+Revisão final:
+Ieda Pimenta Bernardes (Diretora Técnica) 
+
+Editoração eletrônica, Impressão e Acabamento:
+Imprensa Oficial do Estado S/A - IMESP
+
+Versão adaptada e atualizada do Manual de elaboração de planos de classificação e tabelas de temporalidade de 
+documentos da administração pública do Estado de São Paulo: atividades-fim, publicado em 2008, disponível em: 
+<http://www.arquivoestado.sp.gov.br/site/publicacoes/tecnica>. 
+
+Coleção Gestão Documental - n. 2
+Roteiro para elaboração de Plano de classificação e Tabela de temporalidade  
+de documentos das atividades-fim
+
+1a Edição
+São Paulo/2018
+
+
+ROTEIRO PARA ELABORAÇÃO  
+
+DE PLANO DE CLASSIFICAÇÃO  
+
+E TABELA DE TEMPORALIDADE DE 
+
+DOCUMENTOS DAS ATIVIDADES-FIM
+
+Coleção Gestão Documental - n. 2
+
+1a Edição
+
+ARQUIVO PÚBLICO 
+DO ESTADO
+
+SECRETARIA DE
+GOVERNO
+
+São Paulo/2018 
+
+
+Ficha Catalográfica elaborada por 
+Rita de Cássia Higa do Nascimento – CRB 8/9231
+
+R751 
+
+Roteiro para elaboração de plano de classificação e tabela de 
+
+temporalidade de documentos das atividades-fim. – 1. ed. – São Paulo : 
+Arquivo Público do Estado, 2018.
+44 p. ; 23 cm.  – (Coleção Gestão Documental ; 2)
+
+Versão adaptada e atualizada do “Manual de elaboração de planos de 
+classificação e tabelas de temporalidade de documentos da administração 
+pública do Estado de São Paulo: atividades-fim”, 2008.
+
+Inclui bibliografia
+ISBN: 978-85-69353-03-4
+1. Gestão documental 2. Plano de classificação 3. Tabela de temporalidade
+
+4. Atividade-fim 5. Documentos públicos 6. Arquivos públicos 7. Arquivística 
+8. São Paulo (Estado) I. Arquivo Público do Estado II. Série
+
+CDD 025.1714
+CDU 930.253:353
+
+Copyright ©2018 by
+DGSAESP - Departamento de Gestão do SAESP
+Sistema de Arquivos do Estado de São Paulo
+Centro de Gestão Documental
+Arquivo Público do Estado
+Rua Voluntários da Pátria, n. 596, 10o andar
+02010-000, São Paulo – SP
+Tel.: (11) 2868-4529, 2868-4530
+cgdsaesp@sp.gov.br
+
+Disponível no sítio www.arquivoestado.sp.gov.br
+Permitida a reprodução parcial ou total desde que indicada a fonte
+
+
+Sumário
+
+Introdução ................................................................................................................................... 6
+
+01.   Levantar a estrutura e as atribuições do órgão ou entidade ............................................... 7
+
+02.   Elaborar quadro com a estrutura e as atribuições do órgão ou entidade ........................... 8
+
+03.   Elaborar quadros estruturais de unidades produtoras específicas ..................................... 9
+
+04.   Identificar os documentos produzidos, preenchendo a Ficha de avaliação de 
+
+documento ......................................................................................................................... 11
+
+04.01 Como preencher a Ficha de avaliação de documentos  ...................................... 14
+
+05.   Consolidar as informações das Fichas de avaliação de documentos  .............................. 21
+
+06.   Identificar as funções, subfunções, atividades e séries documentais  .................................23
+
+07.  Elaborar a Tabela de Temporalidade  ................................................................................. 26
+
+08.  Elaborar o Plano de Classificação ..................................................................................... 28
+
+09.   Submeter o Plano de Classificação e a Tabela de Temporalidade de Documentos 
+
+das Atividades-Fim às áreas produtoras de documentos  ................................................ 29
+
+10.   Encaminhar o Plano de Classificação e a Tabela de Temporalidade de Documentos 
+
+das Atividades-Fim ao Arquivo Público do Estado para verificação de consistência ....... 30
+
+11.   Atribuir código numérico para as funções, subfunções, atividades e séries 
+
+documentais ....................................................................................................................... 30
+
+12.   Elaborar o Índice Alfabético, Remissivo e Permutado ....................................................... 33
+
+13.   Encaminhar os instrumentos para a Consultoria/Assessoria Jurídica ............................... 36
+
+14.   Encaminhar oficialmente os instrumentos para aprovação pelo titular do Arquivo 
+
+Público do Estado ...................................................................................................... 36
+
+15.   Oficializar o Plano de Classificação e a Tabela de Temporalidade de Documentos 
+
+das Atividades-Fim ............................................................................................................ 37
+
+16.   Informatizar procedimentos e instrumentos de gestão documental – aderir ao 
+
+Sistema SPdoc ................................................................................................................... 38
+
+Anexos ....................................................................................................................................... 39
+
+Bibliografia ................................................................................................................................ 41
+
+
+Introdução
+
+O Arquivo Público do Estado, Unidade da Secretaria de Estado de Governo, atua como 
+
+órgão central do Sistema de Arquivos do Estado de São Paulo – SAESP e, nessa condição, 
+
+presta  assistência  técnica  permanente  aos  órgãos  setoriais,  unidades  técnicas  de  arquivo  e 
+
+protocolo de cada órgão ou entidade da Administração Pública Paulista. A instituição também 
+
+é responsável por formular e implementar a política estadual de arquivos, gestão documental 
+
+e acesso à informação, nos termos do art. 216, § 2o da Constituição Federal, na Lei Federal 
+
+de  Arquivos  n.  8.159/1991  e  nos  Decretos  Estaduais  n.  22.789/1984,  n.  48.897/2004,  n. 
+
+54.276/2009, n. 58.052/2012 e n. 60.145/2014.
+
+No ano de 2004, o Decreto n. 48.898 aprovou o Plano de Classificação e a Tabela de 
+
+Temporalidade de Documentos da Administração Pública do Estado de São Paulo: Atividades-
+
+Meio, instrumento que vem sendo amplamente difundido e utilizado pelos órgãos e entidades 
+
+integrantes do SAESP. Contudo, é responsabilidade dos órgãos e entidades da Administração 
+
+Pública Estadual, por meio das Comissões de Avaliação de Documentos e Acesso – CADA, 
+
+a  elaboração  e  atualização  de  seus  Planos  de  Classificação  e  Tabelas  de  Temporalidade 
+
+de  Documentos  das  atividades-fim,  ou  seja,  dos  documentos  relativos  às  suas  atividades 
+
+específicas, nos termos dos Decretos n. 48.897/2004 e n. 29.838/1989.
+
+Com o Plano de Classificação garantimos a organização lógica e física dos documentos, 
+
+recuperamos as informações em seu contexto original de produção e visualizamos as funções, 
+
+subfunções e atividades do órgão produtor; com a Tabela de Temporalidade de Documentos 
+
+registramos os resultados da avaliação documental, isto é, os prazos de guarda e a destinação 
+
+final dos documentos: guarda permanente ou eliminação. 
+
+Para a realização desse trabalho, é importante compreender o conceito de documento 
+
+arquivístico.  Para  a  administração  pública,  documentos  de  arquivo  são  todos  os  registros  de 
+
+informação,  em  qualquer  suporte,  produzidos,  recebidos  ou  acumulados  pelos  órgãos  e 
+
+entidades, na consecução de suas atribuições legalmente estabelecidas.
+
+O método para elaboração de Planos de Classificação e Tabelas de Temporalidade de 
+
+Documentos das atividades-fim dos órgãos e entidades da Administração Pública do Estado de 
+
+São Paulo descrito nesse volume, prevê a execução de etapas sucessivas, cuja complexidade 
+
+está em relação direta com a estrutura organizacional e o funcionamento do órgão ou entidade, 
+
+com as atividades que precisa desempenhar para realizar suas atribuições legais, bem como 
+
+com a variedade de sua produção documental. De qualquer forma, em estruturas complexas 
+
+ou simples, é necessário que o planejamento e a execução do trabalho sejam realizados por 
+
+equipes multidisciplinares. 
+
+A exposição a seguir visa apresentar as etapas dessa metodologia com o objetivo de 
+
+fornecer  subsídios  para  que  cada  órgão  ou  entidade  estadual  elabore  seus  instrumentos  de 
+
+gestão documental. Com arquivos organizados e com a incorporação de planos de classificação 
+
+e tabelas de temporalidade de documentos na rotina administrativa será possível assegurar a 
+
+preservação e o acesso aos documentos, dados e informações  gerados  e acumulados pela 
+
+Administração Pública Estadual.
+
+6
+
+ 
+
+01.   Levantar a estrutura e as atribuições do 
+
+órgão ou entidade
+
+Para subsidiar a elaboração do Plano de Classificação (PC) e da Tabela de Temporalidade 
+de  Documentos  das  Atividades-Fim  (TTD-Fim),  a  Comissão  de  Avaliação  de  Documentos  e 
+Acesso – CADA deverá iniciar a pesquisa do organograma mais recente do órgão ou entidade 
+e de textos legais, a fim de identificar sua estrutura e atribuições. 
+
+SECRETARIA DE AGRICULTURA E 
+ABASTECIMENTO
+
+Órgão 
+Colegiado
+
+Secretário 
+Adjunto
+
+Gabinete
+
+Coordenadoria 
+de Assistência 
+Técnica Integral  
+-  CATI
+
+Agência Paulista 
+de Tecnologia dos 
+Agronegócios - 
+APTA
+
+Coordenadoria 
+da Defesa 
+Agropecuária
+
+Coordenadoria de 
+Desenvolvimento  
+dos Agronegócios 
+CODEAGRO
+
+Sociedade de 
+Economia Mista
+
+Companhia de Desenvolvimento Agrícola 
+de São Paulo - CODASP
+ Unidade descentralizada,
+ que terá sua própria TTD-Fim
+
+Fig. 1: Exemplo de Organograma - Secretaria de Agricultura e Abastecimento1
+
+Textos legais: leis, decretos, regimentos, estatutos e outros, que criam, reorganizam e regulamentam 
+o funcionamento do órgão ou entidade.
+
+Com o estudo da estrutura e das atribuições do órgão busca-se verificar quais são as 
+atividades-fim do órgão ou entidade. As atribuições das entidades vinculadas ao órgão, caso 
+houver, não devem ser identificadas em conjunto com as do órgão, pois cada entidade deverá 
+elaborar seu próprio PC e TTD-Fim. 
+
+1 
+Os  exemplos  utilizados  neste  volume  foram  retirados  do  Plano  de  Classificação  e  da  Tabela  de  Temporalidade  de  Documentos  das 
+Atividades-Fim da Secretaria de Agricultura e Abastecimento, publicada em 07.04.2017, DOE, Seção I, p. 17-21. Agradecemos a todos os 
+envolvidos nesse trabalho, em especial à Comissão de Avaliação de Documentos e Acesso – CADA na figura de seu Coordenador, Sr. Aldízio 
+Muniz do Nascimento Junior.
+
+  7
+
+
+Considera-se como atividade a ação, o encargo ou o serviço decorrente do exercício de uma função, 
+que pode ser identificada como: 
+I - atividade-meio, quando se refere à ação, encargo ou serviço que um órgão leva a efeito para auxiliar 
+e viabilizar o desempenho de suas atribuições específicas e que resulta na produção e acumulação de 
+documentos de caráter instrumental e acessório; 
+II  -  atividade-fim,  quando  se  refere  à  ação,  encargo  ou  serviço  que  um  órgão  leva  a  efeito  para  o 
+efetivo  desempenho  de  suas  atribuições  específicas  e  que  resulta  na  produção  e  acumulação  de 
+documentos de caráter substantivo e essencial para o seu funcionamento. 
+
+Decreto n. 48.897/2004, art. 17
+
+02.   Elaborar quadro com a estrutura e as 
+atribuições do órgão ou entidade
+
+Após  o  estudo  da  estrutura  e  do  funcionamento  do  órgão  ou  entidade,  os  dados 
+identificados  devem  ser  sistematizados  em  um  quadro  com  a  estrutura  detalhada  e  as 
+atribuições de cada área de atuação. O quadro deve possuir os seguintes campos: Estrutura, 
+Divisões da Estrutura, Subdivisões da Estrutura (repetir essa coluna, caso a estrutura seja muito 
+complexa) e Atribuições. 
+
+ATENÇÃO: após a transferência, deixar no quadro apenas as estruturas e atribuições 
+referentes  às  atividades-fim  identificadas  no  estudo  da  legislação.  Devem-se  desconsiderar 
+todas as atribuições relativas ao desempenho de funções administrativas, ou seja, as atividades-
+meio que já constam do Plano de Classificação e da Tabela de Temporalidade de Documentos 
+da Administração Pública do Estado de São Paulo: Atividades-Meio aprovados pelo Decreto n. 
+48.898/2004. Pode ocorrer de serem excluídas todas as atribuições de um setor. Nesse caso, 
+esse segmento da estrutura do órgão ou entidade deverá também ser eliminado do quadro. Ver 
+a seguir o exemplo da Secretaria de Agricultura e Abastecimento:
+
+8
+
+
+ESTRUTURA
+
+DIVISÕES DA 
+ESTRUTURA
+
+SUBDIVISÕES DA 
+ESTRUTURA
+
+ATRIBUIÇÕES
+
+SECRETARIA DE 
+AGRICULTURA E 
+ABASTECIMENTO
+Decreto 
+n. 43.142/1998, 
+art. 2o
+
+A execução da política do Governo do Estado nas áreas de 
+agricultura e abastecimento
+
+A execução de pesquisas científicas e tecnológicas nos campos da 
+agropecuária e da sócio-economia
+
+A prestação de assistência técnica à agropecuária, abrangendo a 
+difusão de conhecimentos nos campos da tecnologia agropecuária, 
+sócio-economia rural e engenharia rural
+
+A inspeção sanitária e industrial de produtos de origem animal, 
+destinados ao comércio intermunicipal
+
+O suprimento de sementes, mudas e outros insumos ao setor 
+agropecuário
+
+A informação técnica, científica e sócio-econômica referente ao setor 
+agropecuário
+
+A promoção do cooperativismo e do associativismo rural
+
+Promover o desenvolvimento rural sustentado do Estado de São 
+Paulo
+
+Assegurar a conservação do solo e água no Estado de São Paulo
+
+Adaptar, difundir e transferir tecnologias de produção agropecuária
+
+Garantir sementes, mudas e matrizes de superior qualidade ao setor 
+agropecuário
+
+Planejar e coordenar a produção e fornecimento de material básico 
+para multiplicação vegetal
+
+Introduzir, testar, desenvolver, adaptar e difundir cultivares e 
+tecnologias na área de sementes e mudas
+
+Produzir e fornecer sementes, mudas e outros materiais de 
+propagação vegetativa, de forma supletiva
+
+COORDENADORIA 
+DE ASSISTÊNCIA 
+TÉCNICA INTEGRAL 
+– CATI 
+Decreto 
+n. 41.608/1997, 
+art. 2o
+
+DEPARTAMENTO DE 
+SEMENTES, MUDAS 
+E MATRIZES 
+Decreto 
+n. 41.608/1997, 
+art. 34
+
+Fig. 2: Exemplo de Quadro Estrutural com algumas das atribuições-fim da Secretaria de Agricultura e Abastecimento 
+
+03.   Elaborar quadros estruturais de unidades 
+
+produtoras específicas
+
+Para  facilitar  o  trabalho  de  identificação  da  produção  documental,  cada  uma  das 
+unidades  produtoras  de  documentos  (coordenadorias,  departamentos,  divisões,  centros, 
+núcleos e outros) que sejam subdivisões da estrutura do órgão ou entidade responsáveis por 
+desenvolverem atividades-fim poderá ter um quadro próprio com suas atribuições-fim. O quadro 
+deve  conter  também  os  campos  previstos  na  Tabela  de  Temporalidade  de  Documentos  das 
+Atividades-Fim: Documento, Prazos de Guarda (Unidade Produtora / Unidade com atribuições 
+de  Arquivo),  Destinação  (Eliminação  /  Guarda  Permanente)  e  Observações.  Ver  a  seguir  os 
+exemplos de setores de atividades-fim da Coordenadoria de Defesa Agropecuária - Secretaria 
+de Agricultura e Abastecimento:
+
+  9
+
+
+SUBDIVISÕES
+ DA 
+ESTRUTURA
+
+ATRIBUIÇÕES
+
+DOCUMENTO
+
+PRAZOS DE GUARDA 
+(em anos)
+
+DESTINAÇÃO
+
+Unidade  
+Produtora
+
+Unidade 
+com 
+atribuições 
+de Arquivo
+
+Eliminação
+
+Guarda  
+Permanente
+
+OBSERVAÇÕES
+
+Escritórios 
+de Defesa 
+Agropecuária, 
+Decreto n. 
+43.512/1998, 
+art. 12
+
+I- executar as atividades 
+de:
+a) combate a pragas e 
+doenças de animais e 
+vegetais;
+
+b) inspeção, fiscalização 
+e controle da produção, 
+manipulação, comércio e 
+transporte de produtos e 
+insumos agropecuários;
+
+d) inspeção e fiscalização 
+de eventos agropecuários, 
+recintos de concentração 
+e do trânsito de animais e 
+vegetais;
+
+f) certificação de 
+sementes e mudas;
+
+II - julgar autos de infração 
+e recursos, e aplicar 
+penalidades, quando 
+necessário; 
+
+III - emitir atestados, 
+certificados, laudos, 
+registros e guias de 
+recolhimento;
+
+(Demais atribuições de 
+atividades-fim)
+
+Fig. 3a: Exemplo de Quadro Estrutural de unidade produtora específica 
+
+SUBDIVISÕES
+ DA 
+ESTRUTURA
+
+ATRIBUIÇÕES
+
+DOCUMENTO
+
+PRAZOS DE GUARDA 
+(em anos)
+
+DESTINAÇÃO
+
+Unidade 
+Produtora
+
+Unidade 
+com 
+atribuições 
+de Arquivo
+
+Eliminação
+
+Guarda 
+ Permanente
+
+OBSERVAÇÕES
+
+Centros 
+dos Grupos 
+de Defesa 
+Sanitária 
+Animal e 
+de Defesa 
+Sanitária 
+Vegetal - 
+CDSV
+Decreto n. 
+43.512/1998, 
+art. 10
+
+II - julgar autos de infração 
+e recursos, e aplicar 
+penalidades, quando 
+necessário; 
+
+III - credenciar 
+profissionais e habilitar 
+estabelecimentos ligados 
+á cadeia produtiva do 
+setor agropecuário; 
+
+(Demais atribuições de 
+atividades-fim)
+
+Fig. 3b: Exemplo de Quadro Estrutural de unidade produtora específica
+
+10
+
+
+Observação:  O  quadro  estrutural  é  importante  para  a  identificação  dos  documentos  produzidos; 
+mas, para a finalização do Plano de Classificação e da Tabela de Temporalidade de Documentos das 
+Atividades-Fim, a estrutura organizacional será evoluída, visando à construção da Tabela Funcional, com 
+todas  as  funções,  subfunções,  atividades  e  séries  documentais  do  órgão.  Isso  trará  mais  segurança 
+e estabilidade ao instrumento ao longo do tempo, mesmo com alterações na estrutura, e permitirá a 
+compreensão global da atuação do órgão ou entidade e de sua produção documental.
+
+04.   Identificar os documentos produzidos, 
+
+preenchendo a Ficha de avaliação de 
+documento
+
+Identificadas  no  organograma  e  na  estrutura  do  órgão  ou  entidade  as  unidades  que 
+desenvolvem  atividades-fim,  devidamente  registradas  nos  quadros  estruturais  específicos, 
+passa-se à identificação dos documentos efetivamente produzidos, que poderá ser realizada 
+por  meio  de  reuniões  e  entrevistas  entre  os  agentes  públicos  das  unidades  produtoras  de 
+documentos da área fim e os membros da Comissão de Avaliação de Documentos e Acesso 
+– CADA, para o preenchimento da Ficha de avaliação de documentos para elaboração e 
+atualização de Tabela de Temporalidade de Documentos das Atividades-Fim. 
+
+Esse  preenchimento  também  pode  ser  feito  diretamente  pelos  agentes  públicos 
+produtores de documentos finalísticos, independentemente da presença de membros da CADA, 
+após a devida orientação. A identificação precisa incidir diretamente sobre os documentos de 
+arquivo para assim definir sua temporalidade e destinação, porque não é possível identificar ou 
+atribuir valores a assuntos ou a objetos de uma ação. 
+
+Essa  Ficha  deve  ser  preenchida  na  identificação  dos  documentos  de  arquivo.  De 
+maneira geral, o documento de arquivo é compreendido como qualquer informação registrada 
+e estruturada para a compreensão humana, em qualquer suporte,  o qual pode ser de natureza 
+textual (escrita), numérica, iconográfica (imagem), sonora (palavra ou som), entre outras, sobre 
+diferentes  suportes:  papel  (manuscritos,  impressos  como  livros,  periódicos,  fichas  etc.,  ou 
+gráficos como mapas, plantas, fotografias etc.); magnéticos e filmes (para registros sonoros, 
+imagem e vídeo, como fitas, discos, diapositivos); digitais (mídias eletrônicas) etc.
+
+São  documentos  de  arquivo  todos  os  registros  de  informação,  em  qualquer  suporte,  inclusive  o 
+magnético ou óptico, produzidos, recebidos ou acumulados pelos órgãos e entidades da Administração 
+Pública,  direta  e  indireta,  pelas  entidades  privadas  encarregadas  da  gestão  de  serviços  públicos  e 
+pelas organizações sociais.
+
+Decreto n. 48.897/2004, art. 3o
+
+Para  a  elaboração  de  Plano  de  Classificação  e  Tabela  de  Temporalidade  é  preciso 
+identificar  as  tipologias  tanto  dos  documentos  simples  quanto  dos  documentos  compostos. 
+Contudo, para estabelecer prazos de guarda de um documento composto, não é necessário o 
+estudo das partes que o compõem; essas partes serão úteis para, posteriormente, formarem o 
+Índice Alfabético, Remissivo e Permutado, pois nele há a possibilidade de indicar documentos 
+que integram documentos compostos.
+
+  11
+
+
+De acordo com o Manual de normas e procedimentos de protocolo para a Administração 
+Pública do Estado de São Paulo,2 oficializado pelo Decreto n. 60.334/2014, os documentos de 
+arquivo podem ser considerados: 
+
+Simples  ou  avulsos:  são  os  documentos  formados  por  um  único  item.  Exemplo:  ofício,  relatório, 
+memorando, relação de remessa etc.
+
+Compostos:  são  os  documentos  que,  ao  longo  de  sua  trajetória,  acumulam  vários  documentos 
+simples. Exemplos: processo, prontuário, expediente e dossiê.
+
+- Dossiê é a unidade documental que não tramita, em que se reúnem documentos de natureza 
+diversa, para uma finalidade específica.
+
+- Expediente é a unidade documental que tramita para informar e/ou acolher manifestações, 
+podendo  estar  ou  não  acompanhado  de  outros  documentos,  reunidos  em  torno  de  uma 
+atividade, demanda ou interessado.
+
+- Processo é a unidade documental, de caráter decisório, em que se reúnem, por solicitação 
+de autoridade competente, documentos de natureza diversa, que tramitam no decurso de uma 
+ação administrativa.
+
+-  Prontuário  é  a  unidade  documental  que  não  tramita,  em  que  se  reúnem  documentos  de 
+natureza diversa relativos a uma pessoa física ou jurídica. 
+
+É  preciso  preencher  uma  Ficha  de  avaliação  de  documentos  para  elaboração  e 
+atualização  de  Tabela  de  Temporalidade  de  Documentos  das  Atividades-Fim  para  cada 
+documento  produzido,  recebido  ou  acumulado  no  exercício  das  atividades-fim  do  órgão  ou 
+entidade.  As  informações  nela  contidas  serão  transferidas  posteriormente  para  os  quadros 
+estruturais. Ao modelo exibido a seguir na Figura 4 poderá ser acrescentado o número de linhas 
+necessárias em cada exame particular.
+
+Devem  ser  desconsiderados  todos  os  documentos  relativos  ao  desempenho  de  funções 
+administrativas,  ou  seja,  das  atividades-meio.  O  órgão  ou  entidade  deve  se  certificar  de  que  as 
+Fichas preenchidas se referem somente aos documentos das atividades-fim.
+
+2 
+ ARQUIVO PÚBLICO DO ESTADO (São Paulo). Manual de normas e procedimentos de protocolo para a Administração Pública do Estado 
+de  São  Paulo.  São  Paulo:  Arquivo  Público  do  Estado,  2013,  p.  17.    Disponível  em:  <http://www.arquivoestado.sp.gov.br/site/publicacoes/
+tecnica>.  Acesso em: 09 jun. 2017.
+
+12
+
+
+FICHA DE AVALIAÇÃO DE DOCUMENTOS PARA ELABORAÇÃO E ATUALIZAÇÃO DE 
+
+TABELA DE TEMPORALIDADE DE DOCUMENTOS DAS ATIVIDADES-FIM
+
+(preencher uma ficha para cada documento produzido, recebido ou acumulado)
+
+1 – Órgão ou entidade:  __________________________________________________________________________________
+
+2 - Data:    ____/____/______
+
+3 - Nome do entrevistador, caso haja: _____________________________________________________________________
+
+_______________________________________________  Membro da CADA: (   ) Sim   (   ) Não
+
+4 - Dados do entrevistado / agente público responsável pelo preenchimento:
+
+Nome: _________________________________________________________________________________________________
+
+Setor:___________________________________________________________Tel.:_____________
+
+E-mail:__________________________________ Membro da CADA: (   ) Sim  (   ) Não 
+
+5 - Unidade produtora do documento:  ____________________________________________________________________
+
+5.1 - Atribuição legal:  ___________________________________________________________________________________
+
+6 - Nome usual do documento: ___________________________________________________________________________
+
+7 - Nome proposto para o documento:   ___________________________________________________________________
+
+8 - Suporte do documento: (   ) Papel  (   ) Filme  (   ) Digital  (   ) Híbrido  (   ) Outros        Descrever:   ______________
+
+9 – Gênero do documento: (   ) Textual   (   ) Fonográfico   (   ) Audiovisual 
+
+                                             (   ) Iconográfico/Cartográfico (   ) em Multimeios    
+
+Descrever:   ____________________________________________________________________________________________
+
+10 - Objetivo da produção do documento:   ________________________________________________________________
+
+_______________________________________________________________________________________________________
+
+11 - Quantidade de vias produzidas: ______________________________________________________________________
+
+Justificar a destinação de cada via:   ______________________________________________________________________
+
+12 - Quantidade de cópias produzidas:  ___________________________________________________________________
+
+Justificar a destinação de cada cópia:  ____________________________________________________________________
+
+13 – Constituição do documento: (   ) Simples/Avulso          (   ) Composto 
+
+Documentos que integram o documento composto: ________________________________________________________
+
+_______________________________________________________________________________________________________
+
+14 – Tramitação: (   ) Não       (   ) Sim:  Identificar o fluxo: ____________________________________________________
+
+_______________________________________________________________________________________________________
+
+15 - Prazos de guarda:
+
+Na Unidade Produtora: 
+
+(   ) Prazo (em número de anos): ______       
+
+(   ) “Vigência”. Descrever o término da vigência:  ___________________________________________________________
+
+_______________________________________________________________________________________________________
+
+(   ) “Até a aprovação das contas”    
+
+Na Unidade com Atribuições de Arquivo:
+
+Prazo (em número de anos): ______
+
+16 - Destinação:       (   ) Eliminação           (   ) Guarda Permanente
+
+16.1 – Justificativa da destinação:  ________________________________________________________________________
+
+_______________________________________________________________________________________________________
+
+17 – Fundamentos legais:  _______________________________________________________________________________
+
+_______________________________________________________________________________________________________
+
+18 - Informações complementares:  _______________________________________________________________________
+
+_______________________________________________________________________________________________________
+
+Fig. 4: Modelo de Ficha de avaliação de documentos para elaboração e atualização de Tabela de Temporalidade de 
+Documentos das Atividades-Fim
+
+  13
+
+
+04.01 Como preencher a Ficha de avaliação de documentos 
+
+Cada uma das Fichas de avaliação de documentos para elaboração e atualização 
+de  Tabela  de  Temporalidade  de  Documentos  das  Atividades-Fim  indica  o  processo  de 
+produção ou acúmulo de um documento na execução de uma atividade. Ao conjunto formado 
+por uma sequência de documentos idênticos dá-se o nome de série documental.
+
+Série documental é o conjunto de documentos do mesmo tipo documental produzido por um mesmo 
+órgão,  em  decorrência  do  exercício  da  mesma  função,  subfunção  e  atividade  e  que  resultam  de 
+idêntica forma de produção e tramitação e obedecem à mesma temporalidade e destinação. 
+
+Decreto n. 48.897/2004, art. 12.
+
+Campo 1 – Nome do órgão ou entidade: Informar o nome completo e a sigla do órgão ou 
+entidade. 
+
+Campo 2 – Data: Informar a data de preenchimento da Ficha de avaliação.
+
+Campo 3 - Nome do entrevistador, caso haja: Informar o nome próprio do entrevistador, caso 
+haja, e anotar se ele é ou não membro da CADA. 
+
+Campo 4 - Dados do entrevistado/agente público responsável pelo preenchimento: Informar 
+o nome próprio do entrevistado ou agente público responsável pelo preenchimento da Ficha, o 
+setor onde trabalha, seu telefone e e-mail funcional, e se ele é ou não membro da CADA.
+
+Campo 5 - Unidade produtora do documento: Informar o nome completo e a sigla do setor 
+que  produz  ou  acumula  o  documento.  Por  exemplo:  Instituto  de…;  Coordenadoria  de…; 
+Departamento de…; Centro de…; Núcleo de… etc. 
+
+Campo  5.1  -  Atribuição  legal:  Descrever  a  competência,  atribuição  ou  finalidade 
+do  setor  responsável  pela  produção  desse  documento.  Informar  a  legislação  –  ato 
+
+normativo (com artigo, parágrafo, inciso e alínea específicos, se houver). Na ausência 
+
+de  atos  normativos,  indicar  e  detalhar  a  atividade  responsável  pela  produção  do 
+
+documento. 
+
+Campo 6 - Nome usual do documento: Informar o nome pelo qual o documento é conhecido 
+na  unidade  que  o  produz  ou  acumula,  e  que  difere  do  nome  proposto  para  ele.  Esclarecer 
+ao  produtor  que  o  nome  usual  não  constará  do  Plano  de  Classificação  ou  da  Tabela  de 
+Temporalidade  de  Documentos  das  Atividades-Fim,  mas  constará  do  Índice  Alfabético, 
+Remissivo  e  Permutado  (ver  Item  12)  seguido  da  palavra  USE.  Por  exemplo:  “Registro 
+Genealógico do Animal USE Ficha de registro genealógico do animal”.
+
+Campo 7 - Nome proposto para o documento: Instituir um nome, que deve ser formado por 
+Espécie documental + Ação que a gerou + Objeto da ação. Sempre que necessário, solicitar 
+um exemplar do documento para análise.  
+
+14
+
+
+Esse é o momento no qual o entrevistador pode perguntar:
+- Essa atividade é registrada em quais documentos?
+Obs: Para cada documento identificado, preencher uma Ficha.
+
+A configuração que assume uma espécie documental relacionada à ação que a gerou 
+também é chamada de tipo documental; já a realidade das atividades do órgão ou entidade 
+estará presente no objeto da ação. Esse nome assim construído (Espécie documental + Ação 
+que a gerou + Objeto da ação) vai designar também a série documental.
+
+Para determinar o nome dos documentos é preciso observar as informações do Campo 
+13 - Constituição do documento, bem como é possível pesquisar o glossário das espécies 
+documentais mais frequentes nos arquivos.3 
+
+Espécie documental é a configuração que assume um documento de acordo com a disposição e a 
+natureza das informações nele contidas. (CAMARGO; BELLOTTO, 1996, p. 34).
+Exemplos: certidão, decreto, diploma, laudo, memorando, orçamento, petição, registro etc.
+
+Ver esses exemplos de espécies presentes nos nomes das seguintes séries documentais:
+
+Espécies documentais presentes na Secretaria da Agricultura e Abastecimento:
+Certificado + de registro definitivo + do animal
+Expediente + de auditoria + laboratorial 
+Ficha + de controle + da produção leiteira
+Questionário + de levantamento estatístico + do agronegócio 
+Processo + de cadastro + de animais de viveiros e de depósitos de mudas
+
+Os documentos de arquivo comprovam as ações do poder público, que podem ser algo 
+a cumprir, a provar, a determinar, a permitir, a fazer etc. É preciso conhecer as atribuições do 
+órgão ou entidade para determinar as ações que geraram os documentos:
+
+ Ações da Secretaria da Agricultura e Abastecimento:
+Certificado de registro definitivo do animal
+Expediente de auditoria laboratorial 
+Ficha de controle da produção leiteira
+Questionário de levantamento estatístico do agronegócio 
+Processo de cadastro de animais de viveiros e de depósitos de mudas
+
+Para a identificação dos objetos das ações também é preciso conhecer as atribuições 
+
+do órgão ou entidade, relacionadas com a realidade de suas atividades:
+
+3 
+ BELLOTTO, Heloísa Liberalli. Como fazer análise diplomática e análise tipológica de documento de arquivo. São Paulo: Arquivo do Esta-
+do, 2002 (Projeto Como Fazer, v. 8), p. 46-90. Disponível em: <http://www.arquivoestado.sp.gov.br/site/publicacoes/tecnica>.  Acesso em: 09 
+jun. 2017.
+
+  15
+
+
+Objetos das ações da Secretaria da Agricultura e Abastecimento:
+Certificado de registro definitivo do animal
+Expediente de auditoria laboratorial 
+Ficha de controle da produção leiteira
+Questionário de levantamento estatístico do agronegócio 
+Processo de cadastro de animais de viveiros e de depósitos de mudas
+
+Ao  avaliar  os  nomes  dos  documentos  apresentados,  poderão  ocorrer  as  seguintes 
+
+situações que requerem ajustes na denominação: 
+
+1a. O produtor informa como nome do documento um objeto, uma ação ou um assunto; 
+por  exemplo,  diz  “Diagnóstico  referencial”.  Primeiramente,  é  necessário  analisar  se  é  um 
+documento  simples  ou  composto,  se  tramita,  se  requer  decisão  de  autoridade  competente, 
+para assim identificar a correta espécie documental e, em seguida, sua denominação completa. 
+Após análise, sugerir que se altere a denominação para “Expediente de análise de amostra”. 
+Esclarecer que o nome até então utilizado não constará do Plano de Classificação ou da Tabela 
+de Temporalidade de Documentos das Atividades-Fim, mas será indicado do Índice Alfabético, 
+Remissivo e Permutado (ver Item 12) seguido da palavra USE: “Diagnóstico referencial USE 
+Expediente de análise de amostra”.
+
+2a. O produtor informa vários documentos, nos quais uma ação é destinada a vários 
+objetos. Propor uma denominação que contemple todos os objetos, como no quadro abaixo, 
+e  esclarecer  que  os  demais  nomes  apresentados  constarão  apenas  do  Índice  Alfabético, 
+Remissivo e Permutado (ver Item 12) seguido da palavra USE:
+
+- Processo de controle de foco de doença animal
+- Expediente de atendimento a mortalidade em aves
+-  Expediente de síndrome respiratória ou neurológica das 
+
+USE
+
+Expediente de controle de 
+foco de doença animal
+
+aves
+
+3a.  O  produtor  informa  sobre  um  documento  simples  que  integra  um  documento 
+composto. Esclarecer que o documento simples constará apenas do Índice Alfabético, Remissivo 
+e  Permutado  (ver  Item  12)  seguido  da  palavra  INTEGRA:  “Certificado  de  conformidade  de 
+produto INTEGRA Dossiê de credenciamento de empresas e produtores”. 
+
+4a.  O  produtor  informa  o  tipo  de  acondicionamento,  por  exemplo:  “Pasta  de  registro 
+de  uso  da  balança”.  Após  análise,  sugerir  que  se  altere  a  denominação  para  “Formulário 
+de  controle  e  calibração  de  balança”.  Registrar  essa  alteração  de  denominação  no  Índice 
+Alfabético, Remissivo e Permutado (ver Item 12) seguido da palavra USE: “Pasta de registro 
+de uso da balança USE Formulário de controle e calibração de balança”.
+
+5a. O produtor informa sobre um documento no qual a ação de requerer ou demandar 
+algo parte do solicitante. Na medida do possível, inverter para uma ação do poder público, como 
+emissão de concessão, de ordem, de autorização etc. Por exemplo: “Processo de adesão ao 
+Sistema  de  Mitigação  de  Risco”.  Esclarecer  que  o  documento  constará  do  Índice  Alfabético, 
+Remissivo e Permutado (ver Item 12) seguido da palavra USE: “Processo de adesão ao Sistema 
+de Mitigação de Risco USE Processo de cadastramento de unidade produtora – UP”. 
+
+16
+
+
+No caso do pedido ser um documento simples que integra um documento composto,  
+agir também como na terceira  situação: “Requerimento de cadastramento pelo viveirista ou 
+comerciante  junto  à  Coordenadoria  de  Defesa  Agropecuária  -  CDA  INTEGRA  Processo  de 
+cadastro de viveiros e de depósitos de mudas”. 
+
+6a.  O  produtor  informa  sobre  um  documento  que,  após  estudo,  tem  sua  espécie 
+documental alterada.  Registrar essa alteração de espécie no Índice Alfabético, Remissivo e 
+Permutado (ver Item 12) seguido da palavra USE: “Processo de análise USE Expediente de 
+análise de amostra”.  
+
+Campo  8  -  Suporte  do  documento:  Informar  o  material  do  documento  sobre  o  qual  as 
+informações estão registradas. Embora haja vários tipos de suporte, foram indicados na Ficha 
+os suportes mais frequentemente encontrados na administração paulista.
+
+Esse é o momento no qual o entrevistador pode perguntar:
+- A informação está registrada sobre qual (quais) tipo(s) de material?
+- Como/onde esse documento/essa informação pode ser acessado(a)?
+
+Ao  assinalar  o  item  Digital,  pode  ser  citado  tanto  o  tipo  de  mídia  quanto  a  base 
+tecnológica, o sistema, a base de dados etc.; ao assinalar o item Híbrido, citar a utilização de, 
+por exemplo, papel e digital. Utilizar o item Outros para assinalar um tipo de suporte diferente 
+das opções apresentadas. É sempre necessário descrever o suporte, mesmo para o papel.
+
+Campo 9 – Gênero do documento: Informar a configuração do documento de acordo com 
+o sistema de signos utilizado na transmissão de seu conteúdo. Por exemplo, o item Textual 
+refere-se a toda comunicação escrita. Ao assinalar o item Fonográfico, citar a utilização de, por 
+exemplo, mídia CD; ao assinalar o item Audiovisual, citar a utilização de, por exemplo, filme; 
+ao assinalar o item Iconográfico/Cartográfico (imagens), citar a utilização de, por exemplo, 
+mapas ou fotografias; ao assinalar o item em Multimeios, citar a utilização de, por exemplo, 
+microfilmes e mídia DVD. É sempre necessário descrever o gênero do documento, mesmo o 
+textual, pois há diferentes formas de comunicação escrita.
+
+Campo 10 - Objetivo da produção do documento: Informar qual é a finalidade do documento 
+e como ele viabiliza a execução da atribuição legal e atividade.
+
+Campo 11 - Quantidade de vias produzidas: Informar a quantidade e justificar a destinação 
+de cada uma das vias originais produzidas no momento de criação do documento.
+
+Campo 12 - Quantidade de cópias produzidas: Informar a quantidade e justificar a destinação 
+de cada uma das cópias produzidas no momento de criação do documento.
+
+Campo 13 - Constituição do documento:  (  ) Simples/Avulso 
+(  ) Composto - Documentos 
+que  integram  o  documento  composto:  Ao  assinalar  o  item  Composto,  informar  todos  os 
+documentos que fazem parte do documento composto, por exemplo: ofício de …, termo de 
+…, relatório de…, cópias e vias de documentos etc. Registrar também todos os documentos 
+que integram cada documento composto numa relação à parte para, ao final dos trabalhos, 
+elaborar o Índice Alfabético, Remissivo e Permutado (ver Item 12). 
+
+  17
+
+
+Esse é o momento no qual o entrevistador pode perguntar:
+- O documento é único ou constituído por diferentes tipos documentais?
+- A ação requer decisão da autoridade competente? O documento tramita?
+
+Campo 14 – Tramitação: (   ) Não      (   ) Sim - Identificar o fluxo:  Informar o percurso que 
+o documento realiza no órgão ou entidade e qual é o setor responsável por produzir e incluir 
+documentos que integram o documento principal caso houver tramitação, conforme definição 
+do Manual de normas e procedimentos de protocolo:4
+
+Tramitação  é  a  movimentação  de  documentos  pelas  unidades  do  próprio  órgão/entidade  ou 
+entre  unidades  de  órgãos/entidades  distintos,  para  dar  conhecimento,  bem  como  para  acolher 
+manifestações, instruções e informações necessárias à tomada de decisões.
+
+Campo  15  -  Prazos  de  guarda:  Assinalar  as  informações  a  respeito  dos  prazos  de  guarda 
+durante  os  quais  os  documentos  produzem  efeitos  administrativos  e/ou  legais,  em  suas 
+fases corrente, intermediária ou permanente, cumprindo as finalidades que determinaram sua 
+produção. Posteriormente, essas informações serão verificadas novamente pela Consultoria/
+Assessoria Jurídica do órgão ou entidade, como se vê no Item 13. Encaminhar os instrumentos 
+para a consultoria/assessoria jurídica.
+
+No  item  Na  Unidade  Produtora,  na  qual  o  documento  cumpre  a  finalidade  para  a  qual  foi 
+produzido (arquivo corrente), deve-se assinalar uma das três seguintes alternativas:
+
+1 -  O Prazo pode ser cumprido em número de anos – nesse caso, informar o tempo.
+
+2  -  Quando  não  for  possível  definir  o  intervalo  de  tempo  em  número  de  anos,  usar 
+a  palavra  “Vigência”.  Explicar  na  Ficha  o  término  dessa  vigência.  No  campo 
+“Observações” da TTD-Fim deverá constar essa explicação da conclusão da vigência. 
+
+Prazo de vigência: intervalo de tempo durante o qual o documento produz efeitos administrativos e 
+legais plenos, cumprindo as finalidades que determinaram sua produção. 
+
+Decreto n. 48.897/2004, art. 22, inciso I.
+
+3 - O prazo também pode ser cumprido “Até a aprovação das contas”, o que significa 
+que  o  prazo  de  guarda  na  Unidade  produtora  termina  quando  o  Tribunal  de  Contas 
+
+publicar a aprovação das contas do órgão ou entidade referente ao ano do documento. 
+
+Em  seguida,  o  entrevistador  deve  perguntar  quanto  tempo  o  documento  permanece 
+na  Unidade  com  Atribuições  de  Arquivo  para  cumprir  prazo  de  prescrição  (previsto  em 
+legislação)  ou  prazo  de  precaução  (por  necessidade  administrativa).  Registrar  o  número 
+de  anos  no  item  Prazo  (em  número  de  anos)  na  Unidade  com  Atribuições  de  Arquivo  e 
+também,  no  campo  “Observações”,  registrar  a  informação  legal  que  explica  a  definição  do 
+prazo informado. 
+
+4 
+ ARQUIVO PÚBLICO DO ESTADO (São Paulo). Manual de normas e procedimentos de protocolo para a Administração Pública do Estado 
+de  São  Paulo.  São  Paulo:  Arquivo  Público  do  Estado,  2013,  p.  53.    Disponível  em:  <http://www.arquivoestado.sp.gov.br/site/publicacoes/
+tecnica>.  Acesso em: 09 jun. 2017.
+
+18
+
+
+Para  os  prazos  de  prescrição  definidos  em  lei  específica  é  necessário  analisar 
+não  somente  se  o  número  de  anos  de  guarda  do  documento  é  suficiente  para  atender  às 
+necessidades administrativas para preservação de direitos, mas também para a apuração de 
+crimes contra a administração pública. 
+
+Prazo de prescrição: intervalo de tempo durante o qual pode-se invocar a tutela do Poder Judiciário para 
+fazer valer direitos eventualmente violados. O tempo de guarda dos documentos será dilatado sempre que 
+ocorrer a interrupção ou suspensão da prescrição, em conformidade com a legislação vigente.
+
+Decreto n. 48.897/2004, art. 22, inciso II.
+
+Por  exemplo,  pelo  Código  de  Trânsito  Brasileiro,  o  Processo  de  credenciamento, 
+descredenciamento, renovação e registro de cursos de instituições de ensino para candidatos 
+a  condutores  (DETRAN),  tem  o  prazo  de  prescrição  de  05  anos.  No  entanto,  pode  ocorrer 
+apresentação de documentos falsos no momento do credenciamento e, pelo Código Penal, a 
+falsificação de documentos é crime, cuja prescrição ocorre em 12 anos. Portanto, o prazo de 
+guarda na “Unidade com atribuições de Arquivo” deverá ser de 12 anos, a contar do término da 
+vigência, e no campo “Observações” deverá constar o Código Penal e seus respectivos artigos. 
+Nesse  momento,  é  importante  contar  com  o  auxílio  do  membro  da  CADA  da  Consultoria/
+Assessoria Jurídica do órgão ou entidade.
+
+Esse é o momento no qual o entrevistador pode perguntar:
+- Existe alguma legislação específica que orienta o prazo de prescrição? 
+Caso sim, anotar no Campo 17.
+
+No caso de não haver legislação que trate da prescrição, perguntar com que frequência 
+o  documento  é  consultado  após  o  fim  da  vigência,  e  por  quanto  tempo,  por  precaução,  o 
+documento deve ser guardado para atender às necessidades administrativas. Anotar o prazo de 
+precaução indicado no mesmo item Prazo em número de anos na Unidade com Atribuições 
+de Arquivo. No campo “Observações”, registrar a informação que explica a definição do prazo 
+informado.
+
+Prazo  de  precaução  ou  Prazo  precaucional:  intervalo  de  tempo  durante  o  qual  se  guarda  o 
+documento por precaução, antes de eliminá-lo ou encaminhá-lo para guarda permanente.
+
+Decreto n. 48.897/2004, art. 22, inciso III. 
+
+Ao final desse período na Unidade com Atribuições de Arquivo o documento terá uma 
+
+destas destinações: eliminação ou guarda permanente.
+
+Campo  16  -  Destinação:  Assinalar  nesse  campo  uma  das  duas  opções,  Eliminação  ou 
+Guarda Permanente.
+
+É necessário definir a destinação final do documento, eliminação ou guarda permanente. 
+Se, por um lado, é preciso agilizar a recuperação dos documentos e das informações, realizar a 
+eliminação criteriosa de documentos, reduzir a massa documental acumulada e liberar espaço 
+físico,  por  outro  lado,  é  imprescindível  assegurar  a  preservação  de  documentos  de  guarda 
+permanente e estimular a pesquisa e uso de dados retrospectivos.
+
+  19
+
+
+Primeiramente,  deve-se  perguntar  se  as  informações  do  documento,  após  o 
+cumprimento  dos  prazos  de  guarda  na  unidade  produtora  e  na  unidade  com  atribuições  de 
+arquivo, estão reproduzidas em outros documentos, ou se o órgão ou entidade possui base 
+de dados que contemple as informações desse documento. Perguntar também sobre o valor 
+administrativo,  fiscal  e  legal  do  documento,  sobre  o  seu  valor  probatório  e  sobre  seu  valor 
+informativo para fins de pesquisa e preservação da memória institucional.
+
+Quando o documento já cumpriu a finalidade para a qual foi produzido, deixando de ter os 
+valores administrativo, legal ou fiscal, e não apresenta um valor secundário, isto é, valor probatório ou 
+informativo relevante, assinalar Eliminação. Os documentos destinados à eliminação são aqueles 
+que já cumpriram seus prazos de guarda na unidade produtora e na unidade com atribuições de 
+arquivo e não apresentam valor secundário que justifique a sua guarda. Normalmente, sua produção 
+é rotineira, repetitiva, volumosa e suas informações estão reproduzidas em outros documentos.
+
+ Documentos de guarda temporária: são aqueles que, esgotados os prazos de guarda na unidade 
+produtora  ou  nas  unidades  que  tenham  atribuições  de  arquivo  [...],  podem  ser  eliminados  sem 
+prejuízo para a coletividade ou memória da Administração Pública Estadual. 
+
+Decreto n. 48.897/2004, art. 5o, inciso I.
+
+Quando o documento apresenta valor probatório ou informativo relevante, necessário para 
+a preservação da memória institucional, ou para fins de pesquisa científica e de prova, assinalar 
+Guarda Permanente, significando que ele deve ser recolhido ao arquivo permanente. Os documentos 
+destinados à guarda permanente são aqueles cujas informações são consideradas imprescindíveis 
+ao  órgão  produtor  e  para  a  comunidade.  Esses  documentos,  além  dos  valores  administrativo, 
+legal e fiscal, agregam também os valores histórico, probatório e informativo, portanto, devem ser 
+definitivamente preservados a fim de comprovar direitos e servir como fonte de pesquisa. 
+
+Documentos de guarda permanente: são aqueles que, esgotados os prazos de guarda previstos no 
+inciso I desse artigo, devem ser preservados, por força das informações neles contidas, para a eficácia 
+da ação administrativa, como prova, garantia de direitos ou fonte de pesquisa.
+
+Decreto n. 48.897/2004, art. 5o, inciso II.
+
+São  exemplos  de  documentos  de  guarda  permanente  os  constitutivos  e  extintivos  de 
+direitos,  as  orientações  normativas,  os  que  refletem  a  evolução  da  instituição,  os  que  servem 
+de insumos na realização de estudos retrospectivos, os que emanam da direção superior, como 
+planos, projetos, programas e relatórios anuais, os que tratam de política de pessoal, dentre outros.
+
+Atenção: Nem todos os documentos das atividades-fim são de guarda permanente, é preciso realizar 
+avaliação criteriosa para identificar sua destinação.
+
+Campo  16.1  –  Justificativa  da  destinação:  Descrever  a  fundamentação  e  a  justificativa  da 
+destinação indicada, eliminação ou guarda permanente, de maneira pormenorizada. 
+
+Campo 17 - Fundamentos legais: Informar os atos normativos que regulamentam a produção, 
+destinação e os prazos de guarda do documento, caso existam, para acrescentar posteriormente 
+nas Observações. Por exemplo:
+
+20
+
+
+Expediente  de  controle  de  praga  e  doença  vegetal  -  Decreto  federal  n.  20.910/1932,  art.  1o; 
+Decreto Estadual n. 45.211/2000; Instrução Normativa MAPA n. 52/2007; Instrução Normativa MAPA 
+n. 41/2008. 
+
+Campo 18 - Informações complementares: Aproveitar esse espaço para explicar detalhes 
+sobre a produção do documento, a vigência, os fatores que determinam o prazo de precaução, 
+a referência legal, a legislação que indica o prazo de prescrição, a destinação final (eliminação 
+ou  guarda  permanente),  bem  como  outros  esclarecimentos  que  deverão  constar  do  campo 
+Observações da Tabela de Temporalidade de Documentos
+
+05.   Consolidar as informações das Fichas de 
+
+avaliação de documentos 
+
+SUBDIVISÕES
+ DA 
+ESTRUTURA
+
+ATRIBUIÇÕES
+
+DOCUMENTO
+
+PRAZOS DE GUARDA 
+(em anos)
+
+DESTINAÇÃO
+
+Unidade 
+Produtora
+
+Unidade 
+com 
+atribuições  
+de Arquivo
+
+Eliminação
+
+Guarda 
+Permanente
+
+I- executar as 
+atividades de:
+
+b) inspeção, 
+fiscalização 
+e controle da 
+produção, 
+manipulação, 
+comércio e 
+transporte 
+de produtos 
+e insumos 
+agropecuários;
+
+Expediente de 
+fiscalização 
+em defesa 
+vegetal e 
+animal
+
+vigência
+
+2
+
+
+
+Escritórios 
+de Defesa 
+Agropecuária, 
+Decreto n. 
+43.512/1998, 
+art. 12
+
+II - julgar autos 
+de infração 
+e recursos, 
+e aplicar 
+penalidades, 
+quando 
+necessário; 
+
+Processo de 
+apuração de 
+infração à 
+defesa vegetal 
+e animal
+
+(Demais 
+atribuições de 
+atividades-fim)
+
+(Demais 
+documentos 
+das atividades-
+fim)
+
+vigência
+
+5
+
+
+
+Fig. 5a: Exemplo de Quadro Estrutural de unidade produtora específica, com documentos 
+
+OBSERVAÇÕES
+
+A vigência 
+esgota-se com 
+a elaboração 
+do Termo 
+de Atividade 
+Externa – 
+TAE. Se for 
+constatada uma 
+irregularidade, 
+é elaborado o 
+Auto de infração 
+e autuado o 
+Processo de 
+apuração de 
+infração à defesa 
+vegetal e animal.
+
+Decreto federal 
+n. 20.910/1932, 
+art. 1o; Decreto 
+estadual n. 
+45.211/2000, 
+arts. 39 e 40; 
+Decreto estadual 
+n. 45.781/2001, 
+arts. 53 a 55. 
+A vigência 
+esgota-se com 
+o cumprimento 
+das penalidades 
+ou com o 
+cancelamento do 
+Auto de Infração.
+
+  21
+
+
+SUBDIVISÕES
+ DA 
+ESTRUTURA
+
+ATRIBUIÇÕES
+
+DOCUMENTO
+
+PRAZOS DE GUARDA 
+(em anos)
+
+DESTINAÇÃO
+
+Unidade 
+Produtora
+
+Unidade  
+com 
+atribuições 
+de Arquivo
+
+Eliminação
+
+Guarda  
+Permanente
+
+OBSERVAÇÕES
+
+vigência
+
+5
+
+
+
+vigência 
+
+60
+
+
+
+Centros 
+dos Grupos 
+de Defesa 
+Sanitária 
+Animal e 
+de Defesa 
+Sanitária 
+Vegetal - 
+CDSV
+Decreto n. 
+43.512/1998, 
+art. 10
+
+II - julgar autos 
+de infração 
+e recursos, 
+e aplicar 
+penalidades, 
+quando 
+necessário; 
+
+Processo de 
+apuração de 
+infração à 
+defesa vegetal 
+e animal
+
+III - credenciar 
+profissionais 
+e habilitar 
+estabelecimentos 
+ligados á cadeia 
+produtiva 
+do setor 
+agropecuário; 
+
+Processo de 
+cadastro e 
+habilitação 
+de médico 
+veterinário 
+junto ao 
+Programa 
+Estadual de 
+Controle e 
+Erradicação 
+de Brucelose 
+e Tuberculose
+
+(Demais 
+atribuições de 
+atividades-fim)
+
+(Demais do-
+cumentos das 
+atividades-fim)
+
+Decreto federal 
+n. 20.910/1932, 
+art. 1o; Decreto 
+estadual n. 
+45.211/2000, 
+arts. 39 e 40; 
+Decreto estadual n. 
+45.781/2001, arts. 
+53 a 55. A vigência 
+esgota-se com 
+o cumprimento 
+das penalidades 
+ou com o   
+cancelamento do 
+Auto de Infração.
+
+Instrução 
+Normativa MAPA n. 
+30/2006; Instrução 
+Normativa MAPA n. 
+22/2013. A vigência 
+esgota-se com o 
+descadastramento 
+ou desabilitação ou 
+com o falecimento 
+do médico 
+veterinário.
+
+Fig. 5b: Exemplo de Quadro Estrutural de unidade produtora específica, com documentos 
+
+As informações obtidas nas Fichas de avaliação de documentos para elaboração e 
+atualização de Tabela de Temporalidade de Documentos das Atividades-Fim deverão ser 
+consolidadas em quadros estruturais específicos para cada unidade produtora de documentos, 
+como no exemplo de setores de atividades-fim da Coordenadoria de Defesa Agropecuária - 
+Secretaria de Agricultura e Abastecimento (Figuras 5a e 5b). Deve-se também elaborar textos 
+padronizados para o campo “Observações”. 
+
+Em  seguida,  é  preciso  encaminhar  os  quadros  às  unidades  produtoras  para  colher 
+
+complementações ou alterações. 
+
+Após o cumprimento desta etapa e antes de iniciar as próximas fases, a CADA deverá 
+enviar um e-mail à equipe técnica do Núcleo de Assistência Técnica aos Órgãos do SAESP / 
+Centro de Gestão Documental (CGD) / Departamento de Gestão do Sistema de Arquivos do 
+Estado de São Paulo (DGSAESP) / Arquivo Público do Estado (cgdsaesp@sp.gov.br) solicitando 
+análise preliminar dos produtos concluídos. No entanto, as dúvidas surgidas durante a execução 
+dessas etapas iniciais do trabalho podem ser enviadas a qualquer momento.
+
+22
+
+
+06.   Identificar as funções, subfunções, atividades 
+
+e séries documentais 
+
+Uma vez concluídas as cinco fases anteriores, é preciso evoluir das estruturas e, a partir 
+das atribuições, definir as funções, subfunções, atividades e séries documentais do órgão 
+ou entidade, pois os Planos de Classificação e as Tabelas de Temporalidade de Documentos da 
+Administração Pública do Estado de São Paulo são funcionais, e não estruturais. Considerando-
+se que as estruturas administrativas podem mudar com alguma frequência e que as funções 
+e  atividades  do  Estado,  em  geral,  permanecem  estáveis,  a  classificação  funcional  é  a  mais 
+apropriada porque é mais duradoura e permite atualizações periódicas, sem comprometer os 
+códigos numéricos de classificação (ver Item 11).
+
+Para conseguir realizar todas as suas atribuições, o Governo do Estado subdivide-se 
+em áreas de ação governamental, que corresponde à atividade-fim – sua função - do órgão ou 
+entidade, criado para executar uma ou mais destas funções. Essas informações constam dos 
+textos legais que criam, reorganizam e regulamentam o funcionamento do órgão ou entidade.
+
+Se um órgão ou entidade possuir apenas uma área de atuação, ele tem apenas uma função. 
+Por exemplo, para a Secretaria da Cultura foi definida a função GESTÃO DA POLÍTICA CULTURAL. 
+Se abranger duas áreas de atuação, possuirá duas funções; segundo o inciso I, art. 2o do Decreto 
+n. 43.142/1998, que reorganiza a Secretaria de Agricultura e Abastecimento, ela é responsável pela 
+“[…] execução da política do Governo do Estado nas áreas de agricultura e abastecimento […]”. 
+Durante os estudos de confecção de sua TTD-Fim, essas funções foram denominadas de GESTÃO 
+DA POLÍTICA AGROPECUÁRIA e de GESTÃO DA POLÍTICA DE ABASTECIMENTO ALIMENTAR.
+
+Além  disso,  cada  função  pode  ter  uma  ou  mais  subfunções.  No  caso  da  Secretaria 
+de Agricultura e Abastecimento, analisando sua legislação (incisos II a XIII, art. 2o do Decreto 
+n.  43.142/1998),  foram  encontradas  algumas  subfunções  próprias  de  atividades-fim,  como 
+CAPACITAÇÃO E ASSISTÊNCIA TÉCNICA À AGROPECUÁRIA, DEFESA SANITÁRIA ANIMAL E 
+VEGETAL, FISCALIZAÇÃO E MONITORAMENTO AGROPECUÁRIO etc. Essa última responde 
+principalmente aos incisos VI e VII, art. 2o do Decreto n. 43.142/1998: “[…] a fiscalização de 
+insumos agropecuários e da classificação de produtos agrícolas […]” e “[…] a inspeção sanitária 
+e industrial de produtos de origem animal, destinados ao comércio intermunicipal […]”.
+
+Cada  uma  dessas  Subfunções  se  efetiva  mediante  atividades,  as  quais  produzem 
+documentos.  No  caso  da  Secretaria  de  Agricultura  e  Abastecimento  foram  encontradas  diversas 
+atividades dentro de suas Subfunções, como FISCALIZAÇÃO AGROPECUÁRIA, CERTIFICAÇÃO DA 
+PRODUÇÃO DE MUDAS E SEMENTES, COMBATE À PRAGA E DOENÇA ANIMAL E VEGETAL etc.
+
+Considera-se  função  o  conjunto  de  atividades  que  o  Estado  exerce  para  a  consecução  de  seus 
+objetivos  […].  Considera-se  subfunção  o  agrupamento  de  atividades  afins,  correspondendo  cada 
+subfunção  a  uma  modalidade  da  respectiva  função  […].    Considera-se  como  atividade  a  ação,  o 
+encargo ou o serviço decorrente do exercício de uma função […].
+
+Decreto n. 48.897/2004, arts. 15, 16 e 17. 
+
+A  título  de  exemplo:  Fiscalização  e  monitoramento  agropecuário  foi  definida  pela 
+análise  da  legislação  como  uma  subfunção  da  função  Gestão  da  política  agropecuária  da 
+Secretaria  de  Agricultura  e  Abastecimento.  Estudando  as  atribuições  e  os  documentos  dos 
+
+  23
+
+
+Centros dos Grupos de Defesa Sanitária Animal e de Defesa Sanitária Vegetal – CDSV e dos 
+Escritórios  de  Defesa  Agropecuária  e  (Figuras  5a  e  5b)  verificou-se  a  existência  de  algumas 
+séries documentais que satisfazem a essa subfunção, em setores diferentes (Figuras 6a e 6b). 
+
+GESTÃO DA POLÍTICA AGROPECUÁRIA (FUNÇÃO)
+FISCALIZAÇÃO E MONITORAMENTO AGROPECUÁRIO (SUBFUNÇÃO)
+
+SUBDIVISÕES
+ DA 
+ESTRUTURA
+
+Centros 
+dos Grupos 
+de Defesa 
+Sanitária 
+Animal e 
+de Defesa 
+Sanitária 
+Vegetal - 
+CDSV
+Decreto n. 
+43.512/1998, 
+art. 10
+
+ATRIBUIÇÕES
+
+DOCUMENTO
+
+PRAZOS DE GUARDA 
+(em anos)
+
+DESTINAÇÃO
+
+Unidade 
+Produtora
+
+Unidade com 
+atribuições  
+de Arquivo
+
+Eliminação
+
+Guarda  
+Permanente
+
+vigência
+
+5
+
+
+
+II - julgar autos 
+de infração 
+e recursos, 
+e aplicar 
+penalidades, 
+quando 
+necessário; 
+
+Processo de 
+apuração de 
+infração à 
+defesa vegetal 
+e animal
+
+(Demais 
+atribuições de 
+atividades-fim)
+
+(Demais 
+documentos 
+das 
+atividades-fim)
+
+Fig. 6a: Exemplo de estudo para definir função, subfunções e atividades 
+
+SUBDIVISÕES
+ DA 
+ESTRUTURA
+
+ATRIBUIÇÕES
+
+DOCUMENTO
+
+PRAZOS DE GUARDA 
+(em anos)
+
+DESTINAÇÃO
+
+Unidade 
+Produtora
+
+Unidade com 
+atribuições  
+de Arquivo
+
+Eliminação
+
+Guarda  
+Permanente
+
+I- executar as 
+atividades de:
+b) inspeção, 
+fiscalização 
+e controle da 
+produção, 
+manipulação, 
+comércio e 
+transporte 
+de produtos 
+e insumos 
+agropecuários;
+
+Escritórios 
+de Defesa 
+Agropecuária, 
+Decreto n. 
+43.512/ 1998, 
+art. 12
+
+Expediente de 
+fiscalização 
+em defesa 
+vegetal e 
+animal 
+
+vigência
+
+2
+
+
+
+vigência
+
+5
+
+
+
+II - julgar autos 
+de infração 
+e recursos, 
+e aplicar 
+penalidades, 
+quando 
+necessário; 
+
+Processo de 
+apuração de 
+infração à 
+defesa vegetal 
+e animal
+
+(Demais 
+atribuições de 
+atividades-fim)
+
+(Demais 
+documentos 
+das 
+atividades-fim)
+
+Fig. 6b: Exemplo de estudo para definir função, subfunções e atividades 
+
+24
+
+OBSERVAÇÕES
+
+Decreto federal n. 
+20.910/ 1932, art. 1o; 
+Decreto estadual n. 
+45.211/2000, arts. 39 e 
+40; Decreto estadual n. 
+45.781/2001, arts. 53 a 
+55. A vigência esgota-
+se com o cumprimento 
+das penalidades ou 
+com o cancelamento 
+do Auto de Infração.
+
+OBSERVAÇÕES
+
+A vigência esgota-se 
+com a elaboração do 
+Termo de Atividade 
+Externa – TAE. Se 
+for constatada uma 
+irregularidade, é 
+elaborado o Auto de 
+infração e autuado o 
+Processo de apuração 
+de infração à defesa 
+vegetal e animal.
+
+Decreto federal n. 
+20.910/1932, art. 1o; 
+Decreto estadual n. 
+45.211/2000, arts. 39 e 
+40; Decreto estadual n. 
+45.781/2001, arts. 53 a 
+55. A vigência esgota-
+se com o cumprimento 
+das penalidades ou 
+com o cancelamento 
+do Auto de Infração.
+
+
+Em  seguida,  verificou-se  que  algumas  séries  documentais  que  satisfazem  a  essa 
+subfunção  poderiam  ser  agrupadas  em  uma  mesma  atividade,  pois  suas  ações  são  muito 
+semelhantes. Neste caso (Figuras 6a e 6b) foi proposta a atividade Fiscalização Agropecuária 
+e foi construído um quadro específico para ela (Figura 6c), no qual as séries documentais foram 
+postas em ordem alfabética:
+
+GESTÃO DA POLÍTICA AGROPECUÁRIA (FUNÇÃO)
+FISCALIZAÇÃO E MONITORAMENTO AGROPECUÁRIO (SUBFUNÇÃO)
+
+ATIVIDADE
+
+DOCUMENTO
+
+PRAZOS DE GUARDA 
+(em anos)
+
+DESTINAÇÃO
+
+Unidade 
+Produtora
+
+Unidade 
+com 
+atribuições 
+de Arquivo
+
+Eliminação
+
+Guarda  
+Permanente
+
+Fiscalização 
+agropecuária
+
+Expediente de 
+fiscalização em 
+defesa vegetal 
+e animal 
+
+Processo de 
+apuração de 
+infração à 
+defesa vegetal 
+e animal
+
+vigência
+
+2
+
+
+
+vigência
+
+5
+
+
+
+OBSERVAÇÕES
+
+A vigência esgota-se com a 
+elaboração do Termo de Atividade 
+Externa – TAE. Se for constatada 
+uma irregularidade, é elaborado 
+o Auto de infração e autuado o 
+Processo de apuração de infração 
+à defesa vegetal e animal.
+
+Decreto federal n. 20.910/1932, 
+art. 1o; Decreto estadual n. 
+45.211/2000, arts. 39 e 40; Decre-
+to estadual n. 45.781/2001, arts. 
+53 a 55. A vigência esgota-se com 
+o cumprimento das penalidades 
+ou com o cancelamento do Auto 
+de Infração.
+
+Fig. 6c: Exemplo de estudo para construir a atividade Fiscalização agropecuária 
+
+No processo de constituir os quadros de atividades com todos os campos previstos na 
+Tabela de Temporalidade de Documentos das Atividades-Fim (Atividade, Documento, Prazos 
+de Guarda, Destinação e Observações), poderão ocorrer as seguintes situações: 
+
+1a. São encontradas séries documentais muito parecidas em setores diferentes. Verificar 
+se as ações são semelhantes, se os documentos em si não seriam versões da mesma ação, 
+e  se    é  possível  utilizar  uma  única  denominação  para  todos.  Em  caso  positivo,  propor  uma 
+denominação que contemple todos os documentos e adicionar apenas uma série documental 
+no  quadro  da  atividade.  No  exemplo,  a  seguir,  apenas  “Expediente  de  análise  de  amostra 
+laboratorial”  fará  parte  do  Plano  de  Classificação,  da  Tabela  de  Temporalidade  e  do  Índice 
+Alfabético,  Remissivo  e  Permutado.  Os  nomes  abandonados  constarão  apenas  do  Índice 
+Alfabético, Remissivo e Permutado (ver Item 12) seguido da palavra USE:
+
+- Boletim de análise
+- Expediente de análise de amostra de origem animal
+- Expediente de análise de mudas e sementes
+- Ficha de solicitação de análise com amostra
+
+USE
+
+Expediente de análise de amostra 
+laboratorial
+
+  25
+
+
+Embora a série documental possua um único código de classificação (ver Item 11) ela 
+pode servir a diversos setores, mas cada setor produzirá o seu próprio conjunto de documentos 
+em função da sua especificidade.
+
+2a. A mesma série documental é encontrada em setores diferentes. Neste caso, adicionar 
+apenas  uma  série  documental  no  quadro  da  atividade.  Por  exemplo,  a  série  documental 
+“Processo de apuração de infração à defesa vegetal e animal” está presente em dois setores 
+(ver Figuras 6a e 6b). Ao construir a atividade Fiscalização agropecuária (Figura 6c) elas foram 
+unificadas, pois os Planos de Classificação e as Tabelas de Temporalidade de Documentos da 
+Administração Pública do Estado de São Paulo são funcionais, e não estruturais.
+
+3a.  Ao  final  da  montagem  dos  quadros  de  funções,  subfunções,  atividades  e  séries 
+documentais foram encontradas atividades similares. Verificar se é possível utilizar uma única 
+denominação para todas. Caso sim, reagrupar todos os documentos nessa atividade. Apenas 
+o nome escolhido constará do Plano de Classificação, da Tabela de Temporalidade e do Índice 
+Alfabético, Remissivo e Permutado.
+
+Ao  final  do  processo  de  definição  de  funções,  subfunções,  atividades  e  séries 
+documentais  será  possível  começar  a  construir  um  quadro  funcional  para  a  Tabela  de 
+Temporalidade de Documentos das Atividades-Fim do órgão ou entidade.
+
+07.  Elaborar a Tabela de Temporalidade 
+
+Para  construir  um  quadro  para  a  Tabela  de  Temporalidade  de  Documentos  das 
+Atividades-Fim  do  órgão  ou  entidade  deve-se  inserir  nele  os  dados  de  sua(s)  função(ões), 
+subfunção(ões)  e  atividade(s).  Utilizar  os  quadros  de  atividades  definidos  na  etapa  anterior 
+agrupando-os na subfunção respectiva, postos, na medida do possível, na ordem da sequência 
+do  processo  do  trabalho,  partindo  das  ações  iniciais  até  as  ações  finais.  Por  exemplo:  na 
+subfunção    “Promoção  da  Pesquisa  Científica  e  Tecnológica  em  Agropecuária”  estão,  pela 
+ordem,  as  atividades  “Realização  de  estudos  e  pesquisas  técnico-científicas”,  “Coleta  de 
+dados  estatísticos  agropecuários”,  “Desenvolvimento  de  tecnologia  de  produção  animal”, 
+“Controle  de  equipamento  e  análise  laboratorial”  e  “Controle  e  distribuição  de  produtos 
+imunobiológicos”. Dentro de cada atividade inserir os dados das séries documentais dispostas 
+em ordem alfabética, ainda sem os códigos numéricos de classificação (ver Item 11). Não é 
+mais necessário explicitar as atribuições, porque elas estão “presentes” nas atividades e nas 
+séries documentais. 
+
+É  preciso  abandonar  totalmente  as  referências  à  estrutura  da  instituição.  Para  uma  
+TTD de tipo funcional não importa qual setor desempenha a atividade nem a estrutura atual do 
+órgão ou entidade, mas sim quais são as atividades que precisam desempenhar para realizar 
+suas atribuições e quais os documentos produzidos em decorrência delas; pois o fundamento 
+das TTD de tipo funcional é que mesmo se as estruturas organizacionais se modificarem ao 
+longo do tempo, as atividades continuarão a ser realizadas por outros setores.
+
+26
+
+
+GESTÃO DA POLÍTICA AGROPECUÁRIA (FUNÇÃO)
+PROMOÇÃO DA PESQUISA CIENTÍFICA E TECNOLÓGICA EM AGROPECUÁRIA (SUBFUNÇÃO)
+
+ATIVIDADES
+
+DOCUMENTOS
+
+PRAZOS DE GUARDA
+(em anos)
+
+DESTINAÇÃO
+
+Unidade 
+Produtora
+
+Unidade 
+com atribuições  
+de Arquivo
+
+Eliminação
+
+Guarda  
+Permanente
+
+OBSERVAÇÕES
+
+Processo de 
+desenvolvimento 
+de pesquisa 
+científica
+
+vigência
+
+20
+
+Realização 
+de estudos 
+e pesquisas 
+técnico-
+científicas
+
+Base de dados 
+do Sistema de 
+Gerenciamento 
+de Pesquisas 
+- SGP
+
+vigência
+
+-
+
+Artigo científico
+
+vigência
+
+Questionário de 
+levantamento 
+estatístico do 
+agronegócio
+
+1
+
+1
+
+5
+
+
+
+Coleta 
+de dados 
+estatísticos 
+agropecuários
+
+Base de dados 
+de informações 
+estatísticas do 
+agronegócio
+
+vigência
+
+-
+
+(Demais 
+Subfunções e 
+Atividades)
+
+(Demais 
+Documentos)
+
+
+
+
+
+
+
+
+
+Portaria Capes n. 59/2013, Anexo 
+II, item 19.1. A vigência esgota-se 
+com a conclusão da pesquisa. 
+Podem integrar esse processo: 
+projeto de pesquisa, manifestação 
+da autoridade competente, 
+termo de outorga, relatórios 
+parciais e finais, prestação de 
+contas, quando houver, e demais 
+documentos produzidos durante 
+a execução da pesquisa. O 
+documento é importante para a 
+disseminação do conhecimento 
+científico.
+
+O documento é importante 
+para a preservação da memória 
+institucional. Por tratar-se 
+de base de dados de guarda 
+permanente, rotineiramente 
+deverão ser extraídas cópias de 
+segurança a serem armazenadas 
+em ambiente seguro e em local 
+diferente e fisicamente distante do 
+armazenamento do documento 
+original, em conformidade com a 
+Instrução Normativa APE/SAESP 
+n. 01/2009.
+
+A vigência esgota-se com a 
+publicação do artigo. O documento 
+é importante para a disseminação 
+do conhecimento científico.
+
+As informações do questionário 
+constam da Base de dados 
+de informações estatísticas do 
+agronegócio. 
+
+O documento é importante 
+para a preservação da memória 
+institucional. Por tratar-se 
+de base de dados de guarda 
+permanente, rotineiramente 
+deverão ser extraídas cópias de 
+segurança a serem armazenadas 
+em ambiente seguro e em local 
+diferente e fisicamente distante do 
+armazenamento do documento 
+original, em conformidade com a 
+Instrução Normativa APE/SAESP 
+n. 01/2009. 
+
+Fig. 7: Exemplo de preenchimento da Tabela de Temporalidade de Documentos das Atividades-Fim por função – 
+Secretaria  de Agricultura e Abastecimento
+
+  27
+
+
+08.  Elaborar o Plano de Classificação
+
+Para construir o Plano de Classificação das Atividades-Fim do órgão ou entidade deve-
+se “copiar” a ordem da  TTD-Fim, listando sua(s) função(ões), sua(s) subfunção(ões) e, dentro 
+dela(s), sua(s) atividade(s) na ordem da sequência do processo do trabalho, contendo as séries 
+documentais dispostas em ordem alfabética, ainda sem os códigos numéricos de classificação 
+(ver Item 11). O Plano de Classificação sistematiza o trabalho já realizado, sendo precedido por 
+uma descrição breve das funções e subfunções apresentadas. Por exemplo: 
+
+PLANO DE CLASSIFICAÇÃO DE DOCUMENTOS DAS ATIVIDADES-FIM 
+DA SECRETARIA DE AGRICULTURA E ABASTECIMENTO
+
+DESCRIÇÃO DAS FUNÇÕES E SUBFUNÇÕES 
+GESTÃO DA POLÍTICA AGROPECUÁRIA (FUNÇÃO)
+
+Esta  Função  compreende  a  execução  da  política  do  Governo  do  Estado  para  as  áreas  de  agricultura  e 
+abastecimento,  através  da  realização  de  pesquisas  científicas,  tecnológicas  e  socioeconômicas,  da 
+prestação  de  assistência  técnica  à  agropecuária,  da  promoção  do  desenvolvimento  rural  sustentável, 
+além da execução de atividades de defesa sanitária animal e vegetal, através da fiscalização de insumos 
+agropecuários  e  da  inspeção  sanitária  e  industrial  de  produtos  de  origem  animal.  Consiste  também  na 
+promoção da integração entre o poder público e o setor produtivo dos agronegócios, do cooperativismo 
+e do associativismo.
+
+GESTÃO DA POLÍTICA DE ABASTECIMENTO ALIMENTAR (FUNÇÃO)
+
+Esta  Função  compreende  a  realização  de  atividades  de  fomento  da  segurança  alimentar  e  nutricional 
+sustentável em projetos de atendimento social.
+
+PROMOÇÃO DA PESQUISA CIENTÍFICA E TECNOLÓGICA EM AGROPECUÁRIA (SUBFUNÇÃO)
+
+Esta Subfunção consiste na realização de pesquisas científicas, tecnológicas e socioeconômicas ligadas 
+à atividade agropecuária, no desenvolvimento de tecnologia de produção animal, realização de exames 
+laboratoriais, além do controle e distribuição de produtos imunobiológicos.
+
+CAPACITAÇÃO E ASSISTÊNCIA TÉCNICA À AGROPECUÁRIA (SUBFUNÇÃO)
+
+Esta Subfunção consiste na promoção de cursos de pós-graduação e de capacitação agropecuária, além 
+da prestação de assistência técnica e tecnológica em agropecuária, alimento e embalagem.
+
+(Seguem as demais subfunções)
+
+Função:  
+Subfunção:  
+
+GESTÃO DA POLÍTICA AGROPECUÁRIA
+PROMOÇÃO DA PESQUISA CIENTÍFICA E TECNOLÓGICA EM AGROPECUÁRIA
+
+Atividade:  
+Documentos:   Processo de desenvolvimento de pesquisa científica
+
+Realização de estudos e pesquisas técnico-científicas 
+
+Base de dados do Sistema de Gerenciamento de Pesquisas - SGP
+Artigo científico 
+
+Atividade:  
+Documentos:   Questionário de levantamento estatístico do agronegócio
+
+Coleta de dados estatísticos agropecuários
+
+Base de dados de informações estatísticas do agronegócio
+Boletim diário de preços de produtos de origem animal e vegetal
+
+28
+
+ 
+ 
+ 
+ 
+
+ Base de dados do Levantamento Censitário das Unidades de Produção Agropecuária - 
+LUPA 
+ Formulário  de  cadastro  do  Levantamento  Censitário  das  Unidades  de  Produção 
+Agropecuária - LUPA 
+
+Atividade:  
+Documentos:   Ficha de registro genealógico do animal
+
+Desenvolvimento de tecnologia de produção animal
+
+Certificado de registro definitivo do animal
+Registro de nascimento do animal 
+Ficha individual do animal
+Ficha de manejo reprodutivo do animal 
+Ficha de controle da produção leiteira
+Base de dados de gerenciamento de rebanhos
+
+Atividade:  
+Documentos:   Registro de amostra laboratorial
+
+Controle de equipamento e análise laboratorial
+
+Expediente de análise de amostra laboratorial
+Expediente de auditoria laboratorial
+Formulário de controle e calibração de balança
+Formulário de análise de certificado de calibração de instrumentos e equipamentos
+Formulário de verificação de temperatura de equipamentos
+Relatório de não conformidade
+
+(Seguem as demais atividades e suas séries documentais)
+
+09.   Submeter o Plano de Classificação e a 
+
+Tabela de Temporalidade de Documentos 
+das Atividades-Fim às áreas produtoras de 
+documentos 
+
+Em  seguida,  encaminhar  a  proposta  de  Plano  de  Classificação  e  de  Tabela  de 
+Temporalidade de Documentos das Atividades-Fim para análise das áreas responsáveis pela 
+produção e acumulação dos documentos, para que observem os seguintes aspectos:
+	Se os instrumentos contemplam todas as ações realizadas rotineiramente;
+
+	Se as séries documentais se referem somente aos documentos da área-fim;
+
+		Se todas as séries documentais da área-fim produzidas e acumuladas pelo órgão ou 
+
+entidade foram incluídas;
+
+	Se as atividades inseridas em cada uma das subfunções e funções estão corretas;
+
+	Se as subfunções agrupadas em uma mesma função estão adequadas; 
+
+		Se as denominações das funções, subfunções, atividades e das séries documentais 
+
+estão corretas;
+
+	Se os prazos de guarda, a destinação e as observações estão adequados;
+
+	Se a legislação citada é pertinente e suficiente.
+
+  29
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+10.   Encaminhar o Plano de Classificação e a 
+
+Tabela de Temporalidade de Documentos das 
+Atividades-Fim ao Arquivo Público do Estado 
+para verificação de consistência
+
+Uma etapa importante a ser realizada é a verificação da consistência interna do Plano 
+de Classificação e da Tabela de Temporalidade de Documentos das Atividades-Fim mediante 
+análise arquivística. Para tanto, o órgão ou entidade deve encaminhar os instrumentos para o 
+Arquivo Público do Estado, a fim de ser verificado se os instrumentos estão de acordo com as 
+normas vigentes e os critérios arquivísticos. A análise arquivística consistirá em:
+
+	Verificar se a proposta está correta, de acordo com a metodologia funcional;
+
+		Verificar a lógica estabelecida internamente para funções, subfunções e atividades 
+
+dentro do Plano de Classificação;
+
+	Verificar a padronização da denominação das séries documentais identificadas;
+
+		Conferir  se  todos  os  campos  referentes  a  prazos  de  guarda  e  destinação  estão 
+
+devidamente preenchidos para cada série documental;
+
+		Verificar  se  o  modo  de  descrever  as  “Observações”  foi  uniformizado:  referência 
+legal (conferir se está anotada corretamente e de forma padronizada), detalhes da 
+vigência, razões da destinação etc.
+
+A CADA deverá encaminhar um e-mail com os instrumentos à equipe técnica do Núcleo 
+de  Assistência  Técnica  aos  Órgãos  /  Centro  de  Gestão  Documental  (CGD)  /  Departamento 
+de Gestão do Sistema de Arquivos do Estado de São Paulo (DGSAESP) / Arquivo Público do 
+Estado  (cgdsaesp@sp.gov.br).  A  equipe  técnica  realizará  a  análise,  recomendando  ajustes  e 
+propondo melhorias, conforme o caso, e devolverá as propostas para alteração pela CADA.  
+
+11.   Atribuir código numérico para as funções, 
+
+subfunções, atividades e séries documentais
+
+Estando aprovado os instrumentos, a CADA deverá solicitar ao Arquivo Público do Estado 
+o(s)  código(s)  numérico(s)  para  a(s)  função(ões)  que  efetivamente  o  órgão  ou  entidade  exerce 
+para a consecução dos objetivos governamentais. O(s) código(s) numérico(s) de função(ões) é 
+(são) atribuído(s) pelo Arquivo Público do Estado na ordem sequencial na qual as propostas dos 
+instrumentos dos órgãos ou entidades forem analisadas, conforme parágrafo único, art. 9o do 
+Decreto n. 48.897/2004, incluído pelo Decreto n. 51.286/2006. Em posse desse número, o órgão 
+ou entidade deve iniciar o trabalho de codificar suas subfunções, atividades e séries documentais.
+Na  Administração  Pública  do  Estado  de  São  Paulo  utiliza-se  o  código  de  classificação 
+numérico-sequencial, uma sucessão natural de números inteiros, para ordenar os elementos de 
+cada  função,  subfunção,  atividade  e  série  documental.  Esse  sistema  permite  a  classificação  de 
+modo ilimitado e sem interrupções, seja no código completo, seja em cada um de seus campos. 
+Nesse  caso,  o  código  de  classificação  de  uma  série  documental  é  formada  por  dez  dígitos, 
+
+30
+
+
+separados em quatro campos. O primeiro campo, com três dígitos, refere-se à Função. O segundo 
+campo, com dois dígitos, identifica a Subfunção. O terceiro campo, com dois dígitos, refere-se à 
+Atividade. O último campo, com três dígitos, identifica a Série Documental. O primeiro campo é 
+fornecido pelo Arquivo Público do Estado. Os demais são construídos pelo órgão ou entidade. 
+
+É preciso inserir os códigos de classificação em todos os itens do Plano de Classificação. 
+Por  exemplo,  a  Secretaria  de  Agricultura  e  Abastecimento  obteve  os  códigos  036  para  a 
+função GESTÃO DA POLÍTICA AGROPECUÁRIA, e 037 para a função GESTÃO DA POLÍTICA 
+DE ABASTECIMENTO ALIMENTAR. A partir deles, atribuiu código de classificação numérico-
+sequencial a cada uma de suas subfunções, atividades e séries documentais: 
+
+036.03.02.002
+
+Função: Gestão da Política agropecuária
+
+Subfunção: Defesa sanitária animal e vegetal
+
+Atividade: Combate à praga e doença animal e vegetal
+
+Série documental: Expediente de controle de foco de doença animal
+
+PLANO DE CLASSIFICAÇÃO DE DOCUMENTOS DAS ATIVIDADES-FIM 
+DA SECRETARIA DE AGRICULTURA E ABASTECIMENTO
+
+Função:  
+Subfunção:  
+Atividade:  
+Documentos:   036.01.01.001  Processo de desenvolvimento de pesquisa científica
+
+GESTÃO DA POLÍTICA AGROPECUÁRIA
+ PROMOÇÃO DA PESQUISA CIENTÍFICA E TECNOLÓGICA EM AGROPECUÁRIA
+ Realização de estudos e pesquisas técnico-científicas 
+
+036 
+036.01 
+036.01.01 
+
+ Base de dados do Sistema de Gerenciamento de Pesquisas - SGP
+
+036.01.01.002 
+036.01.01.003   Artigo científico 
+036.01.02  
+
+Atividade:  
+Documentos:   036.01.02.001  Questionário de levantamento estatístico do agronegócio
+
+Coleta de dados estatísticos agropecuários
+
+036.01.02.002   Base de dados de informações estatísticas do agronegócio
+036.01.02.003  Boletim diário de preços de produtos de origem animal e vegetal
+036.01.02.004   Base de dados do Levantamento Censitário das Unidades de  
+
+Produção Agropecuária - LUPA 
+
+036.01.02.005  Formulário de cadastro do Levantamento Censitário das  
+
+Atividade:  
+Documentos:   036.01.03.001  Ficha de registro genealógico do animal
+
+036.01.03  
+
+Unidades de Produção Agropecuária 
+Desenvolvimento de tecnologia de produção animal
+
+036.01.03.002   Certificado de registro definitivo do animal
+036.01.03.003   Registro de nascimento do animal 
+036.01.03.004   Ficha individual do animal
+036.01.03.005   Ficha de manejo reprodutivo do animal 
+036.01.03.006   Ficha de controle da produção leiteira
+036.01.03.007  Base de dados de gerenciamento de rebanhos
+036.01.04 
+
+Controle de equipamento e análise laboratorial
+
+Atividade:  
+Documentos:   036.01.04.001   Registro de amostra laboratorial
+
+036.01.04.002   Expediente de análise de amostra laboratorial
+036.01.04.003   Expediente de auditoria laboratorial
+036.01.04.004  Formulário de controle e calibração de balança
+036.01.04.005    Formulário de análise de certificado de calibração de instrumentos e 
+
+equipamentos
+
+036.01.04.006   Formulário de verificação de temperatura de equipamentos
+036.01.04.007   Relatório de não conformidade
+(Seguem as demais atividades e suas séries documentais)  
+
+  31
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Em  seguida,  a  Secretaria  de  Agricultura  e  Abastecimento  inseriu  os  códigos  de 
+classificação em todas as funções, subfunções e atividades da Tabela de Temporalidade de 
+Documentos  das  Atividades-Fim  (onde  antes  só  havia  o  nome),  acrescentando  mais  uma 
+coluna para o código de classificação completo das séries documentais:
+
+TABELA DE TEMPORALIDADE DE DOCUMENTOS DAS ATIVIDADES-FIM
+DA SECRETARIA DE AGRICULTURA E ABASTECIMENTO 
+
+036 GESTÃO DA POLÍTICA AGROPECUÁRIA (FUNÇÃO)
+
+036.01 PROMOÇÃO DA PESQUISA CIENTÍFICA E TECNOLÓGICA EM AGROPECUÁRIA (SUBFUNÇÃO)
+
+ATIVIDADES
+
+DOCUMENTOS
+
+PRAZOS DE GUARDA 
+(em anos)
+
+DESTINAÇÃO
+
+Unidade 
+Produtora
+
+Unidade 
+com 
+atribuições 
+de Arquivo
+
+Eliminação
+
+Guarda  
+Permanente
+
+036.01.01.001
+
+Processo de 
+desenvolvimento 
+de pesquisa 
+científica
+
+vigência
+
+20
+
+
+
+036.01.01 
+Realização 
+de estudos 
+e pesquisas 
+técnico-
+científicas 
+
+036.01.01.002 
+
+Base de dados 
+do Sistema de 
+Gerenciamento 
+de Pesquisas 
+- SGP
+
+vigência
+
+-
+
+036.01.01.003  Artigo científico 
+
+vigência
+
+1
+
+
+
+
+
+OBSERVAÇÕES
+
+Portaria Capes n. 59/2013, 
+Anexo II, item 19.1. A vigência 
+esgota-se com a conclusão da 
+pesquisa. Podem integrar esse 
+processo: projeto de pesquisa, 
+manifestação da autoridade 
+competente, termo de outorga, 
+relatórios parciais e finais, 
+prestação de contas, quando 
+houver, e demais documentos 
+produzidos durante a execução 
+da pesquisa. O documento é 
+importante para a disseminação 
+do conhecimento científico.
+
+O documento é importante para 
+a preservação da memória 
+institucional. Por tratar-se 
+de base de dados de guarda 
+permanente, rotineiramente 
+deverão ser extraídas cópias de 
+segurança a serem armazenadas 
+em ambiente seguro e em 
+local diferente e fisicamente 
+distante do armazenamento 
+do documento original, em 
+conformidade com a Instrução 
+Normativa APE/SAESP n. 
+01/2009.
+
+A vigência esgota-se com 
+a publicação do artigo. O 
+documento é importante para a 
+disseminação do conhecimento 
+científico.
+
+32
+
+
+ATIVIDADES
+
+DOCUMENTOS
+
+PRAZOS DE GUARDA 
+(em anos)
+
+DESTINAÇÃO
+
+Unidade 
+Produtora
+
+Unidade 
+com 
+atribuições 
+de Arquivo
+
+Eliminação
+
+Guarda  
+Permanente
+
+036.01.02.001 
+
+Questionário de 
+levantamento 
+estatístico do 
+agronegócio
+
+1
+
+5
+
+
+
+036.01.02.002 
+
+Base de dados 
+de informações 
+estatísticas do 
+agronegócio
+
+vigência
+
+-
+
+
+
+036.01.02.003
+
+Boletim diário 
+de preços de 
+produtos de 
+origem animal e 
+vegetal
+
+036.01.02 
+Coleta 
+de dados 
+estatísticos 
+agropecuários
+
+1
+
+-
+
+
+
+036.01.02.004 
+
+036.01.02.005
+
+Base de dados 
+do Levantamento 
+Censitário 
+das Unidades 
+de Produção 
+Agropecuária - 
+LUPA 
+
+Formulário do 
+Levantamento 
+Censitário 
+das Unidades 
+de Produção 
+Agropecuária 
+-  LUPA 
+
+vigência
+
+-
+
+
+
+vigência
+
+1
+
+
+
+OBSERVAÇÕES
+
+ As informações do questionário 
+constam da Base de dados de 
+informações estatísticas do 
+agronegócio. 
+
+O documento é importante para 
+a preservação da memória 
+institucional. Por tratar-se 
+de base de dados de guarda 
+permanente, rotineiramente 
+deverão ser extraídas cópias de 
+segurança a serem armazenadas 
+em ambiente seguro e em local 
+diferente e fisicamente distante 
+do armazenamento do documento 
+original, em conformidade com a 
+Instrução Normativa APE/SAESP 
+n. 01/2009. 
+
+As informações do Boletim diário 
+constam da Base de dados de 
+informações estatísticas do 
+agronegócio.
+
+O documento é importante para 
+a preservação da memória 
+institucional. Por tratar-se 
+de base de dados de guarda 
+permanente, rotineiramente 
+deverão ser extraídas cópias de 
+segurança a serem armazenadas 
+em ambiente seguro e em local 
+diferente e fisicamente distante 
+do armazenamento do documento 
+original, em conformidade com a 
+Instrução Normativa APE/SAESP 
+n. 01/2009.
+
+A vigência esgota-se com o 
+encerramento do censo. As 
+informações do formulário 
+constam da Base de dados 
+do Levantamento Censitário 
+das Unidades de Produção 
+Agropecuária - LUPA.
+
+Fig. 8: Início da Tabela de Temporalidade de Documentos das  Atividades-Fim -  Secretaria de Agricultura e 
+Abastecimento
+
+12.   Elaborar o Índice Alfabético, Remissivo e 
+
+Permutado
+
+O Índice Alfabético, Remissivo e Permutado possibilita a busca por informação dentro 
+do Plano de Classificação e da Tabela de Temporalidade de Documentos das Atividades-Fim. 
+Para construí-lo é preciso listar as denominações de todas as funções, subfunções, atividades 
+
+  33
+
+
+e séries documentais, e também os nomes informais das séries documentais, os documentos 
+simples  (que  não  possuem  classificação)  que  integram  os  compostos,  e  os  termos  internos 
+permutados  que  compõem  o  nome  completo.  Dessa  maneira  será  possível  fazer  um  índice 
+alfabético não somente remissivo, que lista os nomes usuais remetendo à denominação correta, 
+como também permutado, que lista os termos internos de interesse, independentemente deles 
+se posicionarem no início, no meio ou no final do descritor composto.
+
+O  Índice  Alfabético,  Remissivo  e  Permutado  somente  deverá  ser  elaborado  após  a  realização  de 
+todas as adequações no Plano de Classificação e na Tabela de Temporalidade de Documentos das 
+Atividades-Fim.
+
+Recomenda-se iniciar a feitura do Índice Alfabético, Remissivo e Permutado colocando 
+todos os itens do Plano de Classificação em uma tabela, trocando a ordem das colunas:  à 
+esquerda  os  nomes,  à  direita  os  códigos  de  classificação.  As  denominações  das  Funções, 
+Subfunções e Atividades devem ser escritas em caixa alta (letras maiúsculas):
+
+GESTÃO DA POLÍTICA AGROPECUÁRIA
+
+036
+
+PROMOÇÃO DA PESQUISA CIENTÍFICA E TECNOLÓGICA EM AGROPECUÁRIA
+
+036.01
+
+REALIZAÇÃO DE ESTUDOS E PESQUISAS TÉCNICO-CIENTÍFICAS
+
+Processo de desenvolvimento de pesquisa científica
+
+Base de dados do Sistema de Gerenciamento de Pesquisas – SGP
+
+Artigo científico
+
+COLETA DE DADOS ESTATÍSTICOS AGROPECUÁRIO
+
+Questionário de levantamento estatístico do agronegócio
+
+Base de dados de informações estatísticas do agronegócio
+
+Boletim diário de preços de produtos de origem animal e vegetal
+
+DESENVOLVIMENTO DE TECNOLOGIA DE PRODUÇÃO ANIMAL
+
+(Seguem as demais denominações)
+
+036.01.01
+
+036.01.01.001
+
+036.01.01.002
+
+036.01.01.003
+
+036.01.02
+
+036.01.02.001
+
+036.01.02.002
+
+036.01.02.003
+
+036.01.03
+
+O próximo passo é verificar a necessidade de realizar a permutação de cada item  do 
+Plano de Classificação, o que consiste em criar novos pontos de acesso para sua localização. 
+Cada denominação será desdobrada nos pontos de interesse identificados nos termos internos 
+da  denominação  da  função,  subfunção,  atividade  ou  série  documental.  Por  exemplo,  foram 
+encontrados dois pontos de interesse na função “GESTÃO DA POLÍTICA AGROPECUÁRIA”:
+
+GESTÃO DA POLÍTICA AGROPECUÁRIA
+
+POLÍTICA AGROPECUÁRIA, GESTÃO DA
+
+AGROPECUÁRIA, GESTÃO DA POLÍTICA
+
+036
+
+036
+
+036
+
+Após cada permutação, deixar temporariamente os novos itens abaixo do item original. 
+
+Em seguida, verificar a necessidade de permutação do próximo item.  
+
+34
+
+
+ATENÇÃO: Em um Índice Alfabético, Remissivo e Permutado todas as denominações 
+das Funções, Subfunções e Atividades devem ser escritas em caixa alta para diferenciá-las das 
+séries documentais. Quando da permutação, a primeira letra de cada nome é sempre escrita 
+em negrito para identificar o início do nome. Por exemplo:
+
+CAPACITAÇÃO E ASSISTÊNCIA TÉCNICA À AGROPECUÁRIA
+
+ASSISTÊNCIA TÉCNICA À AGROPECUÁRIA, CAPACITAÇÃO E
+
+AGROPECUÁRIA, CAPACITAÇÃO E ASSISTÊNCIA TÉCNICA À
+
+FISCALIZAÇÃO AGROPECUÁRIA
+
+AGROPECUÁRIA, FISCALIZAÇÃO 
+
+036.02
+
+036.02
+
+036.02
+
+036.05.01
+
+036.05.01
+
+A permutação de séries documentais segue o mesmo raciocínio. Por exemplo, “Artigo 
+científico” não requereu permutação. Já “Guia de baixa de produtos imunobiológicos” permuta 
+a partir de Guia, Baixa, Produtos e Imunobiológicos:
+
+Guia de baixa de produtos imunobiológicos 
+
+Baixa de produtos imunobiológicos, Guia de
+
+Produtos imunobiológicos, Guia de baixa de
+
+Imunobiológicos, Guia de baixa de produtos
+
+036.01.05.003
+
+036.01.05.003
+
+036.01.05.003
+
+036.01.05.003
+
+Após permutar todos os itens do Plano de Classificação, passa-se aos procedimentos 
+de  remissão  das  ocorrências  porventura  encontradas  nos  Campos  6  e  7  da  Ficha  de 
+avaliação de documentos para elaboração e atualização de Tabela de Temporalidade de 
+Documentos  das  Atividades-Fim.  A  Remissão  insere  no  Índice  as  situações  nas  quais  se 
+informa que “O documento A INTEGRA o documento B”, ou que o documento A foi substituído 
+pelo documento B utilizando-se a fórmula “Documento A USE documento B”. Por exemplo:
+
+Certificado de conformidade de produto INTEGRA Dossiê de credenciamento de 
+empresas e produtores  
+
+036.04.03.003
+
+Conformidade de produto, Certificado de INTEGRA Dossiê de credenciamento de 
+empresas e produtores 
+
+036.04.03.003
+
+Cadastramento de casas de embalagens de frutas cítricas USE Processo de 
+cadastro de estabelecimentos industriais de manipulação e de colheita de frutos 
+cítricos
+
+036.04.02.003
+
+Registro Genealógico do Animal USE Ficha de registro genealógico do animal
+
+036.01.03.001
+
+Finalizados  os  processos  intermediários,  chegou  o  momento  de  colocar  todos  os 
+itens  (os  originais  do  Plano  de  Classificação  e  os  novos  -  permutados  e  remissivos)  em 
+ordem alfabética.5 Essa operação transformará esses itens no Índice Alfabético, Remissivo 
+e Permutado. Uma vez obtido o arrolamento definitivo, separá-lo em blocos balizados pela 
+letra inicial, como a seguir:
+
+5 
+ Alguns softwares de planilhas e tabelas possuem uma ferramenta que auxilia muito essa tarefa. Colocar o Plano de Classificação com 
+os itens permutados e remissivos e com os códigos à direita em uma planilha; selecionar tudo; na aba Início clicar em “Classificar e Filtrar” / 
+Classificar de A a Z”. O Plano sairá da ordem numérica e ficará em ordem alfabética. Verificar a consistência da ordenação.
+
+  35
+
+
+ÍNDICE ALFABÉTICO, REMISSIVO E PERMUTADO
+DA SECRETARIA DE AGRICULTURA E ABASTECIMENTO
+
+A
+
+ABASTECIMENTO ALIMENTAR, GESTÃO DA POLÍTICA DE 
+
+037
+
+Abrigos de morcegos hematófagos, Ficha de cadastro e controle de
+
+036.03.02.008
+
+AÇÕES DE DEFESA AGROPECUÁRIA, GERENCIAMENTO DAS 
+
+036.03.01
+
+Adesão ao Sistema de Mitigação de Risco, Processo de USE Processo de 
+cadastramento de Unidade Produtora - UP
+
+Adesão ao Sistema de Mitigação de Risco, Termo de INTEGRA Processo de 
+cadastramento de Unidade Produtora - UP
+
+036.03.02.003
+
+036.03.02.003
+
+Adesão ao Sistema Nacional de Segurança Alimentar e Nutricional, Processo de
+
+037.00.01.001
+
+Adesão ao Sistema Nacional de Segurança Alimentar e Nutricional, Termo de INTEGRA 
+Processo de adesão ao Sistema Nacional de Segurança Alimentar e Nutricional
+
+037.00.01.001
+
+Fig. 9: Início do Índice Alfabético, Remissivo e Permutado da Secretaria de Agricultura e Abastecimento 
+
+A CADA deverá encaminhar um e-mail com o Índice Alfabético, Remissivo e Permutado à 
+equipe técnica do Núcleo de Assistência Técnica aos Órgãos / Centro de Gestão Documental (CGD) 
+/ Departamento de Gestão do Sistema de Arquivos do Estado de São Paulo (DGSAESP) / Arquivo 
+Público  do  Estado  (cgdsaesp@sp.gov.br).  A  equipe  técnica  realizará  a  análise,  recomendando 
+ajustes e propondo melhorias, conforme o caso, e devolverá a proposta para alteração pela CADA.  
+
+13.   Encaminhar os instrumentos para a 
+Consultoria/Assessoria Jurídica
+
+Após  a  finalização  dos  trabalhos,  o  órgão  ou  entidade  deve  encaminhar  o  Plano  de 
+Classificação,  o  Índice  Alfabético,  Remissivo  e  Permutado  e  a  Tabela  de  Temporalidade  de 
+Documentos das Atividades-Fim para análise de sua Consultoria/Assessoria Jurídica para que 
+se manifestem sobre os prazos de guarda e a destinação dos documentos, bem como sobre a 
+pertinência e adequação da legislação utilizada.
+
+14.   Encaminhar oficialmente os instrumentos 
+para aprovação pelo titular do Arquivo 
+Público do Estado
+
+A versão final do Plano de Classificação, do Índice Alfabético, Remissivo e Permutado 
+e da Tabela de Temporalidade de Documentos das Atividades-Fim, aprovada pela Consultoria/
+Assessoria  Jurídica  do  órgão  ou  entidade,  deverá  ser  encaminhada  oficialmente  ao  Arquivo 
+Público do Estado para aprovação de seu titular, por meio de um processo autuado, conforme 
+inciso I, art. 25 do Decreto n. 54.276/2009.
+
+36
+
+
+As propostas de Planos de Classificação e de Tabelas de Temporalidade de Documentos relativos às 
+atividades-fim dos órgãos da Administração Pública Estadual deverão ser encaminhadas ao Arquivo 
+do Estado para aprovação e posteriormente oficializadas, nos termos do Decreto n. 29.838, de 18 de 
+abril de 1989.
+
+Decreto n. 48.897/2004, art. 37, § 1o.
+
+15.   Oficializar o Plano de Classificação e a 
+
+Tabela de Temporalidade de Documentos das 
+Atividades-Fim
+
+Após  a  aprovação  do  Plano  de  Classificação,  do  Índice  Alfabético,  Remissivo  e 
+Permutado e da Tabela de Temporalidade de Documentos das Atividades-Fim pelo Arquivo 
+Público do Estado, a proposta dos instrumentos de gestão documental deve ser submetida 
+ao titular da pasta do órgão ou entidade para aprovação final. Se acolhida, os instrumentos 
+de  gestão  documental  devem  ser  publicados  no  Diário  Oficial  do  Estado  por  3  (três)  dias 
+consecutivos,  conforme  Anexo  I.  Caso  haja  impugnações,  elas  deverão  ser  encaminhadas 
+ao Titular da Pasta no prazo de 15 dias, a contar da data da última publicação. A decisão da 
+impugnação é irrecorrível e deverá ser publicada no prazo de 30 dias a contar da data do seu 
+protocolamento.
+
+Se não houver nenhuma impugnação, a homologação do Plano de Classificação, do 
+Índice Alfabético, Remissivo e Permutado e da Tabela de Temporalidade de Documentos das 
+Atividades-Fim deve ser também publicada no Diário Oficial do Estado, conforme Anexo II, em 
+conformidade com o Decreto n. 29.838/1989, art. 7o, parágrafo único e arts. 8o e 9o. 
+
+Cabe à Comissão de Avaliação de Documentos e Acesso - CADA orientar a aplicação 
+do  Plano  de  Classificação,  do  Índice  Alfabético,  Remissivo  e  Permutado  e  da  Tabela  de 
+Temporalidade  dos  Documentos  do  órgão  ou  entidade  e  centralizar  o  gerenciamento  dos 
+trabalhos de gestão documental.
+
+Cabe à CADA providenciar a atualização do Plano de Classificação, do Índice Alfabético, 
+Remissivo e Permutado e da Tabela de Temporalidade de Documentos do órgão ou entidade, 
+sempre que necessário. A atualização deverá ser encaminhada ao Arquivo Público do Estado, 
+para aprovação, de acordo com os seguintes procedimentos:
+
+1.   Abertura  pela  CADA  de  Processo  de  elaboração  ou  atualização  de  Plano  de 
+
+Classificação e de Tabela de Temporalidade de Documentos (006.01.06.003);
+
+2.   Manifestação da CADA acerca das alterações ou inclusão de Função, Subfunção, 
+Atividade  e  Documento,  com  seus  respectivos  prazos  de  guarda  e  destinação  e 
+campo Observações devidamente preenchido;
+
+3.   Manifestação da Consultoria Jurídica do órgão ou entidade quanto aos prazos de 
+
+guarda e destinação.
+
+  37
+
+
+16.   Informatizar procedimentos e instrumentos 
+
+de gestão documental – aderir ao Sistema 
+SPdoc
+
+Possuindo  instrumentos  de  gestão  documental,  o  órgão  ou  entidade  também  está 
+apto  a  aderir  ao  Sistema  Informatizado  Unificado  de  Gestão  Arquivística  de  Documentos 
+e  Informações  –  SPdoc.  O  Sistema  SPdoc,  desenvolvido  pela  PRODESP,  é  a  solução  ideal 
+para  gerenciar  documentos  de  arquivo  produzidos  em  papel.  Trata-se  de  uma  ferramenta 
+tecnológica que automatiza as normas e procedimentos de gestão arquivística de documentos 
+formuladas pelo Arquivo Público do Estado, por meio do Departamento de Gestão do SAESP. 
+Além  dos  ganhos  em  eficiência  e  eficácia  nas  ações  de  Estado,  a  aplicação  do  SPdoc  na 
+gestão e tratamento de documentos arquivísticos públicos estaduais, desde a sua produção 
+até a sua destinação final, viabiliza ações de monitoramento e fiscalização dos atos de gestão 
+pública, controle e a transparência da administração. O Sistema SPdoc também contribui para 
+a segurança da informação, a preservação da memória institucional e o resguardo de direitos, 
+assegurando o acesso às informações ao longo do tempo.
+
+A implementação progressiva do SPdoc visa integrar todos os órgãos ou entidades da 
+Administração Pública Estadual no mesmo sistema informatizado, exigindo-se que os órgãos 
+ou entidades atendam aos critérios previstos na Resolução CC-19, de 19/04/2011. Cumpridos 
+os critérios, o órgão ou entidade deverá se manifestar por meio de ofício ao Arquivo Público do 
+Estado, demonstrando interesse em aderir ao SPdoc.
+
+intrínsecas 
+
+Importante  esclarecer  que  os  documentos  de  arquivo  são  definidos  por  suas 
+  organicidade, 
+características 
+naturalidade  e  unicidade)    e  não  pelo  suporte  de  registro  da  informação.  Nesse  sentido, 
+todas as operações técnicas de tratamento de documentos em papel continuam válidas para 
+documentos microfilmados, digitalizados ou nato-digitais.
+
+imparcialidade, 
+
+(autenticidade, 
+
+integridade, 
+
+Existe  um  consenso  entre  os  especialistas  da  área  de  preservação  digital  de  que  a 
+gestão, preservação e recuperação/acesso de documentos digitais requerem tanto sistemas 
+de gestão da informação baseados em normas arquivísticas (SIGAD – Sistema Informatizado 
+de Gestão Arquivística de Documentos) quanto repositórios digitais confiáveis (RDC-Arq)  para 
+a  transferência  e  recolhimento  de  documentos  arquivísticos  digitais,  a  fim  de  assegurar  a 
+preservação, ao longo do tempo, de documentos de guarda permanente.
+
+O órgão ou entidade que já conta com seu Plano de Classificação e Tabela de Temporalidade 
+Fim e pretenda iniciar a produção de documentos digitais deve adotar uma solução tecnológica em 
+conformidade com as normas emanadas do Arquivo Público do Estado, órgão central do Sistema 
+de Arquivos do Estado de São Paulo – SAESP e Resoluções do Conselho Nacional de Arquivos - 
+CONARQ.  Essas normas se referem a requisitos e metadados essenciais para assegurar a gestão, 
+segurança, preservação e acesso a documentos digitais. A aplicação desses instrumentos deve 
+dar-se na origem, no momento de cadastramento dos documentos em sistemas informatizados 
+de tipo SIGAD, o que assegura a gestão integral de documentos de arquivo, permitindo o seu 
+armazenamento,  eliminação  rotineira  nos  prazos  estabelecidos  nas  tabelas  de  temporalidade 
+e  acesso  sempre  que  necessário.  Além  disso,  sempre  de  acordo  com  requisitos  arquivísticos, 
+prever a custódia permanente em repositórios digitais confiáveis (RDC-Arc).
+
+38
+
+
+Anexos
+
+Anexo  I  -  Modelo  de  Ato  que  publIcA  o  plAno  de  clAssIfIcAção  e  A 
+tAbelA de teMporAlIdAde de docuMentos dAs AtIvIdAdes-fIM
+
+[nome e número do ato normativo], de [dia]-[mês]-[ano]
+
+Aprova o Plano de Classificação, o Índice Alfabético, Remissivo e Permutado e a Tabela 
+
+de Temporalidade de Documentos do [nome do órgão ou entidade]
+
+O [cargo] do [nome do órgão ou entidade], no exercício das suas atribuições legais, 
+com base nos trabalhos e levantamentos setoriais de avaliação de documentos, o exame dos 
+valores histórico, administrativo, jurídico, contábil e outros, para recuperação da informação, 
+preservação dos documentos de valor permanente, resgate da história institucional e fins de 
+pesquisa, com a orientação técnica e acompanhamento feito pelo Arquivo Público do Estado, 
+na condição de órgão central do Sistema de Arquivos do Estado de São Paulo - SAESP,
+
+Considerando os termos do § 2o do art. 216 da Constituição da República, das Leis 
+federais n. 8.159/1991 e n. 12.527/2011, dos Decretos estaduais n. 22.789/1984, n. 29.838/1989, 
+n. 48.897/2004, n. 48.898/2004, n. 54.276/2009, n. 58.052/2012, 
+
+Considerando a proposta de Plano de Classificação, de Índice Alfabético, Remissivo 
+e Permutado e de Tabela de Temporalidade de Documentos do [nome do órgão ou entidade], 
+elaborada  pela  Comissão  de  Avaliação  de  Documentos  e  Acesso,  instituída  pelo  [ato  que 
+institui a CADA e suas alterações], com a orientação técnica, acompanhamento e aprovação 
+da  Unidade  do  Arquivo  Público  do  Estado,  mediante  [número  do  ofício  da  UAPESP  que 
+aprova os instrumentos de gestão], atendendo ao disposto do § 1o, art. 37, do Decreto n. 
+48.897/2004, resolve:
+
+Artigo 1o - Fica aprovado o Plano de Classificação, o Índice Alfabético, Remissivo e 
+Permutado e a Tabela de Temporalidade de Documentos do [nome do órgão ou entidade], 
+em conformidade com [o documento do órgão ou entidade  (número/ano) encaminhando 
+a proposta ao Arquivo Público do Estado para aprovação dos instrumentos de gestão], 
+constantes dos Anexos I, II e III, que fazem partes integrantes deste ato, em cumprimento ao 
+disposto no Decreto n. 29.838/1989.
+
+Artigo  2o  -  Publique-se  por  3  (três)  dias  consecutivos  no  Diário  Oficial  do  Estado  – 
+
+D.O.E.
+
+Artigo 3o - Aguardem os autos, por 15 dias, em atenção ao prazo de impugnação de 
+
+que trata o art. 8o do Decreto n. 29.838/1989.
+
+Anexo II – Modelo de Ato que hoMologA o plAno de clAssIfIcAção e A 
+tAbelA de teMporAlIdAde de docuMentos dAs AtIvIdAdes-fIM
+
+[nome e número do ato normativo], de [dia]-[mês]-[ano]
+
+Homologa  o  Plano  de  Classificação,  o  Índice  Alfabético,  Remissivo  e  Permutado 
+e  a  Tabela  de  Temporalidade  de  Documentos  das  Atividades-Fim  do  [nome  do  órgão  ou 
+entidade]
+
+  39
+
+
+O [cargo] do  [nome do órgão ou entidade], considerando que  foram  cumpridas  as 
+
+exigências estabelecidas pelo Decreto n. 29.838/1989, resolve:
+
+Artigo 1o - Fica homologado o Plano de Classificação, o Índice Alfabético, Remissivo 
+e Permutado e a Tabela de Temporalidade de Documentos das Atividades-Fim do [nome do 
+órgão  ou  entidade],  aprovados  pelo  [nome  e  número  do  ato  normativo],  de  [dia]-[mês]-
+[ano], de acordo com o art. 9o do Decreto n. 29.838/1989.
+
+Artigo 2o - Este [ato] entra em vigor na data de sua publicação. 
+
+40
+
+
+Bibliografia
+
+ARQUIVO  PÚBLICO  DO  ESTADO  (São  Paulo). Plano  de  Classificação  e  Tabela  de  Temporalidade  da 
+Administração Pública do Estado de São Paulo: Atividades-Meio. São Paulo: Arquivo do Estado, 2005. 
+Disponível  em:  <http://www.arquivoestado.sp.gov.br/site/publicacoes/tecnica>.    Acesso  em:  09  jun. 
+2017.
+
+ARQUIVO  PÚBLICO  DO  ESTADO  (São  Paulo).  Manual  de  normas  e  procedimentos  de  protocolo  para  a 
+Administração Pública do Estado de São Paulo. São Paulo: Arquivo Público do Estado, 2013. Disponível 
+em: <http://www.arquivoestado.sp.gov.br/site/publicacoes/tecnica>.  Acesso em: 09 jun. 2017.
+
+ARQUIVO  PÚBLICO  DO  ESTADO  (São  Paulo).  Política  pública  de  arquivos  e  gestão  documental  do 
+Estado de São Paulo. São Paulo: Arquivo Público do Estado, 2014, 2.ed., rev. e ampl.  Acompanha CD-
+ROM.  Disponível  em:  <http://www.arquivoestado.sp.gov.br/site/publicacoes/tecnica>.    Acesso  em:  09 
+jun. 2017.
+
+BELLOTTO, Heloísa Liberalli. Como fazer análise diplomática e análise tipológica de documento de arquivo. 
+São Paulo: Arquivo do Estado, 2002 (Projeto Como Fazer, v. 8). Disponível em: <http://www.arquivoestado.
+sp.gov.br/site/publicacoes/tecnica>.  Acesso em: 09 jun. 2017.
+
+BERNARDES, Ieda Pimenta. Como avaliar documentos de arquivo. São Paulo: Arquivo do Estado, 1998 
+(Projeto Como Fazer, v. 1). Disponível em: <http://www.arquivoestado.sp.gov.br/site/publicacoes/tecnica>.  
+Acesso em: 09 jun. 2017. 
+
+CAMARGO, Ana Maria de Almeida; BELLOTTO, Heloísa Liberalli. Dicionário de terminologia arquivística. 
+São Paulo: Associação dos Arquivistas Brasileiros; Núcleo Regional de São Paulo; Secretaria de Estado 
+da Cultura. 1996.
+
+BERNARDES, Ieda Pimenta. Gestão Documental aplicada. Ieda Pimenta Bernardes, Hilda Delatorre. São 
+Paulo: Arquivo Público do Estado de São Paulo, 2008. Disponível em: <http://www.arquivoestado.sp.gov.
+br/site/publicacoes/tecnica>.  Acesso em: 09 jun. 2017.  
+
+BERNARDES,  Ieda  Pimenta  (Coordenação).  Manual  de  elaboração  de  planos  de  classificação  e  tabelas 
+de temporalidade de documentos da administração pública do Estado de São Paulo: atividades-fim. Ieda 
+Pimenta  Bernardes,  Hilda  Delatorre,  Camila  Brandi  de  Souza,  Eliana  Martinelli  e  Marcelo  Carlos  Cunha 
+Breganhola.  São  Paulo:  Arquivo  Público  do  Estado  de  São  Paulo,  2008.  Disponível  em:  <http://www.
+arquivoestado.sp.gov.br/site/publicacoes/tecnica>.  Acesso em: 09 jun. 2017.  
+
+BRASIL. Lei n. 5.433, de 05 de maio de 1968. Regula a microfilmagem de documentos oficiais e dá outras 
+providências. 
+Disponível em: <http://www.planalto.gov.br/ccivil_03/leis/L5433.htm>. Acesso em: 09 abr. 2018.
+
+BRASIL. Lei n. 8.159, de 09 de janeiro de 1991. Dispõe sobre a política nacional de arquivos públicos e 
+privados e dá outras providências (1991). Disponível em: <http://www.planalto.gov.br/ccivil_03/leis/L8159.
+htm>. Acesso em: 09 abr. 2018. 
+
+BRASIL.  Lei  n.  12.527,  de  18  de  novembro  de  2011.  Regula  o  acesso  a  informações  previsto  no  inciso 
+XXXIII do artigo 5º, no inciso II do § 3º do artigo 37 e no § 2º do artigo 216 da Constituição Federal; altera 
+a Lei n. 8.112, de 11 de dezembro de 1990; revoga a Lei n. 11.111, de 05 de maio de 2005, e dispositivos 
+da Lei n. 8.159, de 08 de janeiro de 1991; e dá outras providências (2011a). Disponível em: <http://www.
+planalto.gov.br/ccivil_03/_Ato2011-2014/2011/Lei/L12527.htm>. Acesso em: 09 abr. 2018.
+
+BRASIL. Decreto n. 1.799, de 30 de janeiro de 1996. Regulamenta a Lei n. 5.433, de 8 de maio de 1968, 
+que regula a microfilmagem de documentos oficiais, e dá outras providências. Disponível em: <http://www.
+planalto.gov.br/ccivil_03/decreto/antigos/d1799.htm>. Acesso em: 09 abr. 2018.
+
+CONSELHO  INTERNACIONAL  DE  ARQUIVOS  -  ICA.  Declaração  Universal  sobre  os  Arquivos,  2010. 
+Tradução para o português acordada entre o Arquivo Nacional (Brasil) e o Arquivo Nacional da Torre do 
+Tombo  (Portugal).  Disponível  em:  <http://www2.iict.pt/archive/doc/ICA_2010_Universal-Declaration-on-
+Archives_PT_1_.pdf>. Acesso em 20 maio 2017.
+
+  41
+
+
+CONSELHO NACIONAL DE ARQUIVOS - CONARQ. Carta para a preservação do patrimônio arquivístico 
+digital,  2005.  Tradução  da  carta  publicada  pela  UNESCO,  2004.  Disponível  em:  <http://www.conarq.
+arquivonacional.gov.br/images/publicacoes_textos/Carta_preservacao.pdf>. Acesso em 20 maio 2017.
+
+CONSELHO  NACIONAL  DE  ARQUIVOS.  Resolução  n.  10,  de  6  de  dezembro  de  1999,  que  dispõe  sobre  a 
+adoção de símbolos ISSO nas sinaléticas a serem utilizadas no processo de microfilmagem de documentos 
+arquivísticos. Disponível em: <http://www.conarq.arquivonacional.gov.br/resolucoes-do-conarq/252-resolucao-
+n-10,-de-6-de-dezembro-de-1999.html>. Acesso em: 09 abr. 2018.
+
+CONSELHO NACIONAL DE ARQUIVOS. Resolução n. 25, de 27 de abril de 2007, que dispõe sobre a adoção 
+do  Modelo  de  Requisitos  para  Sistemas  Informatizados  de  Gestão  Arquivística  de  Documentos  -  e-ARQ 
+Brasil pelos órgãos e entidades integrantes do Sistema Nacional de Arquivos - SINAR. Disponível em: <http://
+www.conarq.arquivonacional.gov.br/resolucoes-do-conarq/267-resolucao-n-25,-de-27-de-abril-de-2007.
+html>. Acesso em: 09 abr. 2018.
+
+CONSELHO NACIONAL DE ARQUIVOS. Resolução n. 31, de 28 de abril de 2010, que dispõe sobre a adoção 
+das Recomendações para Digitalização de Documentos Arquivísticos Permanentes. Disponível em: <http://
+www.conarq.arquivonacional.gov.br/resolucoes-do-conarq/273-resolucao-n-31,-de-28-de-abril-de-2010.
+html>. Acesso em: 09 abr. 2018.
+
+CONSELHO NACIONAL DE ARQUIVOS. Resolução n. 32, de 17 de maio de 2010, que dispõe sobre a 
+inserção dos Metadados na Parte II do Modelo de Requisitos para Sistemas Informatizados de Gestão 
+Arquivística de Documentos - e-ARQ Brasil. Disponível em:  <http://www.conarq.arquivonacional.gov.
+br/resolucoes-do-conarq/274-resolucao-n-32,-de-17-de-maio-de-2010.html>.  Acesso  em:  09  abr. 
+2018.
+
+CONSELHO NACIONAL DE ARQUIVOS. Resolução n. 36, de 19 de dezembro de 2012, que dispõe sobre 
+a  adoção  das  Diretrizes  para  a  Gestão  arquivística  do  Correio  Eletrônico  Corporativo  pelos  órgãos  e 
+entidades  integrantes  do  Sistema  Nacional  de  Arquivos  –  SINAR.  Disponível  em:    <http://www.conarq.
+arquivonacional.gov.br/resolucoes-do-conarq/278-resolucao-n-36,-de-19-de-dezembro-de-2012.html>. 
+Acesso em: 09 abr. 2018.
+
+CONSELHO  NACIONAL  DE  ARQUIVOS.  Resolução  n.  37,  de  19  de  dezembro  de  2012,  que  aprova  as 
+Diretrizes para a Presunção de Autenticidade de Documentos Arquivísticos Digitais. Disponível em:  <http://
+www.conarq.arquivonacional.gov.br/resolucoes-do-conarq/279-resolucao-n-37,-de-19-de-dezembro-
+de-2012.html>. Acesso em: 09 abr. 2018.
+
+CONSELHO  NACIONAL  DE  ARQUIVOS.  Resolução  n.  38,  de  9  de  julho  de  2013,  que  dispõe  sobre  a 
+adoção  das  “Diretrizes  do  Produtor  -  A  Elaboração  e  a  Manutenção  de  Materiais  Digitais:  Diretrizes 
+Para  Indivíduos”  e  “Diretrizes  do  Preservador  -  A  Preservação  de  Documentos  Arquivísticos  digitais: 
+Diretrizes para Organizações”. Disponível em:  <http://www.conarq.arquivonacional.gov.br/resolucoes-do-
+conarq/280-resolucao-n-38,-de-9-de-julho-de-2013.html>. Acesso em: 09 abr. 2018.
+
+CONSELHO NACIONAL DE ARQUIVOS. Resolução n. 39, de 29 de abril de 2014, que estabelece diretrizes 
+para a implementação de repositórios arquivísticos digitais confiáveis para o arquivamento e manutenção 
+de documentos arquivísticos digitais em suas fases corrente, intermediária e permanente, dos órgãos e 
+entidades  integrantes  do  Sistema  Nacional  de  Arquivos  -  SINAR.  [Redação  dada  pela  Resolução  n.  43 
+de  04  de  setembro  de  2015].  Disponível  em:  <http://www.conarq.arquivonacional.gov.br/resolucoes-do-
+conarq/281-resolucao-n-39-de-29-de-abril-de-2014.html>. Acesso em: 09 abr. 2018.
+
+CONSELHO NACIONAL DE ARQUIVOS. Resolução n. 43, de 04 de setembro de 2015, que altera a redação 
+da Resolução do CONARQ n. 39, de 29 de abril de 2014, que estabelece diretrizes para a implementação 
+de repositórios digitais confiáveis para a transferência e recolhimento de documentos arquivísticos digitais 
+para  instituições  arquivísticas  dos  órgãos  e  entidades  integrantes  do  Sistema  Nacional  de  Arquivos  - 
+SINAR. Disponível em:  <http://www.conarq.arquivonacional.gov.br/resolucoes-do-conarq/335-resolucao-
+n-43-de-04-de-setembro-de-2015.html>. Acesso em: 09 abr. 2018.
+
+Diretrizes  para  a  implementação  de  Repositórios  Arquivisticos  Digitais  Confiáveis  –  RDC-Arq.  Câmara 
+Técnica de Documentos Eletrônicos. Rio de Janeiro, Arquivo Nacional, 2015. Disponível em:  <http://www.
+
+42
+
+
+conarq.arquivonacional.gov.br/images/publicacoes_textos/diretrizes_rdc_arq.pdf>.  Acesso  em:  09  abr. 
+2018.
+
+e-ARQ Brasil: Modelo de Requisitos para Sistemas Informatizados de Gestão Arquivística de Documentos. 
+Câmara  Técnica  de  Documentos  Eletrônicos.  1.1.  versão.    Rio  de  Janeiro,  Arquivo  Nacional,  2011. 
+Disponível em:  <http://www.conarq.arquivonacional.gov.br/images/publicacoes_textos/earqbrasil_model_
+requisitos_2009.pdf>. Acesso em: 09 abr. 2018.
+
+GONÇALVES, Janice. Como classificar e ordenar documentos de arquivo. São Paulo: Arquivo do Estado, 
+1998  (Projeto  Como  Fazer,  v.  2).  Disponível  em:  <http://www.arquivoestado.sp.gov.br/site/publicacoes/
+tecnica>.  Acesso em: 09 jun. 2017.  
+
+SÃO  PAULO  (Estado).  Decreto  n.  22.789,  de  19  de  outubro  de  1984.  Institui  o  Sistema  de  Arquivos  do 
+Estado de São Paulo – SAESP. Disponível em: <http://www.arquivoestado.sp.gov.br/site/assets/legislacao/
+Decreto_22789_de_19_de_outubro_1984.pdf>. Acesso em: 09 abr. 2018.
+
+SÃO PAULO (Estado). Decreto n. 29.838, de 18 de abril de 1989. Dispõe sobre a constituição de Comissão 
+de Avaliação de Documentos de Arquivo nas Secretarias de Estado e dá outras providências. Disponível 
+em: <http://www.arquivoestado.sp.gov.br/site/assets/legislacao/Decreto_29838_de_18_de_abril_de_1989.
+pdf>. Acesso em: 09 abr. 2018.
+
+SÃO PAULO (Estado). Decreto n. 48.897, de 27 de agosto de 2004. Dispõe sobre os Arquivos Públicos, 
+os  documentos  de  arquivo  e  sua  gestão,  os  Planos  de  Classificação  e  a  Tabela  de  Temporalidade  de 
+Documentos da Administração Pública do Estado de São Paulo, define normas para a avaliação, guarda 
+e  eliminação  de  documentos  de  arquivo  e  dá  providências  correlatas.  Disponível  em:  <http://www.
+arquivoestado.sp.gov.br/site/assets/legislacao/Decreto_48897_de_27_de_agosto_de_2004.pdf>.  Acesso 
+em: 09 abr. 2018.
+
+SÃO PAULO (Estado). Decreto n. 48.898, de 27 de agosto 2004. Aprova o Plano de Classificação e a Tabela 
+de Temporalidade de Documentos da Administração Pública do Estado de São Paulo: Atividades – Meio 
+e  dá  providências  correlatas.  Disponível  em:  <http://www.arquivoestado.sp.gov.br/site/assets/legislacao/
+Decreto_48898_de_27_de_agosto_de_2004.pdf>. Acesso em: 09 abr. 2018.
+
+SÃO PAULO (Estado). Decreto n. 51.286, de 21 de novembro de 2006. Altera a redação e inclui dispositivo 
+que especifica no Decreto n. 48.897, de 27 de agosto de 2004, que dispõe sobre os Arquivos Públicos, 
+os  documentos  de  arquivo  e  sua  gestão,  os  Planos  de  Classificação  e  a  Tabela  de  Temporalidade  de 
+Documentos da Administração Pública do Estado de São Paulo, define normas para a avaliação, guarda 
+e eliminação de documentos de arquivo. Disponível em: <http://www.arquivoestado.sp.gov.br/site/assets/
+legislacao/Decreto_51286_de_21_de_novembro_de_2006.pdf>.
+Acesso em: 09 abr. 2018.
+
+SÃO PAULO (Estado). Decreto n. 54.276, de 27 de abril de 2009. Reorganiza a Unidade do Arquivo Público 
+do Estado, da Casa Civil, e dá providências correlatas. Disponível em: <http://www.arquivoestado.sp.gov.
+br/site/assets/legislacao/Decreto_54276_de_27_de_abril_de_2009%20(1).pdf>. Acesso em: 09 abr. 2018.
+
+SÃO  PAULO  (Estado).  Decreto  n.  60.334,  de  03  de  abril  de  2014.  Aprova  o  Manual  de  Normas  e 
+Procedimentos  de  Protocolo  para  a  Administração  Pública  do  Estado  de  São  Paulo,  e  dá  providências 
+correlatas.  Disponível  em:  <http://www.arquivoestado.sp.gov.br/site/assets/legislacao/Decreto_60334_
+de_3_%20de_abril_2014.pdf>.
+Acesso em: 09 abr. 2018.
+
+SECRETARIA  DA  AGRICULTURA  E  ABASTECIMENTO  (Estado  de  São  Paulo).  Resolução  SAA-19,  de 
+27-04-2017.  Homologa  a  tabela  de  temporalidade  de  documentos  das  atividades-fim  da  Secretaria  de 
+Agricultura e Abastecimento. 
+Disponível  em:  <http://www.arquivoestado.sp.gov.br/site/assets/material_apoio/4_Homologa%C3%A7% 
+C3%A3o_Resolu%C3%A7%C3%A3o%20SAA%2019,%20de%2027-04-2017_DOE_28-04-2017,%20
+pp.%2024-31.pdf>.
+Acesso em: 09 abr. 2018.
+
+  43
+
+
+ARQUIVO PÚBLICO 
+DO ESTADO
+
+SECRETARIA DE
+GOVERNO
+
+ROTEIRO PARA ELABORAÇÃO  
+DE PLANO DE CLASSIFICAÇÃO  
+E TABELA DE TEMPORALIDADE 
+DE DOCUMENTOS DAS 
+ATIVIDADES-FIM
+
+2
+
+l
+
+a
+t
+n
+e
+m
+u
+c
+o
+D
+o
+ã
+t
+s
+e
+G
+o
+ã
+ç
+e
+o
+C
+
+l
+
+ISBN 978-85-69353-03-4 
+
+9     7 8 8 5 6 9     3 5 3 0 3 4  
+
+ARQUIVO PÚBLICO DO ESTADO DE SÃO PAULO
+2018
+
+47455001 capa.indd   1
+
+04/06/2018   15:18:20
+
+ 
+ 
+

@@ -1,0 +1,4367 @@
+COMO FAZER 3 - COMO IMPLANTAR ARQUIVOS PÚBLICOS MUNICIPAIS
+
+COMO IMPLANTAR ARQUIVOS
+PÚBLICOS MUNICIPAIS
+
+Helena Corrêa Machado
+Ana Maria de Almeida Camargo
+
+Arquivo do Estado / Imprensa Oficial
+São Paulo
+2000
+
+
+COMO FAZER 3 - COMO IMPLANTAR ARQUIVOS PÚBLICOS MUNICIPAIS
+
+GOVERNO DO ESTADO DE SÃO PAULO
+MÁRIO COVAS
+GOVERNADOR
+
+SECRETARIA DE ESTADO DA CULTURA
+MARCOS MENDONÇA
+SECRETÁRIO
+
+DEPARTAMENTO DE MUSEUS E ARQUIVOS
+MARILDA SUYAMA TEGG
+DIRETORA
+
+DIVISÃO DE ARQUIVO DO ESTADO
+FAUSTO COUTO SOBRINHO
+DIRETOR
+
+IMPRENSA OFICIAL DO ESTADO
+SÉRGIO KOBAYASHI
+DIRETOR-PRESIDENTE
+
+CARLOS CONDE
+DIRETOR  VICE-PRESIDENTE
+
+CARLOS NICOLAEWSKY
+DIRETOR INDUSTRIAL
+
+RICHARD VAINBERG
+DIRETOR FINANCEIRO E ADMINISTRATIVO
+
+CARLOS TAUFIK HADDAD
+COORDENADOR EDITORIAL
+
+DIVISÃO DE ARQUIVO DO ESTADO DE SÃO PAULO
+R. Voluntários da Pátria, 596 - Santana
+CEP: 02010-000   São Paulo - SP - Brasil
+Telefax: (011) 6221-1924 / 6221-4785 / 6221-2306
+
+COMO IMPLANTAR ARQUIVOS
+PÚBLICOS MUNICIPAIS
+
+Helena Corrêa Machado
+Ana Maria de Almeida Camargo
+
+volume 3
+
+Arquivo do Estado / Imprensa Oficial
+São Paulo
+2000
+2ª edição
+
+
+COMO FAZER 3 - COMO IMPLANTAR ARQUIVOS PÚBLICOS MUNICIPAIS
+
+ASSOCIAÇÃO DE ARQUIVISTAS DE SÃO PAULO
+
+Diretoria:
+
+Ana Maria de Almeida Camargo (Diretora)
+Silvana Goulart França Guimarães (Vice-Diretora)
+Rita de Cássia Martinez Lo Schiavo (Secretária)
+João Martins Rodrigues Neto (Tesoureiro)
+
+Comissão de cursos:
+
+Ieda Pimenta Bernardes (Coord.)
+Antônio José Marques
+Hilda Vieira de Souza
+
+DIVISÃO DE ARQUIVO DO ESTADO
+Coordenação editorial:  Lauro Ávila Pereira
+Editora responsável:  Sílnia Nunes Martins
+Equipe técnica: Amir Neves Ferreira Velho
+
+Débora de Castro Araújo
+Luzia Ferreira da Silva
+
+CO-EDIÇÃO
+Imprensa Oficial do Estado
+
+Machado, Helena Corrêa.
+        Como implantar arquivos públicos municipais / Helena Corrêa Machado e
+Ana Maria de Almeida Camargo. – São Paulo :  Arquivo do Estado, 1999.
+        88 p. : il. ; 23 cm. – (Projeto como fazer ; v. 3)
+
+        Bibliografia : p. 71-74
+        ISBN 85-86726-15-X
+  85-86726-13-3
+
+        1. Arquivos públicos municipais – Implantação 2. Arquivos públicos municipais – Muni-
+cípios  3. Arquivos públicos municipais – Brasil I. Camargo, Ana Maria de Almeida   II. Título.
+III. Série.
+                                                                                                   CDD – 025.171
+                                                                                                   CDU – 930.251 : 352
+
+Sumário
+
+Apresentação  ......................................................................................
+
+Projeto  Como  Fazer    ............................................................................
+
+Introdução  ...........................................................................................
+
+Sobre  as  Autoras  .................................................................................
+
+7
+
+9
+
+11
+
+12
+
+1.  O  arquivo  municipal  ..........................................................................
+    1.1. Arquivo: uma definição preliminar .................................................
+   1.2. Os arquivos municipais e sua área de jurisdição ...........................
+   1.3. Comunidade, administração e arquivo ..........................................
+
+13
+13
+13
+17
+
+2. Os documentos de arquivo e seu ciclo vital: da gestão
+          à guarda permanente ..................................................................
+   2.1. Gestão de documentos ...............................................................
+            2.1.1.  Produção  ..............................................................................
+            2.1.2.  Protocolo  ..............................................................................
+         2.1.2.1. Classificação ..................................................................
+      2.1.3. Arquivo corrente ...................................................................
+            2.1.4.  Avaliação  .............................................................................
+         2.1.4.1. Perfil da Comissão Permanente de Avaliação .................
+         2.1.4.2. Competências da Comissão Permanente de Avaliação ...
+          2.1.4.3. Tabela de temporalidade ................................................
+          2.1.4.4. Valoração de documentos ...............................................
+          2.1.4.5. Tempo de retenção .........................................................
+         2.1.4.6. Recomendações complementares ...................................
+      2.1.5. Arquivo intermediário  ...........................................................
+      2.2.  Arquivo  permanente    ...................................................................
+            2.2.1.  Arranjo  ..................................................................................
+            2.2.2.  Descrição  ..............................................................................
+            2.2.3.  Conservação  .........................................................................
+
+3. Configuração legal da instituição arquivística ....................................
+   3.1. Municípios de grande e médio porte ............................................
+      3.1.1. Ato de criação .......................................................................
+      3.1.2. Regimento interno .................................................................
+   3.2. Municípios de médio e pequeno porte .........................................
+      3.2.1. Ato de criação .......................................................................
+      3.2.2. Regimento interno .................................................................
+
+21
+22
+22
+23
+24
+26
+27
+28
+28
+29
+30
+30
+31
+32
+33
+33
+35
+36
+
+37
+37
+38
+43
+51
+52
+54
+
+
+COMO FAZER 3 - COMO IMPLANTAR ARQUIVOS PÚBLICOS MUNICIPAIS
+
+4.  Recursos  humanos  ..........................................................................
+      4.1.  Categorias  funcionais  .................................................................
+      4.2.  Direção  e  chefia  .........................................................................
+      4.3.  Treinamento  ...............................................................................
+      4.3.1. Programas de treinamento ....................................................
+
+5.  Recursos  materiais  ...........................................................................
+   5.1. Prédio: localização, condições ambientais, utilização do espaço..
+      5.2.  Equipamentos  e  mobiliário  ..........................................................
+
+6.  Considerações  finais  .........................................................................
+      6.1. Um breve diagnóstico ..............................................................
+      6.2. Medidas saneadoras ................................................................
+
+Bibliografia  ...........................................................................................
+
+Anexo 1: Atos oficiais e outros documentos ..........................................
+
+Anexo  2:  Legislação  arquivística  ...........................................................
+
+59
+59
+60
+62
+62
+
+65
+65
+68
+
+69
+69
+70
+
+71
+
+75
+
+80
+
+Apresentação
+
+No  Brasil,    tem  sido  lenta  a  formulação  ou  aprovação  de
+dispositivos legais que assegurem a gestão integral de documen-
+tos nas administrações municipais, ainda que a legislação federal
+relativa aos arquivos e documentos públicos tenha-se tornado refe-
+rência    para  os  demais  países  da  América  Latina  e  mesmo  para
+alguns países europeus. A Constituição Federal (art. 216) e a Lei
+Federal de Arquivos (Lei n.º 8.159/91, art. 1.º) atribuem ao poder
+público, em todos os níveis, a gestão, guarda e preservação dos
+documentos de arquivo como instrumentos de apoio à administra-
+ção, à cultura e ao desenvolvimento científico.
+
+Não obstante, segundo dados de recente relatório da Fun-
+dação Histórica Tavera, da Espanha, sobre a situação do patrimônio
+documental do Brasil, somente de 30 a 43% dos arquivos munici-
+pais brasileiros possuem orçamento e instalações próprias, condi-
+ções de segurança, publicações regulares e recursos humanos. Em
+face dessas deficiências, ainda que a totalidade dos arquivos este-
+ja aberta à consulta pública, poucos podem efetivamente garantir o
+acesso pleno aos documentos públicos, como determina a lei fede-
+ral supracitada, em seu art. 22.
+
+Dados  divulgados  pelo  Conselho  Nacional  de  Arquivos  -
+CONARQ revelam, ainda, que apenas 12 das capitais brasileiras,
+incluindo  o  Distrito  Federal,  possuem  arquivos  municipais,  e  so-
+mente 9 dos 645 municípios do Estado de São Paulo contam com
+arquivos  institucionalizados.
+
+A lei federal mencionada acima delega aos Estados, Distri-
+to Federal e Municípios a responsabilidade de regulamentar a ges-
+tão  e  o  acesso  aos  documentos  públicos  através  de  dispositivos
+legais complementares (art. 21). A efetivação do previsto nessa lei,
+através da atuação dos prefeitos e Câmaras Municipais, criando os
+arquivos  públicos  e  definindo  critérios  para  a  gestão  documental
+faz-se  indispensável  para  que  as  administrações  municipais  pos-
+sam alcançar índices de eficiência e qualidade compatíveis com as
+demandas das sociedades modernas.
+
+7
+
+
+COMO FAZER 3 - COMO IMPLANTAR ARQUIVOS PÚBLICOS MUNICIPAIS
+
+Projeto Como Fazer
+
+O Projeto Como Fazer compreende uma série de oficinas
+de trabalho que abordam temas específicos em profundidade, tan-
+to em seu aspecto teórico, quanto metodológico e operacional, ca-
+pacitando o aluno a planejar e realizar as atividades inerentes ao
+aspecto  da  Arquivística  em  foco.  Visa  não  só  o  aperfeiçoamento
+técnico de profissionais que atuam na área, como a difusão de co-
+nhecimentos arquivísticos básicos entre os interessados. Como uma
+de  suas  marcas  características,  a  cada  Oficina  corresponde  um
+Manual, de responsabilidade do Professor.
+
+Comissão de Cursos da ARQ/SP
+
+Os arquivos, durante muito tempo, foram considerados me-
+ros depósitos de papéis velhos, de interesse apenas para eruditos
+e pesquisadores profissionais. A própria administração pública re-
+produzia esse estereótipo ao denominá-los de “arquivos mortos”. A
+complexidade das ações governamentais, a crescente produção de
+documentos nos mais variados suportes e o avanço das tecnologias
+da informação, apontam para uma necessidade urgente de  políti-
+cas públicas em âmbito municipal voltadas para a gestão de docu-
+mentos, requisitos para a racionalidade, eficiência e transparência
+administrativas.
+
+Pelo exposto, e na condição de órgão central do Sistema
+de Arquivos do Estado de São Paulo, instituído pelo Decreto esta-
+dual  n.º  22.789/84,  o  Arquivo  do  Estado  propõe-se  a  prestar  sua
+colaboração com os municípios paulistas na implantação de arqui-
+vos públicos, visando a preservação de sua memória institucional,
+a racionalização do fluxo documental, a agilidade na recuperação
+das informações necessárias à realização de suas atividades, e a
+garantia  da  disponibilização  das  informações  à  administração,  à
+pesquisa acadêmica e ao exercício pleno da cidadania. Nesse sen-
+tido, estamos lançando a presente publicação, 3.º volume dos ma-
+nuais técnicos do Projeto “Como Fazer”, resultado de uma parceria
+das mais promissoras com a Associação de Arquivistas de São Paulo
+e com a Imprensa Oficial do Estado.
+
+Dr. Fausto Couto Sobrinho
+
+Diretor Técnico do Arquivo do Estado
+
+8 
+
+9
+
+
+COMO FAZER 3 - COMO IMPLANTAR ARQUIVOS PÚBLICOS MUNICIPAIS
+
+Introdução
+
+Sobre as Autoras
+
+Com o objetivo de fornecer aos municípios brasileiros um
+patamar básico para a implantação de arquivos, este trabalho1 apre-
+senta indicações que permitem, respeitadas as especificidades lo-
+cais, uma política conseqüente em relação aos documentos produ-
+zidos, recebidos e acumulados pelo poder público municipal.
+
+Levando em conta a sucessão de fases por que passam os
+documentos de arquivo, desde o momento em que são criados até
+a sua destinação final, são aqui sistematizados os elementos ca-
+racterísticos de cada etapa, com especial ênfase à classificação e
+à avaliação. Os verbetes em destaque explicitam os conceitos utili-
+zados e chamam a atenção para os termos técnicos mais utilizados
+pelos profissionais da área. Igualmente importantes são os aspec-
+tos relacionados com a estrutura organizacional e o funcionamento
+das instituições arquivísticas, o que determinou não só a discrimi-
+nação  dos  recursos  humanos  e  materiais    indispensáveis,  numa
+linha de simplificação de ações e redução de custos, mas sobretu-
+do  a  proposta  de  soluções  alternativas  para  a  configuração  legal
+dos arquivos, em municípios de grande, médio e pequeno porte.
+
+Helena  Corrêa  Machado  é  arquivista,  bibliotecária  e  mestre  em
+Administração Pública. Exerceu durante cerca de 25 anos cargos
+de direção de arquivo nos governos do extinto Estado da Guanabara,
+do Estado do Rio de Janeiro e da Cidade do Rio de Janeiro. Foi
+consultora técnica do SAESP – Sistema de Arquivos do Estado de
+São  Paulo  (1982-1983)  e  presidiu  a  Associação  dos  Arquivistas
+Brasileiros (1975-1976). Atualmente é membro da Câmara Técnica
+de Avaliação de Documentos de Arquivo, do CONARQ – Conselho
+Nacional de Arquivos, órgão vinculado ao Arquivo Nacional.
+
+Ana Maria de Almeida Camargo é professora do Departamento
+de História da Faculdade de Filosofia, Letras e Ciências Humanas
+da  Universidade  de  São  Paulo,  desde  1969.  Dirigiu  o  Arquivo  do
+Município  de  Rio  Claro  (SP)  de  1980  a  1990,  tendo  integrado  o
+Comitê  de  Arquivos  Municipais  do  Conselho  Internacional  de  Ar-
+quivos.  Coordenou  os  trabalhos  de  diagnóstico  dos  arquivos  do
+Governo  do  Estado  de  São  Paulo,  publicado  em  1987.  Escreveu
+inúmeros  trabalhos  na  área  documental,  como  a  Bibliografia  da
+Impressão Régia do Rio de Janeiro (1808-1822), em colabora-
+ção com Rubens Borba de Moraes, e o Dicionário de terminolo-
+gia  arquivística,  cuja  coordenação  foi  partilhada  com  Heloísa
+Liberalli Bellotto. É membro da comissão responsável pelo proces-
+so de implantação do sistema de arquivos da Universidade de São
+Paulo, iniciado em 1996. Dirige, atualmente, a Associação de Ar-
+quivistas de São Paulo.
+
+1  A  obra  é  fruto  de  modificações  operadas  nas  Diretrizes  para  a  modernização  dos
+arquivos municipais, que as autoras publicaram sob os auspícios da Associação dos
+Arquivistas Brasileiros - Núcleo Regional de São Paulo e do CENADEM (Centro Nacional
+de  Desenvolvimento  do  Gerenciamento  da  Informação),  em  1990;  e  no  Roteiro  para
+implantação de arquivos municipais, publicado em 1996 pela Secretaria de Estado da
+Cultura  –  Departamento  de  Museus  e  Arquivos  e  pela  Porto  Calendário,  com  tiragem
+limitada.
+
+11
+
+12
+
+
+COMO FAZER 3 - COMO IMPLANTAR ARQUIVOS PÚBLICOS MUNICIPAIS
+
+1. O ARQUIVO MUNICIPAL
+
+ 1.1. Arquivo: uma definição preliminar
+
+que a expressão tem se prestado a
+variantes de entendimento e, conse-
+qüentemente, a algumas confusões
+e  ambigüidades.
+
+Documento - Unidade de regis-
+tro de informação, qualquer que
+seja o suporte utilizado.
+
+Arquivo  -  Conjunto  de  documen-
+tos que, independentemente da na-
+tureza ou do suporte, são reunidos
+por  acumulação  ao  longo  das  ati-
+vidades de pessoas físicas ou jurí-
+dicas, públicas ou privadas.
+
+Arquivo  significa,  antes  de  mais
+nada, o conjunto de documentos natural-
+mente  acumulados  por  pessoas  ou  insti-
+tuições, em razão das atividades que de-
+senvolvem ao longo de sua existência ou
+funcionamento.  A  origem  do  arquivo,  portanto,  obedecendo  a  imperati-
+vos de ordem prática, corresponde à necessidade de constituir e conser-
+var registros de ações e de fatos, a títu-
+lo de prova e informação. Nessa medi-
+da é que as deliberações da Câmara de
+Vereadores são transcritas em atas e es-
+tas  são  conservadas  como  referência
+para outras deliberações do órgão, ga-
+rantindo  a  continuidade  de  seu  funcio-
+namento. O mesmo ocorre com um es-
+tabelecimento  comercial,  quando  guarda,  entre  outros,  os  documentos
+contábeis; ou mesmo com uma pessoa física, ao reunir os comprovantes
+de  sua  identidade  civil,  os  diplomas  e  certificados  dos  cursos  que  fre-
+qüentou ou as fotografias de seus familiares. Os documentos de arquivo
+independem, como se vê, do suporte uti-
+lizado para o registro da informação, que
+pode estar em papel, em filme, em dis-
+co  óptico  ou  em qualquer outro mate-
+rial.
+
+Suporte - Material sobre o qual as
+informações  são  registradas.
+
+A  palavra  serve  também  para  designar  outras  realidades,  todas
+elas associadas ao significado primordial de conjunto orgânico de docu-
+mentos. Assim é que são reconhecidos pelo nome de “arquivo”, por ex-
+tensão,  tanto  a  entidade  administrativa  responsável  por  tais  documen-
+tos, quanto o edifício ou a peça de mobiliário onde são guardados.
+
+1.2. Os arquivos municipais e sua área de jurisdição
+
+A partir dessas considerações preliminares, cabe perguntar qual
+é a definição de arquivo municipal que norteou a elaboração do livro, já
+
+Arquivo municipal - Instituição responsá-
+vel pelos conjuntos de documentos acumu-
+lados por órgãos dos poderes executivo e
+legislativo, no âmbito da administração mu-
+nicipal direta ou indireta.
+
+O  atributo  “municipal”  tem,
+em primeiro lugar, o sentido de “ori-
+ginário do poder público municipal”, isto é, refere-se aos órgãos que exer-
+cem,  na  base  da  organização  estatal  brasileira,  os  poderes  executivo  e
+legislativo. Nesta acepção, são municipais os documentos produzidos, re-
+cebidos  e  acumulados  pela  Prefeitura  e  pela  Câmara  de  Vereadores  no
+desempenho de suas funções. A tais conjuntos documentais é que o arqui-
+vo  municipal,  como  entidade  administrativa  responsável  por  sua  custódia,
+tratamento e utilização, deverá, prioritariamente, dedicar-se.
+
+Vale  lembrar  que  a  organização  e  a  administração  das  instituições
+arquivísticas  públicas  brasileiras  obedece  ao  mesmo  escalonamento  e  à
+mesma prerrogativa autonômica das esferas de ação governamental: há o
+Arquivo  Nacional,  os  Arquivos  Estaduais  e  os  Arquivos  Municipais,  sem
+qualquer  relação  de  subordinação  entre  eles,  cada  qual  encarregado  dos
+conjuntos de documentos acumulados por órgãos da administração direta
+ou  indireta  em  sua  esfera  de  jurisdição,  respeitada  a  independência  dos
+poderes.2
+
+Em simetria perfeita com a organização estatal, que apresenta níti-
+das fronteiras entre os seus diferentes patamares, os arquivos públicos bra-
+sileiros vivenciam na base, ou seja, no âmbito dos arquivos municipais, uma
+situação sui-generis quanto à área de
+jurisdição:  não  se  limitam  à  guarda
+dos  documentos  produzidos  pelos
+órgãos que exercem, em nível local,
+o chamado imperium; estendem por
+vezes sua proteção não só aos pro-
+dutos do funcionamento de entidades
+que, embora atuem em seu território,
+pertencem  ao  Estado  ou  à  União,
+como  também  aos  documentos  de
+natureza privada. A elasticidade des-
+ta área jurisdicional - nunca questio-
+nada,   apesar   de   desprovida   de
+
+Arquivo público - Conjunto de documen-
+tos  acumulados  em  decorrência  das  fun-
+ções  executivas,  legislativas  e  judiciárias
+do poder público no âmbito federal, esta-
+dual  e  municipal,  bem  como  o  conjunto
+de documentos de entidades de direito pri-
+vado encarregadas de serviços públicos.
+Arquivo privado - Conjunto de documen-
+tos acumulados em decorrência das ativi-
+dades  de  pessoas  físicas  e  jurídicas  de
+direito privado, depositados ou não em ins-
+tituições  públicas.
+
+2  Conforme  a  Lei  Federal  no  8.159,  de  8  de  janeiro  de  1991,  que  dispõe  sobre  a  política
+nacional de arquivos públicos e privados e dá outras providências.
+
+13 
+
+14
+
+
+COMO FAZER 3 - COMO IMPLANTAR ARQUIVOS PÚBLICOS MUNICIPAIS
+
+fundamento  legal  -  tem,  na  verdade,  raízes  históricas.  Remonta  aos
+primórdios  de  nossa  vida  independente,  e  merece  aqui  algumas  consi-
+derações,  sobretudo  em  função  do  consenso  que  hoje  existe  sobre  tal
+prática.
+
+As dimensões do Brasil sempre constituíram um óbice para a ad-
+ministração.  A  independência  política  brasileira,  sob  a  égide  do  regime
+monárquico, fez-se acompanhar, no temor de uma secessão, de esforço
+de  estruturação  unitária,  com  a  criação  de  um  aparato  governamental
+condizente com a nação que se pretendia construir. A solução foi a divi-
+são do território em Províncias com autonomia limitada, sendo seus Pre-
+sidentes nomeados diretamente pelo Imperador; as Câmaras Municipais,
+por  sua  vez,  ficaram  subordinadas  às  Províncias,  em  perfeita  sintonia
+com o modelo centralizador do Império. A imagem a que este modelo foi
+associado, na época, principalmente pelos que o criticavam, era a de um
+imenso corpo cuja circulação não chegava às extremidades.3
+
+Com efeito, à falta de agentes administrativos que pudessem re-
+presentar tanto a autoridade do poder central quanto a do poder provin-
+cial, recorreram ambos - em praticamente todas as áreas que lhes eram
+afetas - à intermediação da menor entidade do governo, realizando atra-
+vés das Câmaras Municipais sua vocação de ubiqüidade. O instituto da
+delegação de competências, largamente empregado durante a vigência
+do regime monárquico, constituía a alternativa mais viável para suprir a
+precariedade da máquina estatal e cobrir as imensas distâncias que se-
+paravam o Rio de Janeiro (então sede do governo imperial), bem como
+as demais Capitais de Província, dos municípios que se espalhavam pe-
+los pontos mais remotos do País. Os produtos documentais das ativida-
+des delegadas nunca saíram dos municípios, nem foram reclamados pelos
+Arquivos Estaduais ou pelo Arquivo Nacional. E a essa tradição adminis-
+trativa correspondem até hoje, entre outras, as atividades de alistamento
+militar, de competência exclusiva da União, cujos arquivos permanecem
+junto às Prefeituras Municipais.
+
+É preciso levar em conta, portanto, o sentido mais amplo que o
+termo “municipal” pode assumir. Com variável grau de autonomia política
+ao longo da história, o município foi sempre “a realidade governamental
+mais próxima do cidadão”4 , frase que tem sido repetida inúmeras vezes
+
+3  Veja-se,  por  exemplo,  o  relatório  do  Visconde  do  Uruguai,  Bases  para  melhor
+organisação  das  administrações  provinciaes,  anexado  ao  do  Ministério  do  Império
+de 1858, p. 6.
+4  MELLO,  Diogo  Lordello  de.  A  moderna  administração  municipal.  Rio  de  Janeiro:
+Fundação Getúlio Vargas, 1960. p. XII.
+
+para caracterizar o poder local como supridor das necessidades imedia-
+tas  da  comunidade,  como  organismo  capaz  de  planejar  e  executar  os
+serviços básicos em sua área de jurisdição. Por isso mesmo, aos olhos
+dos  que  dele  se  ocupam,  o  governo  municipal  é  a  única  instância  da
+estrutura  estatal  dotada  de  concretude  e  visibilidade,  frente  à  qual  as
+demais não passariam de abstrações. No município tudo se “municipaliza”,
+tornando muitas vezes invisíveis os contornos distintivos das instituições
+federais e estaduais que funcionam na mesma circunscrição territorial. É
+o que explica determinados arquivos municipais brasileiros reivindicarem
+e obterem a guarda de documentos de outras entidades (da União ou do
+Estado-membro), a exemplo do que vem ocorrendo com a documenta-
+ção do Poder Judiciário acumulada nas sedes das diferentes Comarcas.
+Tal fenômeno nos remete para um entendimento dilatado do mu-
+nicípio, não mais enquanto instituição ou “criatura da lei”, como o defini-
+am  os  juristas  brasileiros  do  século  passado,  mas  enquanto  entidade
+que  readquire  por  vezes  o  caráter  originário  de  coletividade  natural  e
+necessária, que independe de estatuto jurídico e cuja identidade repou-
+sa “numa certa história (a tradição local) e em signos distintivos de sua
+territorialidade”5. Nessa medida é que podemos admitir, nos arquivos das
+municipalidades, uma flexibilidade maior do conceito de domicílio legal.
+E quando a origem do poder é subs-
+tituída  pelo  destino  de  sua  ação
+como traço definidor de um acervo,
+muita  coisa  muda.  Fica  legítima  a
+convivência  não  só  com  documen-
+tos acumulados por órgãos situados
+em diferentes esferas da administra-
+ção pública, representativos de poderes que desfrutam de total autono-
+mia em relação às instituições de governo local, mas também com docu-
+mentos de origem privada. A própria noção de público acaba por se re-
+vestir  de  significado  especial:  menos  identificada  com  a  idéia  de  oficial
+ou estatal, confunde-se com o que pode e deve ser partilhado por todos;
+eis que os documentos, independentemente de sua origem, são de inte-
+resse municipal e, nessa medida, de domínio público.
+
+Domicílio legal do documento - Juris-
+dição a que pertence cada documento,
+de acordo com a área territorial, a esfe-
+ra  de  poder  e  o  âmbito  administrativo
+onde foi produzido e recebido.
+
+5 DANIEL, Celso. As administrações democráticas e populares em questão. Espaço &
+Debates, São Paulo, n. 30, p. 11-27, 1990.
+
+15 
+
+16
+
+
+COMO FAZER 3 - COMO IMPLANTAR ARQUIVOS PÚBLICOS MUNICIPAIS
+
+1.3. Comunidade, administração e arquivo
+
+Qualquer que seja o tamanho do município, existe estreita corres-
+pondência entre a demanda social de serviços e as instituições do poder
+público  criadas  para  satisfazê-las.  A  circulação  de  documentos  e  sua
+acumulação em arquivos são uma conseqüência natural desse proces-
+so,  uma  espécie  de  produto  necessário  do  funcionamento  de  cada  ór-
+gão: ao mesmo tempo em que constituem instrumentos ou veículos da
+ação  do  governo  municipal,  os  documentos  testemunham  as  relações
+deste  com  a  comunidade  a  que  serve,  daí  o  interesse  que  continuam
+mantendo para as próprias instituições e para os munícipes.
+
+O quadro a seguir permite visualizar a articulação entre tais ele-
+
+mentos.
+
+De  um  lado,  estão  representadas  as  macrofunções  e  áreas  de
+ação do governo municipal, que por meio de exemplos traduzem, na sua
+vertente finalística, as demandas sociais tradicionalmente atendidas pelo
+Estado  em  nível  local,  quer  pelo  poder  executivo,  quer  pelo  legislativo.
+Pode-se dizer que as macrofunções e áreas de ação, a despeito do nome
+pelo qual possam ser designadas, constituem categorias de caráter está-
+vel, com poucas variações ao longo do tempo e em tudo semelhantes às
+que se encontram em outros países. Seu largo espectro dá bem a medi-
+da da importância que os arquivos - produto residual das relações entre
+a  comunidade  e  o  poder  público  que  nela  intervém  -  assumem  para  a
+pesquisa  retrospectiva.
+
+De  outro,  figuram  os  padrões  de  gestão  municipal  vigentes  no
+Brasil,  numa  tentativa  de  tipificação  das  grandes  estruturas
+organizacionais presentes nos municípios de grande, médio e pequeno
+porte.  Ressalte-se,  no  entanto,  que  a  partir  de  políticas  e  recursos  os
+municípios  podem  apresentar  variantes  na  disposição  dos  organismos
+do poder executivo, seja em termos de nível hierárquico, seja quanto ao
+grau  de  extensão  das  respectivas  competências.  Algumas  prefeituras,
+por exemplo, dispõem de órgão superior para planejamento, meio ambi-
+ente,  turismo,  esporte  etc.,  enquanto  outras  exercem  tais  funções  sem
+lhes dar lugar de relevo na estrutura organizacional.
+
+PADRÕES DE GE STÃ O M UNICIPAL
+
+MACROFUNÇÕES E
+ÁREAS DE AÇÃO
+
+DESENVOLVIM ENTO
+URBANO
+
+.  traçado  físico-terri-
+torial;  parcelamento
+da  terra;  habitações
+urb anas  e  rura is;  re-
+giões  metropolitanas;
+meio ambiente etc.
+
+.  obras  públicas;  lim-
+peza  urbana; 
+ilumi-
+nação  pública;  par-
+ques  e  jardins;  abas-
+tescimento; 
+sanea-
+mento; 
+sistema  de
+água e esgotos etc.
+
+SECRETARIA OU ÓRGÃO SIMILAR
+EM MUNICÍPIOS DE
+
+grande
+porte
+
+m édio
+porte
+
+pequeno
+porte
+
+UR BA NISMO
+E MEIO
+AMBIENTE
+
+UR BA NISMO
+E MEIO
+AMBIENTE
+
+OBRA S,
+UR BA -
+NISMO E
+SER VIÇOS
+PÚBLICOS
+
+OBRA S E
+SER VIÇOS
+PÚBLICOS
+
+OBRA S,
+SER VIÇOS
+PÚBLICOS E
+TRA NSPOR TES
+
+. tran sportes coletivos
+
+TRA NSPOR TES
+
+17 
+
+18
+
+
+COMO FAZER 3 - COMO IMPLANTAR ARQUIVOS PÚBLICOS MUNICIPAIS
+
+MACROFUNÇÕES E
+ÁREAS DE AÇÃO
+
+DESENVOLVIMENTO
+SOCIAL
+
+.  programas  de  ensi-
+no;  pesquisa  científi-
+ca e tecnológica etc.
+
+.  patrimônio  artístico
+e  cultural;  manifesta-
+ções  culturais  da  co-
+munidade; 
+bibliote-
+cas; museus etc.
+
+SECRETARIA OU ÓRGÃO SIMILAR EM
+MUNICÍPIOS DE
+
+grande
+porte
+
+médio
+porte
+
+pequeno
+porte
+
+EDUCAÇÃO
+
+CULTURA
+
+EDUCAÇÃO,
+CULTURA,
+ESPORTE E
+LAZER
+
+EDUCAÇÃO,
+CULTURA,
+ESPORTE E
+LAZER
+
+educação 
+
+. 
+física;
+desportos;  recreação
+etc.
+
+ESPORTE E
+LAZER
+
+. 
+integração  social;
+bem-estar  da  comu-
+nidade etc.
+
+. assistência médica e
+sanitária;  programas
+de  alimentação;  erra-
+dicação  de  doenças;
+serviço funerário; ins-
+peção sanitária etc.
+
+DEFESA DO
+MUNICÍPIO
+.  contencioso;  orien-
+tação jurídica etc.
+
+PROMOÇÃO
+SOCIAL
+
+PROMOÇÃO
+SOCIAL
+
+PROMOÇÃO
+SOCIAL
+
+SAÚDE
+
+SAÚDE
+
+SAÚDE
+
+PROCURADORIA
+
+PROCURADORIA
+
+ASSESSORIA
+JURÍDICA
+
+MACROFUNÇÕES E
+ÁREAS DE AÇÃO
+
+DEFESA DO CIDADÃO
+
+.  defesa  civil;  guarda
+municipal; 
+direitos
+da cidadania etc.
+DESENVOLVIMENTO
+ECONÔMICO
+
+. estudos e pesquisas
+econômico-sociais;
+turismo etc.
+
+GESTÃO
+
+.  planejamento  geral;
+orçamento;  relações
+internas  e  externas;
+imprensa; 
+sistema
+municipal  de  arqui-
+vos etc.
+
+.  tributação;  dívida
+interna  e  externa;
+assistência  financei-
+ra etc.
+
+.  pessoal;  material;
+oficiais
+transportes 
+etc.
+
+SECRETARIA OU ÓRGÃO SIMILAR
+EM MUNICÍPIOS DE
+médio
+porte
+
+grande
+porte
+
+pequeno
+porte
+
+GOVERNO
+
+ECONOMIA E
+TURISMO
+
+GOVERNO
+
+GABINETE DO
+PREFEITO
+
+GABINETE DO
+PREFEITO
+
+GABINETE DO
+PREFEITO
+
+FAZENDA
+
+FINANÇAS
+
+ADMINISTRAÇÃO
+E FINANÇAS
+
+ADMINISTRAÇÃO ADMINISTRAÇÃO
+
+19 
+
+20
+
+
+COMO FAZER 3 - COMO IMPLANTAR ARQUIVOS PÚBLICOS MUNICIPAIS
+
+2. OS DOCUMENTOS DE ARQUIVO E SEU CICLO VITAL: DA GESTÃO
+À GUARDA PERMANENTE
+
+2.1. Gestão de documentos
+
+De acordo com a freqüência
+e  a  finalidade  com  que  são  utiliza-
+dos, os documentos de arquivo po-
+dem  ser  considerados  de  primeira,
+segunda ou terceira idade.
+
+Na  fase  corrente,    também
+
+Ciclo vital dos documentos- Sucessão
+fases  por  que  passam  os
+de 
+documentos, desde o momento em que
+são criados até a sua destinação final.
+
+conhecida como fase ativa, temos os arquivos imediata e estreitamente
+ligados às atividades de que se originaram. Por essa razão os arquivos
+correntes se conservam próximos dos órgãos a que servem, sejam eles
+responsáveis  pelas  atividades-fim  ou  pelas  atividades-meio  da  institui-
+
+Atividades-fim - Conjunto de en-
+cargos  desenvolvidos  por  uma
+instituição para o desempenho de
+suas  competências  específicas.
+Atividades-meio  -  Conjunto  de
+encargos desenvolvidos por uma
+instituição  para  auxiliar  e
+viabilizar o desempenho de suas
+competências  específicas.
+
+ção.
+
+A fase intermediária corresponde ao
+período  em  que  os  documentos,  menos
+utilizados pelo órgão de origem e já avali-
+ados quanto à sua destinação final, aguar-
+dam  em  depósitos  de  armazenamento
+temporário o cumprimento dos prazos es-
+tabelecidos para sua eliminação ou para
+envio ao arquivo permanente.
+
+À terceira fase chegam os documen-
+tos  cujas  informações  são  consideradas
+imprescindíveis para o órgão de origem e
+para a comunidade que justificou sua existência. O arquivo permanente
+ou histórico – último estágio de guarda, senão definitiva, pelo menos de
+longa  duração  -  conserva,  portanto,  os  documentos  aos  quais  se  atri-
+buiu, no processo de avaliação, a devida relevância, seja para a compro-
+vação de direitos, seja para a pesquisa retrospectiva.
+
+As  fases  do  chamado  ciclo  vital
+dos documentos vêm neste capítulo des-
+critas de forma sumária, de modo a pro-
+porcionar  aos  profissionais  interessados
+uma visão não apenas das atividades tí-
+picas  de  cada  uma  delas,  mas  também
+dos  princípios  e  conceitos  que  norteiam
+a prática arquivística como um todo.
+
+Teoria das Três Idades - Teoria
+baseada no ciclo vital dos docu-
+mentos, segundo a qual os arqui-
+vos podem ser correntes, interme-
+diários e pemanentes.
+
+Gestão  de  documentos  -  Conjunto
+de procedimentos e operações técni-
+cas 
+referentes  à  produção,
+tramitação, uso, avaliação e arquiva-
+mento  de  documentos  em  fase  cor-
+rente e intermediária.
+
+No  conceito  legal  estabelecido  pela
+já citada Lei 8.159, são atividades da
+gestão  de  documentos  a  produção,
+tramitação,  uso  e  avaliação,  além  do
+arquivamento corrente e intermediário.
+
+2.1.1. Produção
+
+Formato  -  Configuração  físi-
+ca  de  um  suporte,  de  acordo
+com a sua natureza e o modo
+como  foi  confeccionado.
+
+Entende-se por produção a emissão
+de  documentos  capazes  de  constituir
+elementos  de  prova  de  direitos  ou  de
+informação. Para atender a esse propósito,
+seria ideal planejar a emissão com vistas à
+adequação  do  formato,  do  suporte,  da
+freqüência de consultas, do prazo de validade, do uso de tecnologias etc.
+Quanto ao prazo de validade do suporte ou da técnica de impres-
+são, deve-se levar em conta a legibilidade efêmera dos fac-símiles (fax)
+ou das cópias xerográficas, a gramatura do papel, a qualidade da tinta e
+das fitas de impressão utilizadas nos documentos textuais, bem como o
+emprego  de  suportes  que
+exigem  cuidados  especiais
+de acondicionamento e con-
+servação, como filmes, fitas
+magnéticas,  discos  magné-
+ticos,  discos  ópticos  etc.  É
+preferível que não se empre-
+guem determinadas tecnologias quando não se têm os recursos neces-
+sários não só para a manutenção dos equipamentos, mas sobretudo para
+sua continuada substituição, tendo em vista a
+rapidez com que estes se tornam obsoletos.
+Outro fator influente na emissão de do-
+cumentos diz respeito à padronização de es-
+pécies  documentais,  sobretudo  as  privativas
+dos  atos  administrativos  (decretos,  portarias,
+resoluções, ordens de serviço etc.)6 .
+
+Documentação textual - Gênero documental que
+utiliza como linguagem básica a palavra escrita.
+Documentação  especial  -  Documentação  com-
+posta por gêneros documentais não textuais.
+
+Espécie documental - Con-
+figuração  de  um  documen-
+to de acordo com a disposi-
+ção e a natureza das infor-
+mações nele contidas.
+
+6 Ver, em anexo, relação de atos oficiais e outros documentos.
+
+21 
+
+22
+
+
+COMO FAZER 3 - COMO IMPLANTAR ARQUIVOS PÚBLICOS MUNICIPAIS
+
+Verifica-se, assim, que a produção de documentos é um trabalho
+de  parceria,  onde  os  que  atuam  nas  diferentes  fases  do  ciclo  vital  dos
+documentos podem e devem oferecer subsídios para garantir a eficiência
+das informações a serem prestadas pelo arquivo.
+
+2.1.2.  Protocolo
+
+Como  a  entrada  do  documento  na
+instituição deve ser realizada pela unidade
+orgânica de protocolo, é preciso dar realce
+a esse patamar inicial, em que estão com-
+preendidas as operações de recebimento,
+classificação,  resgistro,  distribuição,
+tramitação (movimentação) e expedição.
+
+Protocolo  -  Setor  encarregado
+do  recebimento,  classificação,
+registro,  distribuição,  expedição
+e tramitação de documentos.
+
+Autuação - Transformação do
+documento em processo.
+
+Na fase do recebimento, há de ser preliminarmente verifica-
+do se o documento deve ter entrada naquele protocolo. Em seguida, pro-
+cede-se à autuação, se for o caso, garantin-
+do-se  ao  interessado  o  devido  comprovante
+de  recebimento,  habitualmente  denominado
+cartão de protocolo. Os requerimentos e ou-
+tros  documentos  de  andamento  breve,  ou
+seja, de trato e efeito imediato, não são objeto de autuação, devendo ha-
+ver normas a esse respeito por parte dos órgãos de origem.
+
+Os documentos não sigilosos ou de na-
+tureza ostensiva serão em seguida lidos e ana-
+lisados,  não  só  para  as  operações  de  junta-
+da,  anexação  ou  apensação7,  quando  for  o
+caso, mas também para a classificação do as-
+sunto de que tratam. A classificação, que se
+desenvolve através da interpretação do con-
+teúdo  do  documento,  seguida  de  seu
+enquadramento no plano de classificação ou
+código de assuntos disponível e da correspon-
+dente codificação, exige
+considerações  em  se-
+parado,  no  final  deste
+item.
+
+Conteúdo - Conjunto de
+elementos informativos de
+um documento.
+
+Juntada  -  Ação  pela  qual  se
+insere  em  um  processo,  defi-
+nitivamente,  documento  que,
+pela  sua  natureza,  dele  deva
+fazer parte integrante.
+Anexação - Ação pela qual se
+reúne documento a outro, em
+caráter  complementar,  guar-
+dando ambos relativa autono-
+mia.
+Apensação  -  Ação  pela  qual
+se reúnem um ou mais proces-
+sos a outro, na fase da autua-
+ção ou posteriormente.
+
+7 Os conceitos de juntada, anexação e apensação podem variar. Todavia é indispensável
+que, uma vez estabelecidos, não se empregue um pelo outro.
+
+O  registro  se  refere  às  anotações  que  servem  de  base  para  o
+controle da tramitação (fichas, guias de remessa etc.), operação que po-
+derá ser realizada em tantas vias quantas forem necessárias para o tipo
+de informação requerida.
+
+Na distribuição, preparam-se os documentos para o devido enca-
+minhamento aos respectivos destinatários, inclusive para expedição. Note-
+se que a distribuição não deve ser feita antes de se verificar se não fal-
+tam  folhas,  anexos,  numeração,  data  e  encaminhamento  de  cópias  do
+documento à unidade de arquivo.
+
+A  movimentação  consiste  no  controle  dos  documentos  em
+tramitação, visando garantir não só a sua imediata localização, mas so-
+bretudo o acesso às informações neles contidas durante essa fase.
+
+Destaque-se  que  as  operações  de  protocolo  podem  ser
+informatizadas. Nesse caso, deverão ser estabelecidos normas e proce-
+dimentos adequados à adoção dessa tecnologia.
+
+2.1.2.1. Classificação
+
+Numa conceituação simples, classificar consiste em distribuir as
+matérias  tratadas  nos  documentos  em  classes  e/ou  grupos  segundo  o
+sistema  de  classificação  adotado  (por  assunto,  geográfico,  numérico),
+admitidas as necessárias subdivisões, hierarquicamente coordenadas.
+
+Ao  longo  do  proces-
+samento arquivístico podem ser
+usados  diversos  métodos  de
+classificação,  numéricos  ou  al-
+fabéticos,  subordinada  a  esco-
+lha ao tipo de informação visa-
+da.  Elementos  como  nome,  lo-
+cal,  data  e  assunto  podem  de-
+terminar essa opção. O assunto, no entanto, constitui um fator de recu-
+peração dos mais importantes, como se verá adiante.
+
+Classificação - Seqüência de operações que,
+de  acordo  com  as  diferentes  estruturas
+organizacionais, funções e atividades da en-
+tidade produtora, visam a distribuir em clas-
+ses os documentos de um arquivo.
+
+A  classificação  começa  a  ter  relevância  desde  a  fase  inicial  do
+protocolo, ligada que está às atividades de recebimento, tramitação, ex-
+pedição, arquivamento e recuperação das informações contidas nos do-
+cumentos. Ela é efetuada mediante leitura e interpretação do conteúdo
+do documento, visando ao enquadramento do mesmo no plano de clas-
+sificação previamente elaborado. Nessa operação é preciso distinguir se
+há assunto principal e assunto(s) secundário(s), recorrendo-se, se for o
+caso, a referências cruzadas.
+
+23 
+
+24
+
+
+COMO FAZER 3 - COMO IMPLANTAR ARQUIVOS PÚBLICOS MUNICIPAIS
+
+Como o plano de classificação é um instrumento básico e começa
+a ser aplicado na fase corrente, torna-se indispensável tecer aqui alguns
+comentários a seu respeito.
+
+A elaboração desse instrumento exige trabalho criterioso de equi-
+pe  multidisciplinar  -  arquivistas,  administradores  e  técnicos  ligados  aos
+temas  dos  documentos  da  instituição.  No  caso  específico  do  plano  de
+classificação  de  assuntos  aplicado  aos  documentos  produzidos,  recebi-
+dos  e  acumulados  na  esfera  da  administração  local,  deve-se  chamar  a
+atenção dos responsáveis para a importância do conhecimento sistemá-
+tico, a partir da legislação, das funções básicas (e de suas principais sub-
+divisões) do governo municipal.
+
+Quanto aos métodos de classificação por assunto, podem ser usa-
+dos vários, devendo aqui se esclarecer que a administração pública fede-
+ral8  adotou o método decimal, baseado na técnica de Melvil Dewey, natu-
+ralmente inspirada nas práticas arquivísticas norte-americanas divulgadas,
+entre nós, a partir do mestre Schellenberg. O método decimal, como se
+sabe, divide os assuntos em dez classes principais e estas, por sua vez,
+em  outras  dez  subclasses,  e  assim  sucessivamente.  As  classes  princi-
+pais são representadas por um número inteiro, composto de três algaris-
+mos (000, 100, 200, 300, 400, 500, 600, 700, 800 e 900), e correspondem
+às  grandes  funções  desempenhadas  pelo  órgão  (Prefeitura  ou  Câmara
+de Vereadores), que se subdividem, por sua vez, em grupos e subgrupos.
+O  exemplo  oferecido  pelo  CONARQ,  através  da  citada  Resolu-
+
+ção, indica para a administração pública federal:
+
+Classe 000
+Subclasse 010
+Grupo 012
+Subgrupo 012.1
+
+ADMINISTRAÇÃO GERAL
+Organização e funcionamento
+Comunicação social
+Relações com a imprensa
+
+012.11 Credenciamento de jornalistas
+
+A  bem  da  clareza,  é  conveniente  chamar  novamente  a  atenção
+
+para as seguintes operações:
+• leitura, para verificar em que item do plano de classificação se enquadra
+
+o assunto identificado;
+
+8  Ver  Resolução  no  4,  de  28  de  março  de  1996,  do  Conselho  Nacional  de  Arquivos  -
+CONARQ, publicada no suplemento do Diário Oficial da União de 29 de março de 1996.
+
+• localização do assunto no plano, utilizando o índice, se necessário;
+• anotação do respectivo código no documento e seus anexos, em espaço
+
+previamente  convencionado.
+
+2.1.3. Arquivo corrente
+
+Ao  arquivo  corrente  devem  ser  encaminhados  não  só  os
+documentos  cujas  questões  tenham  sido  solucionadas,  como  os  que,
+embora  ainda  em  curso,  precisam
+aguardar  o  cumprimento  de
+formalidades, onde sobressaem as de
+caráter administrativo, jurídico, técnico
+ou científico.
+
+Arquivo  corrente  -  Conjunto  de  do-
+cumentos  estreitamente  vinculados
+aos objetivos imediatos para os quais
+foram  produzidos  ou  recebidos  no
+cumprimento  de  atividades-fim  e  ati-
+vidades-meio e que se conservam jun-
+to aos órgãos produtores em razão de
+sua vigência e da freqüência com que
+são por eles consultados.
+
+Nesta  etapa,  tendo  em  vista  a
+freqüência de uso do documento pelo
+órgão  que  o  produziu,  são  práticas
+rotineiras:
+
+• inspeção - verificação não só da presença do competente despacho
+de  arquivamento,  como  também  da  existência  de  antecedentes,
+providenciando-se a devida reunião, se for o caso.
+
+• análise - confirmação ou não da codificação adotada pelo protocolo (se
+o  documento  chegar  ao  arquivo  corrente  sem  classificação,  este  é  o
+momento de classificá-lo); complementação da classificação por outros
+métodos  de  arquivamento  (nome,  local,  data),  se  necessária;
+estabelecimento de referências cruzadas.
+
+•  ordenação  -  disposição  física  dos  documentos,  de  acordo  com  a
+
+codificação.
+
+•  arquivamento - inserção do documento na unidade de arquivamento
+pré-estabelecida,  utilizando  pastas  adequadas  e  sinalização  visível
+(projeções, etiquetas etc.).
+
+•  empréstimo e consulta - retirada do documento do arquivo para tais
+fins, utilizando-se, nessa operação, guias-fora (para assinalar a remoção
+temporária  de  documentos)  e  recibos  de  empréstimo  devidamente
+preenchidos.
+
+25 
+
+26
+
+
+COMO FAZER 3 - COMO IMPLANTAR ARQUIVOS PÚBLICOS MUNICIPAIS
+
+Como atuação do arquivo corrente, inclui-se também participação
+nos processos de avaliação e na produção de documentos, esta última
+no que concerne ao uso de suportes adequados.
+
+2.1.4. Avaliação
+
+Para que o ciclo vital de documentos flua segundo a Teoria das
+Três Idades, a avaliação - atividade abrangida pela gestão de documentos
+-  insere-se  no  contexto  do  arquivo
+corrente, admitindo-se, porém, quando
+necessário,  se  avalie  ou  reavalie  em
+outras etapas do arquivamento, desde
+que  esse  procedimento  não  se  torne
+rotina.
+
+Avaliação - Processo de análise de
+documentos, visando a estabelecer
+sua  destinação  de  acordo  com  os
+valores que lhes forem atribuídos.
+
+Em  se  tratando  de  trabalho  ligado  a  juízos  de  valor,  o  arquivo
+corrente (quase sempre carente de agentes qualificados) deve receber a
+colaboração  de  profissionais  das  áreas  de  conhecimento  relacionadas
+com os documentos em avaliação.
+
+Antes de tratar dessa equipe multidisciplinar, há que se definir a
+unidade orgânica responsável pela avaliação, cujo titular terá as seguintes
+competências:
+
+• planejar e promover a identificação dos conjuntos documentais a serem
+
+avaliados  (obtenção  de  dados
+sobre  o  órgão  a  que  está
+subordinada a unidade detentora
+dos  documentos,  espécie,
+assunto,  quantidade,  datas-
+limite,  freqüência  de  consulta,
+estado  de  conservação,  acondicionamento,  método  de  classificação,
+instrumentos  de  recuperação  da  informação,  aplicação  de  recursos
+tecnológicos para alteração do suporte, grau de heterogeneidade e/ou
+concentração de assuntos);
+
+Datas-limite  -  Elemento  de  identificação
+cronológica em que são mencionados os
+anos de início e término do período abran-
+gido por um conjunto de documentos.
+
+• tabular os dados apurados na identificação;
+
+• efetuar o diagnóstico, ressaltando o nível de organização dos arquivos,
+principalmente daqueles que abrigam grandes massas de documentos
+que ao longo do tempo foram acumulados sem tratamento técnico;
+
+• propor a criação formal de comissão
+interdisciplinar 
+o
+desenvolvimento dos trabalhos de
+análise  e  atribuição  de  prazos  de
+destinação;
+
+para 
+
+Destinação - Encaminhamento dos docu-
+mentos,  em  decorrência  da  avaliação,  à
+guarda  temporária  ou  permanente,  à  eli-
+minação e/ou à mudança de suporte.
+
+•  desenvolver  iniciativas  para
+
+assegurar condições de funcionamento à comissão.
+
+2.1.4.1. Perfil da Comissão Permanente de Avaliação9
+
+De  posse  dos  dados  obtidos  na  identificação,  que  são  fatores
+influentes na constituição da comissão, dispõe o responsável pela avaliação,
+para as adaptações necessárias, da seguinte composição básica:
+
+• titular da unidade orgânica responsável pela avaliação;
+• responsável pela guarda da documentação a ser avaliada;
+• autoridade administrativa conhecedora da estrutura e funcionamento do
+
+órgão;
+
+• autoridade ou servidor das unidades orgânicas ligadas aos documentos,
+com conhecimento abalizado das atividades que lhes deram origem;
+• profissional da área jurídica, a título de assessoramento, para avaliação
+
+dos aspectos legais dos documentos;
+
+• profissionais  ligados  às  atividades-fim  do  órgão  (médicos,  engenheiros,
+economistas  etc.)  ou  aqueles  que  possam  utilizar  os  documentos  para
+pesquisa  retrospectiva  (historiadores,  sociólogos  etc.),  a  título  de
+assessoramento.
+
+Na  composição  da  comissão,  é  importante  prever  a  eventual
+
+necessidade de suplentes ou consultores.
+
+2.1.4.2. Competências da Comissão Permanente de Avaliação
+
+À Comissão Permanente de Avaliação compete:
+
+• analisar os registros consolidados da identificação;
+• providenciar  a  complementação  de  dados,  através  de  correspondência,
+
+entrevista e outros meios;
+
+•  analisar  o  conteúdo  dos  conjuntos  documentais,  atribuindo-lhes  prazos
+
+de  destinação;
+
+9 Recomenda-se que essa Comissão seja instituída em caráter permanente.
+
+27 
+
+28
+
+
+COMO FAZER 3 - COMO IMPLANTAR ARQUIVOS PÚBLICOS MUNICIPAIS
+
+• elaborar a tabela de temporalidade e o relatório final;
+• providenciar a divulgação da tabela;
+• revisar periodicamente a tabela;
+• elaborar instruções para o funcionamento da comissão.
+
+De se alertar que, em se tratando de documentos do poder público
+ou  considerados  de  interesse  público,  os  resultados  do  trabalho  da
+comissão  devem  ser  encaminhados  para  a  aprovação  da  instituição
+arquivística  pública  em  sua  específica  esfera  de  competência,  ex-vi  da
+Lei Federal no 8.159, porque somente depois dessas providências é que
+a destinação poderá ser legalmente efetivada.
+
+2.1.4.3. Tabela de temporalidade
+
+A tabela, que corresponde
+ao  registro  esquemático  do  ciclo
+de  vida  dos  documentos
+e
+produzidos, 
+acumulados  pelo  órgão,  deve
+conter  os  seguintes  dados
+básicos:
+
+recebidos 
+
+Tabela de temporalidade - Instrumento de
+destinação, aprovado pela autoridade com-
+petente, que determina prazos para trans-
+ferência,  recolhimento,  eliminação  e  mu-
+dança de suporte de documentos.
+
+•  órgão  a  que  está  subordinada  a  unidade  de  arquivo  detentora  dos
+
+documentos;
+
+• identificação da referida unidade de arquivo;
+• espécie documental, associada à função e/ou à atividade de origem;
+• existência de vias e/ou reproduções em outros setores;
+• prazos de guarda e destinação10 ;
+• justificativa da decisão;
+• indicação da amostra retida, se for o caso.
+
+A tabela de temporalidade deve ser
+aprovada  por  autoridade  competente  e
+publicada em periódico oficial, aguardando-
+se quarenta e cinco dias - período em que
+
+Amostragem  -  Na  avaliação,
+procedimento que permite, por
+meio  de  critérios  específicos,
+selecionar  documentos  consi-
+derados  representativos  do
+conjunto a que pertencem.
+
+10 O início da contagem dos prazos de guarda pode ser estabelecido a partir das seguintes
+datas:  a)  da  produção;  b)  do  “arquive-se”;  c)  do  cumprimento  de  uma  decisão
+administrativa ou judicial; d) do término da vigência de uma ação; e) da prescrição; f) do
+ato que considera extinto um direito.
+
+podem  surgir  eventuais  questionamentos  de  interessados  -  para  o  seu
+efetivo  cumprimento.
+
+2.1.4.4. Valoração de documentos
+
+Distinguir o valor primário e secundário dos documentos é primor-
+dial na avaliação. O primeiro decorre do interesse que o documento tem
+para a instituição de que se originou, destacando-se o valor administrativo.
+Já o valor secundário se refere à ligação com os usuários externos, para
+fins probatórios e informativos, estes, principalmente, os de pesquisa.
+
+2.1.4.5. Tempo de retenção
+
+No que se refere ao tempo de retenção, os documentos podem
+
+ser de guarda permanente, temporária e eventual.
+
+São  de  guarda  permanente,  entre  outros,  os  documentos
+constitutivos e extintivos de direito; os que firmam orientação de caráter
+normativo; os que refletem a evolução social, econômica e administrativa
+da instituição; os que emanam da direção superior, como planos, projetos
+e relatórios; os que tratam de política de pessoal.
+
+Para  guarda  transitória  devem  ser  considerados  aqueles  cujas
+informações  estejam  integralmente  reproduzidas  em  documentos
+destinados  à  guarda  permanente;  aqueles  cujos  elementos  essenciais
+estejam  recapitulados  em  outros  de  valor  permanente;  os  originais  ou
+cópias  que  detêm  apenas  valor  primário;  os  que  perderam  a  vigência
+(por prescrição, decadência ou perempção), desde que não apresentem
+valor secundário.
+
+Os documentos de valor eventual são aqueles de interesse e trato
+
+imediato, sem significância para a
+História  e  outras  ciências.
+Exemplos:  convites  recebidos;
+material de divulgação de terceiros;
+correspondência  rotineira  de
+congratulações  ou  pêsames;
+agradecimentos  protocolares;
+minutas de matérias destinadas a
+publicação;  requisição  de  cópias
+xerográficas; pedidos de consertos
+e  reparos;  requisição  de  viaturas
+para serviços externos; registros de
+
+Vigência - Qualidade pela qual permane-
+cem efetivos e válidos os encargos e dis-
+posições contidos nos documentos.
+Prescrição - Perda de direito de ação que
+não foi exercido no prazo fixado por lei.
+Decadência - Perda de direito por dispo-
+sição ulterior, que tornou ineficaz disposi-
+ção legal originariamente válida.
+Perempção administrativa - Suspensão
+de  direito  pelo  não  cumprimento  de  exi-
+gências  formalmente  impostas.
+
+29 
+
+30
+
+
+COMO FAZER 3 - COMO IMPLANTAR ARQUIVOS PÚBLICOS MUNICIPAIS
+
+saída de material; controle de entrada e saída de pessoas do órgão; e
+outros casos similares.
+
+É importante, de partida, identificar os documentos de valor even-
+tual, porque iniciar o trabalho promovendo eliminações constitui estratégia
+que,  certamente,  conquistará  os  administradores  envolvidos,  sempre
+interessados em ganhar espaço.
+
+2.1.4.6. Recomendações complementares
+
+Por oportuno, reúnem-se nesta parte algumas indicações julgadas
+
+úteis para o processo de avaliação, como as que seguem.
+
+Grupo de trabalho de seleção
+
+Essa  equipe,  que  só  começará  a  atuar
+depois  de  devidamente  treinada  e  uma
+vez  encerrada  a  fase  de  análise  dos
+conjuntos documentais e de atribuição de
+prazos  de  destinação,  será  composta
+formalmente (ato publicado) por membros
+escolhidos entre os servidores ligados à
+guarda  dos  documentos  e,  também,  se
+necessário, pelos da área de administração conhecedores da estrutura
+organizacional  pertinente.
+
+Seleção - Eleição, durante o pro-
+cesso de avaliação, dos documen-
+tos de valor permanente e daque-
+les passíveis de eliminação, com
+base em critérios técnicos previa-
+mente estabelecidos.
+
+São competências do grupo de trabalho de seleção:
+
+• selecionar fisicamente os documentos, conforme indicação da tabela,
+listando-os para aprovação superior;
+•  efetivar  a  destinação  (eliminação,
+transferência,  recolhimento,  repro-
+dução),  emitidos  os  termos  ne-
+cessários.
+
+Transferência  -  Passagem  de  docu-
+mentos para o arquivo intermediário.
+Recolhimento  - Passagem de docu-
+mentos para o arquivo permanente.
+
+Amostragem
+
+Dos  conjuntos  documentais  a  serem  eliminados  deve  ser  retida
+uma  amostra  significativa,  tendo  por  base  o  interesse  que  os  mesmos
+possam representar para a pesquisa histórica. Por essa razão, deve ser
+obtida a assessoria de um profissional de Estatística que, com a orientação
+do historiador, estabelecerá o tamanho da amostra.
+
+Acervo volumoso e heterogêneo
+(documentação acumulada)
+
+A tomada de decisão diante de acervo volumoso, heterogêneo e
+quase sempre sem tratamento arquivístico requer cuidadosa divisão de
+trabalho.  Assim,  por  exemplo,  quando  se  tratar  de  uma  Secretaria  de
+Obras (em geral de macro-estrutura organizacional), o encargo deve ser
+realizado separadamente, isto é, por departamento ou similar, um de cada
+vez.
+
+De se chamar a atenção, no caso de grandes massas acumuladas,
+para  a  necessidade  de  atuar  em  separado  quanto  a  conjuntos
+documentais  referentes  a  atividades-meio  (planejamento,  pessoal,  ma-
+terial, orçamento, comando, coordenação e controle) e atividades-fim.
+
+Quantificação de documentos
+
+A  mensuração  deve  ser  efetuada,  de  preferência,  em  metros
+
+lineares, conforme recomendação do Arquivo Nacional.11
+
+Freqüência de consultas
+
+Na apuração desse item, devem ser fixados parâmetros, quando
+não houver indicações estatíticas confiáveis. Para cada arquivo pode ser
+estabelecida a medida da intensidade de uso que corresponda à consulta
+freqüente, não freqüente ou nula.
+
+2.1.5. Arquivo intermediário
+
+O  arquivo  intermediário
+corresponde à segunda idade do
+ciclo  vital  dos  documentos.
+Consiste  em  depósito  de
+armazenamento  temporário  para
+aqueles  que  ainda  dispõem  de
+valor administrativo, embora sem uso freqüente, e para a documentação
+de órgãos extintos, suprimidos ou desativados.
+
+Arquivo  intermediário  -  Conjunto  de  do-
+cumentos  originários  de  arquivos  corren-
+tes, com uso pouco freqüente, que aguar-
+dam, em depósito de armazenamento tem-
+porário, sua destinação final.
+
+11 Manual de identificação de acervos documentais para transferência e/ou reco-
+lhimento aos arquivos públicos. Rio de Janeiro: Arquivo Nacional, 1985.
+
+31 
+
+32
+
+
+COMO FAZER 3 - COMO IMPLANTAR ARQUIVOS PÚBLICOS MUNICIPAIS
+
+É importante lembrar que num arquivo municipal de pequeno porte
+o  armazenamento  intermediário  pode  ser  realizado  mediante  o
+estabelecimento de uma atividade, sem que seja imprescindível a existência
+de unidade organizacional especificamente criada para esse fim.
+
+Suas ações básicas são:
+
+• aplicação da tabela de temporalidade, com o devido acompanhamento
+
+dos prazos nela estabelecidos;
+
+•  promoção  de  medidas  necessárias  à  efetivação  do  recolhimento  de
+
+documentos ao arquivo permanente;
+
+• manutenção da organização dos documentos pelos respectivos órgãos
+
+de origem.
+
+Os  depósitos  de  arquivamento  intermediário  deverão  ser  de  fácil
+acesso,  localizando-se,  de  preferência,  em  imóveis  e  bairros  menos
+valorizados, com instalações e equipamentos de baixo custo.
+
+2.2. Arquivo permanente
+
+No arquivo permanente ficam os
+documentos  cuja  guarda  definitiva  foi
+indicada no processo de avaliação. Tais
+documentos,  uma  vez  recolhidos,
+integrar  o  chamado
+passam  a 
+patrimônio  arquivístico  municipal,  em
+virtude de seu valor permanente.
+
+Arquivo permanente - Conjunto de
+documentos  cujo  potencial  de  uso
+para  a  instituição  e/ou  a  sociedade
+recomenda devam ser preservados.
+
+Uma das principais características do arquivo permanente é a de
+ser acessível a todos. Ao contrário das fases precedentes, quando o acesso
+é  apenas  facultado  aos  órgãos  produtores  (ou  a  outros  interessados,
+mediante concessão especial), a terceira idade significa que os arquivos
+são  públicos  por  excelência.  Por  essa  razão,  os  documentos  só  podem
+ser  consultados  no  local,  não  havendo  mais  qualquer  modalidade  de
+empréstimo.
+
+Dentre as atividades típicas do arquivo permanente, destacam-se
+
+o arranjo, a descrição e a conservação de documentos.
+
+2.2.1. Arranjo
+
+Arranjo - Disposição física dos
+documentos  de  arquivo,  com
+base na sua classificação.
+
+O arranjo diz respeito à organização
+física  dos  documentos,  de  acordo  com
+princípios e métodos específicos.
+
+Ao serem recolhidos a uma instituição
+
+de custódia permanente, os arquivos procedentes das diversas instituições
+encarregadas do governo municipal passam
+a conviver uns com os outros, sem contudo
+perderem  sua  identidade.  Cada  um  deles
+constitui um fundo distinto, individualizado,
+capaz  de  refletir  perfeitamente  as  funções
+e  atividades  que  lhe  deram  origem.
+Fundamentam  esse  procedimento  dois
+princípios básicos da Arquivística:
+
+Fundo  -  Unidade  constituída
+pelo  conjunto  de  documentos
+acumulados por uma entidade
+que,  no  arquivo  permanente,
+passa a conviver com arquivos
+de outras.
+
+•  princípio  da  proveniência,  também  conhecido  como  princípio  de
+respeito  aos  fundos,  segundo  o  qual  os  arquivos  originários  de  uma
+instituição ou de uma pessoa devem manter sua individualidade, não
+sendo misturados aos de origem diversa;
+
+•  princípio  do  respeito  à  ordem  original,  que,  levando  em  conta  as
+relações estruturais e funcionais que presidem a gênese dos arquivos,
+garante  sua  organicidade.
+
+O arranjo deve ser feito a partir da classificação dos documentos,
+ou seja, da seqüência de operações que, de acordo com as diferentes
+estruturas organizacionais, funções e atividades da entidade produtora,
+visam  a  distribuir  em  classes  os  documentos  de  um  arquivo.  A
+classificação,  nessa  fase,  deve  coincidir  com  a  que  se  realizou  no
+protocolo, ao menos no que diz respeito aos seus itens mais abrangentes.
+Não  se  pode  esquecer  que,  antes  de  ingressar  na  terceira  idade,  os
+arquivos foram depurados dos documentos de valor temporário e even-
+tual e se encontram consideravelmente reduzidos.
+
+Quando  os  documentos  recolhidos  estão  desorganizados,  o
+arquivista  deve  procurar  reconstituir  seu  contexto  original  de  produção,
+valendo-se de duas metodologias básicas: a que se baseia na estrutura
+do  órgão  de  origem  (método  estrutural)  e  a  que  toma  por  base    suas
+funções (método funcional), podendo também optar pela combinação de
+ambas. O quadro de padrões de gestão municipal apresentado na primeira
+parte deste trabalho oferece subsídios para a elaboração de um plano de
+classificação  dos  arquivos  permanentes,  seja  pela  vertente  estrutural
+(secretarias  ou  órgãos  similares),  seja  pela  vertente  funcional
+(macrofunções  e  áreas  de  ação),  esta  última  com  a  vantagem  de  ser
+aplicável aos arquivos do poder legislativo municipal.
+
+Os  fundos,  dependendo  da  complexidade  do  órgão  de  origem,
+podem  ser divididos em grupos e  subgrupos,  que  representam  suas
+
+33 
+
+34
+
+
+COMO FAZER 3 - COMO IMPLANTAR ARQUIVOS PÚBLICOS MUNICIPAIS
+
+Série - Seqüência de docu-
+mentos de um mesmo tipo.
+
+divisões  internas  estruturais  e/ou  funcionais.
+Na  base  do  arranjo  ficam  as  séries,  cuja
+ordenação interna segue os critérios adotados
+na fase corrente.
+
+Uma  vez  estabelecidos  os  grupos,  subgrupos  e  séries,  os
+documentos  são  acondicionados  de  forma  a  garantir  sua  proteção  e
+longevidade. Recebem, em seguida, códigos que permitam localizá-los
+no  depósito.
+
+2.2.2. Descrição
+
+o 
+
+Para 
+
+Descrição - Conjunto de procedimen-
+tos que, a partir de elementos formais
+e de conteúdo, permitem a identifica-
+ção de documentos e a elaboração de
+instrumentos de pesquisa.
+
+arquivo
+que 
+permanente  cumpra  de  forma  plena
+a função de atender ao público, isto
+é,  de  colocar  à  disposição  dos
+usuários  o  conteúdo  de  seu  acervo,
+é  preciso  proceder  à  descrição  dos
+documentos, de que podem resultar diferentes instrumentos de pesquisa.
+Sua adequada elaboração, do
+ponto  de  vista  técnico,  é  fator
+decisivo para que se estreitem
+os  vínculos  entre  o  usuário,
+qualquer  que  seja  o  objeto  da
+pesquisa a que se propõe, e o
+arquivo municipal.
+
+Instrumento de pesquisa - Meio pelo qual se
+identificam,  localizam,  resumem  ou  transcre-
+vem,  em  diferentes  graus  e  amplitudes,  fun-
+dos, grupos, séries e peças documentais exis-
+tentes num arquivo permanente, com a finali-
+dade de controle e de acesso ao acervo.
+
+Os principais instrumentos de pesquisa são:
+
+• guia,  que  fornece  informações  básicas  sobre  um  ou  mais  arquivos  e
+
+seus  fundos;
+
+• inventário, em que a descrição exaustiva ou parcial de um fundo ou de
+uma ou mais de suas subdivisões toma por unidade a série, respeitada
+ou não a ordem do arranjo;
+
+• catálogo, em que a descrição exaustiva ou parcial de um fundo ou de
+uma ou mais de suas subdivisões toma por unidade a peça documen-
+tal, respeitada ou não a ordem do arranjo;
+
+• catálogo seletivo, também conhecido como repertório, que toma por
+
+unidade  documentos  previamente  selecionados,  pertencentes  a  um  ou
+
+mais fundos ou arquivos, segundo um critério temático;
+
+• edição de textos, em que os documentos são transcritos na íntegra, de
+
+preferência acompanhados de estudos introdutórios e notas.
+
+Cumpre  observar  que  uma  política  descritiva  deve  estabelecer
+prioridades  na  elaboração  de  instrumentos  de  pesquisa,  valorizando
+aqueles que dão conta de amplos conjuntos documentais, como os guias
+e inventários.
+
+2.2.3. Conservação
+
+Os documentos de valor permanente exigem cuidados especiais
+de  conservação,  que  vão  da  simples  limpeza  aos  procedimentos
+específicos  para  recuperar  e  reforçar  documentos  deteriorados  e
+danificados.
+
+A higienização deve ocorrer na fase do recolhimento, quando se
+usam trinchas para retirar a poeira dos
+documentos, submetendo-os também,
+se  for  o  caso,  a  processo  de
+fumigação, isto é, ao uso de agentes
+químicos para a destruição de insetos
+e microorganismos.
+
+Conservação - Conjunto de medidas
+e  procedimentos  destinados  a  asse-
+gurar  a  proteção  física  dos  arquivos
+contra agentes de deterioração.
+
+Documentos muito antigos e muito danificados exigem a presença
+de especialistas em restauração. Mas pequenos reparos podem ser feitos
+rotineiramente, a partir do uso de cola e papel apropriados.
+
+O  acondicionamento  é  fator  importante  na  conservação,  desde
+que se escolham materiais neutros disponíveis no mercado. Quanto ao
+mobiliário,  a  preferência  deve  recair  sobre  estantes  e  arquivos  de  aço,
+protegendo os documentos das diferentes espécies de xilófagos.
+
+Resta  mencionar  as  condições  ambientais  favoráveis  à
+conservação.  Os  depósitos  devem  apresentar  umidade  e  temperatura
+controladas,  pouca  ou  nenhuma  incidência  de  luz  solar,  além  de
+equipamentos de segurança contra incêndio e roubo.
+
+35 
+
+36
+
+
+3. CONFIGURAÇÃO LEGAL DA INSTITUIÇÃO ARQUIVÍSTICA
+
+3.1.1. Ato de criação
+
+COMO FAZER 3 - COMO IMPLANTAR ARQUIVOS PÚBLICOS MUNICIPAIS
+
+Os  principais  dispositivos  legais  que  representam  a  base  do
+funcionamento  do  arquivo  são,  naturalmente,  o  ato  de  criação  e  o  de
+regimento. Neles a estrutura organizacional, competências e atribuições
+devem estar sempre de acordo não só com os recursos disponíveis, mas
+sobretudo com o porte do município.
+
+Em razão do porte, pode haver diferenças de formato estrutural,
+mas sem impedir que o raio de ação do arquivo municipal seja bastante
+amplo  do  ponto  de  vista  técnico,  administrativo  e  sociocultural.  Nessa
+medida,  para  distingui-lo  dos  arquivos  setoriais  existentes,  sugere-se  a
+denominação  de  Arquivo  Geral  ou  Central  do  Município.  Essa
+denominação  pode  sinalizar  a  adoção  de  administração  sistêmica  for-
+mal,  visando  integração  técnica  do  Arquivo  com  as  demais  unidades
+acumuladoras de documentos da Prefeitura12, independentemente de sua
+subordinação  hierárquica.
+
+3.1. Municípios de grande e médio porte
+
+Diante  da  desinformação  da  sociedade  e  de  muitos
+administradores sobre o papel do arquivo municipal no desenvolvimento
+sócio-econômico-cultural da cidade, não há como deixar de recomendar
+para os arquivos de municípios de grande e médio porte a modalidade
+de órgão autônomo, ou seja, autarquia ou fundação pública, garantidora
+de autonomia administrativa e flexibilidade orçamentária.
+
+Se, todavia, o Arquivo tiver que integrar a administração direta, o
+posicionamento mais compatível será o de subordinação ao Gabinete do
+Prefeito. Justifica-se a proposição pelo prestígio, equidistância e rapidez
+de comunicações, face à proximidade do órgão com a cúpula municipal.
+Avulta também, no caso, o fato de se tratar de instituição compelida, por
+sua  missão  de  integração  sistêmica,  a  manter  relações  com  todas  as
+unidades orgânicas da Prefeitura.
+
+Em geral os órgãos públicos são criados por lei e regulamentados
+
+por decreto, daí os exemplos que se seguem.
+
+12 A documentação do Poder Legislativo (Câmara de Vereadores) poderá ser compreendida
+pelos dispositivos que se seguem, desde que o ato de criação e funcionamento do Arquivo
+assim  o  permita.
+
+Projeto de Lei no ......
+
+Dispõe sobre a criação do Arquivo Geral (ou
+Central) do Município de .................... e dá
+outras  providências.
+
+O  Prefeito  de  ....................,  Estado  de  ....................,  no  uso  de
+suas atribuições legais e considerando dever do município proteger seu
+acervo documental arquivístico, tornando-o acessível.
+
+Faço  saber  que  a  Câmara  Municipal  aprova  e  eu  sanciono  a
+
+seguinte lei:
+
+CAPÍTULO I
+DA NATUREZA E FINALIDADES
+
+Art. 1o - Fica criado, como entidade autárquica vinculada à Chefia
+do  Poder  Executivo,  o  Arquivo  Geral  do  Município  de  ....................,  ao
+qual  se  subordinam  tecnicamente,  na  condição  de  unidades  setoriais,
+todos os arquivos da administração direta e indireta da Prefeitura.
+
+Parágrafo único - Se as partes interessadas estiverem de acordo,
+poderá o Arquivo Geral do Município custodiar, numa linha de parceria, a
+documentação da Câmara de Vereadores.
+
+Art.  2o  -  O  Arquivo  Geral  do  Município  tem  como  finalidades
+
+precípuas:
+
+I - garantir acesso às informações contidas nos documentos sob
+sua guarda, observadas as restrições regimentais, na fase intermediária,
+e de forma ampla, na fase permanente;
+
+II  -  custodiar  os  documentos  de  valor  temporário  e  permanente
+acumulados  pelos  órgãos  da  Prefeitura  no  exercício  de  suas  funções,
+dando-lhes  tratamento  técnico;
+
+III  -  estender  a  custódia  aos  documentos  de  origem  privada
+considerados  de  interesse  público  municipal,  sempre  que  houver
+conveniência  e  oportunidade;
+
+IV-  estabelecer  diretrizes  e  normas,  articulando  e  orientando
+tecnicamente  as  unidades  que  desenvolvem  atividades  de  protocolo  e
+arquivo corrente no âmbito do Poder Executivo Municipal.
+
+§  1 o  -  Considera-se  protocolo  a  unidade  encarregada  do
+recebimento, registro, distribuição e controle de tramitação de documentos.
+
+37 
+
+38
+
+
+COMO FAZER 3 - COMO IMPLANTAR ARQUIVOS PÚBLICOS MUNICIPAIS
+
+§ 2o - À unidade de arquivo corrente incumbe a guarda inicial de
+documentos  cujos  assuntos,  embora  solucionados,  ainda  recebem
+consulta  freqüente.
+
+CAPÍTULO II
+DA ESTRUTURA ORGANIZACIONAL
+
+Art. 3o - O Arquivo - dirigido por um Diretor Geral, titular de cargo
+em comissão, auxiliado por um Assistente e um Secretário - terá a seguinte
+estrutura  organizacional:
+
+I - Gabinete do Diretor
+II - Departamento de Arquivos Públicos
+• Divisão de Arquivo Intermediário
+
+• Serviço de Armazenamento e Consulta
+• Serviço de Destinação
+• Divisão de Arquivo Permanente
+
+• Serviço de Processamento Técnico da Documentação
+
+• Seção de Documentação Textual
+• Seção de Documentação Especial
+
+• Serviço de Atendimento ao Público
+
+III - Divisão de Arquivos Privados
+
+• Serviço de Processamento Técnico da Documentação
+• Serviço de Atendimento ao Público
+
+IV - Divisão de Apoio Normativo
+• Serviço de Planejamento
+• Serviço de Orientação Técnica
+
+V - Divisão de Apoio Cultural
+• Serviço de Pesquisa
+• Serviço de Promoção de Eventos e Divulgação
+• Serviço de Biblioteca e Hemeroteca
+• Seção de Referência Legislativa
+
+VI - Divisão de Apoio Tecnológico
+• Serviço de Informática
+• Serviço de Conservação e Restauração
+• Serviço de Reprografia
+VII - Divisão de Apoio Administrativo
+
+• Serviço de Recursos Humanos
+• Serviço de Orçamento e Contabilidade
+
+• Serviço de Material
+• Seção de Zeladoria
+• Serviço de Comunicações Administrativas
+
+•
+•
+•
+
+Seção de Recepção
+Seção de Expediente e Protocolo
+Seção de Arquivo Corrente
+
+CAPÍTULO III
+DO CONSELHO DELIBERATIVO
+
+Art.  4o  -  A  autarquia  contará  com  um  Conselho  Deliberativo
+composto de 9 membros, com mandato de 8 anos, renovado de 4 em 4
+anos por um e dois terços, respectivamente.
+
+§ 1o - Os Conselheiros deverão ter escolaridade de nível superior
+e experiência na área arquivística e/ou administrativa, e serão indicados
+4 pelo Prefeito e os demais pela Câmara Municipal.
+
+§ 2o - O mandato dos Conselheiros será exercido sem qualquer
+
+remuneração e considerado serviço público relevante.
+
+CAPÍTULO IV
+DAS COMPETÊNCIAS
+
+Art.  5o  -  Ao  Arquivo  Geral  do  Município,  em  suas  competências
+
+gerais, incumbe:
+
+I - garantir acesso às informações contidas na documentação sob
+
+sua custódia, ressalvados os casos de sigilo protegidos por lei;
+
+II  -  receber,  por  transferência  ou  recolhimento,  os  documentos
+
+produzidos e acumulados pelo poder público municipal;
+
+III - receber, por doação ou compra, documentos de origem privada
+
+de interesse do município;
+
+IV - conceder habeas data, observados os termos do art. 5o da
+
+Constituição  Federal;
+
+V  -  produzir,  a  partir  de  fontes  não  convencionais,    documentos
+
+que registrem expressões culturais de interesse para o município;
+
+VI  -  promover  interação  sistêmica  com  os  arquivos  correntes  e
+
+protocolos das repartições municipais;
+
+VII  -  manter  intercâmbio  com  instituições  afins,  nacionais  e
+
+internacionais;
+
+39 
+
+40
+
+
+COMO FAZER 3 - COMO IMPLANTAR ARQUIVOS PÚBLICOS MUNICIPAIS
+
+VIII - custodiar, por intermédio de acordos previamente firmados,
+e se houver conveniência e oportunidade, documentos de outras esferas
+e poderes governamentais.
+
+Art. 6o - As competências específicas de cada unidade do Arquivo
+
+constarão de seu regimento interno, a ser baixado por ato próprio.
+
+CAPÍTULO V
+DAS ATRIBUIÇÕES DOS CONSELHEIROS E DOS TITULARES DOS
+CARGOS DE DIREÇÃO E CHEFIA
+
+Art.  7o  -  Aos  Conselheiros  compete  exercer  a  supervisão
+
+administrativa e financeira do Arquivo.
+
+Art.  8o  -  Aos  titulares  dos  cargos  de  direção  compete  planejar,
+supervisionar,  orientar,  coordenar  e  controlar  o  desempenho  das
+atividades próprias das unidades que lhes são pertinentes.
+
+Parágrafo  único  -  Ao  Assistente  cabe  manter,  por  delegação,
+contatos  com  autoridades,  redigir  correspondência,  emitir  pareceres
+técnico-administrativos, bem como outras incumbências similares que lhe
+forem  atribuídas.
+
+Art. 9o - Aos Chefes cabe coordenar, orientar e controlar a execução
+das atividades técnicas e administrativas das áreas de sua competência.
+
+CAPÍTULO VI
+DO PESSOAL
+
+Art. 10 - O Arquivo terá quadro próprio de servidores, admitidos
+pelo regime jurídico da CLT, mediante prévio concurso, de acordo com
+normas regimentais.
+
+CAPÍTULO VII
+DOS RECURSOS FINANCEIROS
+
+Art. 11 - A receita do Arquivo advirá de dotações orçamentárias
+do próprio município, auxílios ou subvenções, taxas ou retribuições por
+serviços prestados, créditos especiais, doações, legados e outras rendas.
+
+CAPÍTULO VIII
+DO PATRIMÔNIO
+
+Art.  12  -  O  patrimônio  do  Arquivo  será  constituído  de  todos  os
+bens imóveis, móveis, instalações, títulos e outros valores próprios a ele
+destinados para os fins a que se propõe.
+
+CAPÍTULO IX
+DAS DISPOSIÇÕES GERAIS
+
+Art. 13 - As unidades orgânicas indicadas no art. 1o, no inciso IV
+do  art.  2o  e  no  inciso  VI  do  art.  4o  adotarão  a  orientação  e  o  controle
+técnico  emanados  do  Arquivo,  por  intermédio  de  sua  Divisão  de  Apoio
+Normativo.
+
+Art.  14  -  Aplicam-se  ao  Arquivo,  no  que  diz  respeito  aos  seus
+bens, rendas e serviços, todas as prerrogativas, isenções, favores fiscais
+e demais vantagens próprias dos serviços municipais, na forma da lei.
+
+CAPÍTULO X
+DAS DISPOSIÇÕES TRANSITÓRIAS
+
+Art. 15 - Para atender às despesas com instalação e implantação
+de  atividades,  fica  o  Prefeito  autorizado  a  conceder  ao  Arquivo,  no
+exercício de ............, uma subvenção no valor de ....................
+
+Art. 16 - Ao Conselho Deliberativo compete submeter à aprovação
+do  Prefeito,  dentro  do  prazo  de  cento  e  vinte  dias  da  publicação  desta
+Lei, o regimento do Arquivo Geral do Município.
+
+CAPÍTULO XI
+DAS DISPOSIÇÕES FINAIS
+
+Art.  17  -  Esta  Lei  entrará  em  vigor  na  data  de  sua  publicação,
+
+revogadas as disposições em contrário.
+
+41 
+
+42
+
+
+COMO FAZER 3 - COMO IMPLANTAR ARQUIVOS PÚBLICOS MUNICIPAIS
+
+3.1.2. Regimento interno
+
+CAPÍTULO II
+ESTRUTURA ORGANIZACIONAL
+
+Projeto de Decreto no ......
+
+Aprova o Regimento Interno do Arquivo
+Geral do Município de ............................
+
+Art. 2o - Integram a estrutura organizacional do Arquivo Geral do
+
+Município:
+
+.................................,  Prefeito  do  Município  de  .......................,
+Estado de ..........................., usando das atribuições que a Lei lhe confere,
+e  CONSIDERANDO  o  que  dispõe  a  Lei  no  ......,  de  .......................,  que
+criou o Arquivo Geral do Município,
+
+DECRETA:
+
+Art. 1o - Fica aprovado o Regimento Interno do Arquivo Geral do
+
+Município, que passa a fazer parte integrante deste Decreto.
+
+Art. 2o - Este Decreto entrará em vigor na data de sua publicação,
+
+revogadas as disposições em contrário.
+
+REGIMENTO INTERNO DO ARQUIVO GERAL DO MUNICÍPIO
+
+CAPÍTULO I
+FINALIDADES
+
+Art. 1o - O Arquivo Geral do Município, entidade autárquica criada
+
+pela Lei no ......, de ..........................., tem como finalidades precípuas:
+
+I - garantir acesso às informações contidas nos documentos sob
+sua guarda, observadas as restrições regimentais, na fase intermediária,
+e de forma ampla, na fase permanente;
+
+II  -  custodiar  os  documentos  de  valor  temporário  e  permanente
+acumulados  pelos  órgãos  da  Prefeitura  no  exercício  de  suas  funções,
+dando-lhes  tratamento  técnico;
+
+III  -  estender  a  custódia  aos  documentos  de  origem  privada
+considerados  de  interesse  público  municipal,  sempre  que  houver
+conveniência  e  oportunidade;
+
+IV-  estabelecer  diretrizes  e  normas,  articulando  e  orientando
+tecnicamente  as  unidades  que  desenvolvem  atividades  de  protocolo  e
+arquivo corrente no âmbito do poder executivo municipal.
+
+I - Gabinete do Diretor
+II - Departamento de Arquivos Públicos
+• Divisão de Arquivo Intermediário
+
+• Serviço de Armazenamento e Consulta
+• Serviço de Destinação
+• Divisão de Arquivo Permanente
+
+• Serviço de Processamento Técnico da Documentação
+
+• Seção de Documentação Textual
+• Seção de Documentação Especial
+
+• Serviço de Atendimento ao Público
+
+III - Divisão de Arquivos Privados
+
+• Serviço de Processamento Técnico da Documentação
+• Serviço de Atendimento ao Público
+
+IV - Divisão de Apoio Normativo
+• Serviço de Planejamento
+• Serviço de Orientação Técnica
+
+V - Divisão de Apoio Cultural
+• Serviço de Pesquisa
+• Serviço de Promoção de Eventos e Divulgação
+• Serviço de Biblioteca e Hemeroteca
+
+• Seção de Referência Legislativa
+
+VI - Divisão de Apoio Tecnológico
+• Serviço de Informática
+• Serviço de Conservação e Restauração
+• Serviço de Reprografia
+
+VII - Divisão de Apoio Administrativo
+• Serviço de Recursos Humanos
+• Serviço de Orçamento e Contabilidade
+• Serviço de Material
+• Seção de Zeladoria
+• Serviço de Comunicações Administrativas
+• Seção de Recepção
+• Seção de Expediente e Protocolo
+• Seção de Arquivo Corrente
+
+43 
+
+44
+
+
+COMO FAZER 3 - COMO IMPLANTAR ARQUIVOS PÚBLICOS MUNICIPAIS
+
+CAPÍTULO III
+COMPETÊNCIAS
+
+Art. 3o - Ao Gabinete do Diretor cabe auxiliar o titular do Arquivo
+no atendimento ao público, na redação de correspondência e pareceres
+técnico-administrativos, na representação em eventos oficiais e em outras
+atribuições similares.
+
+Art.  4o  -  Ao  Departamento  de  Arquivos  Públicos  cabe  custodiar,
+processar tecnicamente e disponibilizar para consulta os documentos do
+poder público municipal, nas fases intermediária e permanente, atuando
+por meio das seguintes unidades:
+
+I - Divisão de Arquivo Intermediário, responsável pelo arquivamento
+temporário  dos  documentos  de  valor  administrativo,  cessada  a  sua
+utilização corrente, que se subdivide em:
+
+a) Serviço de Armazenagem e Consulta, a quem compete:
+•  receber,  por  transferência,  os  documentos  acumulados  e
+
+avaliados pela administração municipal;
+
+• completar e/ou atualizar as listagens de transferência;
+• manter a documentação organizada de acordo com o princípio
+de proveniência e em satisfatórias condições de higiene;
+
+• atender às consultas dos órgãos de origem.
+b) Serviço de Destinação, a quem compete:
+• preparar a documentação para o recolhimento, acondicionando-
+a de acordo com critérios  estabelecidos pela Divisão de Arquivo
+Permanente;
+
+• efetuar a destruição dos documentos destinados à eliminação;
+• elaborar termos de eliminação e recolhimento;
+• manter atualizadas as informações sobre espaços disponíveis.
+II - Divisão de Arquivo Permanente, responsável pelos documentos
+
+de guarda definitiva, que se subdivide em:
+
+a)  Serviço  de  Processamento  Técnico  da  Documentação,  com
+Seção  de  Documentação  Textual  e  Seção  de  Documentação  Especial,
+às quais compete, nas respectivas áreas de atuação:
+
+• receber, por recolhimento, a documentação de valor permanente;
+• manter a guarda dos documentos recolhidos, adotando critérios
+de armazenamento, acondicionamento e arranjo adequados;
+• promover a descrição, mediante elaboração de instrumentos de
+pesquisa que garantam amplo acesso às informações contidas
+nos  documentos.
+
+b) Serviço de Atendimento ao Público, a quem compete:
+• localizar, para os usuários, a documentação (textual ou especial)
+
+de seu interesse;
+
+•  fornecer  reproduções  de  documentos,  de  acordo  com  as
+disponibilidades do órgão e a qualidade dos suportes originais;
+• orientar o usuário, no caso de haver outras fontes de referência
+
+que completem as informações procuradas.
+
+Art. 5o - À Divisão de Arquivos Privados cabe custodiar, processar
+tecnicamente  e  disponibilizar  para  consulta  os  documentos  de  origem
+privada  considerados  de  interesse  público  municipal,  atuando  por  meio
+das seguintes unidades:
+
+I - Serviço de Processamento Técnico da Documentação, a quem
+
+compete:
+
+• receber a documentação (textual e especial) de origem privada
+
+adquirida;
+
+•  manter  a  guarda  dos  documentos,  adotando  critérios  de
+armazenamento,  acondicionamento  e  arranjo  adequados;
+• promover a descrição, mediante elaboração de instrumentos de
+pesquisa que garantam pleno acesso às informações contidas
+nos  documentos;
+
+•  opinar  tecnicamente  sobre  a  pertinência  da  incorporação  de
+documentos de origem privada ao Arquivo, nos casos de doação
+ou permuta.
+
+II - Serviço de Atendimento ao Público, a quem compete:
+• localizar, para os usuários, a documentação (textual ou especial)
+
+de seu interesse;
+
+•  fornecer  reproduções  de  documentos,  de  acordo  com  as
+disponibilidades do órgão e a qualidade dos suportes originais;
+• orientar o usuário, no caso de haver outras fontes de referência
+
+que completem as informações procuradas.
+
+Art.  6o  -  À  Divisão  de  Apoio  Normativo  cabe  formular  e  aplicar
+dispositivos de racionalização do sistema arquivístico municipal, atuando
+por meio das seguintes unidades:
+
+I - Serviço de Planejamento, a quem compete:
+• promover levantamento de dados e elaborar diagnósticos;
+• formular diretrizes, planos e projetos;
+• instituir esquema de comunicação com as unidades setoriais, de
+
+45 
+
+46
+
+
+COMO FAZER 3 - COMO IMPLANTAR ARQUIVOS PÚBLICOS MUNICIPAIS
+
+modo a permitir que as informações, no âmbito do sistema, sejam
+
+Parágrafo único - À Seção de Referência Legislativa, subordinada
+
+propriedade  comum;
+
+• propor, quando couber, a aplicação de tecnologias da informação.
+II - Serviço de Orientação Técnica, a quem compete:
+•  estabelecer  orientação  normativa,  ouvidas  previamente  as
+
+unidades executoras das normas;
+
+•  exercer  controle  normativo  através  de  acompanhamento
+permanente,  verificando  se  a  orientação  foi  devidamente
+cumprida;
+
+•  prestar  assistência  técnica,  quando  solicitada,  e  propor
+
+programas  de  aperfeiçoamento;
+
+• manter atualizado o cadastro das unidades setoriais de arquivo
+
+e protocolo.
+
+Art.  7o  -  À  Divisão  de  Apoio  Cultural  cabe  realizar  pesquisa
+científica, promover eventos de caráter cultural e manter acervo de livros
+e periódicos, atuando por meio das seguintes unidades:
+I - Serviço de Pesquisa, a quem compete:
+•  levantar  e  analisar  dados  necessários  ao  Arquivo  nas  suas
+
+diversas áreas de atuação;
+
+•  produzir 
+
+fontes  documentais  alternativas  àquelas
+tradicionalmente  acumuladas  pelos  arquivos  públicos  e
+privados;
+
+• referenciar documentos de interesse local existentes em outras
+
+instituições, dentro e fora do município.
+
+à Biblioteca e Hemeroteca, compete:
+
+• indexar a legislação do município, de forma exaustiva, bem como
+os  atos  de  interesse  municipal  baixados  por  outras  esferas
+governamentais;
+
+•  tornar  acessíveis  as  informações  contidas  nos  catálogos  da
+legislação classificada, atendendo a consultas ou por meio de
+publicação.
+
+Art. 8o - À Divisão de Apoio Tecnológico cabe agilizar a recuperação
+de  informações  nas  diferentes  fases  do  ciclo  vital  dos  documentos  e
+assegurar  a  proteção  física  do  acervo  e  das  instalações  do  Arquivo,
+atuando por meio das seguintes unidades:
+
+I - Serviço de Informática, a quem compete:
+• executar os programas de recuperação da informação indicados
+
+pela Divisão de Apoio Normativo;
+
+• zelar pelo funcionamento do sistema integrado de informações.
+II - Serviço de Conservação e Restauração, a quem compete:
+• elaborar instruções sobre conservação e demais atividades de
+proteção física dos documentos contra agentes de deterioração;
+•  executar  as  ações  necessárias  para  a  efetiva  preservação  do
+
+acervo;
+
+• proceder à recuperação e reforço de documentos deteriorados
+
+e  danificados;
+
+•  zelar  pelos  equipamentos  e  controlar  o  material  de  consumo
+
+II - Serviço de Promoção de Eventos e Divulgação, a quem com-
+
+sob sua responsabilidade.
+
+pete:
+
+•  programar  exposições,  seminários,  conferências,  publicações,
+entre  outras  atividades  congêneres,  destinadas  a  estreitar  o
+vínculo da instituição com a comunidade;
+
+• divulgar as atividades do Arquivo;
+• obter apoio administrativo e condições materiais para a execução
+
+de eventos.
+
+III - Serviço de Biblioteca e Hemeroteca, a quem compete:
+•  propor  aquisição  e/ou  permuta  de  publicações,  visando  a
+
+ampliação do acervo;
+
+•  processar  tecnicamente  os  livros  e  periódicos  sob  sua
+
+responsabilidade;
+
+• garantir acesso e orientação bibliográfica aos usuários;
+• opinar tecnicamente sobre a pertinência da incorporação de livros
+e periódicos ao Arquivo, nos casos de doação ou permuta.
+
+III - Serviço de Reprografia, a quem compete:
+• produzir cópias e microcópias de documentos para os usuários
+
+do órgão;
+
+•  zelar  pelos  equipamentos  e  controlar  o  material  de  consumo
+
+sob sua responsabilidade.
+
+Art. 9o - À Divisão de Apoio Administrativo cabe coadjuvar o Arquivo
+no  cumprimento  de  suas  finalidades  precípuas,  atuando  por  meio  das
+seguintes  unidades:
+
+I - Serviço de Recursos Humanos, a quem compete:
+• recrutar, selecionar e admitir pessoal;
+• controlar freqüência e movimentação de funcionários;
+• processar a concessão de direitos e vantagens;
+• elaborar folhas de pagamento;
+
+47 
+
+48
+
+
+COMO FAZER 3 - COMO IMPLANTAR ARQUIVOS PÚBLICOS MUNICIPAIS
+
+• manter cadastro funcional atualizado.
+II - Serviço de Orçamento e Contabilidade, a quem compete:
+• prever a receita e a despesa, visando à elaboração da proposta
+
+orçamentária;
+
+• proceder aos registros contábeis;
+• operacionalizar a aplicação do orçamento aprovado.
+III - Serviço de Material, a quem compete:
+• participar do processo de aquisição de material permanente e
+
+de consumo;
+
+• promover a guarda e distribuição do material adquirido;
+• manter cadastro de fornecedores e catálogo de material;
+• elaborar o inventário de bens móveis do órgão.
+IV - Seção de Zeladoria, a quem compete:
+•  manter  limpos  e  protegidos  os  equipamentos,  móveis  e
+
+instalações do Arquivo;
+
+•  colaborar  no  controle  da  segurança  em  relação  a  sinistros
+
+(incêndio, inundações etc.) e roubos.
+
+V - Serviço de Comunicações Administrativas, a quem compete:
+• Seção de Recepção
+
+•  dar  o  primeiro  atendimento  aos  usuários  do  Arquivo,
+mediante  registro,  fornecimento  de  documento  de
+identificação e guarda de volumes;
+
+•  orientar  os  usuários,  localizando  as  unidades  onde  se
+
+encontram as informações solicitadas;
+
+•  controlar  a  circulação  de  pessoas  estranhas  nas
+
+dependências  do  órgão.
+• Seção de Expediente e Protocolo
+
+• preparar minutas de atos oficiais, de correspondência e
+
+de expedientes rotineiros;
+
+•  executar  as  operações  de  recebimento,  classificação,
+registro, autuação, controle de tramitação, distribuição
+e expedição;
+
+• prestar informações sobre a tramitação dos documentos.
+
+• Seção de Arquivo Corrente
+
+•  efetuar  inspeção  e  análise,  confirmando  ou  não  a
+
+codificação atribuída na fase de protocolo;
+
+• ordenar os documentos de acordo com a codificação;
+•  inserir  o  documento  na  unidade  de  arquivamento  pré-
+
+estabelecida;
+
+• atender às consultas, no local ou por empréstimo.
+
+CAPÍTULO IV
+ATRIBUIÇÕES DOS CONSELHEIROS, TITULARES DOS CARGOS
+DE DIREÇÃO, ASSESSORES E FUNÇÕES DE CHEFIA
+
+Art. 10 - Aos Conselheiros incumbe:
+I - submeter ao Prefeito lista tríplice para escolha do Diretor Geral;
+II - apreciar a proposta orçamentária, as prestações de contas e
+
+os planos de trabalho do Arquivo;
+
+III - autorizar a contratação de pessoal, obedecidas as disposições
+
+legais;
+
+IV - incentivar a incorporação de arquivos e coleções de origem
+
+privada, desde que classificados como de interesse público municipal;
+V - aprovar a indicação do substituto eventual do Diretor Geral;
+VI  -  encaminhar  à  aprovação  do  Prefeito  todas  as  modificações
+
+na estrutura e no funcionamento do órgão.
+
+Art. 11 - Ao Diretor Geral, além de planejar, supervisionar, dirigir,
+
+organizar, coordenar e controlar as atividades do órgão, incumbe:
+
+I - estabelecer as diretrizes da política municipal de arquivos;
+II - baixar atos administrativos necessários ao funcionamento do
+
+órgão, na sua área de competência;
+
+III - alocar os recursos necessários ao funcionamento da autarquia;
+IV - assessorar o poder executivo municipal nos assuntos de sua
+
+competência;
+
+V  -  submeter  ao  Conselho  Deliberativo  os  planos  de  trabalho,
+relatórios  de  atividades,  prestações  de  contas,  bem  como  propostas
+orçamentárias e de contratação de pessoal;
+
+VI - representar o Arquivo em juízo;
+VII - manter intercâmbio com entidades congêneres, no País e no
+
+Exterior;
+
+VIII - constituir comissões de licitação, de avaliação de documentos
+
+de arquivo e outras julgadas necessárias;
+
+IX - promover treinamento e aperfeiçoamento de pessoal;
+X - indicar seu substituto eventual.
+
+Art. 12 - Ao Secretário incumbe dar atendimento ao público, receber
+e transmitir comunicações, redigir a correspondência rotineira, executar
+serviços de digitação, elaborar atas de reuniões e controlar a agenda do
+Diretor Geral.
+
+49 
+
+50
+
+
+COMO FAZER 3 - COMO IMPLANTAR ARQUIVOS PÚBLICOS MUNICIPAIS
+
+Art. 13 - Aos Diretores de Departamento e de Divisão incumbe:
+I - participar do planejamento geral do Arquivo;
+II - dirigir, orientar, coordenar e controlar a execução das atividades
+
+finalidades  e  competências  alcancem  o  mesmo  patamar  técnico,
+administrativo  e  sociocultural  preconizados,  neste  trabalho,  para  as
+instituições arquivísticas municipais.
+
+do órgão na área de sua competência;
+
+III - assessorar o Diretor Geral do Arquivo;
+IV - submeter programas, projetos, relatórios e outros expedientes
+
+a seu superior hierárquico.
+
+Art. 14 - Aos Chefes de Serviço e de Seção incumbe:
+I - chefiar, orientar, coordenar e controlar a execução das atividades
+
+do órgão na área de sua competência;
+
+II  -  encaminhar  relatórios  e  outros  expedientes  a  seu  superior
+
+hierárquico.
+
+CAPÍTULO V
+DISPOSIÇÕES FINAIS
+
+Art. 15 - Todos os titulares de direção e chefia manterão registros
+mensais  estatísticos  das  atividades  desenvolvidas  sob  sua
+responsabilidade.
+
+Art. 16 - Os casos omissos serão resolvidos pelo Diretor Geral do
+
+Arquivo, ouvido o Conselho Deliberativo.
+
+3.2.1. Ato de criação
+
+Projeto de Lei no ......
+
+Dispõe sobre a criação do Arquivo Geral (ou
+Central) do Município de .................... e dá
+outras  providências.
+
+O  Prefeito  de  ....................,  Estado  de  ....................,  no  uso  de
+suas atribuições legais e considerando dever do município proteger seu
+acervo documental arquivístico, tornando-o acessível.
+
+Faço  saber  que  a  Câmara  Municipal  aprova  e  eu  sanciono  a
+
+seguinte lei:
+
+Art.  1o  -  Fica  criado,  com  nível  de  Departamento  [ou  Divisão]  e
+subordinado  à  Secretaria  [ou  ao  Departamento]  de  Administração  da
+Prefeitura,  o  Arquivo  Geral  do  Município  de  ....................,  ao  qual  se
+subordinam  tecnicamente,  na  condição  de  unidades  setoriais,  todos  os
+arquivos da administração direta e indireta da Prefeitura.
+
+Art.  2o  -  O  Arquivo  Geral  do  Município  tem  como  finalidades
+
+Art. 17 - Este regimento entrará em vigor na data de sua publicação.
+
+precípuas:
+
+3.2. Municípios de médio e pequeno porte
+
+Na  versão  destinada  às  municipalidades  de  médio  e  pequeno
+porte,  o  Arquivo  Geral  pode  ficar  diretamente  ligado  ao  Gabinete  do
+Prefeito ou subordinado à área de Administração. Esta segunda alternativa
+fica justificada, entre outras razões, pela proximidade com os serviços de
+comunicações  administrativas,  ponto  de  partida  do  ciclo  vital  dos
+documentos.
+
+O  modelo  aqui  apresentado  pode,  como  seus  congêneres  de
+municípios maiores, sofrer as adaptações necessárias, não só em relação
+à vinculação, mas também quanto ao nível do órgão. A simplificação da
+estrutura organizacional do Arquivo não impede, entretanto, que suas
+
+I - garantir acesso às informações contidas nos documentos sob
+sua guarda, observadas as restrições regimentais, na fase intermediária,
+e de forma ampla, na fase permanente;
+
+II  -  custodiar  os  documentos  de  valor  temporário  e  permanente
+acumulados  pelos  órgãos  da  Prefeitura  no  exercício  de  suas  funções,
+dando-lhes  tratamento  técnico;
+
+III  -  estender  a  custódia  aos  documentos  de  origem  privada
+considerados  de  interesse  público  municipal,  sempre  que  houver
+conveniência  e  oportunidade;
+
+IV-  estabelecer  diretrizes  e  normas,  articulando  e  orientando
+tecnicamente  as  unidades  que  desenvolvem  atividades  de  protocolo  e
+arquivo corrente no âmbito do Poder Executivo Municipal.
+
+§  1 o  -  Considera-se  protocolo  a  unidade  encarregada  do
+recebimento, registro, distribuição e controle de tramitação de documentos.
+
+51 
+
+52
+
+
+COMO FAZER 3 - COMO IMPLANTAR ARQUIVOS PÚBLICOS MUNICIPAIS
+
+§ 2o - À unidade de arquivo corrente incumbe a guarda inicial de
+documentos  cujos  assuntos,  embora  solucionados,  ainda  recebem
+consulta  freqüente.
+
+Art.  3o  -  O  Arquivo  -  dirigido  por  um  Diretor,  titular  de  cargo  em
+
+comissão - terá a seguinte estrutura organizacional:
+
+I - Divisão de Arquivo Intermediário
+II - Divisão de Arquivo Permanente
+III - Serviço de Apoio Normativo e Tecnológico
+IV - Serviço de Apoio Cultural
+V - Serviço de Apoio Administrativo
+
+Art.  4o  -  Ao  Arquivo  Geral  do  Município,  em  suas  competências
+
+gerais, incumbe:
+
+I - garantir acesso às informações contidas na documentação sob
+
+sua custódia, ressalvados os casos de sigilo protegidos por lei;
+
+II  -  receber,  por  transferência  ou  recolhimento,  os  documentos
+
+produzidos e acumulados pelo poder público municipal;
+
+III - receber, por doação ou compra, documentos de origem privada
+
+de interesse do município;
+
+IV - conceder habeas data, observados os termos do art. 5o da
+
+Constituição  Federal;
+
+V  -  produzir,  a  partir  de  fontes  não  convencionais,    documentos
+
+que registrem expressões culturais de interesse para o município;
+
+VI  -  promover  interação  sistêmica  com  os  arquivos  correntes  e
+
+protocolos das repartições municipais;
+
+VII  -  manter  intercâmbio  com  instituições  afins,  nacionais  e
+
+internacionais;
+
+VIII - custodiar, por intermédio de acordos previamente firmados e
+se houver conveniência e oportunidade, documentos de outras esferas e
+poderes  governamentais.
+
+Parágrafo único - As competências específicas de cada unidade
+do  Arquivo  constarão  de  seu  regimento  interno,  a  ser  baixado  por  ato
+próprio.
+
+Art.  6o  -  Aos  titulares  dos  cargos  de  direção  compete  planejar,
+supervisionar,  orientar,  coordenar  e  controlar  o  desempenho  das
+atividades próprias das unidades que lhes são pertinentes.
+
+Art. 7o - Aos Chefes cabe coordenar, orientar e controlar a execução
+das atividades técnicas e administrativas das áreas de sua competência.
+53 
+
+Art.  8o  -  O  Arquivo  terá  quadro  próprio  de  servidores,  admitidos
+mediante prévio concurso, de acordo com os dispositivos legais vigentes.
+
+Art. 9o - As unidades orgânicas indicadas no art. 1o, no inciso IV
+do  art.  2o  e  no  inciso  VI  do  art.  4o  adotarão  a  orientação  e  o  controle
+técnico  emanados  do  Arquivo,  por  intermédio  de  seu  Serviço  de  Apoio
+Normativo.
+
+Art.  10  -  O  Arquivo  poderá,  mediante  convênio  com  a  Câmara
+Municipal, manter a custódia de seus documentos de valor permanente.
+
+Art.  11  -  Ao  Diretor  compete  submeter  à  aprovação  do  Prefeito,
+dentro do prazo de cento e vinte dias da publicação desta Lei, o regimento
+do Arquivo Geral do Município.
+
+3.2.2. Regimento interno
+
+Projeto de Decreto no ......
+
+Aprova o Regimento Interno do Arquivo
+Geral do Município de ............................
+
+.................................,  Prefeito  do  Município  de  .......................,
+Estado de ..........................., usando das atribuições que a Lei lhe confere,
+e  CONSIDERANDO  o  que  dispõe  a  Lei  no  ......,  de  .......................,  que
+criou o Arquivo Geral do Município,
+
+DECRETA:
+
+Art. 1o - Fica aprovado o Regimento Interno do Arquivo Geral do
+
+Município, que passa a fazer parte integrante deste Decreto.
+
+Art. 2o - Este Decreto entrará em vigor na data de sua publicação,
+
+revogadas as disposições em contrário.
+
+REGIMENTO INTERNO DO ARQUIVO GERAL DO MUNICÍPIO
+
+Art. 1o - O Arquivo Geral do Município, criado pela Lei no ......, de
+..........................., na condição de Departamento subordinado à Secretaria
+
+54
+
+
+COMO FAZER 3 - COMO IMPLANTAR ARQUIVOS PÚBLICOS MUNICIPAIS
+
+de Administração, tem como finalidades precípuas:
+
+I - garantir acesso às informações contidas nos documentos sob
+sua guarda, observadas as restrições regimentais, na fase intermediária,
+e de forma ampla, na fase permanente;
+
+II  -  custodiar  os  documentos  de  valor  temporário  e  permanente
+acumulados  pelos  órgãos  da  Prefeitura  no  exercício  de  suas  funções,
+dando-lhes  tratamento  técnico;
+
+III  -  estender  a  custódia  aos  documentos  de  origem  privada
+considerados  de  interesse  público  municipal,  sempre  que  houver
+conveniência  e  oportunidade;
+
+IV  -  estabelecer  diretrizes  e  normas,  articulando  e  orientando
+tecnicamente  as  unidades  que  desenvolvem  atividades  de  protocolo  e
+arquivo corrente no âmbito do poder executivo municipal.
+
+Art. 2o - Integram a estrutura organizacional do Arquivo Geral do
+
+Município:
+
+I - Divisão de Arquivo Intermediário
+II - Divisão de Arquivo Permanente
+III - Serviço de Apoio Normativo e Tecnológico
+IV - Serviço de Apoio Cultural
+V - Serviço de Apoio Administrativo
+
+Art.  3o  -  À  Divisão  de  Arquivo  Intermediário,  responsável  pelo
+arquivamento temporário dos documentos de valor administrativo, cessada
+a sua utilização corrente, compete:
+
+I - receber, por recolhimento, a documentação municipal de valor
+
+permanente;
+
+II - manter a guarda dos documentos recolhidos, adotando critérios
+
+de armazenamento, acondicionamento e arranjo adequados;
+
+III - custodiar e processar tecnicamente os documentos de origem
+
+privada adquiridos pelo órgão;
+
+III  -  promover  a  descrição  do  acervo,  mediante  elaboração  de
+instrumentos  de  pesquisa  que  garantam  pleno  acesso  às  informações
+contidas nos documentos;
+
+IV - localizar, para os usuários, a documentação de seu interesse;
+V  -  fornecer  reproduções  de  documentos,  de  acordo  com  as
+
+disponibilidades do órgão e a qualidade dos suportes originais;
+
+VI - orientar o usuário, no caso de haver outras fontes de referência
+
+que completem as informações procuradas.
+
+Art. 5o - Ao Serviço de Apoio Normativo e Tecnológico, responsável
+pela racionalização dos serviços arquivísticos e pela proteção ao acervo,
+compete:
+
+I - instituir esquema de comunicação com as unidades setoriais,
+de modo a permitir que as informações, no âmbito arquivístico municipal,
+sejam propriedade comum;
+
+II - propor, quando couber, a aplicação de tecnologias que agilizem
+a  recuperação  da  informação  nas  diferentes  fases  do  ciclo  vital  dos
+documentos;
+
+III - prestar assistência técnica aos servidores municipais da área
+
+I  -  receber,  por  transferência,  os  documentos  acumulados  e
+
+de protocolo e arquivo, propondo programas de aperfeiçoamento;
+
+avaliados pela administração municipal;
+
+II - completar e/ou atualizar as listagens de transferência;
+III - manter a documentação organizada de acordo com o princípio
+
+de proveniência e em satisfatórias condições de higiene;
+
+IV - atender às consultas dos órgãos de origem;
+V - preparar a documentação para o recolhimento, acondicionando-
+a  de  acordo  com  critérios    estabelecidos  pela  Divisão  de  Arquivo
+Permanente;
+
+VI - efetuar a destruição dos documentos destinados à eliminação;
+VII - elaborar termos de eliminação e recolhimento;
+VIII  -  manter  atualizadas  as  informações  sobre  espaços
+
+disponíveis.
+
+Art.  4o  -  À  Divisão  de  Arquivo  Permanente,  responsável  pelos
+
+IV - manter atualizado o cadastro das unidades setoriais;
+V  -  assegurar  a  proteção  física  do  acervo  e  das  instalações  do
+
+Arquivo;
+
+VI - proceder à recuperação e reforço de documentos deteriorados
+
+e  danificados;
+
+VII - produzir cópias e microcópias de documentos para os usuários
+
+do órgão.
+
+Art.  6o  -  Ao  Serviço  de  Apoio  Cultural,  responsável  pelo
+desenvolvimento  de  pesquisas,  pela  promoção  de  eventos  de  caráter
+cultural e pela manutenção de coleções de livros e periódicos, compete:
+I  -  produzir  fontes  documentais  alternativas  àquelas
+
+tradicionalmente acumuladas pelos arquivos públicos e privados;
+
+II - referenciar documentos de interesse local existentes em outras
+
+documentos de guarda definitiva, compete:
+
+instituições, dentro e fora do município;
+
+55 
+
+56
+
+
+COMO FAZER 3 - COMO IMPLANTAR ARQUIVOS PÚBLICOS MUNICIPAIS
+
+XIII - executar as operações de recebimento, classificação, registro,
+autuação, controle de tramitação, distribuição e expedição de documentos;
+XIV - efetuar inspeção e análise, confirmando ou não a codificação
+
+atribuída aos documentos em fase anterior;
+
+XV - ordenar os documentos de acordo com a codificação adotada;
+XVI - atender às consultas, no local ou por empréstimo.
+
+Art. 8o - Ao Diretor do Arquivo Geral do Município, além de planejar,
+supervisionar,  dirigir,  organizar,  coordenar  e  controlar  as  atividades  do
+órgão,  incumbe:
+
+I - participar da formulação da política municipal de arquivos;
+II - assessorar o poder executivo municipal nos assuntos de sua
+
+competência;
+
+III  -  manter  intercâmbio  com  entidades  congêneres,  na  região  e
+
+no Estado;
+
+IV - constituir comissões de avaliação de documentos de arquivo;
+V - promover treinamento e aperfeiçoamento de pessoal.
+
+Art. 9o - Os casos omissos serão resolvidos pelo Diretor, ouvido
+
+seu superior hierárquico.
+
+Art. 10 - Este regimento entrará em vigor na data de sua publicação.
+
+III - programar exposições, seminários, conferências, publicações,
+entre outras atividades congêneres, destinadas a estreitar o vínculo da
+instituição com a comunidade;
+
+IV - divulgar as atividades do Arquivo;
+V - propor aquisição e/ou permuta de publicações no âmbito da
+
+História, da Administração, da Arquivística e outras áreas afins;
+
+VI  -  processar  tecnicamente  os  livros  e  periódicos  sob  sua
+
+responsabilidade;
+
+VII - garantir acesso e orientação bibliográfica aos usuários;
+VIII - opinar tecnicamente sobre a pertinência da incorporação de
+
+livros e periódicos ao Arquivo, nos casos de doação ou permuta;
+
+IX - indexar a legislação do município, de forma exaustiva, bem
+como  os  atos  de  interesse  municipal  baixados  por  outras  esferas
+governamentais.
+
+Art.  7o  -  Ao  Serviço  de  Apoio  Administrativo,  responsável  pelas
+atividades  relacionadas  com  recursos  humanos,  orçamento  e
+contabilidade, material, zeladoria e comunicações administrativas, com-
+pete:
+
+I - manter cadastro funcional atualizado e controle de freqüência,
+bem como os demais encargos de pessoal relacionados à elaboração de
+folhas de pagamento, movimentação e concessão de direitos e vantagens;
+II - prever a receita e a despesa, visando à elaboração da proposta
+
+orçamentária;
+
+III - proceder aos registros contábeis;
+IV - operacionalizar a aplicação do orçamento aprovado;
+V - participar do processo de aquisição de material permanente e
+
+de consumo, responsabilizando-se por sua guarda e distribuição;
+
+VI - manter cadastro de fornecedores e catálogo de material;
+VII - elaborar o inventário de bens móveis do órgão;
+VIII  -  manter  limpos  e  protegidos  os  equipamentos,  móveis  e
+
+instalações do Arquivo;
+
+IX  -  colaborar  no  controle  da  segurança  em  relação  a  sinistros
+
+(incêndio, inundações etc.) e roubos;
+
+X - dar o primeiro atendimento aos usuários do Arquivo, mediante
+registro,  fornecimento  de  documento  de  identificação  e  guarda  de  vo-
+lumes;
+
+XI  -  orientar  os  usuários,  localizando  as  unidades  onde  se
+
+encontram as informações solicitadas;
+
+XI  -  preparar  minutas  de  atos  oficiais,  de  correspondência  e  de
+
+expedientes  rotineiros;
+
+57 
+
+58
+
+
+COMO FAZER 3 - COMO IMPLANTAR ARQUIVOS PÚBLICOS MUNICIPAIS
+
+4. RECURSOS HUMANOS
+
+As  necessidades  de  pessoal  nos  arquivos  municipais  devem,
+inicialmente, ser orientadas pelo volume do acervo e da clientela em es-
+pecial. Nesse aspecto, cumpre lembrar que, na previsão, se contará com
+o  acréscimo  do  número  de  usuários,  à  medida  que  os  serviços  de
+informação e de divulgação forem sendo prestados.
+
+O  número  de  profissionais  de  arquivo,  portanto,  dependerá  das
+condições  de  desenvolvimento  dos  serviços  efetivamente  prestados.
+Inicialmente,  pode-se  considerar  positivo  que  a  quantidade  desses
+profissionais  seja,  pelo  menos,  de  40%  do  número  total  de  servidores
+lotados  no  órgão.  Todavia,  dadas  as  dificuldades  de  obtenção  desses
+especialistas,  na  maioria  das  cidades  brasileiras,  sugere-se  que,  no
+mínimo, se garanta a presença de um profissional de arquivo capacitado
+para supervisionar e orientar os trabalhos em cada área significativa da
+atividade.
+
+Sobre a questão da divisão de trabalho, é fundamental agir de tal
+modo que o tempo dos referidos profissionais não seja desperdiçado em
+trabalhos rotineiros ou de caráter auxiliar.
+
+Qunato  às  categorias  funcionais  necessárias,  será  conveniente
+
+que sejam as mesmas distintas para cada fase de arquivamento.
+
+4.1. Categorias funcionais
+
+Para protocolo e arquivo corrente:
+• arquivista
+• técnico de arquivo
+• auxiliar e/ou agente de administração
+•  datilógrafo/digitador
+• auxiliar de portaria, no caso de grande incidência de consulta no
+
+protocolo
+
+Para o arquivo intermediário (em municípios de grande e médio
+
+porte):
+
+• arquivista
+• técnico de arquivo
+• auxiliar e/ou agente de administração
+•  datilógrafo/digitador
+• agente de portaria
+• servente
+• vigilante
+
+Para o arquivo permanente:
+• arquivista
+• técnico de arquivo
+• pesquisador (área de História)
+•  paleógrafo
+• especialista em conservação de documentos
+• restaurador
+•  encadernador
+• técnico de microfilmagem
+•  fotógrafo
+• técnico de laboratório fotográfico
+• agente de galeria
+• auxiliar de administração
+•  datilógrafo/digitador
+• agente de portaria
+• servente
+• vigilante
+
+Para atividades de apoio cultural:
+• profissional especializado na promoção e organização de eventos
+
+culturais
+• pesquisador
+• bibliotecário
+• auxiliar de biblioteca
+
+Para atividades de informática:
+• analista de sistemas
+• programador
+
+Nem todos os profissionais arrolados precisam ser admitidos. Eis
+que se pode considerar a alternativa de terceirização, mediante contrato
+de  prestação  de  serviços  de  restauração,  microfilmagem,  reprodução
+fotográfica, informática, limpeza etc.
+
+4.2. Direção e chefia
+
+Planejar, organizar, dirigir, coordenar, controlar e gerenciar recursos
+são  atribuições  clássicas  de  qualquer  dirigente  e/ou  chefe,  há  muito
+estabelecidas  pelos  mentores  da  Ciência  da   Administração.       No
+
+59 
+
+60
+
+
+COMO FAZER 3 - COMO IMPLANTAR ARQUIVOS PÚBLICOS MUNICIPAIS
+
+desenvolvimento  dessas  atribuições  ou  mesmo  de  similares  indicadas
+em outros métodos, como a reengenharia, por exemplo, o dirigente e/ou
+chefe deve sempre adotar modelo de administração no qual as questões
+de pessoal tenham especial relevo.
+
+Nesse  sentido,  alguns  autores  preconizam  a  “integração  dos
+objetivos” da instituição aos de seus agentes. No desenvolvimento de tal
+modelo de gestão, tem-se como mola mestra um forte compromisso com
+a comunicação, visando tornar as informações propriedade comum, bem
+como  eliminar  distâncias  físicas  e  individuais  e,  ainda,  assegurar
+desempenho  participativo.
+
+Na  estratégia  da  comunicação,  nada  mais  prático  do  que,
+
+inicialmente, procurar respostas para as seguintes indagações:
+
+•  O  objetivo  do  arquivo  está  claramente  definido  em  todos  os
+
+escalões  hierárquicos?
+
+• Além das normas escritas, existe um sistema de comunicação
+direta  que  garanta  a  disseminação  das  informações
+normativas?
+
+• Há meios para verificar se a orientação emanada foi realmente
+
+entendida e levada à prática?
+
+• Cada equipe e respectivos membros têm conhecimento do papel
+
+que desempenham no grupo e na instituição?
+
+• O diretor e auxiliares discutem previamente com suas equipes
+
+sobre a implantação de normas?
+
+• Há preocupação com a descentralização e a redução dos efeitos
+
+negativos da rigidez hierárquica?
+
+• Está havendo adequada aplicação da tecnologia da informação?
+•  O  conhecimento  das  relações  informais  é  levado  em
+consideração na análise do comportamento das equipes?
+
+No que se refere à administração sistêmica no arquivo municipal,
+
+sugere-se procurar respostas para as perguntas:
+
+•  Os  objetivos  do  sistema  se  harmonizam  com  os  dos  órgãos
+
+setoriais?
+
+• Na administração sistêmica se desenvolve um esforço organizado
+para discutir previamente com os órgãos setoriais a implantação
+do sistema?
+
+Enfim, qualquer que seja o modelo de gestão, poder-se-á sempre
+ter em mira a “integração  dos  objetivos”  embasada  em  esquema  de
+
+informações (automatizado ou não), visando à criação de uma saudável
+consonância  de  propósitos.  Isto  porque,  entre  outras  razões,  todos  os
+servidores terão a possibilidade de acesso às informações, não só sobre
+os  êxitos  da  instituição,  mas  também  sobre  as  medidas  para  sanar  o
+prejuízo causado pelos desacertos.
+
+4.3. Treinamento
+
+Nos  países  em  desenvolvimento,  a  escassez  de  possibilidades
+de  formação  e  aperfeiçoamento  de  profissionais  certamente  dificulta  o
+cumprimento de normas. Até que, pelo menos, todas as regiões brasileiras
+disponham  de  cursos  de  Arquivologia  em  nível  de  graduação,  pós-
+graduação e, sobretudo, profissionalizantes, torna-se imprescindível que,
+a  partir  do  estabelecimento  do  perfil  do  pessoal,  se  tente,  com  todo  o
+esforço possível, estabelecer um esquema de treinamento.
+
+4.3.1. Programas de treinamento
+
+O  preparo  do  pessoal  da  área  arquivística  deve  considerar  dois
+tipos  de  agentes:  direção  e  chefia,  de  um  lado,  e  os  que  executam  as
+tarefas de arquivo.
+
+Para os primeiros - diretores e chefes - sugere-se um programa
+de  treinamento  voltado  não  só  para  a  aquisição  de  conhecimentos  de
+teoria (finalidade, objetivos, princípios etc.) e prática (métodos e técnicas)
+de arquivos, mas também para as técnicas administrativas, notadamente
+na parte de organização, supervisão, coordenação e controle. Incorporam
+essa proposta os programas de cursos de treinamento de número 1 e 2.
+
+Programa 1
+• Introdução à Arquivologia
+• A Teoria das Três Idades do arquivo: aspectos importantes das
+
+fases corrente, intermediária e permanente
+
+• Protocolo e arquivo corrente: finalidade, objetivos e atividades
+
+típicas
+
+• Arquivo intermediário: finalidade, objetivos e atividades típicas
+• Arquivo permanente: finalidade, objetivos e atividades típicas
+• Informática
+• Legislação arquivística
+• Fundamentos de ética arquivística
+
+61 
+
+62
+
+
+COMO FAZER 3 - COMO IMPLANTAR ARQUIVOS PÚBLICOS MUNICIPAIS
+
+Programa 2
+• Introdução à Administração
+• Modelos de gestão
+• Princípios de organização
+• Fundamentos de administração de pessoal: chefia e liderança
+• Fundamentos de administração orçamentária e financeira
+
+Quanto aos executores das atividades arquivísticas, o treinamento
+
+deve incluir, em seu conteúdo, os itens do programa 3.
+
+Programa 3
+• Introdução à prática arquivística: o ciclo vital dos documentos
+• Protocolo e arquivo corrente: atividades típicas e principais rotinas
+• Arquivo intermediário: atividades típicas e principais rotinas
+• Arquivo permanente: atividades típicas e principais rotinas
+• Noções de Informática
+• Fundamentos de ética arquivística
+
+5. RECURSOS MATERIAIS
+
+Tais recursos envolvem não apenas a construção e/ou adaptação
+
+do prédio, mas também instalações, mobiliário e equipamentos.
+
+O  planejamento  dos  recursos  materiais  depende  do  porte  do
+município  em  que  se  insere  o  arquivo.  Desse  modo,  as  necessidades
+podem  variar  de  uma  cidade  para  outra.  São  fatores  de  influência  na
+questão: a população; o volume do acervo; a quantidade de usuários; e
+o índice previsível de ampliação, relativo a um espaço de tempo nunca
+inferior a cinqüenta anos.
+
+Deve-se igualmente levar em conta a diferenciação entre as fases
+de arquivamento permanente e intermediário, já que este último, por suas
+características  de  economia  e  de  baixo  índice  de  consultas,  pode  ser
+instalado em local distante do centro urbano.
+
+5.1. Prédio: localização, condições ambientais, utilização do espaço
+
+O arquivo municipal deve ser de fácil acesso, localizando-se perto
+do  centro  político-administrativo  da  cidade  ou,  pelo  menos,  da  maioria
+das  repartições  municipais.  Destacam-se,  dentre  as  características  do
+terreno:
+
+• inexistência de pântanos e similares;
+• superfície suficiente para atender a futuras ampliações;
+• facilidade de acesso para caminhões, carros e pedestres.
+
+Quanto às características do prédio (construído ou adaptado), são
+
+itens importantes:
+
+• portas e divisórias do tipo corta-fogo;
+•  bombas  de  sucção  (para  prevenir  danos  por  eventuais
+
+inundações);
+
+• piso de material resistente ao fogo;
+•  aparelhagem  de  climatização,  pelo  menos  nos  depósitos  de
+
+documentos;
+
+• elevador com capacidade para transportar grandes volumes de
+documentos (carga útil de 500 kg, no mínimo, e cabine de cerca
+de 1,50 X 1,50 m);
+
+•  escadas  de  emergência  isoladas  por  muro  e/ou  portas  corta-
+
+fogo;
+
+• entrada e escoamento de água adequados, tendo em vista, in-
+
+clusive, a instalação de laboratórios;
+
+63 
+
+65
+
+
+COMO FAZER 3 - COMO IMPLANTAR ARQUIVOS PÚBLICOS MUNICIPAIS
+
+•  flexibilidade  na  distribuição  interna  de  espaços,  por  meio  de
+
+divisórias leves (material a prova de fogo);
+
+• rampas de acesso para idosos e deficientes físicos;
+• áreas franqueadas ao público;
+• impacto visual externo, de modo a permitir que a finalidade do
+
+prédio seja imediatamente identificada por todos.
+
+Quanto  às  condições  ambientais,  recomenda-se  a  manutenção
+da  temperatura  média  de  22oC,  sendo  a  mínima  de  15oC.  Para  a
+documentação especial, exigem-se temperaturas mais baixas (12oC para
+fitas  magnéticas,  por  exemplo).  A  umidade  relativa  do  ar  deve  ser  de
+50%  (máxima  de  55  e  mínima  de  45%).  Se  o  prédio  contar  com
+refrigeração  artificial,  não  se  pode  deixar  de  prever  janelas  (protegidas
+contra  o  sol  por  meio  de  vidros  que  filtrem  os  raios  ultravioleta)  como
+alternativa de ventilação nas eventuais falhas do sistema de climatização
+centralizado.
+
+A  utilização  de  espaços  ou  áreas  do  arquivo  permanente  deve
+levar em consideração que cada 170 m2 de armazenagem ou depósito,
+com  estantes  de  2,10  m  de  altura,  equivalem  a  uma  capacidade  de
+estocagem de 1.000 metros lineares, já incluídas as áreas de circulação.
+
+Em termos ideais, o edifício deve conter:
+
+a) áreas abertas ao público
+• “hall” de entrada, incluindo espaços para recepção, protocolo e
+
+exposições;
+
+• auditório;
+• sala de consulta;
+• cantina;
+• sanitários;
+• biblioteca e hemeroteca.
+
+b) áreas não franqueadas ao público
+• ambiente para recepção de documentos recolhidos;
+• ambiente para desinfecção e/ou limpeza de documentos (estufa
+
+de etileno ou similar);
+
+• salas de processamento técnico;
+• depósitos para armazenagem de documentação textual e espe-
+
+cial;
+
+• sala de reprografia;
+• oficina de restauração e encadernação;
+
+• gabinete do diretor e secretaria;
+• sala de reuniões;
+• almoxarifado;
+• copa;
+• sala de pesquisa;
+• sanitários, banheiros e/ou vestiários;
+• laboratório de fotografias;
+• centro de processamento de dados;
+•  dependências  para  manutenção  e  climatização  (casa  de
+
+máquinas);
+
+• garagem.
+
+Ao  contrário  do  arquivo  permanente,  o  arquivo  intermediário  ou
+de segunda idade pode ser instalado em local distante do centro urbano
+e até em prédio adaptado (menos oneroso), já que se trata de um depósito,
+por tempo determinado, de conjuntos documentias consultados apenas
+pelo órgão de origem.
+
+É usual que o arquivo intermediário seja mantido na temperatura
+ambiente, sendo requisito indispensável a ventilação garantida por janelas,
+protegidas do sol por meio de vidros que filtrem os raios ultravioleta. Caso
+se opte por usar refrigeração, a temperatura pode ser de 24oC.
+
+As  instalações  do  arquivo  intermediário  são  simples,  admitindo-
+se a adaptação de prédio já existente. Isto porque o número de usuários
+e  de  servidores  é  reduzido,  enquanto  o  crescimento  do  volume  da
+documentação  não  apresenta  índices  significativos,  em  vista  das
+periódicas operações de destinação (eliminação e recolhimento).
+
+Apesar de tais características, o edifício deve apresentar requisitos
+que garantam proteção contra incêndio, inundações, umidade, excesso
+de luz solar, poluição atmosférica, roubo etc.
+
+Quanto à utilização de espaços ou áreas, estão previstos para o
+
+arquivo  intermediário:
+
+a) locais abertos aos usuários
+• “hall” de entrada (recepção de pessoas e protocolo);
+• sala de consultas e reprografia para os servidores do órgão de
+
+origem;
+• sanitários.
+
+b) locais não franqueados aos usuários
+• gabinete do diretor;
+• área para descarga de documentos transferidos;
+
+66 
+
+67
+
+
+COMO FAZER 3 - COMO IMPLANTAR ARQUIVOS PÚBLICOS MUNICIPAIS
+
+• depósitos para armazenagem de documentos;
+• depósito de documentos em vias de destinação.
+
+5.2. Equipamentos e mobiliário
+
+Além dos equipamentos próprios de escritório, distinguem-se:
+• extintores de incêndio;
+•  desumidificadores;
+• mensor de variação de temperatura;
+•  aparelhagem  de  reprodução  (xerox,  microfilmadora,  leitor
+
+copiador de microformas etc.);
+
+• computadores e impressoras.
+
+As  estantes,  obviamente,  ocupam  lugar  importante  na  guarda  e
+conservação  de  documentos.  Em  sua  aquisição  devem  ser  verificadas
+as seguintes características:
+
+• solidez - recomendam-se estantes metálicas, em chapas de aço,
+tratadas  por  fosfatação  e  revestidas  com  tinta  esmalte  firme,
+sem bolhas, nem estrias;
+
+• flexibilidade - as estantes devem ser montadas sobre suportes
+móveis  que  permitam  deslocamento  de  2  em  2  centímetros,
+com profundidade variável (30, 35 ou 40 centímetros), de acordo
+com a dimensão dos documentos a serem arquivados;
+
+• segurança - importante verificar se as estantes suportam o peso
+dos documentos e se estão dispostas em fileiras paralelas, de
+dupla  face,  com  no  máximo  10  metros  de  comprimento,  e
+separadas por espaços para circulação.
+
+Além  das  estantes,  devem  ser  previstos  móveis  arquivadores
+especiais  para  plantas,  mapas,  documentos  audiovisuais,  documentos
+informáticos e microfilmes.
+
+6. CONSIDERAÇÕES FINAIS
+
+6.1. Um breve diagnóstico
+
+Os  arquivos  municipais  brasileiros  não  se  têm  distinguido  como
+órgãos prestadores de serviços. Longe de se beneficiarem das vantagens
+que  apresentam  em  relação  aos  seus  congêneres  do  poder  público
+estadual  e  federal,  para  os  quais  a  descentralização  das  unidades
+produtoras  de  documentos  constitui  um  problema  de  difícil  solução,
+encontram-se em precárias condições de funcionamento.
+
+Entre  as  muitas  causas  dessa  situação,  destaca-se  a  visão
+deformada  que  deixa  de  considerar  os  arquivos  como  testemunhos  da
+prática administrativa na condução dos negócios da municipalidade. Os
+administradores  tendem  a  ver  apenas  os  valores  imediatos  da
+documentação,  não  se  preocupando  com  seu  conteúdo  histórico.  A
+conseqüência  tem  sido  ou  a  destruição  indiscriminada  ou  o  acúmulo
+caótico  de  conjuntos  documentais  básicos  para  a  reconstituição  do
+passado municipal. No outro extremo ficam os que, supervalorizando a
+utilização do acervo para a pesquisa histórica, desconhecem a importância
+da fase inicial de arquivamento. Os resultados têm sido, entre outros, a
+perda de provas de direito dos cidadãos, a imprecisão no fornecimento
+de subsídios para o processo decisório e sérias lacunas no acervo docu-
+mental potencialmente importante para a investigação retrospectiva.
+
+Se  as  causas  são  sobejamente  conhecidas  pela  comunidade
+arquivística,  o  diagnóstico  visa  alertar  aos  não  iniciados  (parcela
+significativa,  principalmente  dos  dirigentes  do  escalão  maior)  para  os
+seguintes  problemas:
+
+•  desinformação  dos  governantes,  dos  administradores  e  da
+comunidade  em  geral  sobre  o  papel  dos  arquivos  no
+desenvolvimento sócio-econômico e cultural da cidade;
+• alheamento, com raras exceções, no que respeita à ligação dos
+
+arquivos com as funções do governo municipal;
+
+•  escassez  de  profissionais,  na  área  de  documentação,
+
+notadamente de arquivistas;
+
+•  desorientação  na  escolha  de  dirigentes  da  área  pela
+inobservância  de  qualificações  e/ou  experiências  técnico-
+administrativas  e  culturais  mínimas  necessárias  ao  seu
+desempenho;
+
+•  desinteresse  dos  administradores,  pesquisadores  e  outros
+usuários em relação aos protocolos e arquivos correntes, como
+
+68 
+
+69
+
+
+COMO FAZER 3 - COMO IMPLANTAR ARQUIVOS PÚBLICOS MUNICIPAIS
+
+se neles não se iniciasse a trajetória dos documentos, fundamental
+tanto  para  as  comunicações  administrativas,  quanto  para  a
+memória  do  poder  público,  espelho,  afinal,  do  que  ele  fez  ou
+deixou de fazer;
+
+•  descaso  com  a  estrutura  organizacional  e  funcionamento  dos
+arquivos,  como  se  os  mesmos  não  contribuíssem  para  o
+desempenho do governo a que servem;
+
+• dificuldade de implantar o modelo sistêmico de administração de
+arquivos municipais, de acordo com a Teoria das Três Idades.
+
+6.2. Medidas saneadoras
+
+A partir do exposto, torna-se oportuno lembrar as seguintes medidas
+
+saneadoras:
+
+•  desenvolvimento  de  forte  programa  de  sensibilização  da
+comunidade (incluídos os agentes da cúpula governamental), no
+qual deve ser destacado não só o papel social dos arquivos, como
+a sua contribuição ao poder decisório;
+
+•  criação  de  cargos  de  categorias  funcionais  compatíveis  com  as
+
+finalidades dos arquivos;
+
+•  conquista  de  um  consenso  para  a  escolha  dos  dirigentes  no
+preenchimento  de  cargos  de  confiança,  tal  como  acontece  em
+outros campos profissionais;
+
+•  implantação  de  um  sistema  municipal  de  arquivos,  de  modo  a
+integrar objetivos do conjunto de unidades orgânicas arquivísticas
+da Prefeitura, evitando ações isoladas, dispersão, duplicação de
+esforços etc., e assim possibilitando desempenho racional, onde
+se  destaque  a  qualidade  das  informações  prestadas,  além  de
+economia de espaço e de custos;
+
+•  desenvolvimento  de  esforços  no  sentido  de  serem  os  arquivos
+levados em consideração no momento da elaboração da proposta
+orçamentária  municipal;
+
+•  adoção  de  mecanismos  apropriados  para  o  desenvolvimento  de
+projetos  voltados  para  a  conquista  de  recursos,  técnicos  ou
+financeiros, advindos de outras instituições oficiais ou privadas;
+• estabelecimento de um esquema de permanente retroalimentação
+para se evitar a entropia na execução de ações sistêmicas;
+• por último, o fortalecimento do objetivo democrático de franquear
+o acesso à informação aos usuários, vale dizer, a todo e qualquer
+cidadão.
+
+BIBLIOGRAFIA
+
+ALBERCH, Ramón. BOADAS, Joan. La función cultural de los archivos.
+Euskadi: Gobierno Vasco. Departamento de Cultura, 1991. (Ikerlanak,
+3).
+
+ARQUIVO  NACIONAL.  Gestão  de  documentos:  conceitos  e
+procedimentos básicos. Rio de Janeiro, 1995. (Publicações Técnicas,
+47).
+
+ARQUIVO  NACIONAL.  Manual  de  identificação  de  acervos
+documentais para transferência e/ou recolhimento aos arquivos
+públicos. Rio de Janeiro, 1985. (Publicações Técnicas, 40).
+
+ARQUIVO  NACIONAL.  Orientação  para  avaliação  e  arquivamento
+intermediário  em  arquivos  públicos.  Rio  de  Janeiro,  1985.
+(Publicações Técnicas, 41).
+
+BECK,  Ingrid  et  al.  Manual  de  preservação  de  documentos.  Rio  de
+Janeiro: Arquivo Nacional, 1991. (Publicações Técnicas, 46).
+
+BELLOTTO, Heloísa Liberalli. Arquivos permanentes: tratamento docu-
+
+mental. São Paulo: T.A. Queiroz, 1991.
+
+BERNARDES,  Ieda  Pimenta.  Como  avaliar  documentos  de  arquivo.
+São Paulo: Arquivo do Estado, 1998. (Projeto Como Fazer, 1).
+
+CAMARGO, Ana Maria de Almeida. BELLOTTO, Heloísa Liberalli (coord.).
+Dicionário  de  terminologia  arquivística.  São  Paulo:  Associação
+dos Arquivistas Brasileiros. Núcleo Regional de São Paulo / Secretaria
+de Estado da Cultura. Departamento de Museus e Arquivos, 1996.
+
+CAYETANO  MARTÍN,  María  del  Carmen  et  al.  Los  archivos  de  la
+administración  local.  Toledo:  Anabad  Castilla-La  Mancha,  1994.
+(Cuadernos de Archivos y Bibliotecas de Castilla-La Mancha, 1).
+
+CONSELHO NACIONAL DE ARQUIVOS. Resolução n. 4/1996. Dispõe
+sobre o Código de Classificação de Documentos de Arquivo para a
+Administraçao Pública: Atividades-meio, a ser adotado como modelo
+para  os  arquivos  correntes  dos  órgãos  e  entidades  integrantes  do
+Sistema Nacional de Arquivos (SINAR), e aprova os prazos de guarda
+
+70 
+
+71
+
+
+COMO FAZER 3 - COMO IMPLANTAR ARQUIVOS PÚBLICOS MUNICIPAIS
+
+e  a  destinação  de  documentos  estabelecidos  na  Tabela  Básica  de
+Temporalidade e Destinacão de Documentos de Arquivos Relativos
+à Atividades-meio da Administração Pública.
+
+INDOLFO,  Ana  Celeste.  CAMPOS,  Ana  Maria  Cascardo.  Proposta
+metodológica para avaliação de grandes volumes documentais
+acumulados. Rio de Janeiro: Arquivo Nacional, 1990. (Datilografado).
+
+CORTÉS  ALONSO,  Vicenta.  Documentación  y  documentos.  Madrid:
+
+JARDIM, José Maria. O conceito e a prática de gestão de documentos.
+
+Ministerio de Cultura, 1981.
+
+Acervo, Rio de Janeiro, v. 2, n. 2, p. 35-42, jul./dez. 1987.
+
+CORTÉS  ALONSO,  Vicenta.  Manual  de  archivos  municipales.  2.  ed.
+cor. y amp. Madrid: Asociación Española de Archiveros, Bibliotecarios,
+Museólogos  y  Documentalistas,  1989.  (Biblioteca  Profesional  de
+Anabad, Estudios, 9).
+
+DEARSTYNE, Bruce W. The management of local government records:
+a guide for local officials. Nashville: American Association for State
+and Local History, 1988.
+
+DIRECTION  DES  ARCHIVES  DE  FRANCE.  La  gestion  des  archives
+contemporaines.  Actes  du  IIe  Congrès  National  des  Archivistes
+Communaux. Paris: Archives Nationales, 1990.
+
+GONÇALVES,  Janice.  Como  classificar  e  ordenar  documentos  de
+arquivo. São Paulo: Arquivo do Estado, 1998. (Projeto Como Fazer,
+2).
+
+GRUPO DE TRABAJO DE ARCHIVEROS MUNICIPALES DE MADRID.
+Manual  de  tipología  documental  de  los  municipios.  Madrid:
+Consejería de Cultura, 1988. (Archivos, Estudios, 2).
+
+GRUPO DE TRABAJO DE ARCHIVEROS MUNICIPALES DE MADRID.
+Tipología documental municipal: 2. Arganda del Rey: Ayuntamiento
+de Arganda del Rey, 1992.
+
+GRUPO DE TRABAJO DE ARCHIVEROS MUNICIPALES DE MADRID.
+Tipología documental municipal: 3. El Escorial: Ayuntamiento de
+El Escorial, s.d.
+
+HEREDIA HERRERA, Antonia. Archivística general: teoría y práctica.
+
+5. ed. act. y aum. Sevilla: Diputación Provincial, 1991.
+
+HERRERA, Francisco. Diccionario de municipalismo. Madrid: Terciarias,
+
+MACHADO,  Helena  Corrêa.  Avaliação  de  documentos  de  arquivo:
+principais critérios. Arquivo Rio Claro, Rio Claro, v. 5, n. 2, p. 33-41,
+jul. 1986.
+
+MACHADO,  Helena  Corrêa.  Critérios  de  avaliação  de  documentos  de
+arquivo. Arquivo & Administração, Rio de Janeiro, v. 9, n. 3, p. 10-
+13, dez. 1981.
+
+MEIRELLES, Hely Lopes. Direito administrativo brasileiro. 16. ed. atualizada
+pela Constituição de 1988. São Paulo: Revista dos Tribunais, 1991.
+
+MEIRELLES, Hely Lopes. Direito municipal brasileiro. 8. ed. atualizada
+por Izabel Camargo Lopes Monteiro et al. São Paulo: Malheiros, 1996.
+
+MENDONÇA,  Eliana  R.F.  de.  Aplicação  de  um  modelo  de  organização
+em arquivos intermediários. Arquivo & Administração, Rio de Janeiro,
+v. 10-14, n. 2, p. 3-13, jul./dez. 1986.
+
+MILLER,  Fredric  M.  Ordenación  y  descripción  de  archivos  y
+manuscritos. Trad. Celso Rodríguez. Washington: Organización de
+los Estados Americanos / The Society of American Archivists, 1994.
+
+LA  ORGANIZACIÓN  de  documentos  en  los  archivos  de  oficina.  XI
+Jornadas de Archivos Municipales. Aranjuez: Consejería de Cultura
+de la Comunidad de Madrid / Ayuntamiento de Aranjuez, 1996.
+
+PAES,  Marilena  Leite.  Arquivo:  teoria  e  prática.  3.  ed.  Rio  de  Janeiro:
+
+Fundação Getúlio Vargas, 1997.
+
+PAES,  Marilena  Leite.  Arquivos  correntes,  o  calcanhar  de  Aquiles  da
+arquivologia.  Acervo,  Rio  de  Janeiro,  v.  2,  n.  1,  p.  17-21,  jan./jun.
+1987.
+
+1993.
+
+EL REGLAMIENTO del archivo  municipal.  IX  Jornadas  de  Archivos
+
+72 
+
+73
+
+
+COMO FAZER 3 - COMO IMPLANTAR ARQUIVOS PÚBLICOS MUNICIPAIS
+
+Municipales. Arganda del Rey: Ayuntamiento de Arganda del Rey / Grupo
+
+de Archiveros Municipales de Madrid, 1992.
+
+ROMERO  TALLAFIGO,  Manuel.  Archivística  y  archivos:  soportes,
+edifício y organización. 2. ed. cor. y aum. Carmona: S&C / Asociación
+de Archiveros de Andalucía, 1994. (Biblioteca Archivística, 1).
+
+ROUSSEAU, Jean-Yves, COUTURE, Carol. Les fondements de la dis-
+cipline archivistique. Québec: Presses de l’Université du Québec,
+1994. (Gestion de l’Information).
+
+SCHELLENBERG, Theodore Roosevelt. Arquivos modernos: princípios
+e  técnicas.  Trad.  Nilza  Teixeira  Soares.  Rio  de  Janeiro:  Fundação
+Getúlio Vargas, 1974.
+
+TESSITORE,  Viviane.  Introdução  à  Arquivística  e  à  implantação  de
+sistemas institucionais de arquivo. São Paulo: Sistema de Arquivos
+da Universidade de São Paulo, 1996. (Datilografado).
+
+VALETTE, Jean-Jacques. O papel dos arquivos na administração e na
+política de planificação nos países em desenvolvimento. Rio de
+Janeiro: Arquivo Nacional, 1973.
+
+VÁZQUEZ, Manuel. Manual de selección documental. 2. ed. Santa Fe:
+
+Archivo General de la Nación, 1995.
+
+ANEXO 1
+
+ATOS OFICIAIS E OUTROS DOCUMENTOS13
+
+Acórdão - Decisão proferida por Tribunal, em grau de recurso.
+
+Alvará - Documento por meio do qual a administração pública autoriza
+ou licencia o exercício de uma atividade, de um direito ou prática de algum
+ato.  Também  se  chama  alvará  a  autorização  judicial  para  a  prática  de
+algum ato.
+
+Anteprojeto - Trabalho preliminar para a redação de um projeto. Esboço
+de um plano, de um projeto.
+
+Ata - Documento contendo o registro expositivo, tanto de fatos ocorridos,
+como de deliberações tomadas durante reuniões formais.
+
+Atestado - Declaração de autoridade competente, afirmando ou negando
+o que é do conhecimento oficial do signatário.
+
+Aviso - Correspondência usada nos Ministérios Militares, do oficial supe-
+rior para o subordinado. Na área civil, é correspondência trocada entre
+Ministérios ou entre dirigentes de órgãos subordinados à Presidência da
+República.
+
+Boletim - Publicação periódica, em geral de pequeno formato, destinada
+a divulgar matéria de interesse das instituições.
+
+Certidão - Documento extraído de registros públicos originais por quem
+tenha autoridade para o fazer, ou o expediente em que no serviço público
+se dá fé acerca de algo constante de seus assentamentos.
+
+Certificado  -  Ato  escrito  em  que  se  afirma  um  fato.  Certificar  significa
+“dar por certo”.
+
+Circular  -  Documento  enviado  simultaneamente,  com  o  mesmo  teor,  a
+vários  destinatários.
+
+13 Trabalho compilado por Helena Corrêa Machado e distribuído sob a forma de apostila
+em inúmeros cursos ministrados, desde 1981.
+
+74 
+
+75
+
+
+COMO FAZER 3 - COMO IMPLANTAR ARQUIVOS PÚBLICOS MUNICIPAIS
+
+Contrato  -  Acordo  em  que  pessoas  ou  instituições  se  obrigam  a  dar,
+fazer ou deixar de fazer alguma coisa.
+
+Inquérito administrativo - Processo para apurar responsabilidades de
+servidores apontados como faltosos (processo administrativo disciplinar).
+
+Convenção - Documento utilizado para regular direitos e deveres bilaterais
+ou para oficializar ajuste entre partes.
+
+Convênio - Pacto firmado entre instituições. O mesmo que ajuste.
+
+Decisão - Documento em que se registra a resolução aprovada por órgão
+colegiado.
+
+Declaração - Documento em que alguém, sob responsabilidade, consigna
+um fato ou manifesta opinião ou conceito.
+
+Decreto - Ato pelo qual o poder executivo (federal, estadual ou munici-
+pal)  baixa  regulamento  para  o  cumprimento  de  leis,  faz  nomeações,
+promoções etc.
+
+Decreto legislativo - Ato do poder legislativo (federal, estadual ou mu-
+nicipal)  baixado  para  atender  a  imperativos  constitucionais  no  que  se
+refere a atribuições que lhe são privativas.
+
+Decreto-lei - Norma baixada quando o poder executivo enfeixa atribuições
+do poder legislativo.
+
+Distrato - Desfazimento de contrato.
+
+Edital - Aviso ao público em geral ou a grupos de interessados, destinado
+a ampla divulgação por meio da imprensa, chamando a atenção para um
+ato ou fato administrativo.
+
+Laudo  -  Parecer,  por  escrito,  de  arbitradores  ou  peritos  (médicos,
+engenheiros e outros técnicos), depois de relatados minuciosamente os
+exames a que procederam e as conclusões a que chegaram.
+
+Lei - Norma baixada pelo poder legislativo. Expediente que consubstancia
+a expressão da vontade do governo, ditada pelos representantes do povo
+no poder legislativo. É submetida à sanção do chefe do poder executivo.
+
+Mandado  -  Ordem  escrita  expedida  por  autoridade  judicial  ou
+administrativa, para cumprimento de alguma diligência. O mandado judi-
+cial é o mais conhecido e dele há diversos tipos: de citação, de prisão, de
+busca e apreensão etc.
+
+Manifesto  -  Exposição  pública  de  programa  político,  religioso  ou
+diplomático, elaborada por autoridades, corporações etc.
+
+Manual - Obra de formato cômodo que reúne disposições de trabalho,
+diretrizes, decisões, métodos e rotinas de uma unidade administrativa ou
+de  determinada  função.
+
+Medida provisória – Ato com força de lei expedido pelo Presidente da
+República  nos  casos  de  relevância  e  urgência,  o  qual,  submetido  ao
+Congresso Nacional, poderá ser convertido ou não em lei, no prazo de
+trinta dias a partir da data da publicação.
+
+Memorando - Correspondência interna de breve tramitação e pequeno
+formato.
+
+Estatuto - Conjunto de normas orgânicas relativas a entidades públicas
+ou privadas, a corporações ou associações de classe.
+
+Memorial - Requerimento coletivo ou petição individual, em que a parte
+expõe circunstanciadamente seu direito, justificando a pretensão.
+
+Exposição de motivos - Documento em que autoridades sugerem a seus
+superiores  decisões  a  respeito  de  assunto  sobre  o  qual  fazem  relato
+circunstanciado.
+
+Mensagem - Comunicação ou correspondência entre os representantes
+dos poderes do Estado, especialmente enviada ao poder legislativo para
+proposição de medidas que devem ser consubstanciadas em lei.
+
+76 
+
+77
+
+
+COMO FAZER 3 - COMO IMPLANTAR ARQUIVOS PÚBLICOS MUNICIPAIS
+
+Minuta  -  Esboço  ou  rascunho  de  qualquer  ato,  contrato  ou
+correspondência, a ser revisto e aprovado por outrem, antes de se tornar
+definitivo.
+
+Moção  -  Meio  pelo  qual  se  propõe  algo  numa  assembléia  (moção  de
+simpatia, desagravo, aplauso etc.).
+
+Processo  -  Documento  que,  uma  vez  autuado,  passa  a  receber
+informações, pareceres e despachos que a ele se incorporam, no decurso
+de uma ação administrativa ou judiciária.
+
+Provisão - Documento oficial com a finalidade de conferir autoridade a
+uma pessoa, de autorizar o exercício de um cargo, de uma profissão, ou
+de expedir instruções.
+
+Monografia  -  Estudo  exaustivo  sobre  determinado  assunto,  elaborado
+usualmente em forma de relatório.
+
+Pública-forma  -  Cópia  oficial  de  documento  avulso,  extraída  por  um
+tabelião e conferida por outro.
+
+Nota  -  Comunicação  entre  ministros  ou  entre  autoridades  em  geral.
+Designa também registro ou serviço de notariado.
+
+Notificação  -  Documento  pelo  qual  se  dá  a  conhecer  um  preceito  a
+alguém, pessoa física ou jurídica, para a prática ou não de um ato.
+
+Ofício - Instrumento oficial de comunicação entre autoridades ou destas
+com entidades públicas ou particulares.
+
+Ordem  do  dia  -  Relação  de  matérias  escolhidas  para  tratamento  em
+sessão daquela data.
+
+Razões  de  veto  -  Justificativa  do  poder  executivo,  ao  manifestar  sua
+discordância  total  ou  parcial  em  relação  a  projeto  de  lei  aprovado  pelo
+poder legislativo e submetido à sua apreciação.
+
+Regimento  -  Conjunto  de  normas  descritivas  do  funcionamento  de  um
+órgão,  incluindo  finalidades,  estrutura  organizacional,  competências  e
+atribuições, além de suas ligações com outros órgãos ou entidades.
+
+Regulamento - Ato oficial em que se explica o modo e a forma de executar
+uma  lei.  Conjunto  de  normas  cujo  fim  é  esclarecer  um  texto  legal,
+facilitando-lhe a execução.
+
+Ordem  de  serviço  -  Ato  de  competência  de  autoridade  administrativa,
+de  acordo  com  a  forma  privativa  estabelecida  na  instituição,  contendo
+decisões, instruções etc.
+
+Rejeição de veto - Deliberação do poder legislativo ao rejeitar, total ou
+parcialmente, vetos apostos pelo chefe do poder executivo a projeto de
+lei.
+
+Parecer  -  Opinião  técnica,  dada  com  a  finalidade  de  servir  de  base  à
+decisão  sobre  caso  relacionado  com  o  fato  apreciado  (administrativo,
+jurídico, técnico ou científico).
+
+Pauta - Relação das datas e dos feitos a julgar ou discutir em reuniões
+oficiais.
+
+Petição - O mesmo que requerimento.
+
+Portaria  -  Ato  de  competência  de  autoridade  administrativa,  de  acordo
+com  a  forma  privativa  estabelecida  na  instituição,  contendo  decisões,
+instruções etc.
+
+Relatório  -  Exposição  circunstanciada  de  ocorrência,  da  execução  de
+atividades ou do funcionamento de uma instituição.
+
+Requerimento  -  Documento  escrito  por  particular  ou  servidor  público,
+solicitando o atendimento de uma pretensão qualquer.
+
+Requisição - Ato em que uma autoridade administrativa pede oficialmente
+alguma coisa ou a execução de determinada ação.
+
+Sinopse  -  Resumo,  súmula,  síntese  de  um  trabalho,  feita  de  modo  a
+permitir facilmente a percepção do todo e a relação entre as partes.
+
+Tese  -  Proposição  sobre  aspectos  inéditos  de  ciência,  arte  ou  técnica,
+sustentada em público e passível de controvérsia.
+
+78 
+
+79
+
+
+COMO FAZER 3 - COMO IMPLANTAR ARQUIVOS PÚBLICOS MUNICIPAIS
+
+26/12/1995 (Diário Oficial da União de 28/12/1995):Dispõe sobre o
+Programa de Assistência Técnica do Conselho Nacional de Arquivos.
+(cid:131) Resolução  nº  4  do  Conselho  Nacional  de  Arquivos  (CONARQ),  de
+28/3/1996  (Diário  Oficial  da  União  de  29/3/1996):  Dispõe  sobre  o
+Código  de  Classificação  de  Documentos  de  Arquivo  para  a
+Administração Pública: Atividades-Meio, a ser adotado como modelo
+para  os  arquivos  correntes  dos  órgãos  e  entidades  integrantes  do
+Sistema Nacional de Arquivos (SINAR), e aprova os prazos de guarda
+e  a  destinação  de  documentos  estabelecidos  na  Tabela  Básica  de
+Temporalidade e Destinação de Documentos de Arquivo Relativos às
+Atividades-Meio da Administração Pública.
+
+(cid:131) Resolução nº 5 do CONARQ, de 30/9/1996 (Diário Oficial da União
+de 11/10/1996): Dispõe sobre a publicação de editais para eliminação
+de documentos nos Diários Oficiais da União, Distrito Federal, Estados
+e Municípios.
+
+(cid:131) Resolução  nº  6  do  Conselho  Nacional  de  Arquivos  (CONARQ),  de
+15/5/1997  (Diário  Oficial  da  União  de  23/5/1997):  Dispõe  sobre
+diretrizes quanto à terceirização de serviços arquivísticos públicos.
+(cid:131) Resolução nº 7 do CONARQ, de 20/5/1997 (Diário Oficial da União
+de 23/5/1997): Dispõe sobre os procedimentos para a eliminação de
+documentos no âmbito dos órgãos e entidades integrantes do Poder
+Público.
+
+(cid:131) Resolução nº 8 do CONARQ, de 20/5/1997 (Diário Oficial da União
+de 23/5/1997): Atualiza o Código de Classificação de Documentos de
+Arquivo  para  a  Administração  Pública:  Atividades-Meio  e  a  Tabela
+Básica de Temporalidade e Destinação de Documentos de Arquivos
+Relativos  às  Atividades-Meio  da  Administração  Pública,  aprovados
+pela Resolução nº 4, de 28 de março de 1996.
+
+ANEXO 2
+
+Legislação arquivística
+
+(cid:131)
+
+(cid:131)
+
+Lei  nº  8.159,  de  8/1/1991  (Diário  Oficial  da  União  de  9/1/1991.
+Retificado em 28/1/1991): Dispõe sobre a política nacional de arquivos
+públicos e privados.
+Lei nº 9.605, de 12/2/1998 (Diário Oficial da União de 13/2/1998):
+Dispõe  sobre  as  sanções  penais  e  administrativas  derivadas  de
+condutas e atividades lesivas ao meio ambiente (art. 62).
+
+(cid:131) Decreto  nº  1.173,  de  29/6/1994  (Diário  Oficial  da  União  de  30/6/
+1994):  Dispõe  sobre  a  competência,  organização  e  funcionamento
+do Conselho Nacional de Arquivos (CONARQ) e do Sistema Nacional
+de Arquivos (SINAR).
+
+(cid:131) Decreto  nº  1.461,  de  25/4/1995  (Diário  Oficial  da  União  de  26/4/
+1995): Altera os arts. 3º e 7º do Decreto nº 1.173, de 29 de junho de
+1994, que dispõe sobre a competência, organização e funcionamento
+do Conselho Nacional de Arquivos (CONARQ) e do Sistema Nacional
+de Arquivos (SINAR).
+
+(cid:131) Decreto  nº  1.799,  de  30/1/1996  (Diário  Oficial  da  União  de  31/1/
+1996):  Regulamenta  a  Lei  5.433,  de  8/5/1968,  que  regula  a
+microfilmagem de documentos oficiais.
+
+(cid:131) Decreto  nº  2.134,  de  24/1/1997  (Diário  Oficial  da  União  de  27/1/
+1997):  Regulamenta  o  art.  23  da  Lei  nº  8.159,  de  8  de  janeiro  de
+1991, que dispõe sobre a categoria dos documentos públicos sigilosos
+e o acesso a eles.
+
+(cid:131) Decreto  nº  2.182,  de  20/3/1997  (Diário  Oficial  da  União  de  21/3/
+1997): Estabelece normas para a transferência e o recolhimento de
+acervos arquivísticos públicos federais para o Arquivo Nacional.
+(cid:131) Resolução  nº  1  do  Conselho  Nacional  de  Arquivos  (CONARQ),  de
+18/10/1995 (Diário Oficial da União de 24/10/1995): Dispõe sobre a
+necessidade da adoção de planos e/ou códigos de classificação de
+documentos  nos  arquivos  correntes,  com  base  nas  atividades  e
+funções do órgão.
+
+(cid:131) Resolução  nº  2  do  Conselho  Nacional  de  Arquivos  (CONARQ),  de
+18/10/1995  (Diário  Oficial  da  União  de  24/10/1995):  Dispõe  sobre
+as medidas a serem observadas na transferência ou no recolhimento
+de acervos documentais para instituições arquivísticas públicas.
+(cid:131) Resolução  nº  3  do  Conselho  Nacional  de  Arquivos  (CONARQ),  de
+
+80 
+
+81
+
+
+COMO FAZER 3 - COMO IMPLANTAR ARQUIVOS PÚBLICOS MUNICIPAIS
+
+LEI No 8.159, de 8 de janeiro de 1991
+
+Dispõe sobre a política nacional de arquivos
+públicos e privados e dá outras providências.
+
+Art. 6o - Fica resguardado o direito de indenização pelo dano ma-
+terial ou moral decorrente da violação do sigilo, sem prejuízo das ações
+penal, civil e administrativa.
+
+O PRESIDENTE DA REPÚBLICA
+Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte
+Lei:
+
+CAPÍTULO I
+DISPOSIÇÕES GERAIS
+
+Art. 1o - É dever do Poder Público a gestão documental e a proteção
+especial  a  documentos  de  arquivos,  como  instrumento  de  apoio  à
+administração, à cultura, ao desenvolvimento científico e como elementos
+de prova e informação.
+
+Art.  2o  -  Consideram-se  arquivos,  para  os  fins  desta  Lei,  os
+conjuntos  de  documentos  produzidos  e  recebidos  por  órgãos  públicos,
+instituições de caráter público e entidades privadas, em decorrência do
+exercício de atividades específicas, bem como por pessoa física, qualquer
+que seja o suporte da informação e a natureza dos documentos.
+
+Art.  3o  -  Considera-se  gestão  de  documentos  o  conjunto  de
+procedimentos  e  operações  técnicas  referentes  à  sua  produção,
+tramitação,  uso,  avaliação  e  arquivamento  em  fase  corrente  e
+intermediária,  visando  a  sua  eliminação  ou  recolhimento  para  guarda
+permanente.
+
+Art.  4o  -  Todos  têm  direito  a  receber  dos  órgãos  públicos
+informações de seu interesse particular ou de interesse coletivo ou geral,
+contidas em documentos de arquivo, que serão prestadas no prazo da
+lei,  sob  pena  de  responsabilidade,  ressalvadas  aquelas  cujo  sigilo  seja
+imprescindível  à  segurança  da  sociedade  e  do  Estado,  bem  como  à
+inviolabilidade da intimidade, da vida privada, da honra e da imagem das
+pessoas.
+
+Art.  5o  -  A  administração  pública  franqueará  a  consulta  aos
+
+documentos públicos na forma desta Lei.
+
+CAPÍTULO II
+DOS ARQUIVOS PÚBLICOS
+
+Art. 7o -  Os arquivos públicos são os conjuntos de documentos
+produzidos  e  recebidos,  no  exercício  de  suas  atividades,  por  órgãos
+públicos de âmbito federal, estadual, do Distrito Federal e municipal em
+decorrência de suas funções administrativas, legislativas e judiciárias.
+
+§  1o  -  São  também  públicos  os  conjuntos  de  documentos
+produzidos e recebidos por instituições de caráter público, por entidades
+privadas  encarregadas  da  gestão  de  serviços  públicos  no  exercício  de
+suas atividades.
+
+§ 2o - A cessação de atividades de instituições públicas e de caráter
+público  implica  o  recolhimento  de  sua  documentação  à  instituição
+arquivística pública ou a sua transferência à instituição sucessora.
+
+Art. 8o - Os documentos públicos são identificados como correntes,
+
+intermediários e permanentes.
+
+§ 1o - Consideram-se documentos correntes aqueles em curso ou
+que,  mesmo  sem  movimentação,  constituam  objeto  de  consultas
+freqüentes.
+
+§ 2o - Consideram-se documentos intermediários aqueles que, não
+sendo  de  uso  corrente  nos  órgãos  produtores,  por  razões  de  interesse
+administrativo, aguardam a sua eliminação ou recolhimento para guarda
+permanente.
+
+§ 3o - Consideram-se permanentes os conjuntos de documentos
+de valor histórico, probatório e informativo que devem ser definitivamente
+preservados.
+
+Art. 9o - A eliminação de documentos produzidos por instituições
+públicas  e  de  caráter  público  será  realizada  mediante  autorização  da
+instituição arquivística pública, na sua específica esfera de competência.
+
+Art. 10 - Os documentos de valor permanente são inalienáveis e
+
+imprescritíveis.
+
+82 
+
+83
+
+
+COMO FAZER 3 - COMO IMPLANTAR ARQUIVOS PÚBLICOS MUNICIPAIS
+
+CAPÍTULO III
+DOS ARQUIVOS PRIVADOS
+
+Art.  11  -  Consideram-se  arquivos  privados  os  conjuntos  de
+documentos  produzidos  ou  recebidos  por  pessoas  físicas  ou  jurídicas,
+em decorrência de suas atividades.
+
+Art. 12 - Os arquivos privados podem ser identificados pelo Poder
+Público como de interesse público e social, desde que sejam considerados
+como conjuntos de fontes relevantes para a história e desenvolvimento
+científico  nacional.
+
+Art.  13  -  Os  arquivos  privados  identificados  como  de  interesse
+público e social não poderão ser alienados com dispersão ou perda da
+unidade documental, nem transferidos para o exterior.
+
+Parágrafo único - Na alienação desses arquivos o Poder Público
+
+exercerá preferência na aquisição.
+
+Art.  14  -  O  acesso  aos  documentos  de  arquivos  privados
+identificados como de interesse público e social poderá ser franqueado
+mediante autorização de seu proprietário ou possuidor.
+
+Art.  15  -  Os  arquivos  privados  identificados  como  de  interesse
+político e social poderão ser depositados a título revogável, ou doados a
+instituições arquivísticas públicas.
+
+Art.  16  -  Os  registros  civis  de  arquivos  de  entidades  religiosas
+produzidos anteriormente à vigência do Código Civil ficam identificados
+como de interesse público e social.
+
+CAPÍTULO IV
+DA ORGANIZAÇÃO E ADMINISTRAÇÃO DE INSTITUIÇÕES
+ARQUIVÍSTICAS PÚBLICAS
+
+Art. 17 - A administração da documentação pública ou de caráter
+público compete às instituições federais, estaduais, do Distrito Federal e
+municipal.
+
+§  1o  -  São  Arquivos  Federais  o  Arquivo  Nacional,  os  do  Poder
+Executivo, e os arquivos do Poder Legislativo e do Poder Judiciário. São
+considerados, também, do Poder Executivo os arquivos do Ministério da
+
+Marinha, do Ministério das Relações Exteriores, do Ministério do Exército
+e do Ministério da Aeronáutica.
+
+§ 2o - São Arquivos Estaduais os arquivos do Poder Executivo, o
+
+arquivo do Poder Legislativo e o arquivo do Poder Judiciário.
+
+§  3o  -  São  Arquivos  do  Distrito  Federal  o  arquivo  do  Poder
+Executivo, o arquivo do Poder Legislativo e o arquivo do Poder Judiciário.
+§ 4o - São Arquivos Municipais o arquivo do Poder Executivo e o
+
+arquivo do Poder Legislativo.
+
+§  5o  -  Os  arquivos  públicos  dos  Territórios  são  organizados  de
+
+acordo com sua estrutura político-jurídica.
+
+Art. 18 - Compete ao Arquivo Nacional a gestão e o recolhimento
+dos documentos produzidos e recebidos pelo Poder Executivo Federal,
+bem como preservar e facultar o acesso aos documentos sob sua guarda,
+e acompanhar e implementar a política nacional de arquivos.
+
+Parágrafo único - Para o pleno exercício de suas funções, o Arquivo
+
+Nacional poderá criar unidades regionais.
+
+Art. 19 - Competem aos arquivos do Poder Legislativo Federal a
+gestão  e  o  recolhimento  dos  documentos  produzidos  e  recebidos  pelo
+Poder  Legislativo  Federal  no  exercício  de  suas  funções,  bem  como
+preservar e facultar o acesso aos documentos sob sua guarda.
+
+Art.  20  -  Competem  aos  arquivos  do  Poder  Judiciário  Federal  a
+gestão  e  o  recolhimento  dos  documentos  produzidos  e  recebidos  pelo
+Poder  Judiciário  Federal  no  exercício  de  suas  funções,  tramitados  em
+juízo e oriundos de cartórios e secretarias, bem como preservar e facultar
+o acesso aos documentos sob sua guarda.
+
+Art. 21 - Legislação estadual, do Distrito Federal e municipal definirá
+os  critérios  de  organização  e  vinculação  dos  arquivos  estaduais  e
+municipais, bem como a gestão e o acesso aos documentos, observado
+o disposto na Constituição Federal e nesta Lei.
+
+CAPÍTULO V
+DO ACESSO E DO SIGILO DOS DOCUMENTOS PÚBLICOS
+
+Art. 22 - É assegurado o direito de acesso pleno aos documentos
+
+públicos.
+
+84 
+
+85
+
+
+COMO FAZER 3 - COMO IMPLANTAR ARQUIVOS PÚBLICOS MUNICIPAIS
+
+serão estabelecidos em regulamento.
+
+Art. 27 - Esta Lei entra em vigor na data de sua publicação.
+
+Art. 28 - Revogam-se as disposições em contrário.
+
+Brasília, em 8 de fevereiro de 1991; 170o da Independência e 103o
+
+da República.
+
+Art.  23  -  Decreto  fixará  as  categorias  de  sigilo  que  deverão  ser
+obedecidas pelos órgãos públicos na classificação dos documentos por
+eles  produzidos.
+
+§ 1o - Os documentos cuja divulgação ponha em risco a segurança
+da sociedade e do Estado, bem como aqueles necessários ao resguardo
+da inviolabilidade da intimidade, da vida privada, da honra e da imagem
+das pessoas, são originariamente sigilosos.
+
+§ 2o - O acesso aos documentos sigilosos referentes à segurança
+da sociedade e do Estado será restrito por um prazo máximo de 30 (trinta)
+anos,  a  contar  da  data  de  sua  produção,  podendo  esse  prazo  ser
+prorrogado, por uma única vez, por igual período.
+
+§ 3o - O acesso aos documentos sigilosos referentes à honra e à
+imagem  das  pessoas  será  restrito  por  um  prazo  máximo  de  100  (cem)
+anos, a contar da data de sua produção.
+
+Art.  24  -  Poderá  o  Poder  Judiciário,  em  qualquer  instância,
+determinar a exibição reservada de qualquer documento sigiloso, sempre
+que  indispensável  à  defesa  de  direito  próprio  ou  esclarecimento  de
+situação pessoal da parte.
+
+Parágrafo único - Nenhuma norma de organização administrativa
+será  interpretada  de  modo  a,  por  qualquer  forma,  restringir  o  disposto
+neste artigo.
+
+DISPOSIÇÕES FINAIS
+
+Art.  25  -  Ficará  sujeito  a  responsabilidade  penal,  civil  e
+administrativa, na forma da legislação em vigor, aquele que desfigurar ou
+destruir documentos de valor permanente ou considerado como de inter-
+esse público e social.
+
+Art. 26 - Fica criado o Conselho Nacional de Arquivos - CONARQ,
+órgão vinculado ao Arquivo Nacional, que definirá a política nacional de
+arquivos,  como  órgão  central  de  um  Sistema  Nacional  de  Arquivos  -
+SINAR.
+
+§ 1o - O Conselho Nacional de Arquivos será presidido pelo Diretor-
+Geral do Arquivo Nacional e integrado por representantes de instituições
+arquivísticas e acadêmicas, públicas e privadas.
+
+§ 2o - A estrutura e funcionamento do Conselho criado neste artigo
+
+86 
+
+87
+
+

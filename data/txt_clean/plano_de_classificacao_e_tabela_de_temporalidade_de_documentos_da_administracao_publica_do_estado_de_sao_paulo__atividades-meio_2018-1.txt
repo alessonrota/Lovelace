@@ -1,138 +1,33 @@
-ISBN 978-85-69353-02-7
-
-9    7 8 8 5 6 9   3 5 3 0 2 7
-
-e
-d
-a
-d
-
-i
-l
-
-a
-r
-o
-p
-m
-e
-T
-e
-d
-
-l
-
-a
-e
-b
-a
-T
-e
-
-o
-ã
-ç
-a
-c
-ﬁ
-i
-s
-s
-a
-C
-e
-d
-
-l
-
-o
-n
-a
-P
-
-l
-
-I
-
-O
-C
-L
-B
-Ú
-P
-O
-V
-U
-Q
-R
-A
-
-I
-
-O
-D
-A
-T
-S
-E
-O
-D
-
-Secretaria de Governo
-
-Plano de Classiﬁcação
-e Tabela de Temporalidade
-de Documentos
-da Administração Pública
-do Estado de São Paulo:
-Atividades-Meio
-
-2a Edição
-1ª Reimpressão
-
-48110001 capa LOMB 22.indd   1
-
-27/02/2019   11:35:39
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
-
 Plano de Classificação 
 e Tabela de Temporalidade de Documentos 
 da Administração Pública 
 do Estado de São Paulo: Atividades-Meio
 
-48110001 miolo_230x280mm.indd   1
 
-15/02/19   19:26
+GOVERNO DO ESTADO
+DE SÃO PAULO
 
+Márcio França
+Governador
 
-João Doria
-Governador do Estado de São Paulo
+SECRETARIA DE GOVERNO
 
-Rodrigo Garcia
-Secretário de Estado de Governo
+Saulo de Castro Abreu Filho
+Secretário Estadual de Governo
 
-Fernando Padula Novaes
-Coordenador do Arquivo Público do Estado
+ARQUIVO PÚBLICO 
+DO ESTADO
+
+Fernando Padula Novaes 
+Coordenador
 
 Ieda Pimenta Bernardes
-Diretora Técnica do Departamento de Gestão do
+Diretora Técnica do Departamento de Gestão do 
 Sistema de Arquivos do Estado de São Paulo – SAESP
 
 Camila Brandi de Souza Bentes
-Diretora Técnica do Departamento de Preservação e Difusão do Acervo
-
-48110001 miolo_230x280mm.indd   2
-
-15/02/19   19:26
+Diretora Técnica do Departamento de Preservação  
+e Difusão do Acervo
 
 
 Plano de Classificação 
@@ -142,16 +37,14 @@ do Estado de São Paulo: Atividades-Meio
 
 2a Edição 
 Revista e Ampliada
-1ª Reimpressão, 2019
+
+Arquivo Público  
+do Estado
 
 Secretaria de Governo
 
 São Paulo
-2019
-
-48110001 miolo_230x280mm.indd   3
-
-15/02/19   19:26
+2018
 
 
 Ficha Catalográfica elaborada por Rita de Cássia Higa do Nascimento
@@ -167,8 +60,6 @@ revista e ampliada. – São Paulo : Arquivo Público do Estado, 2018.
 1a Edição: 2005.
 Inclui referência legislativa
 ISBN: 978-85-69353-02-7
-
-1ª Reimpressão, 2019
 
 1. Gestão documental  2. Plano de classificação  3. Tabela de temporalidade  4. 
 Atividade-meio  5. Documentos públicos  6. Arquivos públicos  7. Arquivística  
@@ -224,11 +115,6 @@ saesp@sp.gov.br
 Arquivo Público do Estado
 www.arquivoestado.sp.gov.br
 2a edição, 2018
-1ª Reimpressão, 2019
-
-48110001 miolo_230x280mm.indd   4
-
-15/02/19   19:26
 
 
 AGRADECIMENTOS
@@ -238,15 +124,6 @@ trabalho dentro do Programa de Pesquisas em Políticas Públicas (2000-2002).
 
 Ao Grupo Técnico para implementação do Protocolo Único instituído pela Resolução CC-10, de 25/2/2005,
 junto ao Comitê de Qualidade da Gestão Pública do Governo do Estado de São Paulo.
-
-48110001 miolo_230x280mm.indd   5
-
-15/02/19   19:26
-
-
-48110001 miolo_230x280mm.indd   6
-
-15/02/19   19:26
 
 
 Comissões de Avaliação de Documentos
@@ -408,10 +285,6 @@ Arlete Cleide Freixeira
 
 Colaboração:
 Rosimeire das Dores Silva
-
-48110001 miolo_230x280mm.indd   7
-
-15/02/19   19:26
 
 
 Fundação Estadual do Bem-Estar
@@ -588,15 +461,11 @@ Ide Romani de Camargo Ortiz
 Luiz P. Ortiz Flores
 Maria Josefa Del C. M. Soto
 
-48110001 miolo_230x280mm.indd   8
-
-15/02/19   19:26
-
 
 Oswaldo Guizzardi Filho
 Vivaldo Luiz Conti
 
-Instituto Geográﬁco e Cartográﬁco
+Instituto Geográfico e Cartográfico
 Colaboração:
 Marly Marques de Oliveira Costa
 Michel Vitor Cury
@@ -767,10 +636,6 @@ Gilvanda Tereza de Santana
 Ilza Teixeira de Almeida
 Jacira da Silva Natividade
 
-48110001 miolo_230x280mm.indd   9
-
-15/02/19   19:26
-
 
 Janete Cardoso dos Santos Lima
 João Moura Filho
@@ -828,7 +693,7 @@ Conselho Estadual de Informática – CONEI
 Colaboração:
 Walter Constantino Junior
 
-Imprensa Oﬁcial do Estado de São Paulo
+Imprensa Oficial do Estado de São Paulo
 Portaria 10 - 17, de 7/11/2002
 Antonio Carlos Imperial
 Cecília Almeida de Natividade
@@ -942,10 +807,6 @@ José Eduardo de Paula Martins Zaragoza
 Gisele da Graça Santana
 Márcia Massako Inoue
 Zenaide Aparecida da Silva
-
-48110001 miolo_230x280mm.indd   10
-
-15/02/19   19:26
 
 
 Secretaria de Estado da Juventude,
@@ -1120,10 +981,6 @@ Antônio da Rocha Marmo S.G. Binelli
 Elizabeth Magyar de Souza Tertuliano
 Francisco Tadeu Trevisan Cabral
 
-48110001 miolo_230x280mm.indd   11
-
-15/02/19   19:26
-
 
 Superintendência de Controle
 de Endemias- SUCEN
@@ -1154,7 +1011,7 @@ Mauro Passetti
 Vânia Juliano do Nascimento
 William Marfinati
 
-Caixa Beneﬁcente da Polícia Militar
+Caixa Beneficente da Polícia Militar
 do Estado – CBPM
 Portaria 7072-047/2002, de 26/8/2002
 Neuza Passos Gomes
@@ -1298,10 +1155,6 @@ Raquel Freitas de Souza
 Resolução PGE-204, de 17/4/2001
 Vera Wolff Bava Moreira
 
-48110001 miolo_230x280mm.indd   12
-
-15/02/19   19:26
-
 
 Resolução PGE - 364, de 29/6/2001
 Equipe de Trabalho:
@@ -1395,15 +1248,6 @@ Colaboração:
 Alex Ricardo Brasil
 José D’Amico Bauab
 
-48110001 miolo_230x280mm.indd   13
-
-15/02/19   19:26
-
-
-48110001 miolo_230x280mm.indd   14
-
-15/02/19   19:26
-
 
 SUMÁRIO
 
@@ -1414,7 +1258,7 @@ APRESENTAÇÃO .................................................................
 INTRODUÇÃO ......................................................................................................................  23
 
 CRONOLOGIA DO SISTEMA DE ARQUIVOS DO ESTADO  
-DE SÃO PAULO  SAESP  19832016 .................................................................................  27
+DE SÃO PAULO – SAESP – 1983-2016 .................................................................................  27
 
 DECRETO N. 48.897, DE 27 DE AGOSTO DE 2004 ..........................................................  55
 
@@ -1426,7 +1270,7 @@ ANEXO III – Termo de Eliminação de Documentos ..............................
 
 DECRETO N. 48.898, DE 27 DE AGOSTO DE 2004 ..........................................................  65
 
-ANEXO I – Plano de Classiﬁcação de Documentos da Administração Pública  
+ANEXO I – Plano de Classificação de Documentos da Administração Pública  
 do Estado de São Paulo: Atividades-Meio ..........................................................  67
 
 ANEXO II – Índice ..........................................................................................  93
@@ -1445,17 +1289,8 @@ Legislação Federal ...........................................................
 Legislação Estadual .........................................................................................  254
 Legislação Municipal.......................................................................................  262
 
-48110001 miolo_230x280mm.indd   15
 
-15/02/19   19:26
-
-
-48110001 miolo_230x280mm.indd   16
-
-15/02/19   19:26
-
-
-NOTA À 1ª REIMPRESSÃO DA 2ª EDIÇÃO
+NOTA À 2a EDIÇÃO
 
 O Sistema de Arquivos do Estado de São Paulo – SAESP, 
 instituído pelo Decreto n. 22.789, de 19 de outubro de 1984, 
@@ -1534,9 +1369,9 @@ a orientação técnica do Departamento de Gestão do SAESP,
 que exerce controle rigoroso sobre a qualidade, a adequação e 
 a consistência dos trabalhos. 
 
-Até dezembro de 2018, foram aprovados pelo Arquivo 
-Público do Estado e oficializados pelos órgãos e entidades trinta 
-e dois planos e tabelas das atividades-fim: Ministério Público 
+Até  o  momento,  já  foram  aprovados  pelo  Arquivo 
+Público do Estado e oficializados pelos órgãos e entidades vinte 
+e  oito  planos  e  tabelas  das  atividades-fim:  Ministério  Público 
 (2006),  Secretaria  do  Meio  Ambiente  (2007),  Fundação 
 de  Proteção  e  Defesa  do  Consumidor  -  PROCON  (2008), 
 Secretaria  da  Gestão  Pública  (2009),  Secretaria  da  Cultura 
@@ -1556,11 +1391,7 @@ para  a  Conservação  e  a  Produção  Florestal  do  Estado  de  São
 
 1 Também disponível em: //http://www.arquivoestado.sp.gov.br/site/ 
 
-48110001 miolo_230x280mm.indd   17
-
 17
-
-15/02/19   19:26
 
 
 Paulo  (2017),  Companhia  do  Metropolitano  de  São  Paulo  - 
@@ -1569,12 +1400,8 @@ Metrô  (2017),  Companhia  Paulista  de Trens  Metropolitanos
 Urbanos  de  São  Paulo  S.A.  -  EMTU  (2017),  Secretaria  dos 
 Transportes  Metropolitanos  (2017),  Secretaria  de  Educação 
 (2017), Secretaria de Saneamento e Recursos Hídricos (2018), 
-Secretaria do Emprego e Relações do Trabalho (2018), Centro 
-Estadual  de  Educação  Tecnológica  “Paula  Souza”  (2018), 
-Esporte,  Lazer  e  Juventude  (2018),  Secretaria  de  Turismo 
-(2018),  Empresa  Paulista  de  Planejamento  Metropolitano 
-S.A. - EMPLASA (2018), Fundação Centro de Atendimento 
-Socioeducativo ao Adolescente – Fundação CASA-SP (2018).
+Secretaria do Emprego e Relações do Trabalho (2018) e Centro 
+Estadual de Educação Tecnológica "Paula Souza" (2018).
 
 A  par  da  excelência  do  trabalho  técnico  realizado 
 na  coordenação  do  Sistema  de  Arquivos,  considerado  uma 
@@ -1618,11 +1445,11 @@ recursos públicos. A gestão documental é aliada estratégica de
 uma Administração Pública mais responsável e transparente.
 
 O  conhecimento  técnico  que  vem  sendo  construído 
-
 e  acumulado,  bem  como  as  experiências  exitosas  no  âmbito 
 da  Administração  Estadual  estão  sendo  continuamente 
 compartilhadas  com  as  administrações  municipais,  inclusive 
 por meio de importantes parcerias, como é o caso da cooperação 
+
 técnica  com  o  Ministério  Público  Estadual,  firmada  no  ano 
 de  2000  e  renovada  em  2009,  para  a  conjugação  de  esforços 
 visando à institucionalização de Arquivos Públicos Municipais, 
@@ -1669,6 +1496,10 @@ de Documentos e Informações – SPdoc.
 
 Decreto n. 58.052/2012, que regulamenta em âmbito 
 estadual a Lei federal de acesso à informação n. 12.527/2011.
+Decreto  n.  60.144/2014,  que  institui  a  Comissão 
+Estadual de Acesso à Informação (CEAI), considerada a última 
+instância recursal em âmbito administrativo para as negativas 
+de acesso a informações.
 
 2 Para  o  exame  dessas  diretrizes,  consultar  ARQUIVO  PÚBLICO 
 DO  ESTADO  DE  SÃO  PAULO.  Política  Pública  de  Arquivos  e 
@@ -1678,15 +1509,6 @@ Paulo:  Arquivo  Público  do  Estado,  2014.  Também  disponível  em:
 
 18
 
-48110001 miolo_230x280mm.indd   18
-
-15/02/19   19:26
-
-
-Decreto  n.  60.144/2014,  que  institui  a  Comissão 
-Estadual de Acesso à Informação (CEAI), considerada a última 
-instância recursal em âmbito administrativo para as negativas 
-de acesso a informações.
 
 Decreto n. 60.145/2014, que dispõe sobre recolhimento 
 de  documentos  de  guarda  permanente,  produzidos  e 
@@ -1714,9 +1536,9 @@ Público do Estado.
 Decreto n. 62.162/2016, que dispõe sobre o Comitê Gestor 
 do Sistema Informatizado Unificado de Gestão Arquivística de 
 Documentos e Informações – SPdoc e dá providências correlatas.
-
 É justo registrar que o projeto de revisão e atualização do 
 Plano de Classificação, do Índice e da Tabela de Temporalidade 
+
 de  Documentos  da  Administração  Pública  do  Estado  de  São 
 Paulo: Atividades-Meio somente foi possível com a coordenação 
 e o trabalho competente de Camila Giovana Ribeiro e Maria 
@@ -1741,18 +1563,9 @@ Diretora Técnica do Departamento de Gestão do
 Sistema de Arquivos do Estado de São Paulo – SAESP
 Arquivo Público do Estado
 Secretaria de Governo
-2019
-
-48110001 miolo_230x280mm.indd   19
+2018
 
 19
-
-15/02/19   19:26
-
-
-48110001 miolo_230x280mm.indd   20
-
-15/02/19   19:26
 
 
 APRESENTAÇÃO
@@ -1777,7 +1590,7 @@ vez  implementadas,  garantirão  ao  Estado  de  São  Paulo  um
 Sistema de Gestão Documental efetivo.
 
 Entre as ações destacam-se as consolidadas no Plano de 
-Classificação  e na Tabela de Temporalidade de Documentos 
+Classificação e na Tabela de Temporalidade  de Documentos 
 da Administração Pública do Estado de São Paulo: Atividades- 
 Meio,  instrumentos  de  gestão  documental  oficializados 
 pelo  Decreto  n.  48.898,  de  27  de  agosto  de  2004,  visando 
@@ -1843,16 +1656,7 @@ Fausto Couto Sobrinho
 Diretor do Arquivo do Estado de São Paulo
 2005
 
-48110001 miolo_230x280mm.indd   21
-
 21
-
-15/02/19   19:26
-
-
-48110001 miolo_230x280mm.indd   22
-
-15/02/19   19:26
 
 
 INTRODUÇÃO
@@ -1925,7 +1729,7 @@ estadual,  o  Arquivo  do  Estado  passou  a  administrar  a
 documentação pública ou de caráter público (Lei federal de 
 arquivos  n.  8.159/91,  art.  17)  e  autorizar  a  eliminação  de 
 documentos  gerados  pelos  órgãos  da  administração  direta 
-e indireta do Estado de São Paulo (Lei federal  n.  8.159/91,  
+e indireta do Estado de São Paulo (Lei federal n. 8.159/91,  
 art. 9o e Decreto Estadual n. 22.789/84, art. 13).
 
 Nota-se  que,  na  década  de  1980,  os  Decretos  n. 
@@ -1955,11 +1759,7 @@ Pública  do  Estado  de  São  Paulo  relativos  às  atividades-
 meio,  oficializados  pelo  Decreto  n.  48.898,  de  27  de  agosto  
 de 2004.
 
-48110001 miolo_230x280mm.indd   23
-
 23
-
-15/02/19   19:26
 
 
 Nessa  fase  de  consolidação  do  SAESP,  a  instituição 
@@ -1979,7 +1779,7 @@ O projeto
 Por  ocasião  dos  vinte  anos  do  Sistema  de  Arquivos 
 do  Estado  de  São  Paulo-SAESP  (1984-2004),  o  Arquivo  do 
 Estado disponibilizou para a administração estadual o Plano de 
-Classiﬁcação e a Tabela de Temporalidade de Documentos da 
+Classificação e a Tabela de Temporalidade de Documentos da 
 Administração  Pública  do  Estado  de  São  Paulo:  Atividades-
 Meio, bem como as normas para a avaliação, guarda e eliminação 
 de documentos de arquivo na administração estadual.
@@ -2071,10 +1871,6 @@ publicações realizadas no Diário Oficial do Estado.
 
 24
 
-48110001 miolo_230x280mm.indd   24
-
-15/02/19   19:26
-
 
 As  propostas  finais  de  temporalidade  e  destinação 
 foram submetidas à exaustiva análise jurídica das Procuradoras 
@@ -2164,7 +1960,7 @@ Os desdobramentos
 
 De fato, a efetiva implementação de política de gestão 
 de  documentos  na  administração  estadual  vem  ao  encontro 
-dos  anseios  por  todos  compartilhados  de  simpliﬁcar  os 
+dos  anseios  por  todos  compartilhados  de  simplificar  os 
 procedimentos  de  gestão  pública,  bem  como  imprimir 
 maior  qualidade  e  produtividade  aos  serviços  públicos,  tais 
 como previstos no Decreto n. 40.536, de 12 de dezembro de 
@@ -2185,11 +1981,7 @@ Fiscal,  Lei  complementar  n.  101/2000:  assegurar  condições
 para o planejamento, o controle e a transparência nas finanças 
 públicas.
 
-48110001 miolo_230x280mm.indd   25
-
 25
-
-15/02/19   19:26
 
 
 Com  a  elaboração  de  instrumentos  arquivísticos  de 
@@ -2220,8 +2012,8 @@ processadas  e  disponíveis  em  bases  de  dados  consistentes  e
 confiáveis.
 
 Por  isso,  a  formulação  e  implementação  de  políticas 
-fundamentais 
 públicas  de  gestão  de  documentos  são 
+fundamentais 
 para  a  consolidação  da  democracia  em  nosso  país  e  para  o 
 fortalecimento do Estado Democrático de Direito.
 
@@ -2250,10 +2042,6 @@ do Estado de São Paulo - SAESP
 2005
 
 26
-
-48110001 miolo_230x280mm.indd   26
-
-15/02/19   19:26
 
 
 CRONOLOGIA DO SISTEMA DE ARQUIVOS  
@@ -2345,11 +2133,7 @@ Impressão  do  “Projeto  de  implantação  do  Sistema  de
 Arquivos do Estado de São Paulo”, no Arquivo do Estado, 
 visando a divulgação do Sistema, 18 p. 
 
-48110001 miolo_230x280mm.indd   27
-
 27
-
-15/02/19   19:26
 
 
 Impressão  do  “Processo  de  implantação  do  Sistema  de 
@@ -2373,13 +2157,13 @@ de  Economia
 Assinatura  do  Contrato  006/85  em  02/05/85  entre  o  
 Governo do Estado de São Paulo/Secretaria de Estado da 
 Cultura  e  o  Fundo  de  Pesquisas  do  Instituto  de  
+Administração 
 e  
 Faculdade 
-Administração 
 Administração/USP  –  FUNAD  –,  visando  a  contratação 
 de serviços relativos à implantação do SAESP, tais como o 
-trabalhos,  o 
 planejamento  e  a  coordenação  dos 
+trabalhos,  o 
 recrutamento, a seleção e o treinamento do pessoal técnico 
 necessário, a definição de prioridades, a análise ambiental 
 das  secretarias  objeto  da  implantação,  a  identificação  das 
@@ -2455,14 +2239,10 @@ Publicação  do  folheto  Sistema  Estadual  de  Arquivos,  pela
 Secretaria  de  Estado  da  Cultura,  esclarecendo  sobre  o 
 Decreto n. 22.789/1984, seus agentes e seu funcionamento. 
 
-48110001 miolo_230x280mm.indd   28
-
-15/02/19   19:26
-
 
 Realização do curso “Arquivos e Princípios Arquivísticos”, 
-visando  a 
 formação  de  recursos  humanos  para  o 
+visando  a 
 processamento  técnico  dos  documentos  de  arquivos 
 públicos em suas fases intermediária e permanente (agosto 
 de 1987). 
@@ -2530,8 +2310,8 @@ de Arquivo das Secretarias de Estado e a equipe do SAESP
 (agosto/1989). 
 
 Realização  de  debate  sobre  “O  papel  do  historiador  na 
-avaliação  de  documentos  de  arquivo”; 
 iniciativa  da 
+avaliação  de  documentos  de  arquivo”; 
 Comissão Estadual de Arquivos, cujo objetivo era definir  
 a participação do historiador na avaliação da documentação 
 pública,  a  que  se  refere  o  artigo  3o  do  Decreto  
@@ -2556,11 +2336,7 @@ em 1993
 José Ênio Casalecchi – Diretor do Arquivo do Estado em 1994 
 Nilo Odália – Diretor do Arquivo do Estado em 1995 
 
-48110001 miolo_230x280mm.indd   29
-
 29
-
-15/02/19   19:26
 
 
 1995 a Julho de 1997 
@@ -2666,10 +2442,6 @@ do  Estado:  Secretaria  da  Administração  e  Modernização
 
 30
 
-48110001 miolo_230x280mm.indd   30
-
-15/02/19   19:26
-
 
 do Serviço Público, de Energia, de Esportes e Turismo, e 
 da Agricultura e Abastecimento; Fundação de Amparo ao 
@@ -2765,11 +2537,7 @@ definição  de  metodologia  de  trabalho  e  constituição  da
 equipe; solicitação da criação das Comissões de Avaliação 
 de  Documentos  nos  órgãos  e  entidades  da  administração 
 
-48110001 miolo_230x280mm.indd   31
-
 31
-
-15/02/19   19:26
 
 
 estadual;  realização  de  reuniões  de  trabalho;  estudo  da 
@@ -2792,7 +2560,7 @@ Estado da Fazenda.
 
 Celebração  de  Termo  de  Cooperação  Técnica  entre  a 
 Secretaria de Estado da Cultura, com a interveniência do 
-Arquivo do Estado, e o  Ministério Público Estadual para 
+Arquivo do Estado, e o  Ministério Público  Estadual para 
 a  defesa  do  patrimônio  arquivístico  público,  publicado  
 no D.O.E de 1/9/2000 (Processo SC n. 1904/1998). 
 
@@ -2868,10 +2636,6 @@ Fundação  SEADE.  Total  de  documentos  eliminados:
 
 32
 
-48110001 miolo_230x280mm.indd   32
-
-15/02/19   19:26
-
 
 Instituição de 2 Comissões de Avaliação de Documentos: 
 Hospital das Clínicas e Procuradoria Geral do Estado. 
@@ -2924,8 +2688,6 @@ Realização de 12 reuniões de trabalho com funcionários
 e/ou  servidores  da  administração  pública  estadual  para 
 tratar de assuntos relativos à gestão documental. 
 
-48110001 miolo_230x280mm.indd   33
-
 2002 
 
 Geraldo José Rodrigues Alckmin Filho – Governador do 
@@ -2961,8 +2723,8 @@ sua  definitiva  oficialização.  As  contribuições  devidamente
 fundamentadas  do  ponto  de  vista  jurídico,  técnico  ou 
 administrativo,  foram  incorporadas  ao  instrumento.  A 
 proposta, que contava à época com 732 tipos documentais, 
-efetivamente  
 resultou  de  um 
+efetivamente  
 participativo, realizado em parceria com 48 Comissões de 
 Avaliação  de  Documentos  de  Arquivo,  instituídas  em  19 
 Secretarias de Estado, 27 órgãos da Administração Indireta, 
@@ -2975,15 +2737,13 @@ coletivo,
 
 trabalho 
 
-Realização  de  53  visitas 
 técnicas  aos  órgãos  da  
+Realização  de  53  visitas 
 administração  estadual  e  de  10  reuniões  com  os  grupos 
 especializados  de  trabalho  para  análise  da  proposta 
 preliminar. 
 
 33
-
-15/02/19   19:26
 
 
 Realização de 6 reuniões com as procuradoras designadas 
@@ -3011,7 +2771,7 @@ Econômico  e  Turismo,  Instituto  de  Pesos  e  Medidas  do
 Estado  de  São  Paulo  –  IPEM,  Companhia  Paulista  de 
 Trens  Metropolitanos  –  CPTM,  Secretaria  de  Energia, 
 de  Recursos  Hídricos,  Saneamento  e  Obras,  Comissão 
-de  Serviços Públicos  de  Energia, Secretaria da Juventude, 
+de  Serviços Públicos  de  Energia, Secretaria  da Juventude, 
 Esporte  e  Lazer,  Faculdade  de  Medicina  de  São  José  do 
 Rio  Preto,  Instituto  de  Previdência  do  Estado  de  São 
 Paulo  –  IPESP,  Caixa  Beneficente  da  Política  Militar  do 
@@ -3084,10 +2844,6 @@ correlatas.
 
 34
 
-48110001 miolo_230x280mm.indd   34
-
-15/02/19   19:26
-
 
 Redação  de  minuta  de  Anteprojeto  de  Lei  que  dispõe  
 sobre a transformação da Divisão de Arquivos do Estado,  
@@ -3107,8 +2863,8 @@ descrição de suas respectivas atribuições e atividades.
 
 Realização  de  pesquisa  das  atribuições  relativas  às  
 atividades-meio  da  Secretaria  de  Estado  da  Cultura  para  
-reestruturação  de 
 seu  organograma  e  criação  do 
+reestruturação  de 
 Departamento de Administração. 
 
 Realização  do  I  Encontro  Paulista 
@@ -3183,15 +2939,11 @@ Temporalidade de Documentos da Administração Pública
 do  Estado  de  São  Paulo:  Atividades-Meio  e  dá  
 providências correlatas; D.O.E de 28/08/2004. 
 
-sobre  Gestão 
 Planejamento  de  encontros  regionais 
+sobre  Gestão 
 Documental  Pública:  por  uma  Política  Municipal  de 
 
-48110001 miolo_230x280mm.indd   35
-
 35
-
-15/02/19   19:26
 
 
 Arquivos  voltados  aos  67  municípios  com  menor  Índice 
@@ -3262,8 +3014,8 @@ informatização  desenvolvidos  pelo  SAESP,  entre  os  dias
 
 Aprovação  de  15  Editais  de  Ciência  de  Eliminação  de  
 Documentos das Secretarias de Estado do Meio Ambiente,  
-e 
 da  Fazenda,  da  Casa  Civil,  de  Assistência 
+e 
 Desenvolvimento  Social  e    da  Fundação  SEADE.  Total  
 de documentos eliminados: 7.275 caixas/1.013,9 m/l 
 
@@ -3286,8 +3038,8 @@ Participação do SAESP no Grupo Técnico instituído pela
 Resolução CC-10, de 25/2/2005 para a implementação do 
 Protocolo Único da Administração Direta do Estado.
 
-Organização  de  encontro  com  425 
 representantes 
+Organização  de  encontro  com  425 
 das  71  Comissões  de  Avaliação  de  Documentos  de 
 Arquivo  instituídas  nos  órgãos,  entidades  e  empresas 
 da  administração  estadual  e  do  Grupo  Técnico  para  a 
@@ -3296,10 +3048,6 @@ Bandeirantes, no auditório Ulysses Guimarães, no dia 22
 de junho.
 
 36
-
-48110001 miolo_230x280mm.indd   36
-
-15/02/19   19:26
 
 
 Elaboração  do  aplicativo  “Propostas  de  Planos  de 
@@ -3400,11 +3148,7 @@ do  Estado  -  Definição  de  códigos  dos  órgãos  produtores
 e  a  numeração  das  funções  das  atividades-fim,  com  a 
 colaboração do SAESP.
 
-48110001 miolo_230x280mm.indd   37
-
 37
-
-15/02/19   19:26
 
 
 Elaboração e aplicação de treinamento para 70 Comissões 
@@ -3436,8 +3180,8 @@ Paulo  (ARQ-SP),  em  parceria  com  Instituto  Fernando
 Henrique Cardoso.
 
 Gestão do Termo de Cooperação Técnica com o Ministério 
-Público  Estadual: 
 foram  realizados  48  atendimentos 
+Público  Estadual: 
 aos  municípios  registrados  em  formulário  próprio  e  34 
 municípios foram acionados pelo Ministério Público.
 
@@ -3506,10 +3250,6 @@ eliminados: 12.052 caixas/2.423,93 m/l.
 
 38
 
-48110001 miolo_230x280mm.indd   38
-
-15/02/19   19:26
-
 
 Realização  de  diagnóstico  de  acervos  arquivísticos  com  a 
 colaboração das 72 Comissões de Avaliação de Documentos 
@@ -3564,7 +3304,7 @@ cujo lançamento ocorreu no dia 24 de outubro, durante o
 política municipal de arquivos”.
 
 Realização  da  oficina  “Como  Elaborar  Planos  de 
-Classificação e Tabelas de Temporalidade  de Avaliação de 
+Classificação e Tabelas de Temporalidade de Avaliação de 
 Documentos  de  Arquivo”,  na  Associação  de  Arquivistas 
 de  São  Paulo,  nos  dias  28  e  29  de  junho,  e  do  “Curso 
 de  Avaliação  de  Documentos  de  Arquivo”  em  evento 
@@ -3608,11 +3348,7 @@ Ieda Pimenta Bernardes – Diretora Técnica do Departamento
 de Gestão do Sistema de Arquivos do Estado de São Paulo – 
 DGSAESP
 
-48110001 miolo_230x280mm.indd   39
-
 39
-
-15/02/19   19:26
 
 
 Redação da minuta de Decreto reestruturando o Sistema de 
@@ -3645,9 +3381,9 @@ Estadual.  Quantidade  de  unidades  de  Protocolos  e
 Arquivo:  2.152.  Quantidade  total  de  funcionários  que 
 atendem diretamente o público/funcionário nas unidades: 
 4.186.  Quantidade  total  de  funcionários  que  trabalham 
+indiretamente 
 unidades 
 (suporte/colaborador) 
-indiretamente 
 protocolo/arquivo:  30.249.  Média  mensal  do  último 
 trimestre  do  volume  total  de  documentos  protocolados 
 nas unidades: 825.770. Média mensal do último trimestre 
@@ -3714,10 +3450,6 @@ objetivo desenvolver conhecimentos teórico-metodológicos
 para  a  preservação  em  longo  prazo  de  documentos 
 
 40
-
-48110001 miolo_230x280mm.indd   40
-
-15/02/19   19:26
 
 
 arquivísticos  digitais  autênticos.  É  integrado  por  uma 
@@ -3815,11 +3547,7 @@ Dirigentes  Municipais  de  Cultura  (São  Paulo/março);  II
 Simpósio Baiano de Arquivologia (Salvador/ julho); Fórum 
 de  Documentos  arquivísticos  digitais:  autenticidade  e 
 
-48110001 miolo_230x280mm.indd   41
-
 41
-
-15/02/19   19:26
 
 
 certificação  (UNICAMP/setembro);  Seminário  Legalidade 
@@ -3921,10 +3649,6 @@ Temporalidade  de  Documentos  das  Atividades-Fim  da
 Secretaria  da  Cultura  (oficializada  pela  Resolução  SC-2, 
 de  07/01/2010);  da  Secretaria  da  Fazenda  (oficializada 
 
-48110001 miolo_230x280mm.indd   42
-
-15/02/19   19:26
-
 
 pela  Resolução  SF  n.  70,  de  03-08-2010);  Secretaria  do 
 Emprego  e  Relações  de Trabalho,  Secretaria  dos  Direitos 
@@ -4020,11 +3744,7 @@ preservação da memória”, apresentada durante o Encontro
 Nacional da Memória da Justiça do Trabalho, em Belém do 
 Pará, no dia 14 de outubro.
 
-48110001 miolo_230x280mm.indd   43
-
 43
-
-15/02/19   19:26
 
 
 –  “O  Sistema  de  Arquivos  do  Estado  de  São  Paulo  e  a 
@@ -4053,14 +3773,14 @@ pareceres técnicos.
 
 livro 
 
-lançado  em  2005  “Plano  de 
 Reimpressão  do 
+lançado  em  2005  “Plano  de 
 Classificação  e Tabela  de Temporalidade  de  Documentos 
 da Administração Pública Estadual: Atividades-Meio”, que 
 reúne  instrumentos  de  gestão  documental  oficializados 
 pelo  Decreto  n.  48.898/2004,  visando  à  racionalização, 
 à  agilidade  e  à  transparência  administrativas,  bem  como 
-à preservação do patrimônio documental do Governo do 
+à preservação do patrimônio documental  do  Governo do 
 Estado de São Paulo.
 
 Publicação do livro “Política Pública de Arquivos e Gestão 
@@ -4127,10 +3847,6 @@ de Gestão do SAESP aos órgãos da Administração Direta
 para orientar a avaliação da massa documental acumulada, a 
 
 44
-
-48110001 miolo_230x280mm.indd   44
-
-15/02/19   19:26
 
 
 elaboração e aplicação de planos de classificação e tabelas de 
@@ -4227,11 +3943,7 @@ Participação,  no  período  de  24  a  26  de  novembro,  do
 Universidade Estadual de Campinas – UNICAMP, para a 
 apresentação da revisão do estudo de caso sobre o SPdoc, 
 
-48110001 miolo_230x280mm.indd   45
-
 45
-
-15/02/19   19:26
 
 
 bem  como  da  proposta  de  “Plano  de  Ação”  (Projeto 
@@ -4281,6 +3993,8 @@ Paulo – JUCESP).
 Elaboração  do  Projeto  “Identificação  de  documentos 
 arquivísticos produzidos e/ou acumulados pelo DEOPS”. 
 
+46
+
 Assistência técnica aos municípios paulistas com a realização 
 de  337  atendimentos  a  90  Municípios,  totalizando  30 
 visitas técnicas, 214 atendimentos por e-mail e telefone, 4 
@@ -4310,8 +4024,8 @@ do
 
 de  Procedimentos 
 
-de 
 Elaboração 
+de 
 Protocolo”(versão  preliminar)  a  partir  de  estudos 
 e  pesquisas  visando  à  padronização  das  rotinas  das 
 unidades de protocolo e arquivo da administração pública  
@@ -4334,12 +4048,6 @@ Municipais”,  apresentada  no  III  Encontro  Estadual  de
 Agentes Públicos Municipais promovido pelo Instituto do 
 Legislativo  Paulista/  Assembleia  Legislativa  do  Estado  de 
 São Paulo, em 24 de fevereiro;  
-
-46
-
-48110001 miolo_230x280mm.indd   46
-
-15/02/19   19:26
 
 
 –  “Política de arquivos e gestão documental no Estado de 
@@ -4407,8 +4115,8 @@ na Universidade Estadual da Paraíba (UEPB), promovida
 pelo curso de Arquivologia da UEPB, em 6 de outubro; 
 
 –  “Patrimônio  Documental:  avaliação  de  documentos 
-instrumento  de  construção  e  preservação  da 
 como 
+instrumento  de  construção  e  preservação  da 
 memória”,  apresentada  na  Semana  de  Valorização  do 
 Patrimônio Histórico e Cultural de São Paulo, promovida 
 pelo Departamento de Patrimônio Histórico da Prefeitura 
@@ -4440,11 +4148,7 @@ arquivística de aproximadamente 150 servidores das duas
 instituições,  inclusive  dos  Executivos  Públicos  aprovados 
 no último concurso. Reuniu dez grandes especialistas para 
 
-48110001 miolo_230x280mm.indd   47
-
 47
-
-15/02/19   19:26
 
 
 tratarem de temas contemporâneos do maior interesse para 
@@ -4547,10 +4251,6 @@ Definição das regras de negócio e homologação do Sistema
 Integrado de Informações ao Cidadão, denominado SIC.
 SP.  Definição  da  identidade  visual  para  o  Serviço  de 
 
-48110001 miolo_230x280mm.indd   48
-
-15/02/19   19:26
-
 
 Informações ao Cidadão (SIC) e o sistema SIC.SP. (Grupo 
 Técnico – Resolução CC-76, 19/6/12).
@@ -4646,11 +4346,7 @@ o  Decreto  n.  58.052/2012,  que  a  regulamenta  na
 Administração  Estadual,  bem  como  temas  correlatos.  O 
 público  foi  formado  por  337  participantes  presenciais, 
 
-48110001 miolo_230x280mm.indd   49
-
 49
-
-15/02/19   19:26
 
 
 funcionários dos órgãos/entidades da Administração Pública 
@@ -4753,10 +4449,6 @@ objetivo  de  contribuir  com  a  implementação  de  políticas
 
 50
 
-48110001 miolo_230x280mm.indd   50
-
-15/02/19   19:26
-
 
 municipais de gestão documental e com a institucionalização 
 de Arquivos Públicos Municipais no Estado de São Paulo.
@@ -4831,8 +4523,8 @@ Ribeira, realizado em Santos/SP, nos dias 14 e 15 de julho.
 e 
 
 Apresentação  da  palestra  “Instrução  Normativa  APE/
-a  Preservação  na  Arquivologia 
 SAESP-2/2010 
+a  Preservação  na  Arquivologia 
 Contemporânea”,  no  XVII  Congresso  Brasileiro  de 
 Arquivologia  promovido  pela  Associação  dos  Arquivistas 
 Brasileiros  -  Preservação,  acesso,  difusão:  Desafios  para 
@@ -4856,11 +4548,7 @@ implementação da política de acesso”, na Mesa de Debates
 do  Curso  “Capacitação  de  Gestão  de  Documentos  da 
 UNESP”,  realizado  pela  Universidade  Estadual  Paulista 
 
-48110001 miolo_230x280mm.indd   51
-
 51
-
-15/02/19   19:26
 
 
 “Júlio  de  Mesquita  Filho”,  no  dia  13  de  setembro,  em 
@@ -4954,8 +4642,8 @@ práticas  administrativas  nos  órgãos  e  entidades  estaduais.
 Foram realizadas 10 oficinas de capacitação de 518 agentes 
 públicos.
 
-técnica  do  projeto  de  desenvolvimento  e 
 Gestão 
+técnica  do  projeto  de  desenvolvimento  e 
 aprimoramento  do  SPdoc  Referencial:  elaboração  de 
 requisitos e homologação de 55 funcionalidades; estudos e 
 pesquisas para a elaboração dos atos normativos necessários 
@@ -4963,10 +4651,6 @@ pesquisas para a elaboração dos atos normativos necessários
 Gestor do SPdoc.
 
 52
-
-48110001 miolo_230x280mm.indd   52
-
-15/02/19   19:26
 
 
 Organização  do  XII  Encontro  Paulista  sobre  gestão 
@@ -5045,8 +4729,8 @@ Público do Estado e a Implementação da LAI”, Maria Elisa
 Pereira e Elissandra Patricia Melo;
 
 –  “A  experiência  do  Arquivo  Público  do  Estado  no 
-informatizado  unificado 
 aprimoramento  do 
+informatizado  unificado 
 de  gestão  arquivística  de  documentos  e  informações”, 
 Elisangela Mendes Queiroz e Leandro Teixeira Estrella;
 
@@ -5065,11 +4749,7 @@ e  acumulados  pelos  órgãos  e  entidades  integrantes  do
 SAESP”,  Benedito  Vanelli  do  Carmo  Neto  e  Marcelo 
 Banevicius;
 
-48110001 miolo_230x280mm.indd   53
-
 53
-
-15/02/19   19:26
 
 
 – “Análise Tipológica e Avaliação Documental de Acervos 
@@ -5166,10 +4846,6 @@ privado de Mário Covas Júnior.
 
 54
 
-48110001 miolo_230x280mm.indd   54
-
-15/02/19   19:26
-
 
 DECRETO N. 48.897, DE 27 DE AGOSTO DE 2004
 
@@ -5265,11 +4941,7 @@ precaução  nas  unidades  que  tenham  atribuições  de  arquivo
 nas  Secretarias  de  Estado,  ou  na  Seção  Técnica  de  Arquivo 
 Intermediário, do Arquivo do Estado; 
 
-48110001 miolo_230x280mm.indd   55
-
 55
-
-15/02/19   19:26
 
 
 III  -  consideram-se  documentos  permanentes  aqueles  com 
@@ -5372,10 +5044,6 @@ execução de funções do Estado.
 
 56
 
-48110001 miolo_230x280mm.indd   56
-
-15/02/19   19:26
-
 
 Artigo 15 - Considera-se função o conjunto de atividades que 
 o Estado exerce para a consecução de seus objetivos, que pode 
@@ -5474,11 +5142,7 @@ Artigo  22  -  Os  prazos  considerados  para  a  definição  do
 tempo de guarda na unidade produtora ou na unidade com 
 atribuições de arquivo de cada Secretaria são os seguintes: 
 
-48110001 miolo_230x280mm.indd   57
-
 57
-
-15/02/19   19:26
 
 
 I  -  prazo  de  vigência:  intervalo  de  tempo  durante  o  qual  o 
@@ -5583,10 +5247,6 @@ permanente:
 
 58
 
-48110001 miolo_230x280mm.indd   58
-
-15/02/19   19:26
-
 
 I - os indicados nas Tabelas de Temporalidade de Documentos, 
 que serão definitivamente preservados; 
@@ -5623,7 +5283,7 @@ Artigo  34  -  As  Comissões  de  Avaliação  de  Documentos
 de  Arquivo  são  grupos  permanentes  e  multidisciplinares 
 instituídos nos órgãos da Administração Pública Estadual nos 
 termos do artigo 2o do Decreto n. 29.838, de 18 de abril de 
-1989, responsáveis pela  elaboração  e aplicação de Planos de 
+1989, responsáveis pela elaboração e  aplicação de Planos de 
 Classificação e de Tabelas de Temporalidade de Documentos. 
 
 Parágrafo  único  -  Os  órgãos  que  ainda  não  instituíram  suas 
@@ -5687,11 +5347,7 @@ arquivística  às  Comissões  de  Avaliação  de  Documentos  de
 Arquivo para elaboração e aplicação de Planos de Classificação 
 e de Tabelas de Temporalidade de Documentos. 
 
-48110001 miolo_230x280mm.indd   59
-
 59
-
-15/02/19   19:26
 
 
 Artigo  40  -  Ao  Arquivo  do  Estado  caberá  decidir  sobre 
@@ -5722,72 +5378,8 @@ PALÁCIO DOS BANDEIRANTES, 27 de agosto de 2004
 
 GERALDO ALCKMIN 
 
-ANEXO I
-
-a que se refere o artigo 26 do
-
-Decreto  n.  48.897,  de  27  de  agosto  de  2004
-
-(Nome do órgão produtor)
-
-COMISSÃO DE AVALIAÇÃO DE DOCUMENTOS DE ARQUIVO
-
-RELAÇÃO DE ELIMINAÇÃO DE DOCUMENTOS n. _ _ /_ _
-
-Quantidade (n. de caixas ou metros lineares):
-
-Observações complementares:
-
-Quantidade (n  de caixas ou metros lineares):
-
-.
-
-Observações complementares:
-
-Função:
-
-Subfunção:
-
-Atividade:
-
-Série documental:
-
-Datas-limite:
-
-Função:
-
-Subfunção:
-
-Atividade:
-
-Série documental:
-
-Datas-limite:
-
-Total de caixas =
-
-Total de metros lineares =
-
-Local e data:
-
-Assinatura:
-
-Nome do(a) Coordenador(a) da Comissão de Avaliação de Documentos de Arquivo:
-
 60
 
-48110001 miolo_230x280mm.indd   60
-
-15/02/19   19:26
-
-34394001 miolo.pmd
-
-43
-
-14/7/2010, 10:40
-
-43
-
 
 ANEXO I
 a que se refere o artigo 26 do
@@ -5841,13 +5433,9 @@ Assinatura:
 
 34394001 miolo.pmd
 
-48110001 miolo_230x280mm.indd   61
-
 43
 
 14/7/2010, 10:40
-
-15/02/19   19:26
 
 61 43
 
@@ -5980,13 +5568,9 @@ a  eliminação  dos  documentos)
 
 34394001 miolo.pmd
 
-48110001 miolo_230x280mm.indd   62
-
 44
 
 14/7/2010, 10:40
-
-15/02/19   19:26
 
 34394001 miolo.pmd
 
@@ -5994,80 +5578,6 @@ a  eliminação  dos  documentos)
 
 14/7/2010, 10:40
 
-
-ANEXO II
-
-a que se refere o artigo 27 do
-
-Decreto  n.  48.897,  de  27  de  agosto  de  2004
-
-(Nome do órgão produtor)
-
-COMISSÃO  DE  AVALIAÇÃO  DE  DOCUMENTOS  DE  ARQUIVO
-
-EDITAL  DE  CIÊNCIA  DE  ELIMINAÇÃO  DE  DOCUMENTOS  n.  _  _  /_  _
-
-O  (A)  Coordenador(a)  da  Comissão  de  Avaliação  de  Documentos  de  Arquivo,  instituída  pela
-
-Resolução/Portaria/Ato  n.  _  _  ,  publicada(o)  no  Diário  Oficial  do  Estado  de  São  Paulo  de  _  _/_  _
-
-/_  _  ,  em  conformidade  com  os  prazos  definidos  na  Tabela  de  Temporalidade  de  Documentos  da
-
-Administração Pública do Estado de São Paulo: atividades-meio (quando se tratar da eliminação de
-
-documentos das atividades-fim cuja Tabela de Temporalidade ainda não estiver oficializada, a redação
-
-será:  em  conformidade  com  a  Relação  de  Eliminação  de  Documentos  aprovada  pelo  Diretor  do
-
-Arquivo do Estado no Ofício n
-
-. _ _
-
-, de_ _ /_ _/_ _ ), faz saber a quem possa interessar que, a partir
-
-do  30º  dia  subseqüente  à  data  de  publicação  deste  Edital,  o  (indicar  o  nome  do  Órgão/Entidade/
-
-Empresa)  eliminará  os  documentos  abaixo  relacionados.  Os  interessados  poderão  requerer  às  suas
-
-expensas,  no  prazo  citado,  o  desentranhamento  de  documentos  ou  cópias  de  peças  do  processo,
-
-mediante petição, desde que tenha respectiva qualificação e demonstração de legitimidade do pedido,
-
-dirigida  à  Comissão  de  Avaliação  de  Documentos  de  Arquivo.
-
-Quantidade  (n.  de  caixas  ou  metros  lineares):
-
-Função:
-
-Subfunção:
-
-Atividade:
-
-Série  documental:
-
-Datas-limite:
-
-Função:
-
-Subfunção:
-
-Atividade:
-
-Série  documental:
-
-Datas-limite:
-
-Quantidade  (n   de  caixas  ou  metros  lineares):
-
-.
-
-Observações  complementares:
-
-Total  de  caixas  =
-
-Total  de  metros  lineares  =
-
-44
 
 ANEXO III
 a que se refere o artigo 28 do
@@ -6118,35 +5628,19 @@ Quantidade  (n   de  caixas  ou  metros  lineares):
 
 Observações  complementares:
 
-34394001 miolo.pmd
-
-44
-
-14/7/2010, 10:40
-
-34394001 miolo.pmd
-
-48110001 miolo_230x280mm.indd   63
-
-45
-
-14/7/2010, 10:40
-
-63
-
-45
-
-15/02/19   19:26
-
 (Nome e assinatura do  representante  da Comissão de Avaliação de Documentos de Arquivo que presenciou
 a  eliminação  dos  documentos)
 
+63 45
+
+34394001 miolo.pmd
+
+45
+
+14/7/2010, 10:40
+
 
 64
-
-48110001 miolo_230x280mm.indd   64
-
-15/02/19   19:26
 
 
 DECRETO N. 48.898, DE 27 DE AGOSTO DE 2004
@@ -6243,11 +5737,7 @@ o  Plano  de  Classificação  e  a  Tabela  de  Temporalidade  dos
 Documentos  da  Administração  Pública  do  Estado  de  São 
 Paulo: Atividades - Meio, aprovados por este decreto. 
 
-48110001 miolo_230x280mm.indd   65
-
 65
-
-15/02/19   19:26
 
 
 Parágrafo único - As Comissões de Avaliação de Documentos 
@@ -6275,15 +5765,11 @@ GERALDO ALCKMIN
 
 66
 
-48110001 miolo_230x280mm.indd   66
-
-15/02/19   19:26
-
 
 ANEXO I
 a que se refere o artigo 1o do 
 Decreto n. 48.898, de 27 de agosto de 2004
-(O Anexo I foi substituído, conforme artigo 1o do Decreto n. 63.382/2018)
+(O Anexo I foi substituído conforme artigo 1o do Decreto n. 63.382/2018)
 
 PLANO DE CLASSIFICAÇÃO DE DOCUMENTOS DA ADMINISTRAÇÃO PÚBLICA  
 
@@ -6304,9 +5790,9 @@ ao
 subfunção 
 
 001.01 Ordenamento jurídico (SUBFUNÇÃO)
+Esta 
 cumprimento  das 
 refere-se 
-Esta 
 determinações  de  caráter  de  direito  administrativo 
 organizatório que estabelecem as relações entre os órgãos, 
 as funções e os agentes que irão desempenhá-las. Abrange 
@@ -6329,8 +5815,8 @@ dos  serviços  públicos  e  a  defesa  dos  direitos  de  seus
 usuários. 
 
 001.03 Apoio à administração pública (SUBFUNÇÃO)
-e 
 Esta 
+e 
 acompanhamento de compromissos oficiais, assim como 
 
 agendamento 
@@ -6369,18 +5855,14 @@ de atos e serviços e todo o atendimento consular, além
 dos  parâmetros  de  governo  para  o  estabelecimento  de 
 relações institucionais.
 
- 002.03  Promoção  de  eventos  ou  cerimônias  oﬁciais 
+ 002.03  Promoção  de  eventos  ou  cerimônias  oficiais 
 (SUBFUNÇÃO)
 Esta  subfunção  refere-se  à  organização  de  eventos 
 tais  como  congressos,  cursos,  seminários,  simpósios, 
 encontros, feiras e exposições, bem como solenidades e  
 recepções oficiais.
 
-48110001 miolo_230x280mm.indd   67
-
 67
-
-15/02/19   19:26
 
 
 002.04 Propaganda e marketing (SUBFUNÇÃO)
@@ -6491,15 +5973,11 @@ prestadores de serviços e fornecedores.
 
 004.02  Controle de bens patrimoniais (SUBFUNÇÃO)
 Esta  subfunção  refere-se  às  ações  de  registro,  defesa,  
-acompanhamento  da  utilização 
 e  arrolamento 
+acompanhamento  da  utilização 
 das  baixas  para  inutilização  ou  alienação  de  bens 
 patrimoniais do Estado em suas diferentes modalidades 
 (doação, cessão, transferência, permuta).
-
-48110001 miolo_230x280mm.indd   68
-
-15/02/19   19:26
 
  
 
@@ -6516,8 +5994,8 @@ imóveis,  nas  mais  diversas  modalidades    (compra,
 permuta, doação, dação em pagamento, desapropriação, 
 adjudicação  em  execução  de  sentença,  reintegração 
 de  posse,  transferência,  usucapião),  bem  como  do 
-cadastramento,  conservação,  alienação, 
 locação  e 
+cadastramento,  conservação,  alienação, 
 administração dos próprios do Estado.
 
 004.05  Controle de transportes internos 
@@ -6541,7 +6019,7 @@ Esta  subfunção  refere-se  à  fixação  das  diretrizes  e
 formulação  de  propostas  orçamentárias  por  meio  da 
 elaboração, consolidação e formalização de projetos de lei.   
 
-005.02  Execução orçamentária e ﬁnanceira 
+005.02  Execução orçamentária e financeira 
 (SUBFUNÇÃO)
 Esta  subfunção  refere-se  às  atividades  de  distribuição, 
 acompanhamento, reserva de recursos, adiantamento de 
@@ -6588,19 +6066,11 @@ portaria, manutenção e  vigilância de edifícios e equipamentos,
 assim como os serviços de limpeza, de copa, de reprografia, de 
 gráfica e de telecomunicações.
 
-48110001 miolo_230x280mm.indd   69
-
 69
-
-15/02/19   19:26
 
  
 
 70
-
-48110001 miolo_230x280mm.indd   70
-
-15/02/19   19:26
 
 
 PLANO DE CLASSIFICAÇÃO DE DOCUMENTOS
@@ -6623,7 +6093,7 @@ deliberação, portaria
 001.01.01.002  Processo de elaboração de ato normativo
   001.01.02   
 
-Habilitação jurídica e regularização ﬁscal dos órgãos, entidades e empresas
+Habilitação jurídica e regularização fiscal dos órgãos, entidades e empresas
 
 Atividade: 
 Documentos:  001.01.02.001  Alvará de funcionamento
@@ -6694,11 +6164,7 @@ Documentos:  001.01.05.001  Despacho normativo
 
 001.01.05.002  Parecer jurídico – inativado, utilizar 001.01.05.005
 
-48110001 miolo_230x280mm.indd   71
-
 71
-
-15/02/19   19:26
 
    
  
@@ -6799,10 +6265,6 @@ Documentos:  001.02.03.001  Carta-resposta
 
 72
 
-48110001 miolo_230x280mm.indd   72
-
-15/02/19   19:26
-
  
  
  
@@ -6842,7 +6304,7 @@ Documentos:  001.02.03.001  Carta-resposta
  
 
 001.03             Apoio à administração pública
-001.03.01        Controle de compromissos oﬁciais
+001.03.01        Controle de compromissos oficiais
 
 Subfunção: 
 Atividade: 
@@ -6860,7 +6322,7 @@ Documentos:  001.03.01.001  Agenda de compromissos oficiais
 001.03.01.012  Pauta de compromissos
 001.03.01.013  Pauta de reunião
 001.03.01.014  Registro de convites recebidos
-001.03.02        Publicidade de atos oﬁciais
+001.03.02        Publicidade de atos oficiais
 
  Ofício autorizando funcionário ou servidor a conceder entrevista à imprensa
 
@@ -6902,7 +6364,7 @@ Documentos:  002.01.04.001  Banco de imagem
 002.01.04.006  Termo de autorização de uso de imagem
 
 002.02             Cerimonial e relações públicas
-002.02.01        Elaboração de normas para recepções oﬁciais
+002.02.01        Elaboração de normas para recepções oficiais
 
 Subfunção: 
 Atividade: 
@@ -6912,11 +6374,7 @@ Atividade:
 Documentos:  002.02.02.001  Comunicado de instrução de serviço
 002.02.02.002  Memorando solicitando contingente
 
-48110001 miolo_230x280mm.indd   73
-
 73
-
-15/02/19   19:26
 
  
  
@@ -6978,8 +6436,8 @@ Subfunção:
 Atividade: 
 Documentos:  002.03.01.001  Agenda de eventos
 
-002.03             Promoção de eventos ou cerimônias oﬁciais
-002.03.01        Organização de eventos ou cerimônias oﬁciais
+002.03             Promoção de eventos ou cerimônias oficiais
+002.03.01        Organização de eventos ou cerimônias oficiais
 
 002.03.01.002  Cadastro de autoridades estrangeiras recebidas
 002.03.01.003  Cadastro de comendas outorgadas
@@ -7015,10 +6473,6 @@ Documentos:  002.04.02.001  Briefing de licitação
 Atividade: 
 
 74
-
-48110001 miolo_230x280mm.indd   74
-
-15/02/19   19:26
 
  
  
@@ -7076,7 +6530,7 @@ Atividade:
 Documentos:  002.05.01.001  Livro, periódico, folheto
 
 Produção editorial
-Publicação oﬁcial e coedição
+Publicação oficial e coedição
 
 002.05    
 002.05.01   
@@ -7111,7 +6565,7 @@ Planejamento e formulação de políticas de recursos humanos
 003.01.01.009  Processo de proposta de padrão de lotação
 003.01.01.010  Relatório de pesquisa sobre mercado de trabalho
 003.01.01.011  Relatório técnico de dimensionamento do quadro de pessoal
-003.01.02        Classiﬁcação e cadastramento de cargos e funções
+003.01.02        Classificação e cadastramento de cargos e funções
 
 Atividade: 
 Documentos:  003.01.02.001  Decreto de fixação, extinção ou relotação de postos de trabalho
@@ -7128,11 +6582,7 @@ Documentos:  003.01.02.001  Decreto de fixação, extinção ou relotação de p
 003.01.02.011  Quadro de classificação de cargos e funções
 003.01.02.012  Relatório mensal de cargos e funções
 
-48110001 miolo_230x280mm.indd   75
-
 75
-
-15/02/19   19:26
 
  
  
@@ -7169,8 +6619,8 @@ Documentos:  003.01.02.001  Decreto de fixação, extinção ou relotação de p
 
 003.02            
 Subfunção: 
-Atividade: 
 003.02.01        Recrutamento e seleção
+Atividade: 
 Documentos:  003.02.01.001  Currículo de candidato a emprego público
 
 Seleção e desenvolvimento de recursos humanos
@@ -7243,10 +6693,6 @@ Documentos:  003.03.02.001  Comunicado de falecimento
 003.03.02.005  Pedido de prorrogação de prazo para posse
 
 76
-
-48110001 miolo_230x280mm.indd   76
-
-15/02/19   19:26
 
  
  
@@ -7340,11 +6786,7 @@ Documentos:  003.03.04.001  Aviso de férias
 
  Processo de pensão mensal ao beneficiário do servidor público municipal - CASEM
 
-48110001 miolo_230x280mm.indd   77
-
 77
-
-15/02/19   19:26
 
  
  
@@ -7396,8 +6838,8 @@ Documentos:  003.03.04.001  Aviso de férias
 003.03.04.028  Requerimento para gozo de férias indeferidas
 003.03.04.029  Solicitação da 1a parcela do 13o salário
 003.03.04.030  Solicitação de abono de férias
+003.03.05        Concessão de financiamento aos servidores
 Atividade: 
-003.03.05        Concessão de ﬁnanciamento aos servidores
 Documentos:  003.03.05.001  Ficha de Informação de Financiamento - FIF
 003.03.05.002  Processo de carteira do lazer
 003.03.05.003  Processo de concessão de bolsa de estudos reembolsável
@@ -7463,10 +6905,6 @@ Documentos:  003.03.08.001  Processo de recolhimento de contribuição para o Pl
 
 78
 
-48110001 miolo_230x280mm.indd   78
-
-15/02/19   19:26
-
  
  
  
@@ -7509,8 +6947,8 @@ Documentos:  003.03.08.001  Processo de recolhimento de contribuição para o Pl
 
 003.04            Controle de frequência
 Subfunção: 
-Atividade: 
 003.04.01        Registro de frequência
+Atividade: 
 Documentos:  003.04.01.001  Atestado de frequência
 
 003.04.01.002  Banco de horas
@@ -7578,11 +7016,7 @@ Informação judicial
 003.05.01.011  Processo de consolidação de decisões judiciais
 003.05.01.012  Processo de desconto de honorário advocatício em Folha de pagamento
 
-48110001 miolo_230x280mm.indd   79
-
 79
-
-15/02/19   19:26
 
  
  
@@ -7653,8 +7087,8 @@ Informação judicial
 003.05.02 
 
  Expediente de recadastramento de inativos e pensionistas
-Atividade: 
  Elaboração da folha de pagamento
+Atividade: 
 Documentos:  003.05.02.001  Declaração de encargos de dependentes para fins de Imposto de Renda
 
 003.05.02.002  Extrato do INSS para fins de complementação de aposentadoria
@@ -7681,10 +7115,6 @@ Documentos:  003.05.02.001  Declaração de encargos de dependentes para fins de
  Relatório de auditoria do Sistema de Despesa de Pessoal do Estado - ACCA
 
 80
-
-48110001 miolo_230x280mm.indd   80
-
-15/02/19   19:26
 
  
  
@@ -7791,11 +7221,7 @@ Documentos:  003.06.02.001     Certificado de registro no Serviço Especializado
 003.06.02.008  Mapa anual de acidentes de trabalho
 003.06.02.009  Mapa de riscos
 
-48110001 miolo_230x280mm.indd   81
-
 81
-
-15/02/19   19:26
 
  
  
@@ -7908,10 +7334,6 @@ Documentos:  003.08.04.001  Ficha de controle mensal de peso e altura
 
 82
 
-48110001 miolo_230x280mm.indd   82
-
-15/02/19   19:26
-
  
  
  
@@ -8013,18 +7435,14 @@ Documentos:  004.02.02.001  Certificado de garantia
 
 Atividade: 
 Documento:  004.02.03.001  Processo de locação de máquinas e equipamentos
-Atividade: 
 004.02.04        Registro da movimentação de bens patrimoniais
+Atividade: 
 Documentos:  004.02.04.001  Comunicado de transferência de bens patrimoniais
 
 004.02.04.002  Processo de alienação de bens patrimoniais
 004.02.04.003  Processo de permuta de bens patrimoniais
 
-48110001 miolo_230x280mm.indd   83
-
 83
-
-15/02/19   19:26
 
  
  
@@ -8054,7 +7472,7 @@ Documentos:  004.02.05.001  Ata de inutilização de bens
 004.03             Controle de almoxarifado
 Subfunção: 
 Atividade: 
-004.03.01        Veriﬁcação de estoque e distribuição
+004.03.01        Verificação de estoque e distribuição
 Documentos:  004.03.01.001  Balancete de material de almoxarifado
 
 004.03.01.002  Balanço de material de almoxarifado
@@ -8121,10 +7539,6 @@ Documentos:  004.04.04.001  Laudo de avaliação de imóvel
 
 84
 
-48110001 miolo_230x280mm.indd   84
-
-15/02/19   19:26
-
  
    
  
@@ -8168,7 +7582,7 @@ Documentos:  004.04.07.001  Processo de autorização de uso de imóvel
 004.04.07.006  Processo de permuta de imóvel
 004.04.07.007  Processo de transferência de imóvel
 Atividade: 
-004.04.08        Elaboração de projetos de ediﬁcação
+004.04.08        Elaboração de projetos de edificação
 Documentos:  004.04.08.001  Processo de aprovação de edificação
 
 004.04.08.002  Processo de construção de conjuntos habitacionais
@@ -8183,19 +7597,19 @@ Documentos:  004.04.09.001  Convenção de condomínio
 004.05    
 004.05.01   
 
-Controle de transportes internos
-Fixação da frota
-
 Subfunção: 
 Atividade: 
 Documentos:  004.05.01.001  Decreto relativo à fixação da frota
+
+Controle de transportes internos
+Fixação da frota
 
 004.05.01.002  Processo de fixação da frota
 004.05.01.003  Proposta de fixação da frota
 004.05.02   
 
-Atividade: 
 Aquisição de veículos
+Atividade: 
 Documentos:  004.05.02.001  Ofício solicitando autorização para aquisição de veículo
 
 004.05.02.002  Parecer sobre aquisição de veículo
@@ -8208,7 +7622,7 @@ Atividade:
 Documentos:  004.05.03.001  Ofício solicitando autorização para locação de veículo
 
 004.05.03.002  Processo de locação de veículo
-004.05.04        Classiﬁcação e cadastramento de veículos
+004.05.04        Classificação e cadastramento de veículos
 
 Atividade: 
 Documentos:  004.05.04.001  Cadastro de veículos oficiais, em convênio e locados
@@ -8219,21 +7633,17 @@ Documentos:  004.05.04.001  Cadastro de veículos oficiais, em convênio e locad
 
 Atividade: 
 Documento:  004.05.05.001  Processo de contratação de seguro para veículo oficial
+Atividade: 
 004.05.06        Registro da movimentação de veículos
-Atividade: 
 Documento:  004.05.06.001  Processo de transferência de veículo
-Atividade: 
 004.05.07        Readequação da frota
+Atividade: 
 Documentos:  004.05.07.001  Decreto de remanejamento, ou ampliação, ou redução de frota
 
 004.05.07.002  Processo de remanejamento, ou ampliação, ou redução de vagas na frota
 004.05.07.003  Proposta de remanejamento, ou ampliação, ou redução de vagas na frota
 
-48110001 miolo_230x280mm.indd   85
-
 85
-
-15/02/19   19:26
 
  
  
@@ -8322,10 +7732,6 @@ Documentos:  004.05.12.001  Processo de alienação de veículo
 
 86
 
-48110001 miolo_230x280mm.indd   86
-
-15/02/19   19:26
-
  
  
  
@@ -8370,7 +7776,7 @@ Documentos:  005.01.01.001  Lei de diretrizes orçamentárias
 005.01             Planejamento orçamentário
 005.01.01       
 
-Fixação de diretrizes da política orçamentária e ﬁnanceira
+Fixação de diretrizes da política orçamentária e financeira
 
 005.01.01.002  Lei do plano plurianual
 005.01.01.003  Lei orçamentária anual
@@ -8384,8 +7790,8 @@ Documentos:  005.01.02.001  Decreto institucional
 005.01.02.002 
 005.01.02.003  Portaria de classificação da despesa
 005.01.02.004  Tabela de classificação funcional
-Atividade: 
 005.01.03        Elaboração de propostas orçamentárias
+Atividade: 
 Documentos:  005.01.03.001  Ofício informando o Valor Referencial de Custeio - VRC
 
 005.01.03.002  Proposta orçamentária das empresas
@@ -8402,8 +7808,8 @@ Subfunção:
 Atividade: 
 Documentos:  005.02.01.001  Decreto de execução orçamentária
 
-005.02             Execução orçamentária e ﬁnanceira
-005.02.01       Normalização da execução orçamentária e ﬁnanceira
+005.02             Execução orçamentária e financeira
+005.02.01       Normalização da execução orçamentária e financeira
 
 005.02.01.002  Portaria conjunta de execução orçamentária
 005.02.02        Elaboração de alterações orçamentárias
@@ -8417,7 +7823,7 @@ Atividade:
 Documentos:  005.02.03.001  Nota de crédito
 005.02.03.002  Nota de dotação
 005.02.03.003  Nota de lançamento de quota mensal
-005.02.04        Acompanhamento da execução orçamentária e ﬁnanceira
+005.02.04        Acompanhamento da execução orçamentária e financeira
 
 Atividade: 
 Documentos:  005.02.04.001  Programação da despesa orçamentária
@@ -8432,8 +7838,8 @@ Documentos:  005.02.05.001  Nota de empenho
 005.02.05.003  Nota de reserva
 005.02.05.004  Ordem bancária
 005.02.05.005  Programação de desembolso
-005.02.06        Adiantamento de despesas
 Atividade: 
+005.02.06        Adiantamento de despesas
 Documentos:  005.02.06.001  Balancete de despesas com adiantamento
 
 005.02.06.002  Ficha de controle de adiantamentos
@@ -8441,11 +7847,7 @@ Documentos:  005.02.06.001  Balancete de despesas com adiantamento
 005.02.06.004  Recibo de adiantamento
 005.02.06.005  Relação de adiantamentos concedidos
 
-48110001 miolo_230x280mm.indd   87
-
 87
-
-15/02/19   19:26
 
  
  
@@ -8486,7 +7888,7 @@ Documentos:  005.02.07.001  Processo de prestação de contas de adiantamento
 005.02.07.005  Relatório para consulta das prestações de contas
 005.02.07.006  Relatório resumido da execução orçamentária
 Atividade: 
-005.02.08        Pagamento de despesas especíﬁcas
+005.02.08        Pagamento de despesas específicas
 Documentos:  005.02.08.001  Planilha de pagamento de diárias e ajuda de custo
 
 005.02.08.002  Processo de empenho para pagamento de pessoal e reflexos
@@ -8505,8 +7907,8 @@ Documentos:  005.02.08.001  Planilha de pagamento de diárias e ajuda de custo
 005.02.08.015 
 005.02.08.016  Processo de pagamento de precatório
 005.02.08.017  Processo de pagamento de restituição
-Atividade: 
 005.02.09        Controle da receita
+Atividade: 
 Documentos:  005.02.09.001  Demonstrativo mensal de arrecadação
 
  Processo de pagamento de multa sobre terrenos e imóveis próprios do Estado
@@ -8538,10 +7940,6 @@ Documentos:  005.02.11.001  Balancete analítico
 005.02.11.007   Guia de recolhimento de COFINS
 
 88
-
-48110001 miolo_230x280mm.indd   88
-
-15/02/19   19:26
 
  
  
@@ -8623,7 +8021,7 @@ Documentos:  006.01.02.001  Despacho de devolução à origem
 006.01.02.002  Livro de controle interno de documentos
 006.01.02.003  Livro de registro de entrada de documentos avulsos
 006.01.02.004  Livro de registro de processos
-006.01.03        Classiﬁcação de documentos
+006.01.03        Classificação de documentos
 
 Atividade: 
 Documento:  006.01.03.001  Plano de classificação de documentos
@@ -8647,11 +8045,7 @@ Documentos:  006.01.05.001  Cadastro de ingresso de documento
 006.01.05.007   Termo de recolhimento de documentos 
 006.01.05.008   Termo de transferência de documentos 
 
-48110001 miolo_230x280mm.indd   89
-
 89
-
-15/02/19   19:26
 
  
  
@@ -8695,7 +8089,7 @@ utilizar 006.01.06.007
 006.01.06.005   Processo de recolhimento de documentos 
 006.01.06.006   Processo de transferência de documentos 
 006.01.06.007  Dossiê relativo aos trabalhos da Comissão de Avaliação de Documentos e Acesso – CADA
-006.01.07        Descrição de acervos arquivístico, bibliográﬁco, museológico ou artístico
+006.01.07        Descrição de acervos arquivístico, bibliográfico, museológico ou artístico
 
 Atividade: 
 Documentos:  006.01.07.001  Ficha catalográfica
@@ -8703,7 +8097,7 @@ Documentos:  006.01.07.001  Ficha catalográfica
 006.01.07.002  Ficha matriz
 006.01.07.003  Guia, inventário, catálogo, índice
 006.01.07.004  Relação de documentos e códigos de assuntos
-006.01.08        Controle de acervos arquivístico, bibliográﬁco, museológico ou artístico
+006.01.08        Controle de acervos arquivístico, bibliográfico, museológico ou artístico
 
 Atividade: 
 Documentos:  006.01.08.001  Cadastro de usuários
@@ -8753,10 +8147,6 @@ Documentos:  006.01.10.001  Circular, aviso, comunicado, memorando, comunicaçã
 
 90
 
-48110001 miolo_230x280mm.indd   90
-
-15/02/19   19:26
-
  
  
  
@@ -8783,7 +8173,7 @@ Documentos:  006.01.10.001  Circular, aviso, comunicado, memorando, comunicaçã
  
  
 
-006.01.11       Difusão de acervos arquivístico, bibliográﬁco, museológico ou artístico
+006.01.11       Difusão de acervos arquivístico, bibliográfico, museológico ou artístico
 
 Atividade: 
 Documentos:  006.01.11.001  Dossiê de exposição
@@ -8857,11 +8247,7 @@ Busca e fornecimento de informações
 006.03.01.003  Relatório estatístico anual de pedido de informações, recursos ou perfil de usuários
 006.03.01.004  Requerimento de pedido de vista de documento
 
-48110001 miolo_230x280mm.indd   91
-
 91
-
-15/02/19   19:26
 
    
    
@@ -8944,14 +8330,14 @@ Documento:  007.00.04.001  Memorando solicitando material
 Atividade: 
 Documentos:  007.00.05.001  Ficha de autorização para cópia
 
-007.00.05        Execução de serviços de reprograﬁa
+007.00.05        Execução de serviços de reprografia
 
 007.00.05.002  Ofício autorizando funcionário ou servidor a assinar requisição de cópia
 007.00.05.003  Relatório de quantidade de cópias
 007.00.05.004  Requisição de cópia
 007.00.06      
 
-Execução de serviços de gráﬁca
+Execução de serviços de gráfica
 
 Atividade: 
 Documentos:  007.00.06.001  Autorização para execução de serviços
@@ -8970,10 +8356,6 @@ Documentos:  007.00.07.001  Cadastro de pessoal, equipamentos, redes e laborató
 Inventário de equipamentos, redes e serviços de telecomunicações
 
 92
-
-48110001 miolo_230x280mm.indd   92
-
-15/02/19   19:26
 
  
  
@@ -9002,7 +8384,7 @@ Inventário de equipamentos, redes e serviços de telecomunicações
 ANEXO II
 a que se refere o artigo 2o do 
 Decreto n. 48.898, de 27 de agosto de 2004
-(O Anexo II foi substituído, conforme artigo 1o do Decreto n. 63.382/2018)
+(O Anexo II foi substituído conforme artigo 1o do Decreto n. 63.382/2018)
 
 ÍNDICE1
 
@@ -9074,13 +8456,9 @@ Classificação
 de  forma  permutada,  os  tipos  documentais,  bem  como  os  termos  e  expressões  variantes  do  conteúdo  dos  documentos  de  uso  corrente  na 
 Administração Pública Estadual.
 
-48110001 miolo_230x280mm.indd   93
-
 93
 
-15/02/19   19:26
-
- 
+ 
 
 006.01.08.010
 
@@ -9126,8 +8504,8 @@ Acervos arquivístico, bibliográfico, museológico ou artístico, Processo de a
 Acervos arquivístico, bibliográfico, museológico ou artístico, Processo de empréstimo de
 006.01.08.011
 Acervos arquivístico, bibliográfico, museológico ou artístico, Processo de transferência de
-006.01.06.007
 Acesso - CADA, Dossiê relativo aos trabalhos da Comissão de Avaliação de Documentos e
+006.01.06.007
 Acesso a documentos, dados e informações pessoais de terceiros – TR, Termo de Responsabilidade pela 
 obtenção de  
 ACESSO À INFORMAÇÃO, PROMOÇÃO DO   
@@ -9171,10 +8549,6 @@ AÇÕES DE GOVERNO E CONTROLE DOS SERVIÇOS, PLANEJAMENTO DAS
 006.03.02.007
 
 94
-
-48110001 miolo_230x280mm.indd   94
-
-15/02/19   19:26
 
 
 AÇÕES DE GOVERNO, DIVULGAÇÃO DAS
@@ -9268,11 +8642,7 @@ Adiantamento para material de escritório USE Processo de adiantamento
 005.02.06.003
 005.02.06.003
 
-48110001 miolo_230x280mm.indd   95
-
 95
-
-15/02/19   19:26
 
 
 003.03.04.011
@@ -9291,18 +8661,18 @@ Adiantamento para verba de representação USE Processo de adiantamento
 005.02.06.003
 Adiantamento único USE Processo de adiantamento
 005.02.06.003
-Adiantamento, Balancete de despesas com 
 005.02.06.001
-Adiantamento, Processo de
+Adiantamento, Balancete de despesas com 
 005.02.06.003
-Adiantamento, Processo de prestação de contas de
+Adiantamento, Processo de
 005.02.07.001
-Adiantamento, Recibo de
+Adiantamento, Processo de prestação de contas de
 005.02.06.004
-Adiantamentos concedidos, Relação de
+Adiantamento, Recibo de
 005.02.06.005
-005.02.06.002
+Adiantamentos concedidos, Relação de
 Adiantamentos, Ficha de controle de
+005.02.06.002
 Adicional de insalubridade, Concessão de USE Processo de concessão e incorporação de vantagens pecuniárias 003.03.04.011
 Adicional de local de exercício, Concessão de USE Processo de concessão e incorporação de vantagens 
 pecuniárias
@@ -9344,6 +8714,16 @@ Adjudicação de imóvel USE Processo de aquisição de imóvel
 
 003.03.04.011
 
+003.03.04.011
+
+003.03.04.011
+
+003.05.01.004
+
+003.03.04.011
+
+003.05.01.004
+
 003.03.01.008
 
 003.03.04.011
@@ -9356,21 +8736,7 @@ Adjudicação de imóvel USE Processo de aquisição de imóvel
 
 003.03.04.011
 
-003.03.04.011
-
-003.05.01.004
-
-003.05.01.004
-
-003.03.04.011
-
-003.03.04.011
-
 96
-
-48110001 miolo_230x280mm.indd   96
-
-15/02/19   19:26
 
 
 Adjudicação de material permanente INTEGRA Processo de aquisição de material permanente
@@ -9467,11 +8833,7 @@ Afastamento por motivo de gala (casamento) USE Processo de afastamentos ou licen
 003.03.04.005
 003.03.04.005
 
-48110001 miolo_230x280mm.indd   97
-
 97
-
-15/02/19   19:26
 
 
 Afastamento por motivo de missão ou estudo dentro do Estado, em outros pontos do território nacional ou 
@@ -9569,10 +8931,6 @@ Alimentos e medicamentos, Ficha de controle de estoque de
 
 98
 
-48110001 miolo_230x280mm.indd   98
-
-15/02/19   19:26
-
 
 Almanaque USE Livro, periódico, folheto
 ALMOXARIFADO, CONTROLE DE
@@ -9665,11 +9023,7 @@ Aperfeiçoamento funcional, Formulário de avaliação de cursos de formação e
 003.02.02 
 003.03.06.005
 
-48110001 miolo_230x280mm.indd   99
-
 99
-
-15/02/19   19:26
 
 
 Aplicação de sancões administrativas a licitantes e contratados, Processo de apuração para
@@ -9764,10 +9118,6 @@ Aproveitamento de funcionário em disponibilidade USE Processo para provimento d
 
 100
 
-48110001 miolo_230x280mm.indd   100
-
-15/02/19   19:26
-
 
 003.02.01.008
 Aproveitamento de remanescentes de concurso público, Processo de
@@ -9815,8 +9165,8 @@ Aquisição de veículo, Processo de
 AQUISIÇÃO DE VEÍCULOS
 Aquisição de veículos, Convênio para USE Processo de formalização e execução de acordo bilateral 
 001.01.03.003
-ARQUIVAMENTO
 006.01.05 
+ARQUIVAMENTO
 ARQUIVÍSTICO, BIBLIOGRÁFICO, MUSEOLÓGICO OU ARTÍSTICO, CONTROLE DE ACERVOS 006.01.08
 ARQUIVÍSTICO, BIBLIOGRÁFICO, MUSEOLÓGICO OU ARTÍSTICO, DESCRIÇÃO DE ACERVOS 006.01.07
 ARQUIVÍSTICO, BIBLIOGRÁFICO, MUSEOLÓGICO OU ARTÍSTICO, DIFUSÃO DE ACERVOS
@@ -9851,11 +9201,7 @@ Arte final de peça de campanha publicitária
 002.01.02.001
 Artigo, nota e notícia
 
-48110001 miolo_230x280mm.indd   101
-
 101
-
-15/02/19   19:26
 
 
 ARTÍSTICO, CONTROLE DE ACERVOS ARQUIVÍSTICO, BIBLIOGRÁFICO, MUSEOLÓGICO OU 006.01.08
@@ -9941,15 +9287,11 @@ Atos administrativos ou normativos, Processo de requerimento de esclarecimentos 
 001.01.01.002
 001.01.06.008
 
-003.03.04.011
-
 003.05.01.004
 
+003.03.04.011
+
 102
-
-48110001 miolo_230x280mm.indd   102
-
-15/02/19   19:26
 
 
 003.04.02.003
@@ -9976,8 +9318,8 @@ ATOS RELATIVOS À VIDA FUNCIONAL, ELABORAÇÃO E REGISTRO DE
 Atualização de dados consulares, Ficha de
 001.01.02.003
 Atualização de dados no Cadastro Nacional do Trabalhador - CNT, Comprovante de
-003.05.01.004
 Atualização de dados pessoais e funcionais para a elaboração da Folha de pagamento, Formulário de
+003.05.01.004
 Atualização de Plano de classificação e de Tabela de temporalidade de documentos, Processo de elaboração ou     006.01.06.003
 006.02.01.003
 Atualização ou modernização tecnológica, Projeto de
@@ -10033,21 +9375,17 @@ Autorização para entrada de funcionário ou servidor fora do horário de exped
 002.03.01.002
 003.02.02.007
 
+003.05.01.004
+
 004.05.08.011
 
 007.00.01.001
 
-003.05.01.004
-
 003.03.04
 
 003.03.04
-
-48110001 miolo_230x280mm.indd   103
 
 103
-
-15/02/19   19:26
 
 
 Autorização para execução de serviços
@@ -10142,10 +9480,6 @@ Averbação de tempo de serviço INTEGRA Prontuário funcional
 
 104
 
-48110001 miolo_230x280mm.indd   104
-
-15/02/19   19:26
-
 
 Aviso de férias
 Aviso prévio
@@ -10233,13 +9567,9 @@ BENS PATRIMONIAIS, REGISTRO DA MOVIMENTAÇÃO DE
 004.02.04 
 BIBLIOGRÁFICO, MUSEOLÓGICO OU ARTÍSTICO, CONTROLE DE ACERVOS ARQUIVÍSTICO, 006.01.08
 
-48110001 miolo_230x280mm.indd   105
-
 105
 
-15/02/19   19:26
-
- 
+ 
 
 003.05.01.002
 
@@ -10296,9 +9626,9 @@ BUSCA E FORNECIMENTO DE INFORMAÇÕES
 003.05.01.002
 003.05.01.002
 
-003.05.01.002
-
 003.05.01.004
+
+003.05.01.002
 
 C
 
@@ -10334,11 +9664,7 @@ Cadastro de datas nacionais
 
 106
 
-48110001 miolo_230x280mm.indd   106
-
-15/02/19   19:26
-
- 
+ 
 
 Cadastro de despesas com comunicação
 Cadastro de fornecedores e prestadores de serviços
@@ -10432,11 +9758,7 @@ CAMPANHAS PUBLICITÁRIAS OU DE EVENTOS, ANÁLISE DE PROPOSTAS DE
 002.04.03.001
 002.04.04 
 
-48110001 miolo_230x280mm.indd   107
-
 107
-
-15/02/19   19:26
 
 
 Cancelamento de inscrição de débito na dívida ativa, Processo administrativo de    
@@ -10533,10 +9855,6 @@ Catálogo de exposição INTEGRA Dossiê de exposição
 
 108
 
-48110001 miolo_230x280mm.indd   108
-
-15/02/19   19:26
-
 
 Catálogo ou cartaz de divulgação de evento, Folheto,
 002.03.01.016
@@ -10624,11 +9942,7 @@ Ciência de eliminação de documentos, Edital de
 003.06.02.002
 CIPA por mandato, Dossiê da
 
-48110001 miolo_230x280mm.indd   109
-
 109
-
-15/02/19   19:26
 
 
 003.06.02.005
@@ -10677,8 +9991,8 @@ CNPJ, Comprovante de inscrição e de situação cadastral no Cadastro Nacional 
 CNT, Comprovante de atualização de dados  no Cadastro Nacional do Trabalhador -
 005.02.09.003
 Cobrança da dívida ativa, Processo de
-Código de ética
 001.02.03.002
+Código de ética
 Código, regulamento, regimento, instrução normativa, norma, resolução, deliberação, portaria, Decreto, 
 estatuto
 Códigos de assuntos, Relação de documentos e
@@ -10721,10 +10035,6 @@ COMGÁS, Pagamento de conta da USE Processo de pagamento de contas de utilidade 
 
 110
 
-48110001 miolo_230x280mm.indd   110
-
-15/02/19   19:26
-
 
 001.02.02.003
 
@@ -10745,26 +10055,26 @@ Comissão Permanente de Segurança, Relatório da
 Comissão Permanente ou Especial de Licitação, Processo relativo aos trabalhos de
 Comissão, conselho ou grupo de trabalho, Alteração de USE Processo de constituição de comissão, conselho 
 ou grupo de trabalho
-Comissão, conselho ou grupo de trabalho, Processo de constituição de
 001.02.02.003
+Comissão, conselho ou grupo de trabalho, Processo de constituição de
 Comodato de imóvel USE Processo de empréstimo de imóvel
 004.04.07.004
 Comodato, Contrato de USE Contratos
 004.01.01.001
-Compensação previdenciária, Processo de
 003.05.01.010
-COMPILAÇÃO DE NOTÍCIAS SOBRE A ADMINISTRAÇÃO ESTADUAL
+Compensação previdenciária, Processo de
 002.01.01 
-Complementação de aposentadoria, Extrato do INSS para fins de
+COMPILAÇÃO DE NOTÍCIAS SOBRE A ADMINISTRAÇÃO ESTADUAL
 003.05.02.002
-Complementação de proventos de aposentadoria, Processo de
+Complementação de aposentadoria, Extrato do INSS para fins de
 003.03.04.008
-Complementação de proventos de aposentadoria, Relação de atos concessórios de
+Complementação de proventos de aposentadoria, Processo de
 003.04.02.004
-Complementação do valor da pensão, Processo de
+Complementação de proventos de aposentadoria, Relação de atos concessórios de
 003.03.04.009
-Complementação do valor da pensão, Relação de atos concessórios de
+Complementação do valor da pensão, Processo de
 003.04.02.005
+Complementação do valor da pensão, Relação de atos concessórios de
 Componentes e suprimentos de informática, Adiantamento para USE Processo de adiantamento
 005.02.06.003
 Compra de bens de informática e automação USE Processo de aquisição de bens de informática e automação 004.01.04.001
@@ -10813,11 +10123,7 @@ Computador, Termo de garantia de equipamentos e de programas de
 006.01 
 COMUNICAÇÃO ADMINISTRATIVA
 
-48110001 miolo_230x280mm.indd   111
-
 111
-
-15/02/19   19:26
 
 
 003.05.01.004
@@ -10856,12 +10162,12 @@ Comunicado de irregularidades no fornecimento de material
 Comunicado de luto oficial
 Comunicado de ocorrência, Formulário de USE Formulário de atualização de dados pessoais e funcionais 
 para a elaboração da Folha de pagamento
-003.04.01.004
 Comunicado de ocorrências
-004.02.04.001
+003.04.01.004
 Comunicado de transferência de bens patrimoniais
-002.02.04.002
+004.02.04.001
 Comunicado sobre a realização de cerimônia oficial
+002.02.04.002
 Comunicado, memorando, comunicação interna, Circular, aviso,
 006.01.10.001
 Concessão de 13o salário USE Processo de concessão de direitos e benefícios
@@ -10901,6 +10207,8 @@ Concessão de aposentadoria por idade USE Processo de concessão de direitos e b
 
 003.03.04.011
 
+003.03.04.011
+
 003.03.04.010
 
 003.03.04.011
@@ -10911,13 +10219,7 @@ Concessão de aposentadoria por idade USE Processo de concessão de direitos e b
 
 003.03.04.011
 
-003.03.04.011
-
 112
-
-48110001 miolo_230x280mm.indd   112
-
-15/02/19   19:26
 
 
 Concessão de aposentadoria por invalidez USE Processo de concessão de direitos e benefícios
@@ -11016,11 +10318,7 @@ serviço público USE Processo de concessão e incorporação de vantagens pecun
 
 003.03.04.011
 
-48110001 miolo_230x280mm.indd   113
-
 113
-
-15/02/19   19:26
 
 
 Concessão de gratificação pela prestação de serviço extraordinário USE Processo de concessão e incorporação 
@@ -11118,10 +10416,6 @@ CONFERÊNCIA, RECEBIMENTO E
 
 114
 
-48110001 miolo_230x280mm.indd   114
-
-15/02/19   19:26
-
 
 001.02.02.003
 
@@ -11213,11 +10507,7 @@ Contas a pagar USE atividade PAGAMENTO DE DESPESAS ESPECÍFICAS
 
 006.01.08.003
 
-48110001 miolo_230x280mm.indd   115
-
 115
-
-15/02/19   19:26
 
 
 Contas correntes por Unidade, Relatório de saldo de
@@ -11311,10 +10601,6 @@ Contrato de gerenciamento USE Contratos
 
 116
 
-48110001 miolo_230x280mm.indd   116
-
-15/02/19   19:26
-
 
 004.01.01.001
 004.01.01.001
@@ -11404,11 +10690,7 @@ Controle de ações judiciais, Livro de
 
 003.03.03 
 
-48110001 miolo_230x280mm.indd   117
-
 117
-
-15/02/19   19:26
 
 
 CONTROLE DE AÇÕES SOCIAIS, PLANEJAMENTO E 
@@ -11503,10 +10785,6 @@ bilateral
 
 118
 
-48110001 miolo_230x280mm.indd   118
-
-15/02/19   19:26
-
      
 
 Convênio para concessão de cesta saúde USE Processo de formalização e execução de acordo bilateral
@@ -11598,11 +10876,7 @@ Crédito, Nota de
 005.02.02.002
 005.02.03.001
 
-48110001 miolo_230x280mm.indd   119
-
 119
-
-15/02/19   19:26
 
 
 Criação de cargo, Processo de
@@ -11696,11 +10970,7 @@ Dados para cadastramento, Boletim de USE Boletim informativo para elaboração d
 003.06.01.005
 003.05.01.002
 
-48110001 miolo_230x280mm.indd   120
-
-15/02/19   19:26
-
- 
+ 
 
 Dados pessoais e funcionais para a elaboração da Folha de pagamento, Formulário de atualização de
 Datas nacionais, Cadastro de
@@ -11792,11 +11062,7 @@ Desconto em Folha de pagamento USE Guia de autorização para consignação em F
 003.05.01.012
 003.05.01.005
 
-48110001 miolo_230x280mm.indd   121
-
 121
-
-15/02/19   19:26
 
 
 Descontos não previstos em lei, Autorização para
@@ -11888,10 +11154,6 @@ Diagnóstico de acervo, Dossiê de
 
 122
 
-48110001 miolo_230x280mm.indd   122
-
-15/02/19   19:26
-
 
 Diagramação para matérias de site institucional, Modelo de
 Diárias e ajuda de custo, Adiantamento para USE Processo de adiantamento
@@ -11979,19 +11241,15 @@ Dívida ativa, Processo administrativo de cancelamento de inscrição de débito
 001.01.04.011
 001.01.04.012
 
-48110001 miolo_230x280mm.indd   123
-
 123
-
-15/02/19   19:26
 
 
 006.01.08.009
 
-001.01.04.013
 Dívida ativa, Processo administrativo de pedido de parcelamento da  
-Dívida ativa, Processo administrativo de reinscrição de débito na
+001.01.04.013
 001.01.04.014
+Dívida ativa, Processo administrativo de reinscrição de débito na
 Dívida ativa, Processo administrativo de retificação de guia de arrecadação de receita para débitos inscritos na    001.01.04.015
 001.01.04.017
 Dívida ativa, Processo administrativo de verificação de pagamento da
@@ -12075,17 +11333,13 @@ Documentos, Formulário de consulta de livros ou
 
 124
 
-48110001 miolo_230x280mm.indd   124
-
-15/02/19   19:26
-
 
 006.01.08.004
 Documentos, Formulário de empréstimo de livros ou
 006.01.01.001
 Documentos, Instrução normativa sobre arquivos e
-006.01.02.002
 Documentos, Livro de controle interno de
+006.01.02.002
 Documentos, Processo de elaboração ou atualização de Plano de classificação e de Tabela de temporalidade de    006.01.06.003
 006.01.06.004
 Documentos, Processo de eliminação de
@@ -12165,13 +11419,9 @@ Edital de licitação USE atividades da subfunção CONTROLE DE COMPRAS, SERVIÇ
 004.04.08.001
 004.04.09.004
 
-48110001 miolo_230x280mm.indd   125
-
 125
 
-15/02/19   19:26
-
- 
+ 
 
 003.03.03 
 
@@ -12209,18 +11459,18 @@ Elaboração de estudos e pesquisas, Dossiê de
 ELABORAÇÃO DE EXPEDIENTES PARA A FOLHA DE PAGAMENTO
 ELABORAÇÃO DE EXPEDIENTES PARA POSSE, PREENCHIMENTO DE FUNÇÃO-ATIVIDADE, 
 PROVIMENTO DE CARGO, VACÂNCIA E SUBSTITUIÇÃO
-ELABORAÇÃO DE NORMAS PARA RECEPÇÕES OFICIAIS
 002.02.01 
+ELABORAÇÃO DE NORMAS PARA RECEPÇÕES OFICIAIS
 ELABORAÇÃO DE PARECERES E UNIFORMIZAÇÃO DA JURISPRUDÊNCIA ADMINISTRATIVA 001.01.05 
 001.02.01.003
 Elaboração e execução de plano, programa ou projeto, Dossiê de
 004.04.08 
 ELABORAÇÃO DE PROJETOS DE EDIFICAÇÃO
-005.01.03 
 ELABORAÇÃO DE PROPOSTAS ORÇAMENTÁRIAS
+005.01.03 
 ELABORAÇÃO E DA EXECUÇÃO DE CONTRATOS DE INFORMÁTICA, ACOMPANHAMENTO DA 006.02.04
-ELABORAÇÃO E REGISTRO DE ATOS RELATIVOS À VIDA FUNCIONAL
 003.03.01 
+ELABORAÇÃO E REGISTRO DE ATOS RELATIVOS À VIDA FUNCIONAL
 Elaboração ou atualização de Plano de classificação e de Tabela de temporalidade de documentos, Processo de    006.01.06.003
 003.06.02.013
 Eleição da CIPA, Processo de
@@ -12262,10 +11512,6 @@ especializado
 003.03.02 
 
 126
-
-48110001 miolo_230x280mm.indd   126
-
-15/02/19   19:26
 
 
 006.01.08.010
@@ -12353,17 +11599,13 @@ Equipamentos, redes e laboratórios de serviços de telecomunicações, Cadastro
 004.02.03.001
 007.00.07.001
 
-001.02.02.002
-
 003.05.01.004
 
 001.02.02.002
 
-48110001 miolo_230x280mm.indd   127
+001.02.02.002
 
 127
-
-15/02/19   19:26
 
 
 Equipamentos, redes e serviços de telecomunicações, Inventário de
@@ -12458,10 +11700,6 @@ Evento ou cerimônia oficial, Credencial de
 
 128
 
-48110001 miolo_230x280mm.indd   128
-
-15/02/19   19:26
-
 
 003.06.01.015
 
@@ -12554,11 +11792,7 @@ Expediente de acompanhamento de ação judicial
 
 003.03.04.005
 
-48110001 miolo_230x280mm.indd   129
-
 129
-
-15/02/19   19:26
 
 
 Expediente de acompanhamento de acordo judicial ou extrajudicial
@@ -12653,11 +11887,7 @@ Férias e licença-prêmio em pecúnia, Processo de pagamento de
 
 130
 
-48110001 miolo_230x280mm.indd   130
-
-15/02/19   19:26
-
- 
+ 
 
 Férias indeferidas, Requerimento para gozo de
 Férias por absoluta necessidade do serviço, Processo de indeferimento de
@@ -12748,11 +11978,7 @@ Ficha de inscrição de candidato a emprego público
 003.08.01.002
 003.02.01.002
 
-48110001 miolo_230x280mm.indd   131
-
 131
-
-15/02/19   19:26
 
 
 Ficha de inventário de programa de computador
@@ -12798,6 +12024,8 @@ Folha de pagamento (via arquivada na Secretaria da Fazenda)
 Folha de pagamento (via arquivada nas Unidades de Recursos Humanos)
 Folha de pagamento de Autarquias e Fundações, Quadro demonstrativo da
 
+132
+
 006.02.03.004
 003.08.01.003
 005.02.04.001
@@ -12840,12 +12068,6 @@ Folha de pagamento de Autarquias e Fundações, Quadro demonstrativo da
 003.05.02.004
 003.05.02.005
 003.05.02.010
-
-132
-
-48110001 miolo_230x280mm.indd   132
-
-15/02/19   19:26
 
 
 Folha de pagamento, Boletim informativo para elaboração da
@@ -12946,11 +12168,7 @@ elaboração da Folha de pagamento
 
 003.05.01.004
 
-48110001 miolo_230x280mm.indd   133
-
 133
-
-15/02/19   19:26
 
 
 Formulário de cálculo de indenizações USE Formulário de atualização de dados pessoais e funcionais para a 
@@ -13050,10 +12268,6 @@ elaboração da Folha de pagamento
 
 134
 
-48110001 miolo_230x280mm.indd   134
-
-15/02/19   19:26
-
 
 Formulário para cadastramento de veículos USE Cadastro de veículos oficiais, em convênio e locados
 Formulário para o Cadastro Geral de Empregados e Desempregados - CAGED
@@ -13145,11 +12359,7 @@ Funcionários demitidos, Dossiê de avaliação de
 003.03.04.026
 003.03.06.004
 
-48110001 miolo_230x280mm.indd   135
-
 135
-
-15/02/19   19:26
 
 
 Funcionários e familiares atendidos, Cadastro de
@@ -13245,21 +12455,17 @@ concessão e incorporação de vantagens pecuniárias
 
 136
 
-48110001 miolo_230x280mm.indd   136
+ 
 
-15/02/19   19:26
+003.03.04.011
 
- 
+003.03.04.011
 
 003.03.04.011
 
 003.03.04.011
 
 003.05.01.004
-
-003.03.04.011
-
-003.03.04.011
 
 003.05.01.032
 
@@ -13274,8 +12480,8 @@ pecuniárias
 Gratificação de insalubridade, Concessão de USE Processo de concessão e incorporação de vantagens 
 pecuniárias
 Gratificação de pró-labore, Concessão de USE Processo de concessão e incorporação de vantagens pecuniárias 003.03.04.011
-003.05.01.033
 Gratificação de representação de Autarquia, Processo relatório de
+003.05.01.033
 Gratificação de representação, Concessão de USE Processo de concessão e incorporação de vantagens 
 pecuniárias
 Gratificação de representação, Planilha de concessão de incorporação de
@@ -13302,10 +12508,10 @@ Grupo de trabalho, Alteração de comissão, conselho ou USE Processo de constit
 ou grupo de trabalho
 Grupo de trabalho, Nomeação de comissão, conselho ou USE Processo de constituição de comissão, conselho 
 ou grupo de trabalho
-Grupo de trabalho, Processo de constituição de comissão, conselho ou
 001.02.02.003
-004.05.08.009
+Grupo de trabalho, Processo de constituição de comissão, conselho ou
 Guarda de veículos em outras garagens, Ordem de serviço para
+004.05.08.009
 Guia de arrecadação de receita para débitos inscritos na dívida ativa, Processo administrativo de retificação de  001.01.04.015
 003.05.01.005
 Guia de autorização para consignação em Folha de pagamento
@@ -13333,7 +12539,7 @@ Guia de recolhimento de FINSOCIAL
 
 003.03.04.011
 
-003.03.04.011
+001.02.02.003
 
 003.03.04.011
 
@@ -13341,13 +12547,9 @@ Guia de recolhimento de FINSOCIAL
 
 001.02.02.003
 
-001.02.02.003
-
-48110001 miolo_230x280mm.indd   137
+003.03.04.011
 
 137
-
-15/02/19   19:26
 
 
 Guia de recolhimento de ICMS
@@ -13443,12 +12645,8 @@ Imagem, Termo de autorização de uso de
 002.01.04.001
 002.01.04.006
 
-48110001 miolo_230x280mm.indd   138
-
-15/02/19   19:26
-
- 
- 
+ 
+ 
 
 IMOBILIÁRIO, CONTROLE DO PATRIMÔNIO
 Imóveis próprios do Estado, Processo de pagamento de multa sobre terrenos e
@@ -13538,11 +12736,7 @@ Indicações políticas, Expediente de
 001.01.06.005
 002.02.03.001
 
-48110001 miolo_230x280mm.indd   139
-
 139
-
-15/02/19   19:26
 
 
 006.03.02.007
@@ -13629,17 +12823,13 @@ cadastral no Cadastro Nacional de Pessoa Jurídica - CNPJ
 001.01.02.005
 001.01.02.006
 
+003.03.04.011
+
 001.01.02.004
 
 003.05.01.002
 
-003.03.04.011
-
 140
-
-48110001 miolo_230x280mm.indd   140
-
-15/02/19   19:26
 
  
 
@@ -13731,11 +12921,7 @@ Investidura de área pública USE Processo de alienação de imóvel
 006.01.07.003
 004.04.06.001
 
-48110001 miolo_230x280mm.indd   141
-
 141
-
-15/02/19   19:26
 
 
 IPTU à Prefeitura, Pagamento de USE Processo de pagamento de impostos e taxas
@@ -13828,12 +13014,8 @@ Leis
 004.05.12.001
 001.01.06.001
 
-48110001 miolo_230x280mm.indd   142
-
-15/02/19   19:26
-
- 
- 
+ 
+ 
 
 Liberação de recursos da dotação contingenciada USE Processo de alteração orçamentária
 Liberação de veículo, Ordem de
@@ -13927,11 +13109,7 @@ Liquidação da despesa, Nota de lançamento de
 007.00.03.002
 005.02.05.002
 
-48110001 miolo_230x280mm.indd   143
-
 143
-
-15/02/19   19:26
 
 
 LIQUIDAÇÃO DA DESPESA, RESERVA DE RECURSO, EMPENHO E
@@ -14024,10 +13202,6 @@ Livro, periódico, folheto
 002.05.01.001
 
 144
-
-48110001 miolo_230x280mm.indd   144
-
-15/02/19   19:26
 
 
 Livros ou documentos, Formulário de consulta de
@@ -14122,13 +13296,9 @@ Manual técnico da Polícia Militar USE Manual técnico, de procedimentos ou do 
 
 001.02.02.002
 
-48110001 miolo_230x280mm.indd   145
-
 145
 
-15/02/19   19:26
-
- 
+ 
 
 Manual técnico de sistemas de informática desenvolvidos pelos órgãos estaduais USE Manual técnico, de 
 procedimentos ou do usuário
@@ -14223,10 +13393,6 @@ MATERIAL, FORMAÇÃO DE ESTOQUE OU REPOSIÇÃO DE
 005.02.06.003
 004.03.02
 
-48110001 miolo_230x280mm.indd   146
-
-15/02/19   19:26
-
 
 Material, Processo relativo aos trabalhos de Comissão de Recebimento de
 Matérias de site institucional, Modelo de diagramação para
@@ -14315,11 +13481,7 @@ Mudança de sede de exercício, Afastamento por USE Processo de afastamentos ou 
 004.03.01.001
 003.03.04.005
 
-48110001 miolo_230x280mm.indd   147
-
 147
-
-15/02/19   19:26
 
 
 Multa de trânsito, Notificação de
@@ -14410,11 +13572,7 @@ NOTÍCIAS SOBRE A ADMINISTRAÇÃO ESTADUAL, COMPILAÇÃO DE
 
 148
 
-48110001 miolo_230x280mm.indd   148
-
-15/02/19   19:26
-
- 
+ 
 
 Notificação de multa de trânsito
 Notória especialização USE Processo de contratação de serviço técnico profissional especializado
@@ -14508,13 +13666,9 @@ Ofício solicitando agendamento de audiência
 002.04.03.005
 001.03.01.011
 
-48110001 miolo_230x280mm.indd   149
-
 149
 
-15/02/19   19:26
-
- 
+ 
 
 Ofício solicitando ajudantes de ordem
 Ofício solicitando aprovação de peças de campanha ou evento
@@ -14605,10 +13759,6 @@ Organograma funcional
 003.01.02.003
 
 150
-
-48110001 miolo_230x280mm.indd   150
-
-15/02/19   19:26
 
 
 Orientação técnica, Dossiê de     
@@ -14703,13 +13853,9 @@ pessoais e funcionais para a elaboração da Folha de pagamento
 
 003.05.01.004
 
-48110001 miolo_230x280mm.indd   151
-
 151
 
-15/02/19   19:26
-
- 
+ 
 
 Pagamento de honorários, Processo de
 Pagamento de horas extras USE atividades da subfunção PAGAMENTO DE PESSOAL
@@ -14807,10 +13953,6 @@ Parecer jurídico
 
 152
 
-48110001 miolo_230x280mm.indd   152
-
-15/02/19   19:26
-
 
 Parecer sobre aquisição de veículo
 Parecer técnico
@@ -14905,11 +14047,7 @@ Pauta de compromissos
 004.04 
 001.03.01.012
 
-48110001 miolo_230x280mm.indd   153
-
 153
-
-15/02/19   19:26
 
 
 Pauta de reunião
@@ -15006,10 +14144,6 @@ Pensão de advogados, economistas e serventuários, Processo de aposentadoria e
 
 154
 
-48110001 miolo_230x280mm.indd   154
-
-15/02/19   19:26
-
  
 
 003.03.04.011
@@ -15101,11 +14235,7 @@ PLANEJAMENTO E FORMULAÇÃO DE POLÍTICAS DE RECURSOS HUMANOS
 001.02.01.002
 003.01.01
 
-48110001 miolo_230x280mm.indd   155
-
 155
-
-15/02/19   19:26
 
 
 005.01 
@@ -15197,10 +14327,6 @@ deliberação
 001.01.01.001
 
 156
-
-48110001 miolo_230x280mm.indd   156
-
-15/02/19   19:26
 
 
 POS, Proposta Orçamentária Setorial -
@@ -15295,11 +14421,7 @@ Prevenção de Riscos Ambientais - PPRA, Programa de
 003.06.02 
 003.06.01.014
 
-48110001 miolo_230x280mm.indd   157
-
 157
-
-15/02/19   19:26
 
 
 Previdência de advogados de São Paulo USE Processo de aposentadoria e pensão de advogados,  
@@ -15397,10 +14519,6 @@ Processo de alienação de veículo
 
 158
 
-48110001 miolo_230x280mm.indd   158
-
-15/02/19   19:26
-
 
 Processo de alienação de veículo por venda direta para as prefeituras
 Processo de alteração de grade
@@ -15490,11 +14608,7 @@ Processo de concessão e incorporação de vantagens pecuniárias
 004.04.07.003
 003.03.04.011
 
-48110001 miolo_230x280mm.indd   159
-
 159
-
-15/02/19   19:26
 
 
 003.02.02.010
@@ -15515,8 +14629,8 @@ Processo de contratação de agência de publicidade
 Processo de contratação de estagiário
 005.02.10.002
 Processo de contratação de financiamentos
-004.01.05.001
 Processo de contratação de obra pública
+004.01.05.001
 Processo de contratação de outros serviços não especificados USE Processo de contratação de serviços comuns 004.01.05.005
 004.02.02.002
 Processo de contratação de seguro para bens patrimoniais 
@@ -15584,10 +14698,6 @@ Processo de estudo para aperfeiçoamento de métodos e técnicas de recrutamento
 Processo de estudo para classificação de cargos e funções
 
 160
-
-48110001 miolo_230x280mm.indd   160
-
-15/02/19   19:26
 
 
 Processo de estudo para definição das exigências, requisitos, interstícios e demais procedimentos  
@@ -15683,11 +14793,7 @@ Processo de pagamento de FGTS
 003.05.01.019
 005.02.08.009
 
-48110001 miolo_230x280mm.indd   161
-
 161
-
-15/02/19   19:26
 
 
 Processo de pagamento de gratificação de representação
@@ -15779,10 +14885,6 @@ Processo de recurso relativo ao indeferimento de pedido de informações
 006.03.02.001 
 
 162
-
-48110001 miolo_230x280mm.indd   162
-
-15/02/19   19:26
 
 
 Processo de reforma ou transferência para a reserva
@@ -15877,11 +14979,7 @@ Processo final de afastamento USE Processo de afastamentos ou licenças
 
 003.03.04.005
 
-48110001 miolo_230x280mm.indd   163
-
 163
-
-15/02/19   19:26
 
 
 Processo para apuração de denúncias
@@ -15975,10 +15073,6 @@ Programa de computador, Contrato de licença de uso de
 
 164
 
-48110001 miolo_230x280mm.indd   164
-
-15/02/19   19:26
-
 
 Programa de computador, Ficha de inventário de
 Programa de computador, Projeto de desenvolvimento de
@@ -16070,11 +15164,7 @@ Projetos, Contrato de USE Contratos
 005.01.04 
 004.01.01.001
 
-48110001 miolo_230x280mm.indd   165
-
 165
-
-15/02/19   19:26
 
 
 Pró-labore, Concessão de USE Processo de concessão e incorporação de vantagens pecuniárias
@@ -16167,10 +15257,6 @@ Provas e gabaritos de concurso público ou processo seletivo
 003.02.01.010
 
 166
-
-48110001 miolo_230x280mm.indd   166
-
-15/02/19   19:26
 
 
 Proventos de aposentadoria, Processo de complementação de
@@ -16265,13 +15351,9 @@ Quilometragem percorrida, Quadro demonstrativo mensal de
 004.05.09.006
 004.05.10.008
 
-48110001 miolo_230x280mm.indd   167
-
 167
 
-15/02/19   19:26
-
- 
+ 
 
 Quinquênio, Concessão de adicional por tempo de serviço - USE Processo de concessão e incorporação de 
 vantagens pecuniárias
@@ -16325,6 +15407,8 @@ Recibo de entrega do demonstrativo da avaliação de desempenho
 Recibo de gozo de férias
 Recibo de pagamento de férias
 
+168
+
 003.03.08.005
 003.06.01.005
 004.01.01.003
@@ -16364,13 +15448,7 @@ Recibo de pagamento de férias
 003.03.04.023
 003.03.04.024
 
-168
-
-48110001 miolo_230x280mm.indd   168
-
-15/02/19   19:26
-
- 
+ 
 
 Recibo de pagamento de salário-educação
 Recibo de vencimentos USE Folha de pagamento (via arquivada na Secretaria da Fazenda)
@@ -16465,11 +15543,7 @@ RECURSOS HUMANOS, SELEÇÃO E DESENVOLVIMENTO DE
 003.01.01.008
 003.02 
 
-48110001 miolo_230x280mm.indd   169
-
 169
-
-15/02/19   19:26
 
 
 RECURSOS ORÇAMENTÁRIOS, DISTRIBUIÇÃO DE
@@ -16565,10 +15639,6 @@ Registro de preços, Cadastro de
 
 170
 
-48110001 miolo_230x280mm.indd   170
-
-15/02/19   19:26
-
 
 Registro de preços, Processo de
 Registro de processos, Livro de
@@ -16661,11 +15731,7 @@ Relação de peças do acervo encaminhadas à conservação
 006.01.08.013
 006.01.08.014
 
-48110001 miolo_230x280mm.indd   171
-
 171
-
-15/02/19   19:26
 
 
 Relação de processos e documentos recebidos e expedidos USE Relação de remessa de documentos
@@ -16762,10 +15828,6 @@ Relatório de custeio por entidade consignatária
 
 172
 
-48110001 miolo_230x280mm.indd   172
-
-15/02/19   19:26
-
 
 Relatório de débito
 Relatório de desempenho de participantes de cursos
@@ -16858,55 +15920,51 @@ Relatório geral do equipamento
 001.02.03.012
 006.02.03.008
 
-48110001 miolo_230x280mm.indd   173
-
 173
-
-15/02/19   19:26
 
 
 Relatório mensal de 13o salário
 003.05.02.031
-003.01.02.012
 Relatório mensal de cargos e funções
-003.02.02.013
+003.01.02.012
 Relatório mensal de custos com cursos
-003.08.03.007
+003.02.02.013
 Relatório mensal de saúde da criança
-005.02.07.005
+003.08.03.007
 Relatório para consulta das prestações de contas
-005.02.07.006
+005.02.07.005
 Relatório resumido da execução orçamentária
-003.05.02.032
+005.02.07.006
 Relatório resumido de consolidação de despesa da Folha de pagamento - CLD-060
-004.05.09.008
+003.05.02.032
 Relatório semestral de consumo de combustível
-003.01.01.011
+004.05.09.008
 Relatório técnico de dimensionamento do quadro de pessoal
-006.02.03.009
+003.01.01.011
 Relatório técnico de serviços
-006.02.02.002
+006.02.03.009
 Relatório técnico de vistoria
-006.01.08.019
+006.02.02.002
 Relatório técnico do estado dos bens do acervo
-002.01.02.004
+006.01.08.019
 Release e sinopse
-003.01.02.001
+002.01.02.004
 Relotação de postos de trabalho, Decreto de fixação, extinção ou
+003.01.02.001
 Remanejamento entre ações USE Processo de alteração orçamentária
 005.02.02.002
-004.05.07.001
 Remanejamento, ou ampliação, ou redução de frota, Decreto de
-004.05.07.002
+004.05.07.001
 Remanejamento, ou ampliação, ou redução de vagas na frota, Processo de
-004.05.07.003
+004.05.07.002
 Remanejamento, ou ampliação, ou redução de vagas na frota, Proposta de
-003.02.01.008
+004.05.07.003
 Remanescentes de concurso público, Processo de aproveitamento de
-004.02.05.003
+003.02.01.008
 Remanescentes de inutilização, Recibo de doação de
-006.01.04.002
+004.02.05.003
 Remessa de documentos, Relação de
+006.01.04.002
 Remoção a pedido USE Processo de mobilidade funcional
 003.03.01.004
 Remoção de funcionário ou servidor USE Processo de mobilidade funcional
@@ -16921,14 +15979,14 @@ Remoção por permuta USE Processo de mobilidade funcional
 003.03.01.004
 Remoção por união de cônjuges USE Processo de mobilidade funcional
 003.03.01.004
-004.05.02.004
 Renovação da frota, Programa anual de
+004.05.02.004
 Renovação de frota USE Processo de aquisição de veículo
 004.05.02.003
 Renovação de seguros USE Processo de contratação de seguro para veículo oficial
 004.05.05.001
-Renúncia de proventos, Processo de
 003.05.01.022
+Renúncia de proventos, Processo de
 Repasse de pagamento de seguro habitacional e Fundo de Compensação e Variação Salarial - FCVS, Processo de 003.03.05.005
 003.03.05.006
 Repasse de pagamento do Fundo de Compensação e Variação Salarial - FCVS, Processo de
@@ -16954,10 +16012,6 @@ Reprodução de documento, Formulário de
 Reprodução de documento, Termo de responsabilidade para uso e
 
 174
-
-48110001 miolo_230x280mm.indd   174
-
-15/02/19   19:26
 
 
 REPROGRAFIA, EXECUÇÃO DE SERVIÇOS DE  
@@ -17056,11 +16110,7 @@ Restituição de custas de causa mortis USE Processo de pagamento de restituiç�
 005.02.08.017
 005.02.08.017
 
-48110001 miolo_230x280mm.indd   175
-
 175
-
-15/02/19   19:26
 
 
 003.05.01.004
@@ -17085,8 +16135,8 @@ RESTRIÇÃO DE ACESSO, CONTROLE DE
 006.03.02
 006.02.01.010
 Resumo de dados, Relatório de
-003.03.04.004
 Retenção ou suplementação do auxílio-alimentação, Pedido de
+003.03.04.004
 Retificação de guia de arrecadação de receita para débitos inscritos na dívida ativa, Processo administrativo de    001.01.04.015
 Retificação de ajuda de custo para alimentação, Formulário de USE Formulário de atualização de dados 
 pessoais e funcionais para a elaboração da Folha de pagamento
@@ -17140,11 +16190,11 @@ Rol anual de documentos, dados e informações desclassificadas
 
 003.03.07.005
 
-003.05.01.004
-
-003.05.01.004
-
 003.03.07.005
+
+003.05.01.004
+
+003.05.01.004
 
 S
 
@@ -17158,11 +16208,7 @@ Saída e de entrada de material, Guia de
 
 176
 
-48110001 miolo_230x280mm.indd   176
-
-15/02/19   19:26
-
- 
+ 
 
 003.06 
 
@@ -17205,8 +16251,8 @@ Segurança, Livro de ocorrências relacionadas à
 Segurança, Memorando solicitando serviços de vigilância e
 Segurança, Serviços de USE Processo de contratação de serviços comuns
 004.01.05.005
-Seguridade Social, Processo de recolhimento de contribuição para o Plano da
 003.03.08.001
+Seguridade Social, Processo de recolhimento de contribuição para o Plano da
 Seguro habitacional e Fundo de Compensação e Variação Salarial - FCVS, Processo de repasse de pagamento de 003.03.05.005
 004.02.02.002
 Seguro para bens patrimoniais, Processo de contratação de
@@ -17234,8 +16280,8 @@ SELEÇÃO, RECRUTAMENTO E
 003.02.01 
 004.01.04.004
 Semovente, Processo de aquisição de
-006.02.02.003
 Senha de acesso, Termo de concessão e controle de
+006.02.02.003
 Sentença judicial, Processo de execução de USE Expediente de atendimento de requisições, ordens judiciais 
 ou administrativas
 Separata USE Livro, periódico, folheto
@@ -17252,11 +16298,7 @@ Serviço extraordinário e horas-extras, Processo de convocação de prestação
 
 001.01.04.002
 
-48110001 miolo_230x280mm.indd   177
-
 177
-
-15/02/19   19:26
 
 
 Serviço extraordinário, Formulário para pagamento de USE Formulário de atualização de dados pessoais e 
@@ -17351,10 +16393,6 @@ Serviços, Relatório técnico de
 
 178
 
-48110001 miolo_230x280mm.indd   178
-
-15/02/19   19:26
-
 
 Servidor público estadual, Manual do USE Manual técnico, de procedimentos ou do usuário
 Servidores com ocorrências, Relação de
@@ -17448,11 +16486,7 @@ elaboração da Folha de pagamento
 
 003.05.01.004
 
-48110001 miolo_230x280mm.indd   179
-
 179
-
-15/02/19   19:26
 
 
 SUBSTITUIÇÃO, ELABORAÇÃO DE EXPEDIENTES PARA POSSE, PREENCHIMENTO DE 
@@ -17547,11 +16581,7 @@ reprodução de documento
 
 180
 
-48110001 miolo_230x280mm.indd   180
-
-15/02/19   19:26
-
- 
+ 
 
 001.02.02.008
 
@@ -17598,8 +16628,8 @@ Termo de Reavaliação de Informação – TRI
 Termo de recolhimento de documentos     
 003.03.03.014
 Termo de rescisão de contrato individual de trabalho
-Termo de responsabilidade para uso e reprodução de documento  
 006.01.11.003
+Termo de responsabilidade para uso e reprodução de documento  
 Termo de Responsabilidade pela obtenção de acesso a documentos, dados e informações pessoais de terceiros – TR    006.03.02.007
 004.02.04.005
 Termo de responsabilidade pelo uso de bens patrimoniais
@@ -17625,8 +16655,8 @@ Título declaratório de disponibilidade INTEGRA Prontuário funcional
 003.03.01.008
 004.04.03.004 
 Títulos de domínio, Livro de registro de
-Tombo, Ficha de
 006.01.08.002
+Tombo, Ficha de
 TR, Termo de Responsabilidade pela obtenção de acesso a documentos, dados e informações pessoais de 
 terceiros -
 Trabalho noturno, Concessão de gratificação por USE Processo de concessão e incorporação de vantagens 
@@ -17641,17 +16671,13 @@ TRABALHO, SEGURANÇA E MEDICINA DO
 003.06.02
 003.06
 
+006.03.02.007
+
 001.02.01.003
 
 003.03.04.011
 
-006.03.02.007
-
-48110001 miolo_230x280mm.indd   181
-
 181
-
-15/02/19   19:26
 
 
 Trabalhos artísticos, Contrato de USE Contratos
@@ -17747,11 +16773,7 @@ Uso de imóvel, Processo de autorização de
 
 182
 
-48110001 miolo_230x280mm.indd   182
-
-15/02/19   19:26
-
- 
+ 
 
 Uso de imóvel, Processo de cessão de
 Uso de imóvel, Processo de concessão de
@@ -17847,13 +16869,9 @@ Veículos oficiais USE atividades da subfunção CONTROLE DE TRANSPORTES INTERNO
 004.05.11.001
 004.05 
 
-48110001 miolo_230x280mm.indd   183
-
 183
 
-15/02/19   19:26
-
- 
+ 
 
 Veículos oficiais, em convênio e locados, Cadastro de
 VEÍCULOS, ALIENAÇÃO DE
@@ -17902,6 +16920,8 @@ X
 
 Xerox, Autorização para USE Ficha de autorização para cópia
 
+184
+
 004.05.04.001
 004.05.12 
 004.05.02 
@@ -17948,42 +16968,18 @@ Xerox, Autorização para USE Ficha de autorização para cópia
 
 007.00.05.001
 
-184
-
-48110001 miolo_230x280mm.indd   184
-
-15/02/19   19:26
-
-ANEXO III
-
-a que se refere o artigo 3o do 
-
-Decreto n. 48.898, de 27 de agosto de 2004
-
-(O Anexo III foi substituído, conforme artigo 1o do Decreto n. 63.382/2018)
-
-TABELA DE TEMPORALIDADE DE DOCUMENTOS 
-
-DA ADMINISTRAÇÃO PÚBLICA DO ESTADO DE SÃO PAULO: 
-
-ATIVIDADESMEIO
-
- 
+ 
 
 ANEXO III
 a que se refere o artigo 3o do 
 Decreto n. 48.898, de 27 de agosto de 2004
-(O Anexo III foi substituído, conforme artigo 1o do Decreto n. 63.382/2018)
+(O Anexo III foi substituído conforme artigo 1o do Decreto n. 63.382/2018)
 
 TABELA DE TEMPORALIDADE DE DOCUMENTOS 
 DA ADMINISTRAÇÃO PÚBLICA DO ESTADO DE SÃO PAULO: 
-ATIVIDADESMEIO
-
-48110001 miolo_230x280mm.indd   185
+ATIVIDADES-MEIO
 
 185
-
-15/02/19   19:26
 
 
 001 ORGANIZAÇÃO ADMINISTRATIVA (FUNÇÃO)
@@ -18026,18 +17022,18 @@ deliberação, portaria
 
 vigência
 
+001.01.02 
+Habilitação jurídica 
+e regularização 
+fiscal dos órgãos e 
+entidades
+
 001.01.01.002 
 
 Processo de elaboração de ato 
 normativo
 
 vigência
-
-001.01.02 
-Habilitação jurídica 
-e regularização 
-ﬁscal dos órgãos e 
-entidades
 
 001.01.02.001
 
@@ -18047,8 +17043,8 @@ vigência
 
 001.01.02.002
 
-Certiﬁcado de matrícula no 
-Cadastro Especíﬁco do INSS - CEI
+Certificado de matrícula no 
+Cadastro Específico do INSS - CEI
 
 vigência
 
@@ -18190,13 +17186,6 @@ vigência
 
 ✓
 
-Trata-se de processo para elaboração de 
-decreto, estatuto, código, regulamento, 
-regimento, instrução normativa, norma, 
-resolução, deliberação, portaria. A vigência 
-esgota-se com a aprovação da autoridade 
-competente ou com a sua negativa.
-
 Lei Federal n. 8.212/1991, art. 49, § 2o; Lei 
 Federal n. 11.941/2009, art. 26.
 
@@ -18225,15 +17214,11 @@ Lei Federal n. 4.725/1965.
 Trata-se da formalização e da execução de 
 convênio, termo de cooperação, acordo, 
 protocolo de intenções, termo de parceria. A 
-vigência esgota-se com o término do acordo 
+vigência encerra-se com o término do acordo 
 bilateral.
 
 186
 
-48110001 miolo_230x280mm.indd   186
-
-15/02/19   19:26
-
 
 001 ORGANIZAÇÃO ADMINISTRATIVA (FUNÇÃO)
 
@@ -18302,8 +17287,6 @@ normativos
 
 001.01.01.001
 
-vigência
-
 Decreto, estatuto, código, 
 
 regulamento, regimento, instrução 
@@ -18312,11 +17295,13 @@ normativa, norma, resolução,
 
 deliberação, portaria
 
+vigência
+
+vigência
+
 001.01.01.002 
 
 Processo de elaboração de ato 
-
-vigência
 
 normativo
 
@@ -18328,9 +17313,9 @@ vigência
 
 001.01.02.002
 
-Certiﬁcado de matrícula no 
+Certificado de matrícula no 
 
-Cadastro Especíﬁco do INSS - CEI
+Cadastro Específico do INSS - CEI
 
 vigência
 
@@ -18436,7 +17421,7 @@ Habilitação jurídica
 
 e regularização 
 
-ﬁscal dos órgãos e 
+fiscal dos órgãos e 
 
 entidades
 
@@ -18502,18 +17487,6 @@ acordos bilaterais
 
 ✓
 
-Trata-se de processo para elaboração de 
-
-decreto, estatuto, código, regulamento, 
-
-regimento, instrução normativa, norma, 
-
-resolução, deliberação, portaria. A vigência 
-
-esgota-se com a aprovação da autoridade 
-
-competente ou com a sua negativa.
-
 Lei Federal n. 8.212/1991, art. 49, § 2o; Lei 
 
 Federal n. 11.941/2009, art. 26.
@@ -18552,11 +17525,16 @@ convênio, termo de cooperação, acordo,
 
 protocolo de intenções, termo de parceria. A 
 
-vigência esgota-se com o término do acordo 
+vigência encerra-se com o término do acordo 
 
 bilateral.
 
-001.01.04
+001.01.04 
+Acompanhamento 
+e instrução de 
+ações judiciais e 
+administrativas
+001.01.04 
 Acompanhamento 
 e instrução de 
 ações judiciais e 
@@ -18677,7 +17655,7 @@ reinscrição de débito na dívida
 ativa
 
 Processo administrativo 
-de retiﬁcação de guia de 
+de retificação de guia de 
 arrecadação de receita para 
 débitos inscritos na dívida ativa
 
@@ -18696,7 +17674,7 @@ vigência
 001.01.04.017
 
 Processo administrativo de 
-veriﬁcação de pagamento da 
+verificação de pagamento da 
 dívida ativa
 
 vigência
@@ -18767,7 +17745,7 @@ recursal e executória das ações judiciais em
 andamento.
 
 O prazo de guarda alcança dois mandatos 
-para justiﬁcar a propositura ou não propositura 
+para justificar a propositura ou não propositura 
 da ação, viabilizando o reaproveitamento do 
 trabalho. Em proposta a ação, a minuta integrará 
 o Expediente de acompanhamento de ação 
@@ -18828,11 +17806,7 @@ Federal n. 20.910/1932, art. 1o. A vigência
 esgota-se com o trânsito em julgado da decisão 
 administrativa.
 
-48110001 miolo_230x280mm.indd   187
-
 187
-
-15/02/19   19:26
 
 
 001 ORGANIZAÇÃO ADMINISTRATIVA (FUNÇÃO)
@@ -18909,7 +17883,7 @@ Parecer jurídico
 
 Parecer técnico
 
-001.01.06.001
+001.01.06.002
 
 Leis
 
@@ -19047,254 +18021,10 @@ Lei Federal n. 9.784/1999.
 
 188
 
-48110001 miolo_230x280mm.indd   188
-
-15/02/19   19:26
-
-
-001.01.05.004
-
-Súmula
-
-vigência
-
-Lei Complementar Estadual n. 478/1986.
-
-PRAZOS DE GUARDA 
-
-(em anos)
-
-DESTINAÇÃO
-
-Unidade 
-
-Produtora
-
-Unidade com 
-
-atribuições de 
-
-Arquivo
-
-Eliminação
-
-Guarda 
-
-Permanente
-
-001.01.05.001
-
-Despacho normativo
-
-vigência
-
-Inativado, utilizar 
-
-Parecer jurídico
-
-001.01.05.002 
-
-001.01.05.005
-
-001.01.05.003 
-
-001.01.05.006
-
-Inativado, utilizar 
-
-Parecer técnico
-
-001.01.05.005
-
-Parecer jurídico
-
-001.01.05 
-
-Elaboração de 
-
-pareceres e 
-
-uniformização 
-
-da jurisprudência 
-
-administrativa
-
-001.01.05.006
-
-Parecer técnico
-
-001.01.06.001
-
-Leis
-
-001.01.06.002
-
-Legislativa
-
-Livro de mensagens à Assembleia 
-
-001.01.06.003
-
-Livro de vetos
-
-001.01.06.004
-
-de lei
-
-Processo de estudo de projeto 
-
-001.01.06.005
-
-Processo de indicação de 
-
-propostas
-
-001.01.06.006
-
-Processo de projeto de lei
-
-vigência
-
-001.01.06.007
-
-constitucional
-
-Processo de proposta de emenda 
-
-vigência
-
-Processo de requerimento de 
-
-001.01.06.008
-
-esclarecimentos sobre atos 
-
-administrativos ou normativos
-
-001.01.06 
-
-Assessoramento  
-
-técnico-legislativo
-
-–
-
-–
-
-1
-
-1
-
-4
-
-4
-
-4
-
-4
-
-4
-
-4
-
-–
-
-–
-
-–
-
-2
-
-2
-
-2
-
-4
-
-4
-
-4
-
-4
-
-–
-
-4
-
-4
-
-–
-
-✓
-
-–
-
-–
-
-✓
-
-✓
-
-✓
-
-✓
-
-✓
-
-✓
-
-✓
-
-✓
-
-–
-
-–
-
-✓
-
-✓
-
-✓
-
-Documento produzido em duas vias. Uma via
-
-integra o documento composto e a outra via
-
-será destinada à guarda permanente. A guarda 
-
-permanente deve-se ao caráter doutrinário e 
-
-histórico.
-
-Documento produzido em duas vias. Uma via
-
-integra o documento composto e a outra via
-
-será destinada à guarda permanente. A guarda 
-
-permanente deve-se ao caráter doutrinário e 
-
-histórico.
-
-Constituição Estadual, art. 28 e 47.
-
-Lei Federal n. 9.784/1999.
-
-001 ORGANIZAÇÃO ADMINISTRATIVA (FUNÇÃO)
-
-001.01 Ordenamento jurídico (SUBFUNÇÃO)
 
 001 ORGANIZAÇÃO ADMINISTRATIVA (FUNÇÃO)
 
 001.02 Planejamento das ações de governo e controle dos serviços (SUBFUNÇÃO)
-
-ATIVIDADES
-
-DOCUMENTOS
-
-OBSERVAÇÕES
 
 ATIVIDADES
 
@@ -19417,7 +18147,7 @@ atividades
 
 001.02.02.010
 
-Relatório de ﬁnal de mandato - 
+Relatório de final de mandato - 
 prestação de contas
 
 Até a 
@@ -19552,7 +18282,7 @@ diversas orientações técnicas, as solicitações e
 as respectivas respostas
 
 Os relatórios de reunião relativos às atividades 
-especíﬁcas deverão integrar o documento 
+específicas deverão integrar o documento 
 principal.
 
 ✓
@@ -19571,11 +18301,7 @@ principal.
 
 ✓
 
-48110001 miolo_230x280mm.indd   189
-
 189
-
-15/02/19   19:26
 
 
 001 ORGANIZAÇÃO ADMINISTRATIVA (FUNÇÃO)
@@ -19754,10 +18480,7 @@ Lei Estadual n. 10.294/1999, art. 18, § 2o. As
 reclamações ou sugestões também podem ser 
 encaminhadas por carta.
 
-Lei federal n. 13.460/2017, arts 14 e 15; Lei 
-estadual n. 10.294/1999, art. 29, IX, § 2º; 
-Decreto estadual n. 60.399/2014, arts. 21 e 
-22; Decreto estadual n. 61.175/2015.
+Lei Estadual n.10.294/1999, art. 29, IX, § 2o.
 
 A vigência esgota-se com o término da apuração 
 ou com a prescrição criminal. O parecer 
@@ -19770,32 +18493,20 @@ Lei Estadual n. 10.294/1999, art. 12. A
 vigência esgota-se com o término da apuração 
 ou com a prescrição criminal.
 
-Lei federal n. 13.460/2017, arts 14 e 15; Lei 
-estadual n. 10.294/1999, art. 2º, parágrafo 
-único; Decreto estadual n. 60.399/2014, arts. 
-21 e 22; Decreto estadual n. 61.175/2015.
+Lei Estadual n. 10.294/1999, art. 2o, parágrafo 
+único; Decreto Estadual n. 43.958/1999, art. 
+6o.
 
-Lei federal n. 13.460/2017, arts 14 e 15; Lei 
-estadual n. 10.294/1999, art. 9º, parágrafo 
-único; Decreto estadual n. 60.399/2014, arts. 
-21 e 22; Decreto estadual n. 61.175/2015.
+Decreto Estadual n. 43.958/1999, art. 6o, 
+parágrafo único.
 
-Lei federal n. 13.460/2017, arts 14 e 15; Lei 
-estadual n. 10.294/1999, arts. 9º, parágrafo 
-único, 29, IX, § 2º; Decreto estadual n. 
-50.656/2006, art. 1º, parágrafo único; Decreto 
-estadual n. 60.399/2014, arts. 21 e 22; 
-Decreto estadual n. 61.175/2015.
+Lei Estadual n.10.294/1999, art. 29, IX, § 2o.
 
 ✓
 
 ✓
 
 190
-
-48110001 miolo_230x280mm.indd   190
-
-15/02/19   19:26
 
 
 001 ORGANIZAÇÃO ADMINISTRATIVA (FUNÇÃO)
@@ -19827,7 +18538,7 @@ OBSERVAÇÕES
 
 001.03.01.001
 
-Agenda de compromissos oﬁciais
+Agenda de compromissos oficiais
 
 001.03.01.002
 
@@ -19917,17 +18628,17 @@ Registro de convites recebidos
 
 Formulário de encaminhamento 
 de matéria para publicação no 
-Diário Oﬁcial do Estado
+Diário Oficial do Estado
 
 001.03.02.002
 
-Lista de códigos de identiﬁcação 
+Lista de códigos de identificação 
 e autorização
 
 001.03.02.003
 
 Matéria para publicação no 
-Diário Oﬁcial do Estado
+Diário Oficial do Estado
 
 vigência
 
@@ -19971,11 +18682,11 @@ vigência
 
 001.03.01 Controle 
 de compromissos 
-oﬁciais
+oficiais
 
 001.03.02 
 Publicidade de atos 
-oﬁciais
+oficiais
 
 ✓
 
@@ -20035,11 +18746,7 @@ documento.
 A vigência esgota-se com a publicação da 
 matéria.
 
-48110001 miolo_230x280mm.indd   191
-
 191
-
-15/02/19   19:26
 
 
 002 COMUNICAÇÃO INSTITUCIONAL (FUNÇÃO)
@@ -20134,7 +18841,7 @@ vigência
 
 002.01.04.002
 
-Registro fotográﬁco
+Registro fotográfico
 
 002.01.04 Produção 
 de registros de 
@@ -20210,7 +18917,7 @@ as conveniências administrativas.
 
 ✓
 
-Os documentos reﬂetem a política do órgão.
+Os documentos refletem a política do órgão.
 
 A vigência esgota-se com o encerramento do 
 evento ou da licença concedida.
@@ -20267,10 +18974,6 @@ composto, deve seguir a temporalidade deste.
 
 192
 
-48110001 miolo_230x280mm.indd   192
-
-15/02/19   19:26
-
 
 002 COMUNICAÇÃO INSTITUCIONAL (FUNÇÃO)
 
@@ -20302,7 +19005,7 @@ OBSERVAÇÕES
 002.02.01 
 Elaboração de 
 normas para 
-recepções oﬁciais
+recepções oficiais
 
 002.02.02 Apoio 
 logístico
@@ -20351,16 +19054,16 @@ políticas
 002.02.03.002
 
 Expediente de solicitação de 
-apoio político-ﬁnanceiro
+apoio político-financeiro
 
 002.02.04.001
 
-Comunicado de luto oﬁcial
+Comunicado de luto oficial
 
 002.02.04.002
 
 Comunicado sobre a realização 
-de cerimônia oﬁcial
+de cerimônia oficial
 
 002.02.04.003
 
@@ -20433,7 +19136,7 @@ consulares
 002.02.05.005
 
 Livro de atas de expedição de 
-identiﬁcação consular
+identificação consular
 
 002.02.05.006
 
@@ -20549,11 +19252,7 @@ A vigência perdura até completar o livro.
 A vigência esgota-se com o afastamento da 
 autoridade consular do cargo.
 
-48110001 miolo_230x280mm.indd   193
-
 193
-
-15/02/19   19:26
 
 
 002 COMUNICAÇÃO INSTITUCIONAL (FUNÇÃO)
@@ -20609,7 +19308,7 @@ por órgão estadual
 002.03.01.005
 
 Credencial de evento ou 
-cerimônia oﬁcial
+cerimônia oficial
 
 002.03.01.006
 
@@ -20618,7 +19317,7 @@ Discurso, palestra ou conferência
 002.03.001 
 Organização de 
 eventos ou cerimônias 
-oﬁciais
+oficiais
 
 002.03.01.007
 
@@ -20653,12 +19352,12 @@ autoridades
 002.03.01.013
 
 Programa de solenidade, 
-recepção oﬁcial ou evento
+recepção oficial ou evento
 
 002.03.01.014
 
 Relação de convidados para 
-eventos ou solenidades oﬁciais
+eventos ou solenidades oficiais
 
 4
 
@@ -20716,7 +19415,7 @@ eventos ou solenidades oﬁciais
 
 Expediente de solicitação de 
 concessão de condecorações, 
-medalhas e outras honoriﬁcências
+medalhas e outras honorificências
 
 vigência
 
@@ -20777,11 +19476,11 @@ Um exemplar do Convite de evento organizado
 por órgão estadual integra o Dossiê de evento.
 
 Um exemplar da Credencial de evento ou 
-cerimônia oﬁcial integra o Dossiê de evento.
+cerimônia oficial integra o Dossiê de evento.
 
 Os discursos, palestras e conferências proferidos 
 por autoridades da administração superior e por 
-técnicos reﬂetem, respectivamente, a orientação 
+técnicos refletem, respectivamente, a orientação 
 política do órgão e o seu funcionamento. Podem 
 estar em qualquer suporte: textual, digital, 
 áudio e vídeo, apresentação de slides, etc.  
@@ -20803,20 +19502,16 @@ solenidade rotineira.
 
 Decreto n. 61.038/2015, art. 59. A vigência 
 esgota-se com a concessão das condecorações, 
-medalhas e outras honoriﬁcências. O 
+medalhas e outras honorificências. O 
 expediente deverá ser aberto a cada solicitação 
 de condecorações, medalhas e outras 
-honoriﬁcências.
+honorificências.
 
 Um exemplar do Folheto, catálogo ou cartaz 
 de divulgação de evento integra o Dossiê de 
 evento.
 
 194
-
-48110001 miolo_230x280mm.indd   194
-
-15/02/19   19:26
 
 
 002 COMUNICAÇÃO INSTITUCIONAL (FUNÇÃO)
@@ -20846,6 +19541,11 @@ Permanente
 
 OBSERVAÇÕES
 
+✓
+
+A vigência esgota-se com a elaboração de novo 
+projeto.
+
 002.04.01 
 Elaboração da 
 identidade visual
@@ -20859,7 +19559,7 @@ vigência
 
 002.04.02.001
 
-Brieﬁng de licitação
+Briefing de licitação
 
 vigência
 
@@ -20905,7 +19605,7 @@ de publicidade
 
 002.04.03.001
 
-Brieﬁng de campanha
+Briefing de campanha
 
 vigência
 
@@ -20949,7 +19649,7 @@ vigência
 
 002.04.03.007
 
-Termo de especiﬁcação técnica 
+Termo de especificação técnica 
 de campanha de publicidade
 
 vigência
@@ -20982,11 +19682,6 @@ vigência
 
 ✓
 
-✓
-
-A vigência esgota-se com a elaboração de novo 
-projeto.
-
 Lei Federal n. 12.232/2010. O documento 
 integra o Processo de contratação de agência 
 de publicidade. As cópias podem ser eliminadas 
@@ -21009,7 +19704,7 @@ sociais devem ser arquivadas em separado e
 obedecerão aos prazos previstos nesta tabela, 
 na atividade “Controle da contabilidade”. O 
 processo deve ser preservado pois contém peças 
-de campanha publicitária, bem como o Brieﬁng e 
+de campanha publicitária, bem como o Briefing e 
 o Plano de mídia.
 
 O documento integra o Processo de contratação 
@@ -21036,11 +19731,7 @@ Lei Federal n. 12.232/2010. O documento
 integra o Processo de contratação de serviços de 
 publicidade.
 
-48110001 miolo_230x280mm.indd   195
-
 195
-
-15/02/19   19:26
 
 
 002 COMUNICAÇÃO INSTITUCIONAL (FUNÇÃO)
@@ -21078,7 +19769,7 @@ eventos
 
 002.04.04.001
 
-Arte ﬁnal de peça de campanha 
+Arte final de peça de campanha 
 publicitária
 
 vigência
@@ -21146,7 +19837,7 @@ de agência de publicidade.
 
 As peças podem integrar o Processo de 
 contratação de agência de publicidade e 
-também podem ser recuperadas na arte ﬁnal 
+também podem ser recuperadas na arte final 
 preservada em meio magnético ou óptico.
 
 O documento integra o Processo de contratação 
@@ -21161,10 +19852,6 @@ deverá providenciar cópia dos registros e
 encaminhá-la ao órgão contratante.
 
 196
-
-48110001 miolo_230x280mm.indd   196
-
-15/02/19   19:26
 
 
 002 COMUNICAÇÃO INSTITUCIONAL (FUNÇÃO)
@@ -21201,16 +19888,16 @@ Livro, periódico, folheto
 2
 
 002.05.01 
-Publicação oﬁcial e 
+Publicação oficial e 
 coedição
 
 002.05.01.002
 
-Projeto gráﬁco
+Projeto gráfico
 
 002.05.01.003
 
-Prova do projeto gráﬁco
+Prova do projeto gráfico
 
 vigência
 
@@ -21220,10 +19907,10 @@ vigência
 
 Decreto Estadual n. 54.276/2009, art. 20, IV. 
 Trata-se de publicações em geral, como livro, 
-periódico, cartilha, roteiro, manual, folheto, 
-fôlder, ﬂyer, cartaz institucional, vídeo, e-book. 
-Um exemplar das publicações oﬁciais ou 
-coedições (livros ou periódicos) dos órgãos e 
+periódico,  cartilha, roteiro, manual, folheto, 
+fôlder, flyer, cartaz institucional, vídeo, e-book. 
+Um exemplar das publicações oficiais ou 
+co-edições (livros ou periódicos) dos órgãos e 
 entidades da administração pública estadual 
 deve ser encaminhado ao Arquivo Público 
 do Estado para guarda permanente e acesso 
@@ -21243,11 +19930,7 @@ A vigência esgota-se com a publicação.
 
 ✓
 
-48110001 miolo_230x280mm.indd   197
-
 197
-
-15/02/19   19:26
 
 
 003 GESTÃO DE RECURSOS HUMANOS (FUNÇÃO)
@@ -21292,12 +19975,12 @@ seleção
 003.01.01.003
 
 Processo de estudo para  
-classiﬁcação de cargos e funções
+classificação de cargos e funções
 
 003.01.01.004
 
 Processo de estudo para 
-deﬁnição das exigências, 
+definição das exigências, 
 requisitos, interstícios e demais 
 procedimentos aplicáveis ao 
 acesso
@@ -21321,7 +20004,7 @@ de concursos públicos e seleção
 003.01.01.008
 
 Processo de proposta de 
-contratação e qualiﬁcação de 
+contratação e qualificação de 
 recursos humanos
 
 003.01.01.009
@@ -21342,7 +20025,7 @@ pessoal
 
 003.01.02.001
 
-Decreto de ﬁxação, extinção ou 
+Decreto de fixação, extinção ou 
 relotação de postos de trabalho
 
 003.01.02.002
@@ -21402,8 +20085,8 @@ vigência
 
 003.01.02.007
 
-Processo de identiﬁcação e 
-classiﬁcação de função
+Processo de identificação e 
+classificação de função
 
 003.01.02.008
 
@@ -21421,7 +20104,7 @@ Quadro de cargos e funções
 
 003.01.02.011
 
-Quadro de classiﬁcação de 
+Quadro de classificação de 
 cargos e funções
 
 003.01.02.012
@@ -21492,7 +20175,7 @@ Elaboração de
 estudos e pesquisas
 
 003.01.02 
-Classiﬁcação e 
+Classificação e 
 cadastramento de 
 cargos e funções
 
@@ -21562,10 +20245,6 @@ Constituição Estadual, art. 115, XXIX, § 5o.
 Constituição Estadual, art. 115, XXIX, § 5o.
 
 198
-
-48110001 miolo_230x280mm.indd   198
-
-15/02/19   19:26
 
 
 003 GESTÃO DE RECURSOS HUMANOS (FUNÇÃO)
@@ -21790,11 +20469,7 @@ Complementar Estadual n. 709/1993, art. 41,
 Lei Complementar Estadual n. 709/1993, art. 
 41, § 1o;  Instr. TCESP n. 1/2002, art. 345, XII.
 
-48110001 miolo_230x280mm.indd   199
-
 199
-
-15/02/19   19:26
 
 
 003 GESTÃO DE RECURSOS HUMANOS (FUNÇÃO)
@@ -21894,7 +20569,7 @@ admissão em cursos da Academia
 da Polícia Militar
 
 Relatório de avaliação de curso 
-de capacitação ou qualiﬁcação 
+de capacitação ou qualificação 
 técnica
 
 003.02.02.012
@@ -21986,10 +20661,6 @@ Lei Complementar Estadual n. 709/1993, art.
 41, § 1o.
 
 200
-
-48110001 miolo_230x280mm.indd   200
-
-15/02/19   19:26
 
 
 003 GESTÃO DE RECURSOS HUMANOS (FUNÇÃO)
@@ -22151,11 +20822,7 @@ esgota-se com o encerramento do estágio.
 A vigência esgota-se com o rompimento do 
 vínculo jurídico com o Estado.
 
-48110001 miolo_230x280mm.indd   201
-
 201
-
-15/02/19   19:26
 
 
 003 GESTÃO DE RECURSOS HUMANOS (FUNÇÃO)
@@ -22408,10 +21075,6 @@ substituição
 
 202
 
-48110001 miolo_230x280mm.indd   202
-
-15/02/19   19:26
-
 
 003 GESTÃO DE RECURSOS HUMANOS (FUNÇÃO)
 
@@ -22643,11 +21306,7 @@ Constituição Federal, art. 7o, XXIX; Decreto-
 Lei Federal n. 5.452/1943 (CLT), art. 11. O 
 documento integra o Prontuário funcional.
 
-48110001 miolo_230x280mm.indd   203
-
 203
-
-15/02/19   19:26
 
 
 003 GESTÃO DE RECURSOS HUMANOS (FUNÇÃO)
@@ -22811,14 +21470,14 @@ Instr. TCESP n. 1/2002, arts. 59, 60, I, 62, 99,
 100, I, 102, 139, 140, I, 174, 175, I, 177, 
 205, 206, I, 229, e 230, I; Portaria SPPREV n. 
 25/2012. A vigência esgota-se com o falecimento 
-do aposentado ou, se houver beneﬁciário, quando 
+do aposentado ou, se houver beneficiário, quando 
 o direito deste à pensão extinguir-se.
 
 Lei Federal n. 10.406/2002 (Código Civil), art. 
 205; Lei Estadual n. 10.394/1970; Lei Estadual 
 n. 10.393/1970; Lei Estadual n. 7.384/1962. 
 A vigência esgota-se com o falecimento do 
-aposentado ou, se houver beneﬁciário, quando 
+aposentado ou, se houver beneficiário, quando 
 o direito deste à pensão extinguir-se.
 
 Instr. TCESP n. 1/2002, arts. 99, 100, II, 102, 
@@ -22842,10 +21501,6 @@ ato administrativo que concede o direito ou o
 benefício integra o Prontuário funcional.
 
 204
-
-48110001 miolo_230x280mm.indd   204
-
-15/02/19   19:26
 
 
 003 GESTÃO DE RECURSOS HUMANOS (FUNÇÃO)
@@ -22910,7 +21565,7 @@ benefícios
 003.03.04.014
 
 Processo de pensão mensal ao 
-beneﬁciário do servidor público 
+beneficiário do servidor público 
 estadual
 
 vigência
@@ -22920,7 +21575,7 @@ vigência
 003.03.04.015
 
 Processo de pensão mensal ao 
-beneﬁciário do servidor público 
+beneficiário do servidor público 
 municipal - CASEM
 
 vigência
@@ -22985,16 +21640,12 @@ da idade do pensionista.
 Decreto-Lei Estadual n. 260/1970, arts. 15 e 
 27; Instr. TCESP n. 1/2002, arts. 59, 60, II, e 
 62. A vigência esgota-se quando o direito do 
-reformado e de seus beneﬁciários extinguir-se. O 
+reformado e de seus beneficiários extinguir-se. O 
 ato integra o Assentamento Individual do Policial 
 Militar e o Processo Único de Contagem de 
 Tempo - PUCT.
 
-48110001 miolo_230x280mm.indd   205
-
 205
-
-15/02/19   19:26
 
 
 003 GESTÃO DE RECURSOS HUMANOS (FUNÇÃO)
@@ -23172,7 +21823,7 @@ vigência
 
 003.03.05.004
 
-Processo de ﬁnanciamento 
+Processo de financiamento 
 habitacional
 
 vigência
@@ -23221,7 +21872,7 @@ benefícios
 
 003.03.05 
 Concessão de 
-ﬁnanciamento aos 
+financiamento aos 
 servidores
 
 ✓
@@ -23303,17 +21954,17 @@ Decreto-Lei Federal n. 5.452/1943 (CLT), art.
 
 Lei Federal n. 10.406/2002 (Código Civil), art. 
 205. A vigência esgota-se com a quitação do 
-ﬁnanciamento. 
+financiamento. 
 
 A vigência esgota-se com a quitação do 
-ﬁnanciamento.
+financiamento.
 
 A vigência esgota-se com a quitação do 
-ﬁnanciamento.
+financiamento.
 
 Lei Federal n. 10.406/2002 (Código Civil), art. 
 205. A vigência esgota-se com a lavratura da 
-escritura deﬁnitiva ou com a baixa da hipoteca. 
+escritura definitiva ou com a baixa da hipoteca. 
 
 Lei Complementar Estadual n. 709/1993,  
 art. 41, § 1o.
@@ -23328,10 +21979,6 @@ art. 205. A vigência esgota-se com o término
 do contrato.
 
 206
-
-48110001 miolo_230x280mm.indd   206
-
-15/02/19   19:26
 
 
 003 GESTÃO DE RECURSOS HUMANOS (FUNÇÃO)
@@ -23543,11 +22190,7 @@ Decreto Estadual n. 46.569/2002, art. 11, IV.
 Lei Complementar Estadual n. 887/2000; 
 Resolução SF n. 24/2004.
 
-48110001 miolo_230x280mm.indd   207
-
 207
-
-15/02/19   19:26
 
 
 003 GESTÃO DE RECURSOS HUMANOS (FUNÇÃO)
@@ -23590,9 +22233,9 @@ decisão em processo administrativo
 Processo administrativo para 
 aplicação de pena disciplinar
 
-Processo de pedido de justiﬁcação 
+Processo de pedido de justificação 
 para apuração de irregularidades 
-na conduta de oﬁciais
+na conduta de oficiais
 
 Processo de perda do posto, da 
 patente e de graduação de praças
@@ -23798,7 +22441,7 @@ Lei Complementar Estadual n. 942/2003;  Lei
 Estadual n. 10.261/1968, arts. 264 a 267. 
 Será realizada apuração preliminar, de natureza 
 simplesmente investigativa, quando a infração não 
-estiver suﬁcientemente caracterizada ou deﬁnida 
+estiver suficientemente caracterizada ou definida 
 autoria. A vigência esgota-se com o arquivamento 
 ou com a instauração de processo de sindicância 
 ou de processo administrativo. A decisão deverá 
@@ -23846,10 +22489,6 @@ Decreto-Lei Federal n. 5.452/1943 (CLT), art. 360;
 Decreto Federal n. 76.900/1975.
 
 Lei Estadual n. 10.261/1968, art. 240, I.
-
-48110001 miolo_230x280mm.indd   208
-
-15/02/19   19:26
 
 
 003 GESTÃO DE RECURSOS HUMANOS (FUNÇÃO)
@@ -23936,7 +22575,7 @@ vigência
 
 003.04.01.008
 
-Formulário de justiﬁcativa de falta
+Formulário de justificativa de falta
 
 003.04.01.009
 
@@ -24129,11 +22768,7 @@ A vigência esgota-se com o rompimento do
 vínculo jurídico com o órgão. O documento 
 integra o prontuário funcional.
 
-48110001 miolo_230x280mm.indd   209
-
 209
-
-15/02/19   19:26
 
 
 003 GESTÃO DE RECURSOS HUMANOS (FUNÇÃO)
@@ -24178,7 +22813,7 @@ vigência
 
 003.04.02.002
 
-Relação de apostilas retiﬁcatórias 
+Relação de apostilas retificatórias 
 de vantagens decorrentes de 
 decisão judicial
 
@@ -24274,10 +22909,6 @@ Instr. TCESP n. 1/2002, art. 179.
 Instr. TCESP  n. 1/2002, art. 58.
 
 210
-
-48110001 miolo_230x280mm.indd   210
-
-15/02/19   19:26
 
 
 003 GESTÃO DE RECURSOS HUMANOS (FUNÇÃO)
@@ -24584,7 +23215,7 @@ do precatório.
 
 Os documentos são encaminhados ao INSS 
 para compensação do tempo trabalhado no 
-Estado, para ﬁns de aposentadoria.
+Estado, para fins de aposentadoria.
 
 As decisões judiciais ou jurídicas integram os 
 respectivos  PUCT.
@@ -24608,11 +23239,7 @@ Decreto Federal  n. 3.048/1999, arts. 94,  §
 2o e 225, § 7o. A vigência esgota-se com o 
 pagamento do salário-maternidade.
 
-48110001 miolo_230x280mm.indd   211
-
 211
-
-15/02/19   19:26
 
 
 003 GESTÃO DE RECURSOS HUMANOS (FUNÇÃO)
@@ -24649,7 +23276,7 @@ proventos
 
 003.05.01.023
 
-Processo de uniﬁcação de 
+Processo de unificação de 
 critérios de pagamento
 
 vigência
@@ -24742,14 +23369,14 @@ vigência
 003.05.01.032
 
 Processo relatório de  
-gratiﬁcação de Gestão e  
+gratificação de Gestão e  
 Controle do Erário Estadual - 
 GECE de Autarquia
 
 003.05.01.033
 
 Processo relatório de  
-gratiﬁcação de representação de 
+gratificação de representação de 
 Autarquia
 
 003.05.01.034
@@ -24820,7 +23447,7 @@ Constitucionais Transitórias - ADCT, art. 17.
 
 ✓
 
-Trata-se de relatório ﬁnal com o resumo e a 
+Trata-se de relatório final com o resumo e a 
 conclusão do trabalho realizado.
 
 As informações integram o Processo Único 
@@ -24846,7 +23473,7 @@ Atos das Disposições Constitucionais Transitórias
 I e II; Lei Estadual n. 1.890/1978; Instrução 
 Conjunta SGGE/SF n. 1/1999; Resolução 
 SF n. 73/2011. A vigência esgota-se com o 
-falecimento dos beneﬁciários.
+falecimento dos beneficiários.
 
 Lei  Estadual n. 951/1976; Resolução SF n. 
 73/2011.
@@ -24864,10 +23491,6 @@ n. 224/2015. A vigência esgota-se com o
 recadastramento anual.
 
 212
-
-48110001 miolo_230x280mm.indd   212
-
-15/02/19   19:26
 
 
 003 GESTÃO DE RECURSOS HUMANOS (FUNÇÃO)
@@ -24904,12 +23527,12 @@ folha de pagamento
 003.05.02.001
 
 Declaração de encargos de 
-dependentes para ﬁns de Imposto 
+dependentes para fins de Imposto 
 de Renda
 
 003.05.02.002
 
-Extrato do INSS para ﬁns de 
+Extrato do INSS para fins de 
 complementação de  
 aposentadoria
 
@@ -24923,7 +23546,7 @@ aposentadoria
 
 003.05.02.003
 
-Ficha ﬁnanceira de pagamento 
+Ficha financeira de pagamento 
 de servidores, inativos ou 
 pensionistas
 
@@ -24977,7 +23600,7 @@ vigência
 003.05.02.010
 
 Planilha de concessão de 
-incorporação de gratiﬁcação de 
+incorporação de gratificação de 
 representação
 
 Quadro demonstrativo da Folha 
@@ -25059,7 +23682,7 @@ Relatório de histórico funcional
 
 003.05.02.022
 
-Relatório de liberação ﬁnanceira 
+Relatório de liberação financeira 
 às Autarquias e Tribunais
 
 1
@@ -25157,7 +23780,7 @@ SF n. 73/2011; Resolução SF n. 74/2012.
 Trata-se de cópia do documento fornecida pelo 
 aposentado.
 
-Trata-se de ﬁchas contendo informações de 
+Trata-se de fichas contendo informações de 
 todos os pagamentos efetuados aos servidores, 
 inativos e pensionistas.
 
@@ -25177,17 +23800,13 @@ valor.
 
 Lei Federal n. 10.406/2002 (Código Civil), art. 
 205. ACCA é uma transação no Sistema de 
-Microﬁchas, da Secretaria da Fazenda.
+Microfichas, da Secretaria da Fazenda.
 
-Relatórios de liberações ﬁnanceiras às 
+Relatórios de liberações financeiras às 
 Autarquias, Tribunais, Entidades consignadas e 
 Secretarias.
 
-48110001 miolo_230x280mm.indd   213
-
 213
-
-15/02/19   19:26
 
 
 003 GESTÃO DE RECURSOS HUMANOS (FUNÇÃO)
@@ -25343,16 +23962,16 @@ vigência
 
 ✓
 
-Trata-se de relatório ﬁnal com o resumo dos 
+Trata-se de relatório final com o resumo dos 
 saques efetuados através do Sistema Integrado 
 de Pagamento - SIPA, da Polícia Militar.
 
-Trata-se de relatório ﬁnal com o resumo dos 
+Trata-se de relatório final com o resumo dos 
 saques efetuados através do Sistema Integrado 
 de Pagamento - SIPA, da Polícia Militar.
 
 Lei Estadual n. 10.423/1971. Trata-se de 
-relatório ﬁnal com o resumo dos saques 
+relatório final com o resumo dos saques 
 efetuados através do Sistema Integrado de 
 Pagamento - SIPA, da Polícia Militar.
 
@@ -25366,10 +23985,6 @@ as exigências para a aposentadoria, mas
 continua em exercício.
 
 214
-
-48110001 miolo_230x280mm.indd   214
-
-15/02/19   19:26
 
 
 003 GESTÃO DE RECURSOS HUMANOS (FUNÇÃO)
@@ -25419,14 +24034,14 @@ saúde
 
 003.06.01.002
 
-Certiﬁcado de Aprovação de 
+Certificado de Aprovação de 
 Instalações - CAI
 
 vigência
 
 003.06.01.003
 
-Certiﬁcado de Aprovação 
+Certificado de Aprovação 
 do Equipamento de Proteção 
 Individual - CAEPI
 
@@ -25499,7 +24114,7 @@ vigência
 
 003.06.01.011
 
-Perﬁl Proﬁssiográﬁco  
+Perfil Profissiográfico  
 Previdenciário - PPP
 
 vigência
@@ -25528,7 +24143,7 @@ Lei Federal n. 6.514/1977, art. 160, §
 35/1983; Portaria MT n. 3.214/1978, 
 NR-2, 2.4. A vigência esgota-se com a 
 realização de novo CAI, sempre que houver 
-modiﬁcações substanciais nas instalações ou nos 
+modificações substanciais nas instalações ou nos 
 equipamentos dos estabelecimentos.
 
 Decreto-Lei Federal n. 5.452/1943 (CLT), Título 
@@ -25550,7 +24165,7 @@ de Investigação de Acidente de Trabalho - RAT.
 Lei Federal n. 6.514/1977, art. 160, § 1o. A 
 vigência esgota-se com a realização de nova 
 declaração das instalações, sempre que houver 
-modiﬁcações substanciais nas instalações ou nos 
+modificações substanciais nas instalações ou nos 
 equipamentos dos estabelecimentos.
 
 Decreto Estadual n. 7.484/1935, art. 23.
@@ -25579,11 +24194,7 @@ do vínculo jurídico com o Estado.
 
 ✓
 
-48110001 miolo_230x280mm.indd   215
-
 215
-
-15/02/19   19:26
 
 
 003 GESTÃO DE RECURSOS HUMANOS (FUNÇÃO)
@@ -25717,10 +24328,6 @@ realização de um novo relatório.
 
 216
 
-48110001 miolo_230x280mm.indd   216
-
-15/02/19   19:26
-
 
 003 GESTÃO DE RECURSOS HUMANOS (FUNÇÃO)
 
@@ -25749,7 +24356,7 @@ Permanente
 
 003.06.02.001
 
-Certiﬁcado de registro no  
+Certificado de registro no  
 Serviço Especializado em 
 Engenharia de Segurança e em 
 Medicina do Trabalho
@@ -25920,7 +24527,7 @@ OBSERVAÇÕES
 Decreto-Lei Federal n. 5.452/1943 (CLT), Título 
 II, Capítulo V; Portaria MT n. 3.214/1978, NR-
 4, 4.17 e 4.17.1. A vigência esgota-se com a 
-atualização do certiﬁcado.
+atualização do certificado.
 
 Decreto-Lei Federal n. 5.452/1943 (CLT), Título 
 II, Capítulo V; Portaria MT n. 3.214/1978, NR-
@@ -25929,7 +24536,7 @@ II, Capítulo V; Portaria MT n. 3.214/1978, NR-
 Decreto-Lei Federal n. 5.452/1943 (CLT), Título 
 II, Capítulo V; Portaria MT n. 3.214/1978, 
 NR-23, 23.14.1, 23.14.2 e anexo 23.14. A 
-vigência perdura até completar a ﬁcha.
+vigência perdura até completar a ficha.
 
 Decreto-Lei n. 5.452/1943, arts. 163 a 165.
 
@@ -25961,11 +24568,7 @@ Decreto-Lei Federal n. 5.452/1943 (CLT), Título
 II, Capítulo V; Portaria MT n. 3.214/1978, 
 NR-4, 4.3.1
 
-48110001 miolo_230x280mm.indd   217
-
 217
-
-15/02/19   19:26
 
 
 003 GESTÃO DE RECURSOS HUMANOS (FUNÇÃO)
@@ -26126,10 +24729,6 @@ integra o Prontuário social.
 
 218
 
-48110001 miolo_230x280mm.indd   218
-
-15/02/19   19:26
-
  
 
 003 GESTÃO DE RECURSOS HUMANOS (FUNÇÃO)
@@ -26236,7 +24835,7 @@ vigência
 
 003.08.02.003
 
-Registro fotográﬁco de evento 
+Registro fotográfico de evento 
 infantil
 
 003.08.02.004
@@ -26257,7 +24856,7 @@ Lei Federal n. 9.394/1996.
 
 Decreto Estadual n. 33.174/1991. Disciplina o 
 atendimento às crianças de até 7 anos de idade, 
-ﬁlhos ou dependentes legais de funcionários ou 
+filhos ou dependentes legais de funcionários ou 
 servidores.
 
 Lei Federal 10.406/2002 (Código Civil), art. 5o, 
@@ -26303,11 +24902,7 @@ integrar o Prontuário da criança.
 
 ✓
 
-48110001 miolo_230x280mm.indd   219
-
 219
-
-15/02/19   19:26
 
 
 003 GESTÃO DE RECURSOS HUMANOS (FUNÇÃO)
@@ -26486,10 +25081,6 @@ criança. Trata-se de cópia, pois o documento
 original deverá ser devolvido aos pais.
 
 220
-
-48110001 miolo_230x280mm.indd   220
-
-15/02/19   19:26
 
 
 004 GESTÃO DE BENS MATERIAIS E PATRIMONIAIS (FUNÇÃO)
@@ -26703,11 +25294,7 @@ magnético ou óptico.
 Lei Federal n. 8.666/1993, art. 15, § 3o, III; 
 Decreto Federal n. 2.743/1998, art. 3o.
 
-48110001 miolo_230x280mm.indd   221
-
 221
-
-15/02/19   19:26
 
 
 004 GESTÃO DE BENS MATERIAIS E PATRIMONIAIS (FUNÇÃO)
@@ -26863,10 +25450,6 @@ Complementar Estadual n. 709/1993, art.
 
 222
 
-48110001 miolo_230x280mm.indd   222
-
-15/02/19   19:26
-
 
 004 GESTÃO DE BENS MATERIAIS E PATRIMONIAIS (FUNÇÃO)
 
@@ -26923,7 +25506,7 @@ das contas
 004.01.05.003
 
 Processo de contratação de 
-serviço técnico proﬁssional 
+serviço técnico profissional 
 especializado
 
 Até a 
@@ -26937,7 +25520,7 @@ das contas
 004.01.05.004
 
 Processo de contratação de 
-serviço técnico proﬁssional 
+serviço técnico profissional 
 generalizado
 
 Até a 
@@ -27082,11 +25665,7 @@ de obra pública e desapensado após o seu
 encerramento, devendo essa informação 
 constar do processo principal. 
 
-48110001 miolo_230x280mm.indd   223
-
 223
-
-15/02/19   19:26
 
 
 004 GESTÃO DE BENS MATERIAIS E PATRIMONIAIS (FUNÇÃO)
@@ -27108,6 +25687,88 @@ Guarda
 Permanente
 
 OBSERVAÇÕES
+
+✓
+
+✓
+
+Lei Complementar Estadual n. 709/1993, art. 
+41, § 1o. O documento registra a memória 
+patrimonial do órgão.
+
+Lei Complementar Estadual n. 709/1993, art. 
+41, § 1o.
+
+A produção do documento está em desuso. 
+Os exemplares ainda existentes possuem valor 
+histórico.
+
+Lei Federal n. 8.078/1990, arts. 4o, 24, 50, 
+74. Justifica-se a guarda apenas durante o prazo 
+de validade do certificado.
+
+Decreto-Lei Federal n. 2.848/1940 (Código 
+Penal), art. 109; Lei Federal n. 8.666/1993, 
+arts. 6o, II  e 89 ao 98; Lei Federal n. 
+10.028/2000, arts. 359-A ao 359-H; Lei 
+Complementar Estadual n. 709/1993,  
+art. 41, § 1o.
+
+A vigência esgota-se com o término da apuração 
+ou com a prescrição criminal.
+
+Decreto-Lei Federal n. 2.848/1940 (Código 
+Penal), art. 109; Lei Federal n. 8.666/1993, arts. 
+6o, II e 89 ao 98; Lei Federal n. 10.028/2000, 
+arts. 359-A ao 359-H; Lei Complementar Estadual 
+n. 709/1993, art. 41, § 1o.
+
+Decreto-Lei Federal n. 2.848/1940 (Código 
+Penal), art. 109; Lei Federal n. 8.666/1993, arts. 
+17, II e 89 ao 98; Lei Federal n. 10.028/2000, 
+arts. 359-A ao 359-H; Lei Complementar Estadual 
+n. 709/1993, art. 41, § 1o.
+
+Lei Federal n. 10.406/2002 (Código Civil), 
+art. 205.
+
+As informações estão contidas no Inventário 
+físico de bens patrimoniais.
+
+O documento integra o Processo de arrolamento 
+de bens excedentes, inservíveis ou em desuso.
+
+Lei Complementar Estadual n. 709/1993,  
+art. 41, § 1o.
+
+Lei Complementar Estadual n. 709/1993,  
+art. 41, § 1o.
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
+
+✓
 
 5
 
@@ -27140,7 +25801,7 @@ bens patrimoniais
 
 004.02.01.002
 
-Inventário físico-ﬁnanceiro de 
+Inventário físico-financeiro de 
 bens patrimoniais
 
 Unidade 
@@ -27163,7 +25824,7 @@ patrimonial
 
 004.02.02.001
 
-Certiﬁcado de garantia
+Certificado de garantia
 
 vigência
 
@@ -27282,93 +25943,7 @@ das contas
 
 5
 
-✓
-
-✓
-
-Lei Complementar Estadual n. 709/1993, art. 
-41, § 1o. O documento registra a memória 
-patrimonial do órgão.
-
-Lei Complementar Estadual n. 709/1993, art. 
-41, § 1o.
-
-A produção do documento está em desuso. 
-Os exemplares ainda existentes possuem valor 
-histórico.
-
-Lei Federal n. 8.078/1990, arts. 4o, 24, 50, 
-74. Justiﬁca-se a guarda apenas durante o prazo 
-de validade do certiﬁcado.
-
-Decreto-Lei Federal n. 2.848/1940 (Código 
-Penal), art. 109; Lei Federal n. 8.666/1993, 
-arts. 6o, II  e 89 ao 98; Lei Federal n. 
-10.028/2000, arts. 359-A ao 359-H; Lei 
-Complementar Estadual n. 709/1993,  
-art. 41, § 1o.
-
-A vigência esgota-se com o término da apuração 
-ou com a prescrição criminal.
-
-Decreto-Lei Federal n. 2.848/1940 (Código 
-Penal), art. 109; Lei Federal n. 8.666/1993, arts. 
-6o, II e 89 ao 98; Lei Federal n. 10.028/2000, 
-arts. 359-A ao 359-H; Lei Complementar Estadual 
-n. 709/1993, art. 41, § 1o.
-
-Decreto-Lei Federal n. 2.848/1940 (Código 
-Penal), art. 109; Lei Federal n. 8.666/1993, arts. 
-17, II e 89 ao 98; Lei Federal n. 10.028/2000, 
-arts. 359-A ao 359-H; Lei Complementar Estadual 
-n. 709/1993, art. 41, § 1o.
-
-Lei Federal n. 10.406/2002 (Código Civil), 
-art. 205.
-
-As informações estão contidas no Inventário 
-físico de bens patrimoniais.
-
-O documento integra o Processo de arrolamento 
-de bens excedentes, inservíveis ou em desuso.
-
-Lei Complementar Estadual n. 709/1993,  
-art. 41, § 1o.
-
-Lei Complementar Estadual n. 709/1993,  
-art. 41, § 1o.
-
-✓
-
-✓
-
-✓
-
-✓
-
-✓
-
-✓
-
-✓
-
-✓
-
-✓
-
-✓
-
-✓
-
-✓
-
-✓
-
 224
-
-48110001 miolo_230x280mm.indd   224
-
-15/02/19   19:26
 
 
 004 GESTÃO DE BENS MATERIAIS E PATRIMONIAIS (FUNÇÃO)
@@ -27421,7 +25996,7 @@ Formulário de requisição de
 material
 
 004.03.01 
-Veriﬁcação de 
+Verificação de 
 estoque e distribuição
 
 004.03.01.006
@@ -27431,7 +26006,7 @@ almoxarifado
 
 004.03.01.007
 
-Inventário físico-ﬁnanceiro de 
+Inventário físico-financeiro de 
 material de almoxarifado
 
 2
@@ -27489,7 +26064,7 @@ material
 
 004.03.03.002
 
-Nota ﬁscal (cópia)
+Nota fiscal (cópia)
 
 004.03.03 
 Recebimento e 
@@ -27651,11 +26226,7 @@ art. 15, § 8o; Lei Federal n. 10.028/2000, arts.
 Lei Complementar Estadual n. 709/1993, art. 
 41, § 1o.
 
-48110001 miolo_230x280mm.indd   225
-
 225
-
-15/02/19   19:26
 
 
 004 GESTÃO DE BENS MATERIAIS E PATRIMONIAIS (FUNÇÃO)
@@ -27789,7 +26360,7 @@ vigência
 
 004.04.03.006
 
-Processo de justiﬁcação de posse
+Processo de justificação de posse
 
 vigência
 
@@ -27839,6 +26410,8 @@ Termo de inspeção de imóvel
 ✓
 
 ✓
+
+226
 
 ✓
 
@@ -27903,7 +26476,7 @@ livro.
 A vigência esgota-se com a produção de um 
 novo mapa. 
 
-A vigência esgota-se com a decisão ﬁnal, após 
+A vigência esgota-se com a decisão final, após 
 exaurirem as instâncias recursais administrativas.
 Trata-se de processo administrativo posterior à 
 ação judicial discriminatória.
@@ -27926,12 +26499,6 @@ imóveis, que são de guarda permanente.
 Trata-se de cópia, pois o documento integra 
 o Processo de aquisição ou de alienação de 
 imóveis, que são de guarda permanente.
-
-226
-
-48110001 miolo_230x280mm.indd   226
-
-15/02/19   19:26
 
 
 004 GESTÃO DE BENS MATERIAIS E PATRIMONIAIS (FUNÇÃO)
@@ -28043,7 +26610,7 @@ imóvel
 004.04.08.001
 
 Processo de aprovação de 
-ediﬁcação
+edificação
 
 004.04.08.002
 
@@ -28072,7 +26639,7 @@ de imóveis
 
 004.04.08 
 Elaboração de 
-projetos de ediﬁcação
+projetos de edificação
 
 004.04.09 
 Regularização e 
@@ -28098,7 +26665,7 @@ das contas
 
 004.04.09.004
 
-Projeto de ediﬁcação
+Projeto de edificação
 
 vigência
 
@@ -28220,11 +26787,7 @@ direitos e preservar a memória institucional.
 
 Lei Federal n. 4.591/1964, art. 9o.
 
-48110001 miolo_230x280mm.indd   227
-
 227
-
-15/02/19   19:26
 
 
 004 GESTÃO DE BENS MATERIAIS E PATRIMONIAIS (FUNÇÃO)
@@ -28242,7 +26805,7 @@ DOCUMENTOS
 
 004.05.01.001
 
-Decreto relativo à ﬁxação da 
+Decreto relativo à fixação da 
 frota
 
 Unidade 
@@ -28255,13 +26818,13 @@ da frota
 
 004.05.01.002
 
-Processo de ﬁxação da frota
+Processo de fixação da frota
 
 vigência
 
 004.05.01.003
 
-Proposta de ﬁxação da frota
+Proposta de fixação da frota
 
 004.05.02.001
 
@@ -28317,12 +26880,12 @@ Processo de locação de veículo
 
 004.05.04.001
 
-Cadastro de veículos oﬁciais, em 
+Cadastro de veículos oficiais, em 
 convênio e locados
 
 004.05.04.002
 
-Portaria referente à classiﬁcação 
+Portaria referente à classificação 
 e enquadramento de veículos
 
 Até a 
@@ -28342,7 +26905,7 @@ vigência
 004.05.05.001
 
 Processo de contratação de 
-seguro para veículo oﬁcial
+seguro para veículo oficial
 
 004.05.06.001
 
@@ -28382,7 +26945,7 @@ na frota
 de veículos
 
 004.05.04 
-Classiﬁcação e 
+Classificação e 
 cadastramento de 
 veículos
 
@@ -28479,7 +27042,7 @@ Decreto Estadual n. 50.375/1968.
 
 Decreto Estadual n. 50.375/1968. Se 
 aprovada, a proposta integrará o Processo de 
-ﬁxação da frota.
+fixação da frota.
 
 Se a solicitação for atendida, o ofício iniciará o 
 Processo de aquisição de veículo.
@@ -28544,10 +27107,6 @@ vagas na frota.
 
 228
 
-48110001 miolo_230x280mm.indd   228
-
-15/02/19   19:26
-
 
 004 GESTÃO DE BENS MATERIAIS E PATRIMONIAIS (FUNÇÃO)
 
@@ -28583,7 +27142,7 @@ de veículos
 004.05.08.001
 
 Autorização para uso de veículo 
-oﬁcial
+oficial
 
 1
 
@@ -28595,8 +27154,8 @@ vigência
 
 004.05.08.003
 
-Certiﬁcado de registro e 
-licenciamento de veículo oﬁcial
+Certificado de registro e 
+licenciamento de veículo oficial
 
 vigência
 
@@ -28616,12 +27175,12 @@ vigência
 
 004.05.08.006
 
-Notiﬁcação de multa de trânsito
+Notificação de multa de trânsito
 
 004.05.08.007
 
 Ofício relativo à devolução de 
-veículo oﬁcial
+veículo oficial
 
 004.05.08.008
 
@@ -28636,7 +27195,7 @@ de veículos em outras garagens
 
 004.05.08.010
 
-Planilha de uso de veículo oﬁcial
+Planilha de uso de veículo oficial
 
 004.05.08.011
 
@@ -28644,7 +27203,7 @@ Planilha de uso de veículo oﬁcial
 
 Processo de autorização para 
 funcionário ou servidor dirigir 
-veículo oﬁcial
+veículo oficial
 
 Processo de inscrição de 
 funcionário ou servidor no regime 
@@ -28681,7 +27240,7 @@ vigência
 004.05.08.015
 
 Processo relativo ao uso irregular 
-de veículo oﬁcial
+de veículo oficial
 
 vigência
 
@@ -28693,7 +27252,7 @@ acessórios sobressalentes
 004.05.08.017
 
 Registro de ocorrência com 
-veículo oﬁcial
+veículo oficial
 
 004.05.08.018
 
@@ -28709,7 +27268,7 @@ Termo de inspeção de veículo
 
 Processo de solicitação de 
 instalação de dispositivo 
-eletrônico em veículo oﬁcial
+eletrônico em veículo oficial
 
 vigência
 
@@ -28831,16 +27390,12 @@ Decreto Estadual n. 9.543/1977,
 art. 85, § 1o.
 
 Lei Federal n. 8.666/1993. Trata-se de 
-dispositivo eletrônico instalado em veiculo oﬁcial 
-para identiﬁcação e pagamento eletrônico/
+dispositivo eletrônico instalado em veiculo oficial 
+para identificação e pagamento eletrônico/
 isenção de pagamento (Sem parar/ Via rápido/ 
 Conectcar).
 
-48110001 miolo_230x280mm.indd   229
-
 229
-
-15/02/19   19:26
 
 
 004 GESTÃO DE BENS MATERIAIS E PATRIMONIAIS (FUNÇÃO)
@@ -28873,7 +27428,7 @@ OBSERVAÇÕES
 004.05.09.001
 
 Formulário de agendamento para 
-uso de veículo oﬁcial
+uso de veículo oficial
 
 004.05.09.002
 
@@ -28899,7 +27454,7 @@ combustível
 
 004.05.09.004
 
-Processo de ﬁxação de cota de 
+Processo de fixação de cota de 
 combustível
 
 vigência
@@ -29115,7 +27670,7 @@ das contas
 ✓
 
 Se a solicitação for atendida, o ofício iniciará o 
-Processo de ﬁxação de cota de combustível.
+Processo de fixação de cota de combustível.
 
 Decreto-Lei Federal n. 2.848/1940 (Código 
 Penal), art. 109; Lei Federal n. 8.666/1993, 
@@ -29150,10 +27705,6 @@ art. 205.
 
 230
 
-48110001 miolo_230x280mm.indd   230
-
-15/02/19   19:26
-
 
 005 GESTÃO ORÇAMENTÁRIA E FINANCEIRA (FUNÇÃO)
 
@@ -29184,7 +27735,7 @@ Permanente
 Fixação de 
 diretrizes da política 
 orçamentária e 
-ﬁnanceira
+financeira
 
 005.01.01.001
 
@@ -29229,12 +27780,12 @@ vigência
 
 005.01.02.003
 
-Portaria de classiﬁcação da 
+Portaria de classificação da 
 despesa
 
 005.01.02.004
 
-Tabela de classiﬁcação funcional
+Tabela de classificação funcional
 
 005.01.03.001
 
@@ -29348,10 +27899,10 @@ n. 4.320/1964.
 
 Criam ou organizam os órgãos e entidades.
 
-Efetua a classiﬁcação institucional dos órgãos e 
+Efetua a classificação institucional dos órgãos e 
 entidades.
 
-Realiza a classiﬁcação econômica da despesa.
+Realiza a classificação econômica da despesa.
 
 A tabela é revista anualmente.
 
@@ -29371,11 +27922,7 @@ A vigência esgota-se com a aprovação da lei.
 
 A vigência esgota-se com a aprovação da lei.
 
-48110001 miolo_230x280mm.indd   231
-
 231
-
-15/02/19   19:26
 
 
 005 GESTÃO ORÇAMENTÁRIA E FINANCEIRA (FUNÇÃO)
@@ -29395,7 +27942,7 @@ DOCUMENTOS
 Normalização 
 da execução 
 orçamentária e 
-ﬁnanceira
+financeira
 
 005.02.02 
 Elaboração 
@@ -29411,7 +27958,7 @@ orçamentários
 Acompanhamento 
 da execução 
 orçamentária e 
-ﬁnanceira
+financeira
 
 005.02.01.001
 
@@ -29449,13 +27996,13 @@ orçamentária
 
 005.02.04.002
 
-Programação ﬁnanceira de 
+Programação financeira de 
 desembolso
 
 005.02.04.003
 
 Tabela de reprogramação 
-ﬁnanceira
+financeira
 
 005.02.05.001 Nota de empenho
 
@@ -29664,10 +28211,6 @@ SIAFÍSICO.
 
 232
 
-48110001 miolo_230x280mm.indd   232
-
-15/02/19   19:26
-
 
 005 GESTÃO ORÇAMENTÁRIA E FINANCEIRA (FUNÇÃO)
 
@@ -29762,7 +28305,7 @@ das contas
 
 005.02.07.003
 
-Relatório de gestão ﬁscal
+Relatório de gestão fiscal
 
 Até a 
 aprovação 
@@ -29901,11 +28444,7 @@ arts. 359-A ao 359-H; Decreto-Lei Federal n.
 Lei Complementar Estadual n. 709/1993, art. 
 41, § 1o; Instr.TCESP n. 1/2002, art. 5o.
 
-48110001 miolo_230x280mm.indd   233
-
 233
-
-15/02/19   19:26
 
 
 005 GESTÃO ORÇAMENTÁRIA E FINANCEIRA (FUNÇÃO)
@@ -29943,7 +28482,7 @@ e ajuda de custo
 005.02.08.002
 
 Processo de empenho para 
-pagamento de pessoal e reﬂexos
+pagamento de pessoal e reflexos
 
 005.02.08.003
 
@@ -29995,7 +28534,7 @@ Processo de pagamento de FGTS
 005.02.08.010
 
 Processo de pagamento de 
-gratiﬁcação de representação
+gratificação de representação
 
 005.02.08.011
 
@@ -30150,7 +28689,7 @@ das contas
 
 005.02.08 
 Pagamento de 
-despesas especíﬁcas
+despesas específicas
 
 234
 
@@ -30215,10 +28754,6 @@ precatório.
 Lei Complementar Estadual n. 709/1993, art. 
 41, § 1o.
 
-48110001 miolo_230x280mm.indd   234
-
-15/02/19   19:26
-
 
 005 GESTÃO ORÇAMENTÁRIA E FINANCEIRA (FUNÇÃO)
 
@@ -30255,7 +28790,7 @@ dívida pública
 
 005.02.09.002
 
-Processo de aplicação ﬁnanceira
+Processo de aplicação financeira
 
 vigência
 
@@ -30286,7 +28821,7 @@ pública
 005.02.10.002
 
 Processo de contratação de 
-ﬁnanciamentos
+financiamentos
 
 005.02.10.003
 
@@ -30306,7 +28841,7 @@ principal da dívida
 005.02.10.006
 
 Relação de empréstimos, 
-ﬁnanciamentos e operações de 
+financiamentos e operações de 
 crédito
 
 Até a 
@@ -30446,11 +28981,7 @@ Lei Federal n. 10.406/2002 (Código Civil), art.
 205; Instr. TCESP n. 1/2002, arts. 66, XXX, 
 106, XX, e 211, XIX. 
 
-48110001 miolo_230x280mm.indd   235
-
 235
-
-15/02/19   19:26
 
 
 005 GESTÃO ORÇAMENTÁRIA E FINANCEIRA (FUNÇÃO)
@@ -30484,7 +29015,7 @@ Balancete analítico
 
 005.02.11.002
 
-Balanço ﬁnanceiro
+Balanço financeiro
 
 005.02.11.003
 
@@ -30740,10 +29271,6 @@ Complementar Estadual n. 709/1993, art.
 41, § 1o. O documento é importante para a 
 preservação da memória institucional.
 
-48110001 miolo_230x280mm.indd   236
-
-15/02/19   19:26
-
 
 005 GESTÃO ORÇAMENTÁRIA E FINANCEIRA (FUNÇÃO)
 
@@ -30776,7 +29303,7 @@ OBSERVAÇÕES
 
 Livro razão
 
-005.02.11.018 Nota ﬁscal
+005.02.11.018 Nota fiscal
 
 005.02.11.019
 
@@ -30953,11 +29480,7 @@ II, 153, II, 195, II e 219, II.
 
 ✓
 
-48110001 miolo_230x280mm.indd   237
-
 237
-
-15/02/19   19:26
 
 
 006 GESTÃO DE DOCUMENTOS E INFORMAÇÕES (FUNÇÃO)
@@ -31009,7 +29532,7 @@ vigência
 Autuação e protocolo
 
 006.01.03 
-Classiﬁcação de 
+Classificação de 
 documentos
 
 006.01.04 
@@ -31045,7 +29568,7 @@ vigência
 
 006.01.03.001
 
-Plano de classiﬁcação de 
+Plano de classificação de 
 documentos
 
 vigência
@@ -31206,7 +29729,7 @@ A vigência perdura até completar o livro.
 
 Decreto Estadual n. 48.898/2004. A vigência 
 esgota-se com a elaboração de novo Plano de 
-Classiﬁcação.
+Classificação.
 
 Instrução Normativa APE/SAESP-2/2010. 
 A Relação de recolhimento de documentos 
@@ -31244,10 +29767,6 @@ e de pesquisa.
 
 238
 
-48110001 miolo_230x280mm.indd   238
-
-15/02/19   19:26
-
 
 006 GESTÃO DE DOCUMENTOS E INFORMAÇÕES (FUNÇÃO)
 
@@ -31276,6 +29795,11 @@ Permanente
 
 OBSERVAÇÕES
 
+006.01.06  
+Avaliação e 
+destinação de 
+documentos
+
 006.01.06.001 
 Inativado, utilizar 
 006.01.06.007
@@ -31297,7 +29821,7 @@ vigência
 
 Processo de elaboração ou 
 atualização de Plano de 
-classiﬁcação e de Tabela de 
+classificação e de Tabela de 
 temporalidade de documentos
 
 vigência
@@ -31317,11 +29841,6 @@ vigência
 
 5
 
-006.01.06  
-Avaliação e 
-destinação de 
-documentos
-
 006.01.06.005
 
 Processo de recolhimento de 
@@ -31330,6 +29849,11 @@ documentos
 vigência
 
 5
+
+006.01.06  
+Avaliação e 
+destinação de 
+documentos
 
 006.01.06.006
 
@@ -31353,13 +29877,13 @@ vigência
 006.01.07 
 Descrição de 
 acervos arquivístico, 
-bibliográﬁco, 
+bibliográfico, 
 museológico ou 
 artístico
 
 006.01.07.001
 
-Ficha catalográﬁca
+Ficha catalográfica
 
 vigência
 
@@ -31415,21 +29939,21 @@ vigência
 ✓
 
 Decreto Estadual n. 48.898/2004. A vigência 
-esgota-se com a oﬁcialização de nova tabela de 
+esgota-se com a oficialização de nova tabela de 
 temporalidade.
 
 Decreto Estadual n. 22.789/1984; Decreto 
 Estadual n. 29.838/1989; Decreto Estadual 
 n.48.897/2004; Decreto Estadual n. 
 48.898/2004. A vigência esgota-se com a 
-publicação do Plano de Classiﬁcação e da 
+publicação do Plano de Classificação e da 
 Tabela de Temporalidade de Documentos no 
-Diário Oﬁcial.
+Diário Oficial.
 
 Decreto estadual n.48.897/2004; Instrução 
 Normativa APE/SAESP-2/2010. A vigência 
 esgota-se com a assinatura do Termo de 
-eliminação de documentos. Integram o Processo 
+eliminação de documentos. Integra o Processo 
 de eliminação de documentos a Relação de 
 eliminação de documentos, a cópia do Edital de 
 ciência de eliminação de documentos, e o Termo 
@@ -31437,28 +29961,27 @@ de eliminação de documentos.
 
 Decreto estadual n. 48.897/2004; Decreto 
 estadual n. 60.145/2014; Instrução Normativa 
-APE/SAESP-2/2010. A vigência esgota-se com      
-o ingresso dos documentos no órgão responsável 
-pela sua guarda permanente. Integram o 
-Processo de recolhimento de documentos a 
-Relação de recolhimento de documentos, o 
-Termo de recolhimento de documentos e seus 
-instrumentos de controle e pesquisa.
+APE/SAESP-2/2010. A vigência esgota-se 
+com a assinatura do Termo de recolhimento de 
+documentos. Integra o Processo de recolhimento 
+de documentos a Relação de recolhimento 
+de documentos, o Termo de recolhimento de 
+documentos e seus instrumentos de controle e 
+pesquisa.
 
 Decreto estadual n. 48.897/2004; Instrução 
 Normativa APE/SAESP-2/2010. A vigência 
-esgota-se com o ingresso dos documentos 
-no órgão responsável pela sua guarda 
-intermediária. Integram o Processo de 
-transferência de documentos a Relação de 
-transferência de documentos, o Termo de 
+esgota-se com a assinatura do Termo de 
+transferência de documentos. Integra o Processo 
+de transferência de documentos a Relação 
+de transferência de documentos, o Termo de 
 transferência de documentos e seus instrumentos 
 de controle e pesquisa.
 
 Decreto Estadual n. 29.838/1989; Decreto 
 Estadual n. 48.897/2004; Decreto Estadual n. 
 58.052/2012, art. 11. A vigência esgota-
-se quando oﬁcialmente houver extinção, 
+se quando oficialmente houver extinção, 
 dissolução, fusão, cisão, incorporação, 
 transformação ou privatização do órgão/ 
 entidade. Constam do Dossiê cópia do ato de 
@@ -31468,7 +29991,7 @@ pela Comissão de Avaliação de Documentos e
 Acesso - CADA.
 
 Lei Federal n. 10.753/2003. A vigência esgota-
-se com a elaboração de uma nova ﬁcha ou 
+se com a elaboração de uma nova ficha ou 
 quando ocorrer a baixa patrimonial.
 
 A vigência esgota-se quando ocorrer a baixa 
@@ -31477,11 +30000,7 @@ patrimonial.
 A vigência esgota-se com a elaboração de 
 instrumentos técnicos de busca e acesso.
 
-48110001 miolo_230x280mm.indd   239
-
 239
-
-15/02/19   19:26
 
 
 006 GESTÃO DE DOCUMENTOS E INFORMAÇÕES (FUNÇÃO)
@@ -31535,7 +30054,7 @@ vigência
 
 006.01.08.006
 
-Mapa topográﬁco de arquivo
+Mapa topográfico de arquivo
 
 vigência
 
@@ -31545,12 +30064,12 @@ vigência
 
 Ofício de transferência 
 de acervos arquivístico, 
-bibliográﬁco, museológico ou 
+bibliográfico, museológico ou 
 artístico
 
 Ofício relativo à aquisição 
 de acervos arquivístico, 
-bibliográﬁco, museológico ou 
+bibliográfico, museológico ou 
 artístico
 
 1
@@ -31560,7 +30079,7 @@ artístico
 006.01.08.009
 
 Processo de aquisição de acervos 
-arquivístico, bibliográﬁco, 
+arquivístico, bibliográfico, 
 museológico ou artístico
 
 Até a 
@@ -31573,12 +30092,12 @@ das contas
 
 Processo de empréstimo 
 de acervos arquivístico, 
-bibliográﬁco, museológico ou 
+bibliográfico, museológico ou 
 artístico
 
 Processo de transferência 
 de acervos arquivístico, 
-bibliográﬁco, museológico ou 
+bibliográfico, museológico ou 
 artístico
 
 006.01.08.012
@@ -31588,7 +30107,7 @@ cancelamento de títulos
 
 006.01.08.013
 
-Relação de obras bibliográﬁcas 
+Relação de obras bibliográficas 
 submetidas à doação
 
 006.01.08.014
@@ -31667,7 +30186,7 @@ vigência
 006.01.08 
 Controle de acervos 
 arquivístico, 
-bibliográﬁco, 
+bibliográfico, 
 museológico ou 
 artístico
 
@@ -31786,11 +30305,11 @@ mapa.
 
 Trata-se de cópia, pois o documento original 
 integra o Processo de transferência de acervo 
-arquivístico, bibliográﬁco, museológico ou artístico.
+arquivístico, bibliográfico, museológico ou artístico.
 
 Trata-se de cópia, pois o documento original 
 integra o Processo de aquisição de acervo 
-arquivístico, bibliográﬁco, museológico ou artístico.
+arquivístico, bibliográfico, museológico ou artístico.
 
 Lei Federal n. 8.666/1993, arts. 14 ao 16 e 89 
 ao 98; Lei Federal n. 10.028/2000, arts. 359-A 
@@ -31799,7 +30318,7 @@ ao 359-H; Decreto-Lei Federal n. 2.848/1940
 Estadual n. 709/1993, art. 41, § 1o.
 
 A vigência esgota-se com a transferência da 
-obra de arte, do documento bibliográﬁco ou 
+obra de arte, do documento bibliográfico ou 
 museológico.
 
 A vigência esgota-se quando as obras sofrerem 
@@ -31829,10 +30348,6 @@ Lei federal n. 8.159/1991, arts. 11 a 16;
 Resolução CONARQ n. 17/2003; Decreto 
 estadual n. 54.276/2009, art. 7o, IV, b;  
 art. 11, VI.   
-
-48110001 miolo_230x280mm.indd   240
-
-15/02/19   19:26
 
 
 006 GESTÃO DE DOCUMENTOS E INFORMAÇÕES (FUNÇÃO)
@@ -31870,7 +30385,7 @@ Certidão ou Declaração
 
 006.01.09.003
 
-Cópia certiﬁcada
+Cópia certificada
 
 006.01.10.001
 
@@ -31929,7 +30444,7 @@ uso e reprodução de documento
 006.01.11 
 Difusão de acervos 
 arquivístico, 
-bibliográﬁco, 
+bibliográfico, 
 museológico ou 
 artístico
 
@@ -31993,7 +30508,7 @@ evento.
 A correspondência que registra relações 
 inter-institucionais ou com a comunidade 
 pode provocar desdobramentos e, de acordo 
-com a natureza de seu conteúdo, deﬁnirá a 
+com a natureza de seu conteúdo, definirá a 
 temporalidade do processo ou expediente 
 que iniciar. A eliminação está condicionada à 
 inexistência de  fatores determinantes de sua 
@@ -32002,7 +30517,7 @@ guarda.
 Trata-se de respostas às correspondências 
 recebidas. Quando a correspondência ensejar 
 outras providências ou desdobramentos o 
-documento deverá ser reclassiﬁcado de acordo 
+documento deverá ser reclassificado de acordo 
 com a natureza de seu conteúdo. A vigência 
 esgota-se com o encaminhamento da resposta 
 ao interessado.
@@ -32021,11 +30536,7 @@ Penal), arts. 138, 139, 140, 184, 297 e 299;
 Lei federal n. 9.610/1998 (Lei de Direitos 
 Autorais), arts. 7o, 9o e 44.
 
-48110001 miolo_230x280mm.indd   241
-
 241
-
-15/02/19   19:26
 
 
 006 GESTÃO DE DOCUMENTOS E INFORMAÇÕES (FUNÇÃO)
@@ -32231,7 +30742,7 @@ para guarda permanente as bases de dados
 consideradas de valor histórico, informativo ou 
 probatório.
 
-O documento registra as diretrizes deﬁnidas 
+O documento registra as diretrizes definidas 
 para a área de informática.
 
 Lei Federal n. 9.609/1998, art. 12, § 1o; 
@@ -32264,10 +30775,6 @@ fornecida pelo órgão ou entidade.
 
 242
 
-48110001 miolo_230x280mm.indd   242
-
-15/02/19   19:26
-
 
 006 GESTÃO DE DOCUMENTOS E INFORMAÇÕES (FUNÇÃO)
 
@@ -32294,7 +30801,7 @@ vigência
 
 006.02.03.002
 
-Certiﬁcado de autenticidade de 
+Certificado de autenticidade de 
 programa de computador
 
 vigência
@@ -32397,7 +30904,7 @@ informática
 
 006.02.04.002
 
-Ofício solicitando especiﬁcação 
+Ofício solicitando especificação 
 técnica de equipamentos e de 
 programas de computador
 
@@ -32498,7 +31005,7 @@ tempo de vida útil dos equipamentos.
 A vigência esgota-se com a execução dos 
 serviços.
 
-A vigência está deﬁnida no Termo de garantia.
+A vigência está definida no Termo de garantia.
 
 Trata-se de cópia, pois o documento integra 
 o Processo de contratação de serviços de 
@@ -32515,12 +31022,8 @@ informática e automação.
 Trata-se de cópia, pois o documento integra 
 o Processo de contratação de serviços de 
 informática e automação.
-
-48110001 miolo_230x280mm.indd   243
 
 243
-
-15/02/19   19:26
 
 
 006 GESTÃO DE DOCUMENTOS E INFORMAÇÕES (FUNÇÃO)
@@ -32575,7 +31078,7 @@ vigência
 
 Relatório estatístico anual de 
 pedido de informações, recursos 
-ou perﬁl de usuários
+ou perfil de usuários
 
 006.03.01.004
 
@@ -32598,21 +31101,21 @@ vigência
 
 Relatório estatístico anual de 
 documentos, dados e informações 
-classiﬁcadas e desclassiﬁcadas
+classificadas e desclassificadas
 
 006.03.02.003
 
 Rol anual de documentos, dados 
-e informações classiﬁcadas
+e informações classificadas
 
 006.03.02.004
 
 Rol anual de documentos, dados 
-e informações desclassiﬁcadas
+e informações desclassificadas
 
 006.03.02.005
 
-Termo de Classiﬁcação da 
+Termo de Classificação da 
 Informação – TCI
 
 006.03.02.006
@@ -32696,17 +31199,17 @@ Decreto Estadual n. 58.052/2012.
 Decreto Estadual n. 58.052/2012, art. 25, I. 
 Trata-se de relação anual, a ser publicada pelas 
 autoridades máximas de órgãos e entidades, de 
-documentos, dados e informações classiﬁcadas 
-ou reclassiﬁcadas no período, como sigilosas 
-ou pessoais, com identiﬁcação para referência 
+documentos, dados e informações classificadas 
+ou reclassificadas no período, como sigilosas 
+ou pessoais, com identificação para referência 
 futura.
 
 Decreto Estadual n. 58.052/2012, art. 25, 
 II. Trata-se de relação anual, a ser publicada 
 pelas autoridades máximas de órgãos e 
 entidades, de documentos, dados e informações 
-desclassiﬁcadas no período, como sigilosas ou 
-pessoais, com identiﬁcação para referência 
+desclassificadas no período, como sigilosas ou 
+pessoais, com identificação para referência 
 futura.
 
 Lei Federal n. 12.527/2011; Decreto Estadual 
@@ -32734,10 +31237,6 @@ art. 15.
 ✓
 
 244
-
-48110001 miolo_230x280mm.indd   244
-
-15/02/19   19:26
 
 
 007 GESTÃO DE ATIVIDADES COMPLEMENTARES (FUNÇÃO)
@@ -32789,7 +31288,7 @@ de copa
 
 007.00.05  
 Execução de serviços 
-de reprograﬁa
+de reprografia
 
 007.00.01.001
 
@@ -32922,7 +31421,7 @@ Requisição de cópia
 
 007.00.06  
 Execução de serviços 
-de gráﬁca
+de gráfica
 
 007.00.06.001
 
@@ -33019,11 +31518,7 @@ A vigência perdura até completar o livro.
 
 ✓
 
-48110001 miolo_230x280mm.indd   245
-
 245
-
-15/02/19   19:26
 
 
 007 GESTÃO DE ATIVIDADES COMPLEMENTARES (FUNÇÃO)
@@ -33146,10 +31641,6 @@ se com a execução dos serviços.
 
 246
 
-48110001 miolo_230x280mm.indd   246
-
-15/02/19   19:26
-
 
 DECRETO N. 63.382, DE 09 DE MAIO DE 2018 
 
@@ -33181,18 +31672,10 @@ PALÁCIO DOS BANDEIRANTES, 09 de maio de 2018
 
 MÁRCIO FRANÇA
 
-48110001 miolo_230x280mm.indd   247
-
 247
-
-15/02/19   19:26
 
 
 248
-
-48110001 miolo_230x280mm.indd   248
-
-15/02/19   19:26
 
 
 PROCEDIMENTOS PARA UTILIZAÇÃO E  
@@ -33269,14 +31752,12 @@ ou extrajudicial
 001.01.04.007 -  Expediente de consulta da dívida ativa
 001.01.04.008 -  Livro de repositório para defesa judicial do Estado
 
-48110001 miolo_230x280mm.indd   249
-
 001.01.04.009 -  Livro de teses de defesa
 001.01.04.010 -  Processo administrativo de alegação de pagamento 
 
-001.01.04.011 -  Processo administrativo de alegação de parcelamento  
-
 da dívida ativa
+
+001.01.04.011 -  Processo administrativo de alegação de parcelamento  
 
 da dívida ativa
 
@@ -33284,9 +31765,9 @@ da dívida ativa
 inscrição de débito na dívida ativa 
 001.01.04.013 -  Processo administrativo de pedido de parcelamento  
 
-da dívida ativa
-
 001.01.04.014 -  Processo administrativo de reinscrição de débito na  
+
+da dívida ativa
 
 dívida ativa 
 
@@ -33361,8 +31842,6 @@ documentos
 006.01.06.004 -  Processo de eliminação de documentos 
 
 249
-
-15/02/19   19:26
 
 
 006.01.06.005 -  Processo de recolhimento de documentos 
@@ -33529,10 +32008,6 @@ absolutamente necessário.
 
 250
 
-48110001 miolo_230x280mm.indd   250
-
-15/02/19   19:26
-
 
 REFERÊNCIA LEGISLATIVA
 
@@ -33645,11 +32120,7 @@ Lei n. 8.846 – 21 jan. 1994. Dispõe sobre a emissão de documentos
 fiscais e o arbitramento da receita mínima para efeitos tributários, e 
 dá outras providências.
 
-48110001 miolo_230x280mm.indd   251
-
 251
-
-15/02/19   19:26
 
 
 Lei n. 8.906 – 4 jul. 1994. Dispõe sobre o Estatuto da Advocacia e a 
@@ -33695,6 +32166,25 @@ sobre direitos autorais e dá outras providências.
 Lei n. 9.766 – 18 dez. 1998. Altera a legislação que rege o Salário-
 Educação, e dá outras providências.
 
+Lei  n.  9.784  –  29  jan.  1999.  Regula  o  processo  administrativo  no 
+âmbito da Administração Pública Federal.
+
+Lei n. 9.801 – 14 jun. 1999. Dispõe sobre as normas gerais para perda 
+de cargo público por excesso de despesa e dá outras providências.
+
+Lei n. 9.873 – 23 nov. 1999. Estabelece prazo de prescrição para o 
+exercício de ação punitiva pela Administração Pública Federal, direta 
+e indireta e dá outras providências.
+
+Lei n. 10.028 – 19 out. 2000. Altera o Decreto-Lei n. 2.848, de 7 de 
+dezembro de 1940 – Código Penal a Lei n. 1.079, de 10 de abril de 
+1950, e o Decreto-Lei n. 201, de 27 de fevereiro de 1967.
+
+Lei n. 10.029 – 20 out. 2000. Estabelece normas gerais para a prestação 
+voluntária de serviços administrativos e de serviços auxiliares de saúde 
+e de defesa civil nas Polícias  Militares e nos Corpos de Bombeiros 
+Militares e dá outras providências.
+
 Lei n. 10.406 – 10 jan. 2002. Institui o Código Civil.
 
 Lei n. 10.421 – 15 abr. 2002. Estende à mãe adotiva o direito à licença-
@@ -33726,10 +32216,6 @@ outras providências.
 Lei n. 12.965 – 23 abr. 2014. Estabelece princípios, garantias, direitos 
 e deveres para o uso da Internet no Brasil.
 
-Lei n. 13.460 - 26 jun. de 2017. Dispõe sobre participação, proteção 
-e defesa dos direitos do usuário dos serviços públicos da administração 
-pública.
-
 Medida Provisória
 
 Medida Provisória n. 2.200-2 – 24 ago. 2001. Institui a Infraestrutura 
@@ -33737,26 +32223,7 @@ de  Chaves  Públicas  Brasileira  -  ICP-Brasil,  transforma  o  Instituto
 Nacional  de  Tecnologia  da  Informação  em  autarquia  e  dá  outras 
 providências.
 
-Lei  n.  9.784  –  29  jan.  1999.  Regula  o  processo  administrativo  no 
-âmbito da Administração Pública Federal.
-
 Decretos-leis
-
-Lei n. 9.801 – 14 jun. 1999. Dispõe sobre as normas gerais para perda 
-de cargo público por excesso de despesa e dá outras providências.
-
-Lei n. 9.873 – 23 nov. 1999. Estabelece prazo de prescrição para o 
-exercício de ação punitiva pela Administração Pública Federal, direta 
-e indireta e dá outras providências.
-
-Lei n. 10.028 – 19 out. 2000. Altera o Decreto-Lei n. 2.848, de 7 de 
-dezembro de 1940 – Código Penal a Lei n. 1.079, de 10 de abril de 
-1950, e o Decreto-Lei n. 201, de 27 de fevereiro de 1967.
-
-Lei n. 10.029 – 20 out. 2000. Estabelece normas gerais para a prestação 
-voluntária de serviços administrativos e de serviços auxiliares de saúde 
-e de defesa civil nas Polícias  Militares e nos Corpos de Bombeiros 
-Militares e dá outras providências.
 
 Decreto-Lei  n.  2.377  –  8  jul.  1940.  Dispõe  sobre  o  pagamento  e 
 a  arrecadação  das  contribuições  devidas  aos  sindicatos  pelos  que 
@@ -33775,20 +32242,20 @@ aéreo e dá outras providências.
 Decreto-Lei n. 1.598 - 26 dez. 1977. Altera a legislação do imposto 
 sobre a renda.
 
-252
-
-48110001 miolo_230x280mm.indd   252
-
-15/02/19   19:26
-
-
 Decreto-Lei n. 2.049 – 1o ago. 1983. Dispõe sobre as contribuições para 
 o FINSOCIAL, sua cobrança, fiscalização, processos administrativo e 
 de consulta e dá outras providências.
 
+252
+
+
 Decreto-Lei n. 2.052 – 3 ago. 1983. Dispõe sobre as contribuições 
 para o PIS-PASEP, sua cobrança, fiscalização, processo administrativo 
 e de consulta e dá outras providências.
+
+Decreto  n.  3.587  –  5  set.  2000.  Estabelece  normas  para  a  Infra-
+Estrutura de Chaves Públicas do Poder Executivo Federal – ICP-Gov., 
+e dá outras providências.
 
 Decretos
 
@@ -33806,35 +32273,8 @@ Decreto n. 75.207 – 10 jan. 1975. Regulamenta a Lei n. 6.136, de
 7  de  novembro  de  1974,  que  inclui  o  salário  maternidade  entre  as 
 prestações da Previdência Social.
 
-Decreto n. 3.048 – 6 maio 1999. Aprova o Regulamento da Previdência 
-Social e dá outras providências.
-
-Decreto  n.  3.587  –  5  set.  2000.  Estabelece  normas  para  a  Infra-
-Estrutura de Chaves Públicas do Poder Executivo Federal – ICP-Gov., 
-e dá outras providências.
-
-Decreto n. 3.931 – 19 set. 2001. Regulamenta o Sistema de Registro 
-de Preços previsto no art. 15 da Lei n. 8.666, de 21 de junho de 1993, 
-e dá outras providências.
-
-Decreto n. 4.553 – 27 dez. 2002. Dispõe sobre a salvaguarda de dados, 
-informações, documentos e materiais sigilosos de interesse da segurança 
-da sociedade e do Estado, no âmbito da Administração Pública Federal, 
-e dá outras providências.
-
-Decreto n. 6.003 - 28 dez. 2006. Regulamenta a arrecadação, a fiscalização 
-e a cobrança da contribuição social do salário-educação, a que se referem 
-o art. 212, § 5º, da Constituição, e as Leis nos 9.424, de 24 de dezembro 
-de 1996, e 9.766, de 18 de dezembro de 1998, e dá outras providências.
-
-Decreto  n.  7.030  –14  dez.  2009.  Promulga  a  Convenção  de  Viena 
-sobre o Direito dos Tratados, concluída em 23 de maio de 1969, com 
-reserva aos Artigos 25 e 66.
-
 Decreto  n.  76.900  –  23  dez.  1975.  Institui  a  Relação  Anual  de 
 Informações Sociais – RAIS e dá outras providências.
-
-Outros atos legais federais
 
 Decreto n. 82.590 – 6 nov. 1978. Regulamenta a Lei n. 6.546, de 4 
 de julho de 1978, que dispõe sobre a regulamentação das profissões de 
@@ -33846,8 +32286,9 @@ da Previdência Social.
 Decreto n. 97.936 – 10 jul. 1989. Institui o Cadastro Nacional do 
 Trabalhador e dá outras providências.
 
-Decreto  n.  1.054  –  7  fev.  1994.  Regulamenta  o  reajuste  de  preços  nos 
-contratos da Administração Federal direta e indireta e dá outras providências.
+Decreto  n.  1.054  –  7  fev.  1994.  Regulamenta  o  reajuste  de  preços 
+nos contratos da Administração Federal direta e indireta e dá outras 
+providências.
 
 Decreto n. 1.070 – 2 mar. 1994. Dispõe sobre contratações de bens 
 e serviços de informática e automação pela Administração Federal, 
@@ -33868,6 +32309,30 @@ dá outras providências.
 Decreto n. 2.829 – 29 out. 1998. Estabelece normas para a elaboração 
 e execução do Plano Plurianual e dos Orçamentos da União e dá outras 
 providências.
+
+Decreto n. 3.048 – 6 maio 1999. Aprova o Regulamento da Previdência 
+Social e dá outras providências.
+
+Decreto n. 3.931 – 19 set. 2001. Regulamenta o Sistema de Registro 
+de Preços previsto no art. 15 da Lei n. 8.666, de 21 de junho de 1993, 
+e dá outras providências.
+
+Decreto n. 4.553 – 27 dez. 2002. Dispõe sobre a salvaguarda de dados, 
+informações, documentos e materiais sigilosos de interesse da segurança 
+da sociedade e do Estado, no âmbito da Administração Pública Federal, 
+e dá outras providências.
+
+Decreto  n.  6.003  -  28  dez.  2006.  Regulamenta  a  arrecadação,  a 
+fiscalização e a cobrança da contribuição social do salário-educação, a 
+que se referem o art. 212, § 5º, da Constituição, e as Leis nos 9.424, de 
+24 de dezembro de 1996, e 9.766, de 18 de dezembro de 1998, e dá 
+outras providências.
+
+Decreto  n.  7.030  –14  dez.  2009.  Promulga  a  Convenção  de  Viena 
+sobre o Direito dos Tratados, concluída em 23 de maio de 1969, com 
+reserva aos Artigos 25 e 66.
+
+Outros atos legais federais
 
 CONSELHO NACIONAL DE ARQUIVOS, CONARQ - Resolução 
 n.  17  -  25  jul.  2003.  Dispõe  sobre  os  procedimentos  relativos  à 
@@ -33898,47 +32363,61 @@ meio eletrônico, por meio do Sistema Empresa de Recolhimento do
 Fundo de Garantia do Tempo de Serviço e Informações à Previdência 
 Social – SEFIP da Caixa Econômica Federal.
 
-MINISTÉRIO DO ORÇAMENTO E GESTÃO. Portaria n. 42 – 14 
-abr. 1999. Atualiza a discriminação da despesa por funções de que tratam 
-
-48110001 miolo_230x280mm.indd   253
+MINISTÉRIO  DO  ORÇAMENTO  E  GESTÃO.  Portaria  n.  42 
+–  14  abr.  1999.  Atualiza  a  discriminação  da  despesa  por  funções  de 
+que tratam o inciso I, do § 1o, do art. 2o, e § 2o, do art. 8o, ambos da 
+Lei n. 4.320, de 17 de março de 1964; estabelece conceitos de função, 
 
 253
 
-15/02/19   19:26
 
-
-o inciso I, do § 1o, do art. 2o, e § 2o, do art. 8o, ambos da Lei n. 4.320, 
-de  17  de  março  de  1964;  estabelece  conceitos  de  função,  subfunção, 
-programa, projeto, atividade, operações especiais e dá outras providências.
-
-SECRETARIA DE SEGURANÇA E MEDICINA DO TRABALHO. 
-Portaria  n.  35  –  28  dez.  1983.  Dispõe  sobre  a  alteração  da  NR-2 
-aprovada pela Portaria n. 6, de 9 de março de 1983.
+subfunção, programa, projeto, atividade, operações especiais e dá outras 
+providências.
 
 MINISTÉRIO  DO TRABALHO. Portaria n. 3.214 – 8 jun. 1978. 
 Aprova  as  Normas  Regulamentadoras  –  NR  –  do  Capítulo  V  do 
 Título II, da Consolidação das Leis do Trabalho, relativas à Segurança 
 e Medicina do Trabalho.
 
+SECRETARIA DE SEGURANÇA E MEDICINA DO TRABALHO. 
+Portaria  n.  35  –  28  dez.  1983.  Dispõe  sobre  a  alteração  da  NR-2 
+aprovada pela Portaria n. 6, de 9 de março de 1983.
+
+SECRETARIA  DE  SEGURANÇA  E  SAÚDE  NO  TRABALHO. 
+Norma  Regulamentadora  NR-4  –  Serviços  Especializados  em 
+Engenharia de Segurança e em Medicina do Trabalho.
+
 MINISTÉRIO  DO  TRABALHO.  Portaria  n.  87  –  28  jan.  1997. 
 Baixa  instruções  sobre  a  execução  do  Programa  de  Alimentação  do 
 Trabalhador – PAT.
+
+SECRETARIA  DE  SEGURANÇA  E  SAÚDE  NO  TRABALHO. 
+Norma Regulamentadora NR-5 – Comissão Interna de Prevenção de 
+Acidentes - CIPA.
 
 MINISTÉRIO DO TRABALHO E EMPREGO. Portaria n. 2.115 – 
 29 dez. 1999. Dispõe sobre adoção de novo formulário para o Cadastro 
 Geral de Empregados e Desempregados – CAGED.
 
+SECRETARIA  DE  SEGURANÇA  E  SAÚDE  NO  TRABALHO. 
+Norma Regulamentadora NR-7 – Programas de Controle Médico de 
+Saúde Ocupacional.
+
 MINISTÉRIO  DO  TRABALHO  E  EMPREGO.  Portaria  n.  3  – 
 1o  mar.  2002.  Baixa  instruções  sobre  a  execução  do  Programa  de 
 Alimentação do Trabalhador – PAT.
 
-MINISTÉRIO  DO  TRABALHO  E  EMPREGO.  Portaria  n. 
-235  –  17  mar.  2003.  Estabelece  procedimentos  de  envio,  por  meio 
-eletrônico  (Internet  e  disquete),  do  Cadastro  Geral  de  Empregados 
-e  Desempregados    (CAGED),  a  partir  da  competência  Março/2003, 
-com a utilização do Aplicativo CAGED Informatizado (ACI) ou outro 
-aplicativo fornecido pelo Ministério do  Trabalho e Emprego - MTE.
+SECRETARIA  DE  SEGURANÇA  E  SAÚDE  NO  TRABALHO. 
+Norma Regulamentadora NR-9 – Programas de Prevenção de Riscos 
+Ambientais.
+
+MINISTÉRIO DO TRABALHO E EMPREGO. Portaria n. 235 
+–  17  mar.  2003.  Estabelece  procedimentos  de  envio,  por  meio 
+eletrônico (Internet e disquete), do Cadastro Geral de Empregados 
+e Desempregados  (CAGED), a partir da competência Março/2003, 
+com  a  utilização  do  Aplicativo  CAGED  Informatizado  (ACI)  ou 
+outro aplicativo fornecido pelo Ministério do  Trabalho e Emprego 
+- MTE.
 
 MINISTÉRIO DO TRABALHO E EMPREGO. Portaria n. 41 – 28 
 mar. 2007. Disciplina o registro e a anotação de Carteira de Trabalho e 
@@ -33953,22 +32432,6 @@ SECRETARIA  DA  RECEITA  FEDERAL.  Instrução  Normativa  n.
 86  –  22  out.  2001.  Dispõe  sobre  informações,  formas  e  prazos  para 
 apresentação  dos  arquivos  digitais  e  sistemas  utilizados  por  pessoas 
 jurídicas.
-
-SECRETARIA  DE  SEGURANÇA  E  SAÚDE  NO  TRABALHO. 
-Norma  Regulamentadora  NR-4  –  Serviços  Especializados  em 
-Engenharia de Segurança e em Medicina do Trabalho.
-
-SECRETARIA  DE  SEGURANÇA  E  SAÚDE  NO  TRABALHO. 
-Norma Regulamentadora NR-5 – Comissão Interna de Prevenção de 
-Acidentes - CIPA.
-
-SECRETARIA  DE  SEGURANÇA  E  SAÚDE  NO  TRABALHO. 
-Norma Regulamentadora NR-7 – Programas de Controle Médico de 
-Saúde Ocupacional.
-
-SECRETARIA  DE  SEGURANÇA  E  SAÚDE  NO  TRABALHO. 
-Norma Regulamentadora NR-9 – Programas de Prevenção de Riscos 
-Ambientais.
 
 SECRETARIA  DE  SEGURANÇA  E  SAÚDE  NO  TRABALHO. 
 Norma Regulamentadora NR-15 – Atividades e Operações Insalubres.
@@ -33999,7 +32462,7 @@ Retido na Fonte (Dirf) e dá outras providências.
 Leis Complementares
 
 SECRETARIA  DA  RECEITA  FEDERAL.  Instrução  Normativa 
-n. 200 – 13 set. 2002. Dispõe sobre o Cadastro Nacional da Pessoa 
+n. 200 – 13  set. 2002. Dispõe sobre o Cadastro Nacional da Pessoa 
 Jurídica (CNPJ).
 
 SECRETARIA  DA  RECEITA  FEDERAL.  Instrução  Normativa 
@@ -34028,10 +32491,6 @@ de  adicional  de  periculosidade  aos  funcionários  e  servidores  da
 Administração Centralizada do Estado e dá outras providências.
 
 254
-
-48110001 miolo_230x280mm.indd   254
-
-15/02/19   19:26
 
 
 Lei Complementar n. 318 – 10 mar. 1983. Altera disposições da Lei n. 
@@ -34092,7 +32551,7 @@ menciona.
 Lei  Complementar  n.  887  –  19  dez.  2000.  Prorroga  o  prazo  de 
 concessão  do  Prêmio  de  Incentivo  à  Qualidade  -  PIQ,  altera 
 dispositivos da Lei Complementar n. 567, de 20 de julho de 1988, 
-e da Lei Complementar n. 804, de 21 de  dezembro de 1995,  e dá 
+e da Lei Complementar n. 804, de 21 de  dezembro de  1995, e  dá 
 providências correlatas.
 
 Lei  Complementar  n.  907  –  21  dez.  2001.  Institui  o  Prêmio  de 
@@ -34156,11 +32615,7 @@ Educação.
 Lei n. 500 – 13 nov. 1974. Institui o regime jurídico dos servidores 
 admitidos em caráter temporário e dá providências correlatas.
 
-48110001 miolo_230x280mm.indd   255
-
 255
-
-15/02/19   19:26
 
 
 Lei n. 951 – 14 jan. 1976. Cria a Carteira de Previdência dos Deputados 
@@ -34289,10 +32744,6 @@ componentes da Polícia Militar do Estado de São Paulo.
 
 256
 
-48110001 miolo_230x280mm.indd   256
-
-15/02/19   19:26
-
 
 Decretos
 
@@ -34414,11 +32865,7 @@ permissões de uso em terras devolutas estaduais e dá outras providências.
 Decreto  n.  29.180  –  11  nov.  de  1988.  Institui  o  Regulamento  de 
 Perícias Médicas - R.P.M. e dá outras providências.
 
-48110001 miolo_230x280mm.indd   257
-
 257
-
-15/02/19   19:26
 
 
 Decreto  n.  29.838  –  18  abr.  1989.  Dispõe  sobre  a  constituição  de 
@@ -34545,10 +32992,6 @@ bens  dos  agentes  públicos  estaduais,  bem  como  de  bens  e  valores
 
 258
 
-48110001 miolo_230x280mm.indd   258
-
-15/02/19   19:26
-
 
 patrimoniais  do  cônjuge  ou  companheiro,  dos  filhos  e  de  outras 
 pessoas  que  vivam  sob  a  dependência  econômica  do  declarante, 
@@ -34567,28 +33010,8 @@ Carlos de Campos de Tatuí, todos da Secretaria da Cultura.
 Decreto  n.  42.604  –  9  dez.  1997.  Dispõe  sobre  a  implantação  do 
 Sistema Integrado de Informações Físico-Financeiras – SIAFÍSICO.
 
-Decreto  n.  43.834  –  8  fev.  1999.  Estabelece  diretrizes  para  o 
-funcionamento do Sistema de Comunicação do Governo do Estado de 
-São Paulo – SICOM e dá providências correlatas.
-
-Decreto  n.  43.934  –  6  abr.  1999.  Dá  nova  redação  ao  artigo  3°  do 
-Decreto n. 41.203, de 7 de outubro de 1996.
-
-Decreto n. 44.074 – 1 jul. 1999. Regulamenta a composição e estabelece 
-competência das Ouvidorias de Serviços Públicos, instituídas pela Lei 
-n. 10.294, de 20 de abril de 1999, que dispõe sobre a proteção e defesa 
-do usuário do serviço público do Estado de São Paulo.
-
-Decreto n. 44.420 – 22 nov. 1999. Dá nova redação aos artigos 3o 
-e 10 do Decreto n. 43.833, de 8 de fevereiro de 1999, que institui 
-o Sistema de Comunicação do Governo do Estado de São Paulo – 
-SICOM e dá providências correlatas. 
-
 Decreto n. 42.639 – 16 dez. 1997. Altera dispositivos do Decreto n. 
 41.312, de 13 de novembro de 1996, e dá outras providências.
-
-Decreto n. 44.787 – 24 mar. 2000. Institui o Sistema de Informações 
-Patrimoniais na Administração Pública Estadual e dá outras providências. 
 
 Decreto  n.  42.815  –  19  jan.  1998.  Dispõe  sobre  a  atualização  das 
 normas para a organização dos órgãos do Sistema de Administração 
@@ -34625,6 +33048,36 @@ Decreto n. 43.200 – 18 jun. 1998. Altera dispositivos do Decreto n.
 honorários pagos a título de horas-aula aos servidores que ministrarem 
 aulas nos órgãos da Secretaria da Cultura que especifica.
 
+Decreto n. 43.833 – 8 fev. 1999. Institui o Sistema de Comunicação 
+do  Governo  do  Estado  de  São  Paulo  –  SICOM  e  dá  providências 
+correlatas.
+
+Decreto  n.  43.834  –  8  fev.  1999.  Estabelece  diretrizes  para  o 
+funcionamento do Sistema de Comunicação do Governo do Estado de 
+São Paulo – SICOM e dá providências correlatas.
+
+Decreto  n.  43.934  –  6  abr.  1999.  Dá  nova  redação  ao  artigo  3°  do 
+Decreto n. 41.203, de 7 de outubro de 1996.
+
+Decreto n. 43.958 – 20 abr. 1999. Institui Comissão Intersecretarial para 
+propor providências visando à implantação da Lei n. 10.294, de 20 de 
+abril de 1999, que dispõe sobre proteção e defesa do usuário do serviço 
+público do Estado de São Paulo.
+
+Decreto n. 44.074 – 1 jul. 1999. Regulamenta a composição e estabelece 
+competência das Ouvidorias de Serviços Públicos, instituídas pela Lei 
+n. 10.294, de 20 de abril de 1999, que dispõe sobre a proteção e defesa 
+do usuário do serviço público do Estado de São Paulo.
+
+Decreto n. 44.420 – 22 nov. 1999. Dá nova redação aos artigos 3o 
+e 10 do Decreto n. 43.833, de 8 de fevereiro de 1999, que institui 
+o Sistema de Comunicação do Governo do Estado de São Paulo – 
+SICOM e dá providências correlatas. 
+
+Decreto n. 44.787 – 24 mar. 2000. Institui o Sistema de Informações 
+Patrimoniais  na  Administração  Pública  Estadual  e  dá  outras 
+providências. 
+
 Decreto n. 45.040 – 4 jul. 2000. Dispõe sobre as Comissões de Ética 
 e a Comissão de Centralização das Informações dos Serviços Públicos 
 do Estado de São Paulo de que trata a Lei n. 10.294, de 20 de abril de 
@@ -34638,8 +33091,9 @@ comunicação – RICMS.
 Decreto  n.  46.494  –  11  jan.  2002.  Fixa  normas  para  a  execução 
 orçamentária e financeira do exercício de 2002 e dá outras providências.
 
-Decreto  n.  46.543  –  14  fev.  2002.  Altera  a  denominação  do  cartão  de 
-compras, estabelece normas para sua utilização, e dá providências correlatas.
+Decreto  n.  46.543  –  14  fev.  2002.  Altera  a  denominação  do  cartão 
+de  compras,  estabelece  normas  para  sua  utilização,  e  dá  providências 
+correlatas.
 
 Decreto n. 46.569 – 28 fev. 2002. Regulamenta a Lei Complementar 
 n. 907, de 21 de dezembro de 2001, que institui o Prêmio de Incentivo 
@@ -34657,30 +33111,22 @@ Tabela de Temporalidade de Documentos da Administração Pública
 do  Estado  de  São  Paulo,  define  normas  para  a  avaliação,  guarda  e 
 eliminação de documentos de arquivo.
 
+259
+
+
 Decreto n. 48.898 – 27 ago. 2004. Aprova o Plano de Classificação e 
 a Tabela de Temporalidade de Documentos da Administração Pública 
 do Estado de São Paulo: Atividades – Meio.
 
-Decreto n. 43.833 – 8 fev. 1999. Institui o Sistema de Comunicação 
-do  Governo  do  Estado  de  São  Paulo  –  SICOM  e  dá  providências 
-correlatas.
-
-Decreto  n.  50.656  -  30  mar.  2006.  Institui  e  organiza  o  Sistema 
-Informatizado da Rede de Ouvidorias do Estado de São Paulo, regulamenta 
-o envio dos relatórios semestrais das ouvidorias.
-
-48110001 miolo_230x280mm.indd   259
-
-259
-
-15/02/19   19:26
-
+Decreto  n.  61.035  –  1o  jan.  2015.  Dispõe  sobre  as  alterações 
+de  denominação,  transferências  e  extinções  que  especifica  e  dá 
+providências correlatas. 
 
 Decreto n. 50.659 - 30 mar. 2006. Reorganiza a Secretaria da Cultura e dá 
 providências correlatas.
 
-Decreto  n.  60.399  -  29  abr.  2014.  Dispõe  sobre  a  atividade  das 
-Ouvidorias instituídas pela Lei n. 10.294, de 20 de abril de 1999.
+Decreto n. 61.036 – 1o jan. 2015. Organiza a Secretaria de Governo e 
+dá providências correlatas.
 
 Decreto n. 50.941 - 5 jul. 2006. Reorganiza a Secretaria da Cultura e dá 
 providências correlatas.
@@ -34727,14 +33173,6 @@ n.  55.089,  de  30  de  novembro  de  2009,  que  dispõe  sobre  o
 recadastramento  geral  dos  inativos  e  dos  pensionistas  de  servidores 
 falecidos e dá providências correlatas.
 
-Decreto  n.  60.144  -  11  fev.  2014.  Institui  a  Comissão  Estadual  de 
-Acesso à Informação - CEAI e dá providências correlatas.
-
-Decreto  n.  60.145  -  11  fev.  2014.  Dispõe  sobre  o  recolhimento  de 
-documentos  de  guarda  permanente,  produzidos  e  acumulados  pelos 
-órgãos e entidades da Administração Pública estadual direta, indireta e 
-fundacional, para a Unidade de Arquivo Público do Estado, da Casa Civil
-
 Decreto  n.  60.334  –  3  abr.  2014.  Aprova  o  Manual  de  Normas  e 
 Procedimentos de Protocolo para a Administração Pública do Estado 
 de São Paulo, e dá providências correlatas.
@@ -34742,13 +33180,6 @@ de São Paulo, e dá providências correlatas.
 Decreto n. 60.428 – 8 de maio 2014. Aprova o Código de Ética da 
 Administração Pública Estadual e dá nova redação a dispositivos do 
 Decreto n. 57.500, de 8 de novembro de 2011.
-
-Decreto  n.  61.035  –  1o  jan.  2015.  Dispõe  sobre  as  alterações 
-de  denominação,  transferências  e  extinções  que  especifica  e  dá 
-providências correlatas. 
-
-Decreto n. 61.036 – 1o jan. 2015. Organiza a Secretaria de Governo e 
-dá providências correlatas.
 
 Decreto n. 61.038 – 1o jan 2015. Organiza a Casa Civil, do Gabinete 
 do Governador, e dá providências correlatas.
@@ -34793,19 +33224,15 @@ massa documental acumulada e procedimentos para a eliminação,
 transferência e recolhimento de documentos à Unidade do Arquivo 
 Público do Estado. 
 
-260
-
-48110001 miolo_230x280mm.indd   260
-
-15/02/19   19:26
-
-
 ARQUIVO  PÚBLICO  DO  ESTADO.  Instrução  Normativa 
 APE/SAESP-3  –  14  set.  2015,    republicada  em  30  set.  2015. 
 Estabelece  critérios  complementares  à  Instrução  Normativa  APE/
 SAESP-2/2010, para o recolhimento de documentos à Unidade do 
 Arquivo Público do Estado, visando a efetiva aplicação do Decreto 
 n. 60.145/2014.
+
+260
+
 
 ARQUIVO  PÚBLICO  DO  ESTADO.  Instrução  Normativa  
 APE/SAESP-4  –  05  jul.  2016.  Estabelece  procedimentos  para 
@@ -34839,8 +33266,9 @@ n. 4 – 20 ago. 1991. Define os objetivos e atribuições dos Centros
 de Informações a que se refere o item I do artigo 2o do Decreto n. 
 30.432, de 14 de setembro de 1989.
 
-CONSELHO ESTADUAL DE INFORMÁTICA. Deliberação n. 3 – 18 
-jul. 1996. Dispõe sobre a elaboração de Planos Diretores de Informática.
+CONSELHO ESTADUAL DE INFORMÁTICA. Deliberação n. 
+3  –  18  jul.  1996.  Dispõe  sobre  a  elaboração  de  Planos  Diretores  de 
+Informática.
 
 CONSELHO  ESTADUAL  DE  INFORMÁTICA.  Deliberação 
 n.  2  –  29  abr.  1997.  Dispõe  sobre  os  procedimentos  para 
@@ -34855,12 +33283,15 @@ ou  mantidas  pelo  Poder  Público,  e  das  empresas  em  cujo  capital  o
 Estado  tenha  participação  majoritária,  devidamente  aprovados  pelo 
 Conselho Estadual de Informática.
 
+CONSELHO ESTADUAL DE INFORMÁTICA. Deliberação n. 
+1 – 30 ago. 1999. Dispõe sobre as contratações (aquisições, locações, 
 doações  e  cessões  em  comodato)  de  programas  de  computador 
 (software do tipo básico, de apoio e suporte ou aplicativos), e dá outras 
 providências.
 
 CONSELHO ESTADUAL DE INFORMÁTICA. Deliberação n. 
 2  –  29  dez.  1999.  Dispõe  sobre  a  desconcentração  da  contratação 
+
 de  serviços  técnicos  especializados  prestados  pela  Companhia  de 
 Processamento de Dados do Estado de São Paulo - PRODESP.
 
@@ -34908,25 +33339,18 @@ SECRETARIA  DE  ESTADO  DA  FAZENDA.  Resolução  n.  3  –
 em  relação  a  informações  concernentes  a  sonegação  fiscal  ou 
 irregularidades funcionais, recebidas na Secretaria da Fazenda.
 
-CONSELHO ESTADUAL DE INFORMÁTICA. Deliberação n. 
-1 – 30 ago. 1999. Dispõe sobre as contratações (aquisições, locações, 
-
 SECRETARIA DE ESTADO DA FAZENDA. Resolução n. 19 – 30 
 maio 2000. Dispõe sobre os procedimentos que devem ser observados 
-
-48110001 miolo_230x280mm.indd   261
-
-261
-
-15/02/19   19:26
-
-
 pelos  órgãos  da  Secretaria  da  Fazenda  do  Estado  de  São  Paulo  às 
 solicitações de sua Ouvidoria Fazendária.
 
 SECRETARIA DE ESTADO DA FAZENDA. Resolução n. 24 – 02 
 dez. 2004. Disciplina a concessão do Abono por Satisfação do Usuário 
 - ASU, previsto na Lei Complementar n. 887, de 19 de dezembro de 
+
+261
+
+
 2000, com as alterações introduzidas pela Lei Complementar n. 952, 
 de 19 de dezembro de 2003 e dá providências correlatas.
 
@@ -34960,31 +33384,6 @@ SECRETARIA DE ESTADO DA FAZENDA. Instrução DDP/G n.
 5 – 27 ago. 2002. Versa sobre implantações, alterações e cancelamentos 
 de consignações em folha de pagamento.
 
-SECRETARIA  DE  ESTADO  DO  GOVERNO  E  GESTÃO 
-ESTRATÉGICA.  Instrução  Normativa  n.  1  –  18  jun.  1999.  Dá 
-diretrizes  ao  planejamento  das  atividades  comunicacionais,  pelos 
-órgãos e entidades da Administração Estadual.
-
-SECRETARIA  DE  ESTADO  DO  GOVERNO  E  GESTÃO 
-ESTRATÉGICA.  Instrução  Normativa  n.  2  –  18  jun.  1999. 
-Estabelece  procedimentos  para  realização  de  eventos  pelos  órgãos  e 
-entidades da Administração Estadual.
-
-SECRETARIA  DE  ESTADO  DO  GOVERNO  E  GESTÃO 
-ESTRATÉGICA. Instrução Normativa n. 3 – 18 jun. 1999. Dispõe 
-sobre aprovação de campanhas de interesse dos órgãos e entidades da 
-Administração Estadual.
-
-SECRETARIA  DE  ESTADO  DO  GOVERNO  E  GESTÃO 
-ESTRATÉGICA. Resolução n. 46 – 08 nov. 2001. Doação de materiais 
-usados, declarados inservíveis pelo Centro de Material Excedente.
-
-SECRETARIA DE ESTADO DO MEIO AMBIENTE. Resolução 
-
-n. 29 – 24 set. 1999. Dispõe sobre normas para aplicação das multas 
-previstas na Lei Estadual n. 6.544, de 22 de novembro de 1989, e na 
-Lei Federal n. 8.666, de 21 de junho de 1993.
-
 SECRETARIA DE ESTADO DO MEIO AMBIENTE. Portaria CG 
 n. 1 – 06 jul. 2001. Constitui comissão responsável pelo recebimento 
 de materiais adquiridos pelo Gabinete do Secretário e Assessorias.
@@ -35001,7 +33400,7 @@ TRIBUNAL  DE  CONTAS  DO  ESTADO  DE  SÃO  PAULO.
 Instrução n. 2 – 18 ago. 1995. Estabelece normas a serem observadas 
 pelos órgãos da Administração Direta, Fundos Especiais, Autarquias, 
 Fundações  Públicas,  Empresas  Públicas,  Sociedades  de  Economia 
-Mista  e demais Entidades controladas direta ou indiretamente pelo 
+Mista e demais Entidades controladas direta  ou indiretamente pelo 
 Estado  e  pelos  Municípios,  no  cumprimento  do  disposto  na  parte 
 final do artigo 5o da Lei Federal n. 8666, de 21 de junho de 1993.
 
@@ -35017,10 +33416,34 @@ Federal e das regras introduzidas pela Emenda Constitucional n. 14,
 de 12 de setembro de 1996, e pelas Leis Federais n. 9394, de 20 de 
 dezembro de 1996, e n. 9424, de 24 de dezembro de 1996.
 
+SECRETARIA  DE  ESTADO  DO  GOVERNO  E  GESTÃO 
+ESTRATÉGICA.  Instrução  Normativa  n.  1  –  18  jun.  1999.  Dá 
+diretrizes  ao  planejamento  das  atividades  comunicacionais,  pelos 
+órgãos e entidades da Administração Estadual.
+
 TRIBUNAL  DE  CONTAS  DO  ESTADO  DE  SÃO  PAULO. 
 Instrução n. 2 – 09 set. 1998. Dispõe sobre a fiscalização da execução 
 dos  contratos  de  Concessão  e  Permissão  de  Serviços  Públicos,  em 
 especial da Malha Rodoviária Estadual.
+
+SECRETARIA  DE  ESTADO  DO  GOVERNO  E  GESTÃO 
+ESTRATÉGICA.  Instrução  Normativa  n.  2  –  18  jun.  1999. 
+Estabelece  procedimentos  para  realização  de  eventos  pelos  órgãos  e 
+entidades da Administração Estadual.
+
+SECRETARIA  DE  ESTADO  DO  GOVERNO  E  GESTÃO 
+ESTRATÉGICA. Instrução Normativa n. 3 – 18 jun. 1999. Dispõe 
+sobre aprovação de campanhas de interesse dos órgãos e entidades da 
+Administração Estadual.
+
+SECRETARIA  DE  ESTADO  DO  GOVERNO  E  GESTÃO 
+ESTRATÉGICA. Resolução n. 46 – 08 nov. 2001. Doação de materiais 
+usados, declarados inservíveis pelo Centro de Material Excedente.
+
+SECRETARIA DE ESTADO DO MEIO AMBIENTE. Resolução 
+n. 29 – 24 set. 1999. Dispõe sobre normas para aplicação das multas 
+previstas na Lei Estadual n. 6.544, de 22 de novembro de 1989, e na 
+Lei Federal n. 8.666, de 21 de junho de 1993.
 
 TRIBUNAL  DE  CONTAS  DO  ESTADO  DE  SÃO  PAULO. 
 Instrução n. 1 – 18 dez. 2002. Dispõe sobre o exercício do controle 
@@ -35031,26 +33454,19 @@ legitimidade  e  economicidade,  no  âmbito  estadual,  de  todos  os
 
 LEGISLAÇÃO MUNICIPAL
 
-Lei n. 8.809 – 31 out. 1978. Estabelece normas aplicáveis ao imposto 
-sobre serviços de qualquer natureza e a taxa de licença para localização, 
-funcionamento  ou  instalação  de  atividades  comerciais,  industriais, 
-profissionais, de prestação de serviços e similares, e dá outras providências.
+Lei  n.  8.809  –  31  out.  1978.  Estabelece  normas  aplicáveis  ao 
+imposto sobre serviços de qualquer natureza e a taxa de licença para 
+localização,  funcionamento  ou  instalação  de  atividades  comerciais, 
+industriais, profissionais, de prestação de serviços e similares, e dá outras 
+providências.
 
 Lei  n.  11.085  –  06  set.  1991.  Altera  a  legislação  do  imposto  sobre 
 serviços de qualquer natureza, e dá outras providências.
 
 262
 
-48110001 miolo_230x280mm.indd   262
-
-15/02/19   19:26
-
-
-48110001 miolo_230x280mm.indd   263
 
 263
-
-15/02/19   19:26
 
 
 Formato
@@ -35072,114 +33488,4 @@ Número de páginas
 Tiragem
 1.000 unidades
 
-48110001 miolo_230x280mm.indd   264
-
-15/02/19   19:26
-
-
-ISBN 978-85-69353-02-7
-
-9    7 8 8 5 6 9   3 5 3 0 2 7
-
-e
-d
-a
-d
-
-i
-l
-
-a
-r
-o
-p
-m
-e
-T
-e
-d
-
-l
-
-a
-e
-b
-a
-T
-e
-
-o
-ã
-ç
-a
-c
-ﬁ
-i
-s
-s
-a
-C
-e
-d
-
-l
-
-o
-n
-a
-P
-
-l
-
-I
-
-O
-C
-L
-B
-Ú
-P
-O
-V
-U
-Q
-R
-A
-
-I
-
-O
-D
-A
-T
-S
-E
-O
-D
-
-Secretaria de Governo
-
-Plano de Classiﬁcação
-e Tabela de Temporalidade
-de Documentos
-da Administração Pública
-do Estado de São Paulo:
-Atividades-Meio
-
-2a Edição
-1ª Reimpressão
-
-48110001 capa LOMB 22.indd   1
-
-27/02/2019   11:35:39
-
- 
- 
- 
- 
- 
- 
- 
- 
- 
 

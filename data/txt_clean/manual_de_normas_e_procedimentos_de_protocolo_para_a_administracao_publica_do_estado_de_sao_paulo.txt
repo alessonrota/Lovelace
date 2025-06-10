@@ -1,0 +1,4556 @@
+Manual de 
+norMas e 
+ProcediMentos 
+de Protocolo 
+Para 
+a 
+adMinistração 
+Pública  
+do estado de 
+são Paulo
+
+Manual de norMas e ProcediMentos
+de Protocolo Para a adMinistração 
+Pública do estado de são Paulo
+
+09223_capa.indd   1
+
+12/26/13   10:54 AM
+
+
+Manual de norMas  e ProcediMentos
+de Protocolo Para a adMinistração 
+Pública do estado de são Paulo
+
+
+Governador
+Geraldo alckmin
+
+casa ciVil
+
+Secretário-Chefe da Casa Civil
+edson aparecido
+
+arQuiVo Público do estado
+
+Coordenador
+izaias José de santana
+
+Diretora Técnica do Departamento de Gestão do 
+Sistema de Arquivos do Estado de São Paulo – SAESP
+ieda Pimenta bernardes
+
+Diretora Técnica do Departamento de Preservação  
+e Difusão do Acervo
+Yara Prado Fernandes Pascotto
+
+Pesquisa e produção de conteúdo: centro de  
+coordenação dos Protocolos estaduais 
+
+Eliana Martinelli Avagliano (Diretora)
+André Montagner
+Alessandra Zorzetto Moreno
+Erich Ewald Kliemke
+Elisangela Mendes Queiroz
+Keli Davi Moreira
+Lauriany Geize da Silva
+Leandro Teixeira Estrella
+Rogério Madeira de Moura Campos
+
+
+Manual de norMas  e ProcediMentos
+de Protocolo Para a adMinistração 
+Pública do estado de são Paulo
+
+Arquivo Público do Estado
+São Paulo
+2013
+
+
+Copyright ©2013 by 
+departamento de Gestão do sistema 
+de arquivos do estado de são Paulo
+Rua Voluntários da Pátria, 596, 02010-000, São Paulo – SP
+Tel.: (11) 2089-8152
+cestaduais@sp.gov.br
+
+Disponível no sítio www.arquivoestado.sp.gov.br
+Permitida a reprodução parcial ou total desde que indicada a fonte
+
+Ficha Catalográfica elaborada por Renata Gonçalves
+CRB – 8 nº 8248
+
+M252
+
+Manual de normas e procedimentos de protocolo para a Administração 
+Pública  do  Estado  de  São  Paulo.  -  São  Paulo:  Arquivo  Público  do 
+Estado, 2013. 
+116 p.
+
+ISBN 978-85-63443-08-3
+
+1.  Protocolos  –  Administração  Pública  do  Estado  (São  Paulo). 
+2.  Serviços  de  Protocolo  –  normas  e  procedimentos.  3.  Gestão 
+Documental. I. Título.
+
+CDU: 025
+
+
+colaboradores
+
+dePartaMento de Gestão do saesP
+Caio Graco Cobério Valério
+Camila Brandi de Souza
+Camila Giovana Ribeiro
+Hilda Delatorre
+Luiz Felipe Loureiro Foresti
+Maria Elisa Pereira
+Manuella Soares Ramalho
+Ricardo José de Melo
+Ricardo Silvestre
+
+outros órGãos e entidades
+Belmiro Correa de Camargo (Procuradoria Geral do Estado)
+Claudete Francisco de Souza (Secretaria de Estado da Segurança Pública)
+Dione Luiz dos Santos (Secretaria de Estado da Educação)
+Ednusa Ribeiro de Santana (Secretaria de Estado da Fazenda)
+Joana D’Arc Felipe Machado (Companhia Ambiental do Estado de São Paulo – CETESB)
+João Rocha Venceslau Filho (Hospital das Clínicas da Faculdade de Medicina da 
+Universidade de São Paulo) 
+Jorge Uchiyama (Secretaria de Estado da Cultura)
+Luiz Carlos de Carvalho Silva (Casa Civil)
+Maria Aparecida de Oliveira (Fundação para a Produção e a Conservação Florestal do 
+Estado de São Paulo)
+Maria de Fátima Pereira Sardinha (Secretaria de Estado da Saúde)
+Maria Geruseneide Silva de Jesus (Secretaria de Estado do Meio Ambiente)
+Valquíria Beatriz da Costa (Secretaria de Estado da Cultura) 
+
+iMPrensa oficial do e stado de são Paulo
+
+Projeto gráfico
+Marli Santos de Jesus
+
+diagramação
+Ricardo Ferreira
+
+impressão e acabamento
+Imprensa Oficial do Estado de São Paulo
+
+
+Sumário
+
+Apresentação ............................................................................................... 9
+
+Introdução .................................................................................................11
+
+1. Política Estadual de Arquivos e Gestão de Documentos ........................15
+
+2. Documentos de Arquivo ........................................................................17
+
+3. Recebimento .......................................................................................... 19
+
+4. Registro ..................................................................................................27
+
+5. Abertura de Expediente .........................................................................35
+
+6. Autuação de Processo ...........................................................................39
+
+7. Encerramento e Abertura de Volume ....................................................49
+
+8. Tramitação .............................................................................................53
+
+9. Expedição ...............................................................................................57
+
+10. Juntada ................................................................................................61
+
+11. Desentranhamento .............................................................................. 65
+
+12. Apensamento ...................................................................................... 69
+
+13. Desapensamento ................................................................................. 73
+
+14. Incorporação ........................................................................................ 75
+
+15. Encerramento de Documento .............................................................79
+
+16. Reconstituição ..................................................................................... 83
+
+17. Regularização de Cadastro ...................................................................89
+
+18. Consulta ...............................................................................................95
+
+19. Pedido de Vista .................................................................................... 99
+
+20. Reativação..........................................................................................103
+
+21. Recomendações de Conservação ......................................................105
+
+22. Índice Remissivo ................................................................................107
+
+23. Referências Bibliográficas ..................................................................111
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+7
+
+
+Apresentação
+
+As unidades de protocolo atuam especialmente na produção, recepção, dis-
+tribuição e controle de documentos correntes, que estão em curso, e que são 
+ainda frequentemente consultados. 
+
+No exercício de suas atividades, as unidades de protocolo asseguram que os 
+documentos públicos cumpram as finalidades administrativas e legais para 
+as quais foram produzidos. 
+
+As  atividades  de  protocolo  são  decisivas  para  a  efetiva  implementação  de 
+uma política de gestão de documentos na Administração Estadual, uma vez 
+que se identificam com os procedimentos e operações técnicas referentes à 
+produção e tramitação dos documentos em fase corrente, nos termos do art. 
+3º da Lei de Arquivos nº 8.159, de 8 de janeiro de 1991:
+
+Art. 3º - Considera-se gestão de documentos o conjunto de pro-
+cedimentos  e  operações  técnicas  referentes  à  sua  produção, 
+tramitação, uso, avaliação e arquivamento em fase corrente e 
+intermediária, visando a sua eliminação ou recolhimento para 
+guarda permanente.
+
+Nota-se que a gestão documental começa nos protocolos, pois o registro de do-
+cumentos, no momento de sua produção ou recepção, deve ser realizado de 
+acordo com critérios previamente definidos nos planos de classificação e tabelas 
+de temporalidade de documentos. Nesse sentido, é uma atividade indispensável 
+à eficácia da política de gestão documental, pois assegura o efetivo controle dos 
+documentos, desde a sua origem.
+
+Ao registrar e controlar o trâmite dos documentos públicos, os protocolos 
+cumprem uma função essencial para garantir a celeridade do processo deci-
+sório, bem como para viabilizar a avaliação e controle interno e externo da 
+Administração Pública.
+
+Nesse contexto, é uma atividade imprescindível tanto para orientar a atua-
+ção do gestor público quanto para promover a participação e o acesso dos 
+cidadãos a registros administrativos e a informações sobre atos de governo.
+
+Com a promulgação do Decreto nº 58.052/2012, que regulamenta a Lei de 
+Acesso  à  Informação  nº  12.527/2011,  as  unidades  de  protocolo  passaram 
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+9
+
+
+a  desempenhar  uma  função  ainda  mais  estratégica,  pois  de  sua  eficiência 
+dependem também o bom desempenho e qualidade dos Serviços de Infor-
+mações ao Cidadão – SIC. 
+
+Por  todo  o  exposto,  fez-se  urgente  a  uniformização  de  normas  e  procedi-
+mentos que regulem as atividades de protocolo, tornando-os mais ágeis e 
+seguros. Esse foi o desafio que a equipe do Centro de Coordenação dos Pro-
+tocolos Estaduais, deste Departamento de Gestão do Sistema de Arquivos do 
+Estado de São Paulo, assumiu e levou a cabo, com o maior êxito.
+
+Trata-se de uma etapa preparatória à implementação do Sistema Informa-
+tizado  Unificado  de  Gestão  Arquivística  de  Documentos  e  Informações  – 
+SPdoc,  nos  termos  do  Decreto  nº  55.479/2010,  alterado  pelo  Decreto  nº 
+56.260/2010.  O  SPdoc  é  um  sistema  informatizado  de  gestão  arquivística 
+dos documentos públicos estaduais, que promove o controle de documen-
+tos desde a sua produção, durante sua tramitação, até sua destinação final 
+(eliminação ou guarda permanente).
+
+Esperamos que este Manual seja uma ferramenta útil para os servidores es-
+taduais que atuam nas unidades de protocolo e que contribua para a moder-
+nização da Administração Pública Estadual. 
+
+ieda Pimenta bernardes
+
+Diretora técnica do Departamento de Gestão do 
+ Sistema de Arquivos do Estado de São Paulo
+
+Apresentação
+
+10
+
+
+Introdução
+
+o centro de coordenação dos Protocolos estaduais - ccPe
+
+Criado pelo Decreto n.º 54.276/2009, que reorganizou a Unidade do Arquivo 
+Público do Estado, o Centro de Coordenação dos Protocolos Estaduais - CCPE 
+integra o Departamento de Gestão do Sistema de Arquivos do Estado de São 
+Paulo – DGSAESP.
+
+O CCPE tem como atribuições elaborar normas e procedimentos padronizados 
+para os protocolos estaduais, promover a integração sistêmica das atividades de 
+protocolo com as atividades de arquivo, orientar e promover a capacitação de 
+servidores  que  atuam  nas  Unidades  de  Protocolo,  desenvolver  estudos  sobre 
+o fluxo de documentos visando à padronização de seu trâmite e a recuperação 
+rápida  de  informações,  coordenar  as  atividades  de  desenvolvimento  e  imple-
+mentação do Sistema Informatizado Unificado de Gestão Arquivística de Docu-
+mentos e Informações - SPdoc, atender e promover treinamento para operação 
+do sistema SPdoc e assessorar o Comitê Gestor do SPdoc no desenvolvimento de 
+suas atividades, por meio do Núcleo de Apoio ao Comitê Gestor.
+
+Efetivamente implementado no início de 2011, com a nomeação de uma di-
+retora técnica e a chegada de executivos públicos para integrar o seu corpo 
+técnico – aprovados no primeiro concurso público realizado na história do 
+Arquivo Público do Estado –, a primeira ação do CCPE foi a elaboração de 
+um instrumento técnico para orientar o atendimento aos órgãos e entidades 
+da Administração Pública Estadual quanto aos procedimentos de protocolo. 
+
+a elaboração do Manual
+
+A  elaboração  do  Manual  de  Normas  e  Procedimentos  de  Protocolo  para  a 
+Administração Pública do Estado de São Paulo teve como objetivo garantir 
+a padronização dos procedimentos de protocolo e a otimização das práticas 
+administrativas nos órgãos e entidades estaduais. 
+
+A metodologia de trabalho consistiu na análise de manuais técnicos e refe-
+rências legislativas sobre procedimentos de protocolo produzidos por insti-
+tuições públicas e privadas, do Brasil e do exterior, bem como na realização 
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+11
+
+
+de visitas técnicas aos setores de protocolo centrais das Secretarias de Esta-
+do e das entidades estaduais para conhecimento das práticas adotadas.
+
+Considerando o elevado número de setores de protocolo existentes na Admi-
+nistração Pública Estadual, o CCPE selecionou os setores de protocolo dos se-
+guintes órgãos e entidades para realizar as visitas técnicas: Secretaria de Estado 
+da Administração Penitenciária, Hospital das Clínicas da Faculdade de Medici-
+na da Universidade de São Paulo, Comando Geral da Polícia Militar, Secretaria 
+de Estado da Educação, Secretaria de Estado da Saúde, Secretaria de Estado do 
+Meio Ambiente, Secretaria de Estado da Cultura, Secretaria de Estado da Fa-
+zenda, Secretaria de Estado da Justiça e Defesa da Cidadania, Instituto de Me-
+dicina Social e de Criminologia de São Paulo - IMESC, Secretaria de Estado de 
+Planejamento e Desenvolvimento Regional, Casa Civil, Universidade Estadual 
+de Campinas - UNICAMP e Companhia do Metropolitano de São Paulo - Metrô.
+
+As  visitas  técnicas  ocorreram  entre  os  meses  de  fevereiro  de  2011  e  março 
+de 2012, e possibilitaram o mapeamento das diversas formas de execução de 
+cada uma das atividades de protocolo, bem como das diferentes denomina-
+ções que uma mesma atividade recebia, nos diversos órgãos e entidades da 
+Administração Pública Estadual.
+
+A primeira versão do Manual foi submetida à análise de representantes dos 
+demais Centros do Departamento de Gestão do SAESP, por meio da realiza-
+ção de reuniões de trabalho, realizadas no período de abril a setembro de 
+2011.
+
+Após a validação realizada no Departamento de Gestão do SAESP foi consti-
+tuído Grupo de Trabalho com representantes de diferentes setores de proto-
+colo da Administração Pública Estadual para assegurar a adequação do Ma-
+nual à realidade, por meio da análise de agentes públicos reconhecidamente 
+especializados na sua área de atuação.
+
+O Grupo de Trabalho teve a preocupação de definir rotinas capazes de esta-
+belecer um procedimento padrão para a execução das atividades de proto-
+colo, independentemente da infraestrutura tecnológica disponível. 
+
+Participaram das reuniões de validação, entre os meses de dezembro de 2012 
+e fevereiro de 2013, diretores e/ou representantes de setores de protocolo 
+de alguns órgãos e entidades da Administração Pública Estadual. 
+
+A última etapa correspondeu à disponibilização do Manual para Consulta Pú-
+blica no sítio do Arquivo Público do Estado, no período de 26 de agosto a 24 
+de setembro de 2013, visando estimular a reflexão de todos os servidores 
+estaduais que atuam nos serviços de protocolo da Administração Estadual 
+para o aprimoramento de suas rotinas de trabalho, bem como a participação 
+de outros interessados. 
+
+Introdução
+
+12
+
+
+Durante o período em que o Manual esteve disponível no sítio do Arquivo 
+Público do Estado todas as manifestações foram processadas e analisadas. 
+Todo o processo de trabalho foi devidamente documentado em relatórios e 
+atas, que compõem o Dossiê de elaboração do manual. 
+
+os desdobramentos
+
+O Manual de Normas e Procedimentos de Protocolo para a Administração 
+Pública do Estado de São Paulo contribuirá para a capacitação dos servidores 
+estaduais que atuam nos setores de protocolo melhorando o seu nível técni-
+co e imprimindo maior qualidade aos serviços.
+
+A padronização de rotinas, bem como a uniformização de conceitos contribui-
+rão para uma ampla comunicação e integração dos serviços de protocolo, a 
+uniformização da produção documental no Estado e o controle de todos os do-
+cumentos produzidos e recebidos pelos órgãos e entidades da Administração 
+Pública Estadual até a sua destinação final (eliminação ou guarda permanen-
+te), bem como assegurarão a recuperação rápida e fácil da informação.
+
+A conformidade do Manual com o Decreto estadual nº 58.052/2012, que re-
+gulamenta a Lei federal nº 12.527/2011 que regula o acesso às informações, 
+assegurará ao cidadão o acesso à informação pública e, deste modo, a efe-
+tivação dos princípios constitucionais da transparência e do controle social.
+
+A padronização das atividades e das rotinas dos serviços de protocolo  é o 
+primeiro passo para assegurar a integração dos protocolos estaduais, permi-
+tindo ao Governo Paulista reunir em uma única base de dados - Sistema In-
+formatizado Unificado de Gestão Arquivística de Documentos e Informações 
+– as informações relativas a todos os documentos estaduais – em tramitação 
+ou arquivados - auxiliando o processo de planejamento estratégico e a toma-
+da de decisões.
+
+equipe do centro de coordenação dos Protocolos estaduais
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+13
+
+
+1.  Política Estadual de Arquivos  
+
+e Gestão de Documentos
+
+É o conjunto de diretrizes, normas, métodos e procedimentos de organi-
+zação e funcionamento das atividades de protocolo e arquivo visando as-
+segurar a gestão, a preservação e o acesso de documentos e informações 
+públicas estaduais.
+
+Toda rotina administrativa é registrada em documentos, sendo dever dos ór-
+gãos/entidades da Administração Pública Estadual a gestão de documentos 
+como instrumento de apoio à administração, à cultura e ao desenvolvimento 
+científico (Decreto estadual nº 48.897/2004).
+
+Considera-se  gestão  de  documentos  o  conjunto  de  procedimentos  e  ope-
+rações técnicas referentes à sua produção, tramitação, uso, avaliação e ar-
+quivamento em fase corrente e intermediária, visando a sua eliminação ou 
+recolhimento para guarda permanente (Lei federal nº 8.159/1991 e Decreto 
+estadual nº 48.897/2004). 
+
+Quaisquer ações que impliquem em destruição, inutilização ou dete-
+rioração do patrimônio documental público são consideradas crime 
+contra o patrimônio cultural, com penas previstas na legislação.
+
+Constituição Federal de 1988, artigo 216, §1º
+Lei federal nº 9.605/1998, artigo 62, inciso II
+Decreto federal n° 3.179/1999, artigo 49, inciso II
+Código Penal, artigo 305
+
+1.1 integram a política estadual de arquivos e gestão de documentos:
+
+1.1.1 serviços de protocolo: unidades técnicas responsáveis pelo rece-
+bimento, registro, distribuição, tramitação e controle de documentos.
+
+1.1.2  serviços  de  arquivo:  unidades  técnicas  responsáveis  por  reunir, 
+ordenar, guardar, preservar e dar acesso aos documentos sob sua cus-
+tódia, segundo os princípios e técnicas de arquivo.
+
+1.1.3 comissões de avaliação de documentos e acesso – cada: grupos 
+permanentes e multidisciplinares instituídos e vinculados ao Gabinete da 
+autoridade máxima dos órgãos e entidades da Administração Pública Es-
+tadual, responsáveis pela elaboração e aplicação de Planos de Classifica-
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+15
+
+
+ção e de Tabelas de Temporalidade de Documentos, bem como por orien-
+tar a gestão transparente dos documentos, dados e informações do órgão 
+ou entidade, visando assegurar seu amplo acesso e divulgação (Decreto 
+estadual nº 29.838/1989, artigo 1º; Decreto estadual nº 48.897/2004, ar-
+tigo 34; Decreto estadual nº 58.052/2012, artigos 11 e 12).
+
+1.1.4 serviço de informações ao cidadão – sic: unidades de atendimento 
+instituídas nos órgãos e entidades da Administração Pública Estadual, di-
+retamente subordinada ao seu titular, com a finalidade de assegurar aos 
+cidadãos o acesso pleno aos documentos, dados e informações públicas.
+
+1.2 são instrumentos da gestão de documentos: 
+
+1.2.1  Plano  de  Classificação  de  Documentos:  instrumento  utilizado 
+para classificar todo e qualquer documento de arquivo (Decreto esta-
+dual nº 48.897/2004, artigo 10). 
+
+1.2.1.1 A aplicação do Plano de Classificação garantirá a padroni-
+zação da denominação dos documentos em toda a Administração 
+Pública Estadual, bem como a recuperação do seu contexto origi-
+nal de produção, ou seja, a identificação da função, subfunção e 
+atividade que determinaram a sua produção ou acumulação.
+
+1.2.2 tabela de temporalidade de documentos: instrumento resultan-
+te da avaliação documental, aprovado por autoridade competente, que 
+define os prazos de guarda e a destinação final de cada série documen-
+tal (Decreto estadual nº 48.897/2004, artigo 19).
+
+1.2.3 tabela de documentos, dados e informações sigilosas e Pessoais: 
+relação exaustiva de documentos, dados e informações com quaisquer 
+restrições de acesso, com a indicação do grau de sigilo, decorrentes de 
+estudos  promovidos  pelas  Comissões  de  Avaliação  de  Documentos  e 
+Acesso  –  CADA  e  publicada  pelas  autoridades  máximas  dos  órgãos  e 
+entidades (Decreto estadual nº 58.052/2012, artigo 3º, inciso XXIV).
+
+1.2.4  Sistema  Informatizado  de  Gestão  Arquivística  de  Documen-
+tos e informações: conjunto de procedimentos e operações técnicas 
+da gestão arquivística de documentos processado eletronicamente e 
+aplicável em ambientes digitais ou em ambientes híbridos, isto é, do-
+cumentos digitais e não digitais ao mesmo tempo (Instrução Normati-
+va APE/SAESP nº 1/2009).
+
+Política Estadual de Arquivos  e Gestão de Documentos
+
+16
+
+
+2.  Documentos de Arquivo
+
+São todos os registros de informação, em qualquer suporte, inclusive o mag-
+nético ou óptico, produzidos, recebidos ou acumulados por órgãos e entida-
+des da Administração Pública Estadual, no exercício de suas funções e ati-
+vidades (Decreto estadual nº 48.897/2004, artigo 3º e Decreto estadual nº 
+58.052/2012, artigo 3º). 
+
+Os documentos de arquivo produzidos, recebidos ou acumulados pelos ór-
+gãos/entidades são variados, como, por exemplo: formulários, livros, fichas, 
+cartazes, mapas, fotografias, plantas, atas, certidões, ofícios, telegramas, pa-
+receres, processos, prontuários, relatórios etc.
+
+2.1 Quanto à sua constituição, os documentos de arquivo podem ser 
+considerados: 
+
+2.1.1 simples ou avulsos: são os documentos formados por um único 
+item. Exemplo: ofício, relatório, memorando, relação de remessa etc.
+
+2.1.2 compostos: são os documentos que, ao longo de sua trajetória, 
+acumulam vários documentos simples. Exemplos: processo, prontuá-
+rio, expediente e dossiê. 
+
+2.1.2.1 dossiê é a unidade documental que não tramita, em que 
+se reúnem documentos de natureza diversa, para uma finalidade 
+específica.
+
+2.1.2.2 expediente é a unidade documental que tramita para informar 
+e/ou acolher manifestações, podendo estar ou não acompanhado de 
+outros documentos, reunidos em torno de uma atividade, demanda 
+ou interessado.
+
+2.1.2.3  Processo  é  a  unidade  documental,  de  caráter  decisório, 
+em que se reúnem, por solicitação de autoridade competente, do-
+cumentos de natureza diversa, que tramitam no decurso de uma 
+ação administrativa.
+
+2.1.2.4 Prontuário é a unidade documental que não tramita, em 
+que se reúnem documentos de natureza diversa relativos a uma 
+pessoa física ou jurídica.
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+17
+
+
+2.2 são propriedades dos documentos de arquivo:
+
+2.2.1 Autenticidade: “os documentos são autênticos porque são cria-
+dos, mantidos e conservados sob custódia de acordo com procedimen-
+tos regulares que podem ser comprovados”.1
+
+2.2.2 imparcialidade: os documentos de arquivo são produzidos para 
+atender determinadas demandas e “trazem uma promessa de fidelidade 
+aos fatos e ações que manifestam e para cuja realização contribuem”.2
+
+2.2.3 integridade: “estado dos documentos que se encontram comple-
+tos  e  que  não  sofreram  nenhum  tipo  de  corrupção  ou  alteração  não 
+autorizada nem documentada.”3
+
+2.2.4 inter-relacionamento: os documentos de arquivo “estão ligados 
+entre si por um elo que é criado no momento em que são produzidos ou 
+recebidos, que é determinado pela razão de sua produção e que é ne-
+cessário à sua própria existência, à capacidade de cumprir seu objetivo, 
+ao seu significado, confiabilidade e autenticidade”.4
+
+2.2.5 naturalidade: os documentos de arquivo são acumulados “de ma-
+neira contínua e progressiva, como sedimentos de estratificações geo-
+lógicas”, o que “os dota de um elemento de coesão espontânea, ainda 
+que estruturada”.5
+
+2.2.6 unicidade: cada documento de arquivo “assume um lugar único na es-
+trutura documental do grupo ao qual pertence e no universo documental”.6
+
+1 
+
+2 
+
+ DURANTI,  Luciana,  “Registros  documentais  contemporâneos  como  provas  de  ação”  in 
+Estudos históricos, Rio de Janeiro, v.7, nº 13, 1994, pp 49-64.
+ SÃO  PAULO  (Estado).  Arquivo  Público  do  Estado.  Instrução  Normativa  nº  01,  de  10  de 
+março de 2009. Estabelece diretrizes e define procedimentos para a gestão, a preserva-
+ção e o acesso contínuo aos documentos arquivísticos digitais da Administração Pública 
+Estadual Direta e Indireta.
+idem
+
+3 
+4  DURANTI, Luciana, op.cit.
+5 
+6 
+
+idem
+idem
+
+Documentos de Arquivo
+
+18
+
+
+3. Recebimento
+
+É a entrada de documentos na Unidade com atribuições de Protocolo ou nas 
+demais unidades do órgão/entidade.
+
+Os documentos recebidos nas Unidades com atribuições de Protocolo dos 
+órgãos/entidades da Administração Pública Estadual podem ter origem:
+
+•  interna: quando provenientes do próprio órgão/entidade. Neste caso, o 
+recebimento de documentos poderá ser efetuado pelas Unidades com 
+atribuições  de  Protocolo  ou  diretamente  pelas  unidades  de  destino, 
+desde que essas unidades estejam interligadas por sistema informatiza-
+do de gestão arquivística de documentos e informações.
+
+•  externa: quando provenientes de outros órgãos/entidades da Adminis-
+tração Estadual, da sociedade civil, de órgãos públicos de outros Poderes 
+(Legislativo e Judiciário), de outros entes da Federação ou provenientes 
+do exterior. Neste caso, o recebimento de documentos de procedência 
+externa deverá ser efetuado exclusivamente pelas Unidades com atri-
+buições de Protocolo.
+
+Os documentos de arquivo poderão ser entregues ou enviados das seguintes 
+maneiras:
+
+•  Mensageiro:  por  meio  de  servidor/funcionário  do  órgão/entidade  ou 
+
+por empresa contratada para prestar este serviço; 
+
+•  correio: por meio de Sedex®, carta, malote, telegrama, encomenda etc. 
+
+3.1 rotina de recebimento
+
+3.1.1  conferir  os  documentos  e  as  relações  de  remessa:  o  servidor/
+funcionário  da  Unidade  com  atribuições  de  Protocolo  deverá  conferir 
+se o documento é destinado ao órgão/entidade ou a algum servidor/
+funcionário e se contém os dados do remetente. 
+
+3.1.1.1 No caso do documento estar acompanhado de Relação de 
+remessa (ver p. 23), deve-se conferir também:
+
+a)  se há correspondência entre os documentos recebidos e as in-
+formações contidas em suas respectivas relações de remessa;
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+19
+
+
+b)  se a quantidade de itens indicados na relação de remessa – in-
+
+cluindo volumes – está de acordo com os itens recebidos.
+
+3.1.1.2 Os documentos encaminhados pelos órgãos/entidades da 
+Administração  Pública  Estadual  deverão,  obrigatoriamente,  estar 
+acompanhados de relação de remessa com numeração sequencial, 
+reiniciada a cada ano. Para os documentos provenientes da socie-
+dade civil, de órgãos de outros Poderes, de outros entes da Federa-
+ção ou do exterior, não existe essa obrigatoriedade.
+
+3.1.1.3 A impressão da relação de remessa é facultativa no trâmite 
+entre unidades do mesmo órgão/entidade interligadas por sistema 
+informatizado de gestão arquivística de documentos e informações.
+
+3.1.2  Identificar  os  documentos:  o  servidor/funcionário  da  Unidade 
+com atribuições de Protocolo deverá identificar dentre os documentos 
+recebidos: os documentos oficiais sem restrição de acesso (ostensivos), 
+os documentos oficiais com indicação de restrição de acesso (sigilosos 
+e/ou pessoais7) e os documentos particulares.
+
+3.1.2.1 Documentos particulares não deverão ser encaminhados aos 
+órgãos/entidades  da  Administração  Pública  Estadual.  Caso  algum 
+documento particular seja encaminhado à Unidade com atribuições 
+de Protocolo, é de responsabilidade do interessado recebê-lo.
+
+3.1.3  abrir  os  documentos:  todos  os  documentos  recebidos  deverão 
+ser abertos, com exceção de correspondência particular, de documen-
+tos  oficiais  classificados  como  sigilosos  ou  pessoais  e  de  documentos 
+recebidos via malote que estejam destinados às unidades descentrali-
+zadas do órgão/entidade.
+
+O  agente  público  que  tiver  acesso  a  documento,  dados  ou  informa-
+ções, nos termos deste decreto, é responsável pela preservação de seu 
+sigilo, ficando sujeito às sanções administrativas, civis e penais previs-
+tas na legislação, em caso de eventual divulgação não autorizada.
+Os agentes responsáveis pela custódia de documentos e informações 
+sigilosas sujeitam-se às normas referentes ao sigilo profissional, em 
+razão do ofício, e ao seu código de ética profissional, sem prejuízo 
+das sanções legais.
+
+Decreto estadual 58.052/2012, artigos 72 e 73
+
+7  documento sigiloso: documento de arquivo que, pela sua natureza de conteúdo, requer 
+medidas especiais de acesso, podendo ser classificado como ultrassecreto, secreto e reser-
+vado,  de  acordo  com  o  grau  de  proteção  que  exigir;  documento  pessoal:  documento  de 
+arquivo com informações relacionadas à pessoa natural identificada ou identificável.
+
+Recebimento
+
+20
+
+
+3.1.4 receber, recusar ou devolver os documentos:
+
+3.1.4.1 receber os documentos: quando não houver nenhuma ir-
+regularidade com as informações dos documentos e de suas res-
+pectivas relações de remessa. Neste caso, o servidor/funcionário 
+deverá atestar o recebimento pela aposição de relógio datador, ca-
+rimbo datador, anotação à caneta ou registro em sistema informa-
+tizado de gestão arquivística de documentos e informações. 
+
+3.1.4.1.1 Em todos os casos, a anotação deverá conter: a sigla 
+do órgão/entidade, a data e hora do recebimento e o nome le-
+gível do servidor/funcionário responsável pelo recebimento.
+
+3.1.4.1.2 O recebimento deverá ser atestado no documento e 
+também na relação de remessa ou na guia da Empresa Brasi-
+leira de Correios e Telégrafos - EBCT (ou equivalente). No caso 
+de  recebimento  de  documentos  com  indicação  de  restrição 
+de acesso (sigilosos e/ou pessoais) o recebimento deverá ser 
+atestado apenas nos seus envelopes.
+
+3.1.4.1.3  Caberá  ao  órgão/entidade  atestar  por  qualquer 
+meio, sempre que solicitado, o recebimento de documentos 
+de origem externa para garantir, ao interessado, a comprova-
+ção da entrega do documento.
+
+3.1.4.1.4  Quando  houver  alguma  irregularidade  que  não  in-
+viabilize o recebimento como, por exemplo, a irregular nume-
+ração das folhas, a Unidade com atribuições de Protocolo de-
+verá receber o documento e indicar a irregularidade no verso 
+da relação de remessa e no documento por meio do Termo de 
+indicação de irregularidade (ver p. 25). Este termo deverá ser 
+inserido ao final do documento, devidamente numerado.
+
+3.1.4.2 recusar os documentos: quando o documento não houver 
+sido enviado fisicamente. 
+
+3.1.4.3 devolver os documentos: quando houver alguma irregula-
+ridade que não seja passível de regularização pela própria Unidade 
+com atribuições de Protocolo. Exemplos: dano físico no documen-
+to, ausência de identificação do remetente e/ou destinatário, au-
+sência do número de processo/expediente etc.
+
+3.1.4.3.1 A devolução deverá ser sempre justificada e anota-
+da na relação de remessa que será devolvida ao interessado/
+entregador, podendo a Unidade com atribuições de Protocolo 
+guardar uma cópia se considerar necessário.
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+21
+
+
+3.1.4.3.2 Quando da devolução de documentos, deverão ser 
+adotados os seguintes procedimentos:
+
+a)  balcão da unidade com atribuições de Protocolo: devolver 
+o documento ao interessado/entregador no ato de seu re-
+cebimento.
+
+b)  correio: devolver o documento por meio da Empresa Bra-
+sileira de Correios e Telégrafos – EBCT ou comunicar ao re-
+metente para que retire o documento no órgão/entidade.
+
+3.1.5 encaminhar os documentos:
+
+3.1.5.1 para o registro, quando se tratar de documentos oficiais, 
+inclusive os sigilosos. 
+
+3.1.5.2 para o destinatário, sem serem registrados, quando se tratar 
+de panfletos, folders, revistas, livros e jornais, recebidos em decor-
+rência do exercício das funções do órgão/entidade, que não sejam 
+anexos de algum tipo de documento oficial (memorando, ofício etc.).
+
+Fica vedada, na recepção de documentos por órgãos e enti-
+dades da Administração direta, autárquica e fundacional, a 
+exigência de reconhecimento de firmas ou de autenticação 
+de cópias.
+
+Decreto estadual nº 52.658/2008, artigo 1º 
+
+O disposto no artigo 1º deste decreto não se aplica quando 
+haja determinação legal expressa em sentido contrário.
+§ 1º - Na hipótese de que trata o “caput” deste artigo, o ser-
+vidor deverá proceder ao cotejo, respectivamente, com a cé-
+dula de identidade do interessado ou com o respectivo docu-
+mento original e, somente se houver dúvida fundada, exigirá 
+o reconhecimento da firma ou a autenticação da cópia.
+
+Decreto estadual nº 52.658/2008, artigo 2º
+
+Cabe  aos  agentes  públicos  credenciados  responsáveis  pelo 
+recebimento de documentos sigilosos verificarem a integri-
+dade na correspondência recebida e registrar indícios de vio-
+lação ou de qualquer irregularidade, dando ciência do fato 
+ao seu superior hierárquico e ao destinatário, o qual informa-
+rá imediatamente ao remetente.
+
+Decreto estadual nº 58.052/2012, artigo 43, inciso I
+
+Recebimento
+
+22
+
+
+GoVerno do estado de são Paulo
+(Nome do órgão ou entidade)
+
+relação de reMessa (frente)
+
+relação de remessa: nº/ano
+data da emissão: dia/mês/ano
+remetente: nome e cargo ou unidade 
+Destinatário: nome e cargo ou unidade
+Endereço do destinatário: 
+
+n° 
+item
+
+documento
+
+Quantidade
+(volumes)
+
+situação
+(marque um X)
+
+recebido
+
+recebido 
+com
+ressalva
+
+recusado devolvido
+
+Expedido por: nome, cargo e assinatura
+
+Recebido por: nome, cargo, assinatura e unidade
+
+Data do recebimento
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+23
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+GoVerno do estado de são Paulo
+(Nome do órgão ou entidade)
+
+relação de reMessa (verso)
+
+Motivo do recebimento com ressalva
+
+n° item
+
+Motivo
+
+Motivo da devolução
+
+n° item
+
+Motivo
+
+Recebimento
+
+24
+
+
+GoVerno do estado de são Paulo
+(Nome do órgão ou entidade)
+
+terMo de indicação de irreGularidade 
+
+Nesta data, procedeu-se ao recebimento do documento 
+
+  (indicar  a  sigla/nº/ano  do  documento),  apresentando 
+
+a(s) seguinte(s) irregularidade(s): 
+
+(indicar a irregularidade).
+
+Local e Data
+
+Nome, cargo e assinatura do servidor/funcionário que realizou o procedimento
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+25
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+4. Registro
+
+É a inserção sistemática e padronizada dos dados de documentos produzi-
+dos,  recebidos  ou  acumulados  pelo  órgão/entidade  em  sistema  informati-
+zado de gestão arquivística de documentos e informações, com o objetivo 
+de indicar sua existência oficial, controlar o seu trâmite e a sua localização, 
+desde a sua produção ou recebimento até a sua destinação final: eliminação 
+ou guarda permanente. 
+
+Todos os documentos públicos, independente do suporte e do seu grau de si-
+gilo, deverão ser registrados para garantir a eficiência da gestão documental 
+e os benefícios dela decorrentes.
+
+O registro deverá ser realizado por servidor/funcionário da Unidade Produ-
+tora, que tenha previamente recebido atribuição de registrar documentos na 
+sua esfera de atuação, ou servidor/funcionário da Unidade com atribuições 
+de Protocolo. 
+
+Os documentos produzidos para serem juntados a documentos compostos 
+(processos, expedientes, dossiês e prontuários) não deverão receber núme-
+ro de protocolo.
+
+4.1 rotina de registro
+
+4.1.1  Pesquisar  antecedentes:  o  servidor/funcionário  deverá  realizar 
+pesquisa no sistema informatizado de gestão arquivística de documen-
+tos e informações visando encontrar informações que possam ter cone-
+xão com o documento. Possíveis informações deverão ser encaminha-
+das, juntamente com o documento, à autoridade competente. Somente 
+a autoridade competente poderá avaliar a relevância da vinculação do 
+novo documento ao documento antecedente e solicitar o seu apensa-
+mento (ver p. 69) ou incorporação (ver p.75).
+
+4.1.2 atribuir número de protocolo: o servidor/funcionário deverá atri-
+buir número de protocolo para cada documento recebido, registrando-
+-o no próprio documento, por meio de anotação à caneta, pela utiliza-
+ção de etiqueta impressa ou anexando ao documento o comprovante 
+de protocolo emitido por sistema informatizado de gestão arquivística 
+de documentos e informações. 
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+27
+
+
+4.1.2.1 O número de protocolo deverá ser:
+
+a)  composto pela sigla do órgão/entidade, pelo número e pelo ano. 
+
+Exemplo: CC/114/2011;
+
+b) sequencial e reiniciar a cada ano; 
+
+c) exclusivo, não podendo ser atribuído a mais de um documento.
+
+4.1.2.2 Quando do recebimento de processos e expedientes pro-
+venientes de outro órgão/entidade, a Unidade com atribuições de 
+Protocolo deverá:
+
+a)  atribuir número de protocolo próprio e referenciar, no sistema 
+informatizado de gestão arquivística de documentos e informa-
+ções, o número de origem do expediente ou processo recebido;
+
+b)  utilizar o número de origem do processo ou expediente acres-
+centando as informações que julgar necessárias para o controle 
+e recuperação do documento.
+
+4.1.2.3 O número de protocolo acompanhará o documento até a 
+sua destinação final, independentemente de haver qualquer outro 
+número de controle, como por exemplo, número de ofício, número 
+de processo, número de memorando etc.
+
+4.1.2.4 O número de protocolo do documento deverá ser forneci-
+do ao interessado sempre que solicitado.
+
+4.1.3 cadastrar os documentos: o servidor/funcionário deverá cadas-
+trar no sistema informatizado de gestão arquivística de documentos e 
+informações, os seguintes dados do documento:
+
+4.1.3.1 número do protocolo: indica a sigla do órgão/entidade, o 
+número/ano  atribuído  ao  documento  no  momento  do  seu  rece-
+bimento ou o número/ano gerado pelo sistema informatizado de 
+gestão arquivística de documentos e informações quando da sua 
+produção;
+
+4.1.3.2 número de origem de expedientes e processos: indica o 
+número de origem de expedientes ou processos recebidos de ór-
+gãos/entidades externos.
+
+4.1.3.3 documento inicial: indica documento de arquivo que deu 
+origem a formação de um documento composto (Processo, Expe-
+diente, Prontuário e Dossiê).
+
+Registro
+
+28
+
+
+exemplos:
+
+– Carta: data (dd/mm/aaaa)
+
+– Requerimento: data (dd/mm/aaaa)
+
+– Memorando: sigla-número-ano
+
+– Ofício: sigla-número-ano
+
+4.1.3.4 data do documento: indica a data da produção do docu-
+mento e deverá ser expressa no formato dd/mm/aaaa.
+
+4.1.3.5 solicitante: indica a(s) pessoa(s) física ou jurídica, pública 
+ou  privada, que  está  enviando  o  documento.  O  solicitante  não  é 
+necessariamente o interessado. 
+
+4.1.3.6 interessado: indica a pessoa física ou jurídica, pública ou 
+privada beneficiada ou diretamente ligada à atividade ou deman-
+da veiculada no documento. Em algumas situações, interessado e 
+solicitante podem ser os mesmos. São informações necessárias à 
+identificação do interessado:
+
+Pessoa fÍsica
+
+Pessoa JurÍdica
+
+Nome
+
+Razão social
+
+Número do RG ou CPF
+
+Número do CNPJ
+
+4.1.3.6.1 Havendo vários interessados, poderá se optar pelo 
+cadastramento,  em  sistema  informatizado  de  gestão  arqui-
+vística  de  documentos  e  informações,  de  apenas  um  deles, 
+acrescentando-se a expressão “e outros”.
+
+4.1.3.7 Destinatário: indica a unidade ou servidor/funcionário para 
+o qual o documento está destinado.
+
+4.1.3.8 Classificação: indica o código referencial numérico que as-
+socia  a  série  documental  ao  seu  contexto  de  produção  e  é  com-
+posto das seguintes unidades de informação (Decreto estadual nº 
+48.897/2004, artigo 13):
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+29
+
+
+028.03.03.01.08
+
+exemplo:
+
+028.03.03.01.08
+
+órgão produtor
+
+função
+
+subfunção
+
+atividade
+
+documento
+
+Casa Civil
+
+Gestão de Recursos Humanos
+
+Controle de frequência
+
+Registro de frequência
+
+Registro de ponto
+
+4.1.3.8.1 órgão produtor: instituição ou entidade juridica-
+mente constituída e organizada, responsável pela execução 
+de  funções  do  Estado  (Decreto  estadual  nº  48.897/2004, 
+artigo 14):
+
+4.1.3.8.2 função: conjunto de atividades que o Estado exerce 
+para  a  consecução  de  seus  objetivos,  que  pode  ser  identifi-
+cada como direta ou essencial e indireta ou auxiliar (Decreto 
+estadual nº 48.897/2004, artigo 15).
+
+4.1.3.8.3  subfunção:  agrupamento  de  atividades  afins,  cor-
+respondendo cada subfunção a uma modalidade da respecti-
+va função (Decreto estadual nº 48.897/2004, artigo 16).
+
+4.1.3.8.4  Atividade:  ação,  encargo  ou  serviço  decorren-
+te  do  exercício  de  uma  função,  que  pode  ser  identificada 
+como  atividade-meio  ou  atividade-fim  (Decreto  estadual  nº 
+48.897/2004, artigo 17):
+
+•  Atividade-meio: ação, encargo ou serviço que um órgão leva 
+a efeito para auxiliar e viabilizar o desempenho de suas atri-
+buições específicas e que resulta na produção e acumulação 
+de documentos de caráter instrumental e acessório.
+
+Registro
+
+30
+
+
+•  Atividade-fim: ação, encargo ou serviço que um órgão leva a 
+efeito para o efetivo desempenho de suas atribuições especí-
+ficas e que resulta na produção e acumulação de documentos 
+de caráter substantivo e essencial para o seu funcionamento.
+
+4.1.3.8.5  série  documental:  conjunto  de  documentos  do 
+mesmo tipo documental produzido por um mesmo órgão, em 
+decorrência do exercício da mesma função, subfunção e ati-
+vidade e que resultam de idêntica forma de produção e tra-
+mitação  e  obedecem  à  mesma  temporalidade  e  destinação 
+(Decreto estadual nº 48.897/2004, artigo 12):
+
+a)  Os documentos deverão ser classificados, no ato da sua pro-
+dução  ou  recebimento,  em  conformidade  com  o  Plano  de 
+Classificação  de  Documentos  da  Administração  Pública  do 
+Estado  de  São  Paulo:  Atividades-Meio  (Decreto  estadual  nº 
+48.898/2004) ou com o Plano de Classificação de Documentos 
+das Atividades-Fim, que deverá ser elaborado pela Comissão 
+de Avaliação de Documentos e Acesso – CADA do órgão/enti-
+dade e aprovado pelo Arquivo Público do Estado, antes de sua 
+oficialização (Decreto estadual nº 48.897/2004, artigo 18).
+
+b)  Deverão  sempre  ser  identificados  os  tipos  documentais  e 
+nunca os assuntos dos documentos, pois para um mesmo 
+assunto poderão existir tipos documentais diferentes, com 
+prazos de guarda e destinação final diferenciados. 
+
+exemplo:
+
+1 
+assunto
+
+3 tipos 
+documentais
+
+Prazos de guarda
+
+Destinação
+
+unidade 
+Produtora
+
+unidade com 
+atribuições 
+de arquivo
+
+eliminação
+
+Guarda 
+permanente
+
+Férias
+
+03.03.04.02
+Escala de férias
+03.03.04.30
+Solicitação  de 
+abono de férias
+
+03.05.01.19
+Processo de 
+pagamento 
+de férias e 
+licença-prêmio 
+em pecúnia
+
+1
+
+1
+
+-
+
+5
+
+Vigência
+
+10
+
+
+
+
+
+
+
+Plano de Classificação e Tabela de Temporalidade de Documentos da Administração 
+Pública do Estado de São Paulo: Atividades-Meio (Decreto estadual nº 48.898/2004)
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+31
+
+
+c) A classificação dos documentos poderá ser realizada com o au-
+xílio do Índice Alfabético, Remissivo e Permutado, que serve como 
+instrumento auxiliar dos Planos de Classificação de Documentos 
+na recuperação das informações. Pelo Índice é possível localizar 
+o documento no Plano, bem como estabelecer a ligação entre os 
+diversos nomes possíveis para um mesmo documento e a forma 
+padronizada indicada no Plano de Classificação de Documentos e 
+que deve ser adotada pela Administração Pública Estadual. 
+
+exemplo:
+
+Índice
+
+Doação  de  bens  imóveis  use  Processo  de  alienação  de  bens 
+patrimoniais
+
+Doação de bens patrimoniais use Processo de alienação de bens 
+patrimoniais
+
+Doação de bens permanentes use Processo de alienação de bens 
+patrimoniais
+
+Processo de pagamento de contas de utilidade pública
+
+Processo de pagamento de diárias e ajuda de custo
+
+Prontuário do empregado use Prontuário funcional
+
+Prontuário do servidor use Prontuário funcional
+
+códiGo do 
+docuMento
+
+04.02.04.02
+
+04.02.04.02
+
+04.02.04.02
+
+05.02.08.07
+
+05.02.08.08
+
+03.03.01.08
+
+03.03.01.08
+
+Índice (Decreto estadual nº 48.898/2004)
+
+d)  Ao  receber  documentos  sem  classificação  ou  com  classi-
+ficação em desconformidade com os Planos de Classificação 
+de  Documentos  oficializados,  a  Unidade  com  atribuições  de 
+Protocolo deverá:
+
+• no caso de documentos de origem interna, devolvê-lo para 
+a Unidade Produtora classificá-lo ou reclassificá-lo.
+
+• no caso de documentos de origem externa que permane-
+cerão no órgão/entidade, providenciar a sua correta classifi-
+cação ou encaminhá-lo para a unidade, dentro do órgão/enti-
+dade, que tenha competência técnica para classificá-lo. 
+
+• no caso de documentos de origem externa que retornarão 
+ao  seu  órgão/entidade,  registrá-lo  com  a  sua  denominação 
+de origem.
+
+4.1.3.9 restrição de acesso: indica se é atribuída restrição de aces-
+so ao documento de acordo com as Tabelas de Documentos, Dados 
+
+Registro
+
+32
+
+
+e  Informações  Sigilosas  e  Pessoais,  oficializada  ou  com  a  análise 
+dos casos concretos (Decreto estadual nº 58.052/2012, artigo 32).
+
+4.1.3.9.1  Os  documentos  sigilosos  deverão  ser  registrados 
+no momento de sua produção, prioritariamente em sistema 
+informatizado de gestão arquivística de documentos e infor-
+mações (Decreto estadual nº 58.052/2012, artigo 40, inciso I).
+
+4.1.3.9.2 O registro de documentos com restrição de acesso 
+deverá ser realizado por agente credenciado.
+
+4.1.3.9.3 No registro deverá ser indicado se o documento pos-
+sui nível de restrição de acesso parcial ou integral. 
+
+4.1.3.10  descrição  do  assunto:  indica  as  informações  necessárias  e 
+suficientes para descrever o conteúdo específico de cada documento.
+
+4.1.3.11 Quantidade de volumes: indica a quantidade de volumes 
+de um documento. 
+
+4.1.3.12 suporte: indica o material sobre o qual as informações são 
+registradas. Exemplos: papel, fita magnética, disco ótico etc.
+
+4.1.3.13 Outros itens poderão ser incluídos no registro para aten-
+der as especificidades de cada órgão/entidade.
+
+4.1.4 distribuir os documentos: quando o registro tiver sido realizado 
+pela  Unidade  com  atribuições  de  Protocolo,  os  documentos  registra-
+dos deverão ser prontamente distribuídos aos seus destinatários, salvo 
+aqueles recebidos ao final do expediente.
+
+4.1.4.1 Documentos com indicação de urgência e com prazo de res-
+posta determinado têm preferência no registro e no encaminhamen-
+to, como por exemplo, os Expedientes de atendimento de solicitação 
+de informação, que devem ser atendidos em prazo não superior a 20 
+dias (Decreto estadual nº 58.052/2012, artigo 15, § 1º).
+
+ 4.1.4.2 A comprovação da entrega deverá ser atestada, no ato do 
+recebimento, por meio de relação de remessa ou por registro em 
+sistema informatizado de gestão arquivística de documentos e in-
+formações que interligue as unidades.
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+33
+
+
+5. Abertura de Expediente
+
+Procedimento de abertura de documento que tramitará para informar e/ou 
+acolher manifestações, podendo estar ou não acompanhado de outros docu-
+mentos de natureza diversa, reunidos em torno de uma atividade, demanda 
+ou interessado.
+
+A abertura de expediente poderá ser realizada pela unidade que identificar 
+esta necessidade, mediante solicitação de autoridade competente.
+
+Apenas deverão ser abertos  os expedientes previstos  no Plano  de Classifi-
+cação de Documentos da Administração Pública Estadual do Estado de São 
+Paulo: Atividades-Meio (Decreto estadual nº 48.898/2004) ou nos Planos de 
+Classificação de Documentos das Atividades-Fim dos órgãos/entidades, devi-
+damente aprovados pelo Arquivo Público do Estado e oficializados.
+
+O desentranhamento (ver p. 65) de documentos de um expediente poderá 
+ser executado por qualquer unidade que identificar esta necessidade, bem 
+como o apensamento (ver p. 69) e a incorporação (ver p. 75) entre expedien-
+tes. Em todos os casos, deverão ser seguidas as normas estabelecidas nos 
+respectivos tópicos deste Manual.
+
+5.1 rotina de abertura de expediente
+
+5.1.1 registrar o expediente: o expediente deverá ter as suas principais 
+informações cadastradas em sistema informatizado de gestão arquivís-
+tica de documentos e informações, a fim de permitir a sua localização e 
+acesso. Deverão ser cadastradas as seguintes informações do expedien-
+te (ver Registro p. 27):
+
+• Número do expediente (sigla /nº/ano);
+
+• Interessado(s);
+
+• Classificação;
+
+• Descrição do assunto;
+
+• Documento inicial;
+
+• Localidade;
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+35
+
+
+• Data;
+
+• Volume; 
+
+• Restrição de acesso: 
+
+– Nível (integral ou parcial)
+
+– Intervalo de folhas (no caso de nível parcial)
+
+– Categoria (sigiloso ou pessoal)
+
+– Grau (no caso do sigiloso)
+
+– Prazo
+
+5.1.2 Emitir folha líder: concluído o registro, deverá ser emitida a Folha 
+líder (ver p. 37) contendo o registro impresso das informações sobre o 
+expediente.
+
+5.1.3  ordenar  os  documentos:  os  documentos  deverão  ser  reunidos 
+sequencialmente em um único conjunto com a capa presa à documen-
+tação com trilho plástico (tipo “Romeu e Julieta” ou “macho e fêmea”). 
+Com vistas à preservação dos documentos, trilhos metálicos não deve-
+rão  ser  utilizados,  conforme  orientação  da  Instrução  Normativa  APE/
+SAESP nº 2/ 2010.
+
+5.1.4 numerar os documentos: as folhas do expediente deverão ser nu-
+meradas em ordem crescente, no canto superior direito, sem rasuras, 
+pela aposição de anotação à caneta (azul ou preta) ou de carimbo espe-
+cífico para registro de numeração e rubricadas pelo servidor/funcioná-
+rio que as inserir. 
+
+5.1.4.1 A folha líder será considerada a folha nº 1 e o documento 
+inicial a folha nº 2.
+
+Abertura de Expediente
+
+36
+
+
+GoVerno do estado de são Paulo
+(Nome do órgão ou entidade)
+
+folHa lÍder 
+
+nº do eXPediente (siGla/nº/ano): 
+
+interessado:
+
+classificação:
+
+descrição do assunto:
+
+localidade:
+
+data:
+
+VoluMe:
+
+restrição de acesso:
+
+– Nível (integral ou parcial)
+
+– Intervalo de folhas (no caso de nível parcial)
+
+– Categoria (sigiloso ou pessoal)
+
+– Grau (no caso do sigiloso)
+
+– Prazo
+
+Local e Data
+
+Nome, cargo e assinatura do servidor/funcionário que realizou o procedimento
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+37
+
+ 
+ 
+ 
+ 
+
+6. Autuação de Processo
+
+É a sequência de operações técnicas que tem por finalidade dar forma pro-
+cessual ao conjunto de documentos acumulados no decorrer de uma ação 
+administrativa, visando encaminhamento, manifestação e decisão.
+
+Somente poderão ser autuados os processos indicados nos Planos de Classi-
+ficação de Documentos, devidamente oficializados. 
+
+O procedimento de autuação é de competência exclusiva da Unidade com 
+atribuições de Protocolo e só poderá ser efetuado mediante solicitação for-
+mal de autoridade competente.
+
+Os documentos encaminhados para autuação com a recomendação URGEN-
+TE, ou com prazos para atendimento, instrução ou decisão, terão tratamento 
+prioritário.
+
+A autuação de documentos identificados com restrição de acesso deverá ser 
+realizada por servidor/funcionário da Unidade com atribuições de Protoco-
+lo devidamente credenciado para o recebimento de documentos sigilosos e 
+pessoais.
+
+Cada processo formado deverá tratar exclusivamente de um único assunto. 
+Caso o processo trate de mais de um assunto ou dependa de mais de um ato 
+decisório deverá ser desdobrado em tantos processos quantos necessários.
+
+Caso  haja  documento  de  diversos  interessados,  de  mesma  natureza  e  de-
+pendentes de conformidade decisória deverá ser aberto processo para cada 
+interessado, que tramitará apensado (ver p. 69) aos demais até o ato deci-
+sório. Caberá às unidades responsáveis orientar a Unidade com atribuições 
+de Protocolo, nos casos em que seja necessária a abertura de processo único 
+para diversos interessados.
+
+Não serão permitidos os seguintes procedimentos:
+
+•  Autuação de documentos destinados, exclusivamente, ao acompanha-
+mento de processos, exceto aqueles indicados em Planos de Classifica-
+ção de Documentos, devidamente oficializados;
+
+•  Reautuação  de  processo  (atribuição  de  novo  número  de  processo  ao 
+
+documento), exceto nos casos previstos em legislação específica;
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+39
+
+
+•  Formação de mais de um processo sobre o mesmo assunto e mesmo 
+
+interessado;
+
+•  Autuação provisória, pois se trata de procedimento definitivo.
+
+No caso de autuação indevida, o processo deverá ser encerrado e arquivado 
+mediante justificativa da autoridade competente que solicitou a autuação. 
+
+6.1 rotina de autuação
+
+6.1.1 conferir a solicitação de autuação: para autuar um processo, a 
+unidade deverá formalizar Termo de solicitação de autuação (ver p. 47) 
+e encaminhá-lo à Unidade com atribuições de Protocolo. O termo deve-
+rá conter a indicação da classificação do processo conforme os Planos de 
+Classificação de Documentos, devidamente aprovados e oficializados.
+
+6.1.1.1 O termo de solicitação de autuação deverá ser assinado por 
+autoridade competente. São autoridades competentes para solici-
+tar a autuação de processo:
+
+• Governador;
+
+• Secretário de Estado;
+
+• Secretário Adjunto;
+
+• Chefe de Gabinete;
+
+• Coordenador;
+
+• Autoridade até o nível hierárquico de Diretoria de Serviço; 
+
+• Outros casos em que houver delegação em norma interna.
+
+6.1.1.2 A Unidade com atribuições de Protocolo deverá conferir se 
+a classificação está em conformidade com os Planos de Classifica-
+ção, devidamente aprovados e oficializados. Em caso de irregulari-
+dade, a unidade solicitante deverá ser notificada para providenciar 
+as devidas correções.
+
+6.1.2 conferir os documentos: o processo deverá ser formado, preferen-
+cialmente, por documentos originais. No entanto, poderão ser formados 
+processos a partir de cópia autenticada por tabelião, ou ainda, cópia au-
+tenticada por servidor/funcionário público mediante cotejo da cópia com 
+o documento original, certificada com carimbo ou com anotação à caneta 
+(azul ou preta) “CONFERE COM O ORIGINAL”, contendo a data da auten-
+ticação e a assinatura do servidor/funcionário (Decreto nº 52.658/2008).
+
+6.1.2.1 Os documentos resultantes de transmissão via fax e de im-
+pressões termográficas (procedimento de impressão, por exemplo, 
+
+Autuação de Processo
+
+40
+
+
+de  extratos  bancários  e  cupons  fiscais)  deverão  ser  fotocopiados 
+para se constituírem em peças do processo.
+
+6.1.3 Pesquisar antecedentes: ao receber um documento para autua-
+ção, a Unidade com atribuições de Protocolo deverá efetuar pesquisa 
+para verificar a existência de processo anterior sobre o mesmo assunto 
+e com o(s) mesmo(s) interessado(s). Constatada a existência de proces-
+so anterior, o documento deverá ser juntado ou incorporado (caso te-
+nha sido registrado) a ele, conforme as regras deste manual. 
+
+6.1.4 registrar o processo: todos os processos deverão ter suas prin-
+cipais  informações  cadastradas  em  sistema  informatizado  de  gestão 
+arquivística de documentos e informações, a fim de permitir a sua loca-
+lização e acesso. Deverão ser cadastradas as seguintes informações do 
+processo (ver Registro p. 27):
+
+• Número do processo (sigla/nº/ano);
+
+• Interessado (s);
+
+• Classificação;
+
+• Descrição do assunto;
+
+• Documento inicial;
+
+• Localidade;
+
+• Data;
+
+• Volume; 
+
+• Restrição de acesso: 
+
+– Nível (integral ou parcial)
+
+– Intervalo de folhas (no caso de nível parcial)
+
+– Categoria (sigiloso ou pessoal)
+
+– Grau (no caso do sigiloso)
+
+– Prazo
+
+6.1.4.1 Com a autuação, o documento inicial passará a integrar o 
+processo. Para fins de localização e acesso, o número de protocolo 
+poderá ser mantido e registrado na folha líder.
+
+6.1.5 Emitir folha líder: concluído o registro, deverá ser emitida a Fo-
+lha líder (ver p. 46) contendo o registro impresso das informações so-
+bre o processo.
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+41
+
+
+6.1.6  ordenar  os  documentos:  os  documentos  deverão  ser  reunidos 
+sequencialmente em um único conjunto com a capa presa à documen-
+tação com trilho plástico (tipo “Romeu e Julieta” ou “macho e fêmea”). 
+Com vistas à preservação dos documentos, trilhos metálicos não deve-
+rão  ser  utilizados,  conforme  orientação  da  Instrução  Normativa  APE/
+SAESP nº 2/ 2010.
+
+6.1.6.1 Os documentos deverão ser organizados seguindo a ordem 
+cronológica de sua emissão (os mais antigos serão os primeiros), 
+de modo a evidenciar o percurso do trâmite.
+
+6.1.6.2  Deverá  ser  utilizado  o  modelo  de  capa  de  processo  com 
+visor que permita a leitura das informações cadastrais registradas 
+na folha líder.
+
+6.1.7 numerar as folhas: as folhas do processo deverão ser numeradas 
+em ordem crescente, no canto superior direito, pela aposição de ano-
+tação  à  caneta  (azul  ou  preta)  ou  de  carimbo  específico  para  registro 
+de numeração e rubricadas pelo servidor/funcionário que as inserir no 
+processo. 
+
+6.1.7.1 A capa de processo não receberá numeração. Com a utiliza-
+ção do modelo de capa de processo com visor, a capa deixa de ser 
+peça do processo e passa a ser somente sua proteção. 
+
+6.1.7.2 A folha líder será considerada a folha nº 1, o termo de soli-
+citação de autuação a folha nº 2 e o documento inicial a folha nº 3.
+
+Autuação de Processo
+
+42
+
+
+6.1.7.3 Quando, durante o procedimento de numeração das folhas, 
+ocorrer  erro,  o  servidor/funcionário  da  Unidade  com  atribuições 
+de  Protocolo  deverá  inutilizar  a  numeração  anterior  apondo-lhe 
+um “X” e acrescentar ao lado uma nova anotação à caneta (azul ou 
+preta) ou um novo carimbo com a numeração correta.
+
+6.1.7.3.1 No caso de correção da numeração, o servidor/fun-
+cionário responsável deverá registrar a ação corretiva, apon-
+do-se  rubrica  e  datação  em  espaço  visível  e  imediatamente 
+próximo  à  informação  acrescida  ou  em  espaço  previsto  na 
+configuração do carimbo.
+
+8
+
+9
+
+6.1.7.3.2 A numeração não deverá ser corrigida por meio de 
+corretivos ou etiquetas adesivas.
+
+6.1.7.3.3 Depois de tramitado o processo, a numeração das 
+suas folhas não poderá ser alterada. Em caso de irregularida-
+de, esta deverá ser indicada por meio de Termo de indicação 
+de irregularidade (ver p. 25), inserido ao final do processo. 
+
+6.1.8 colar os documentos: documentos de tamanho reduzido, como 
+por exemplo comprovantes de pagamento, cartões de embarque, fotos 
+etc. deverão ter sua margem esquerda ou superior colada em folha de 
+papel A4, para permitir a leitura de possíveis informações existentes no 
+seu verso. Neste caso, a numeração deverá ser registrada no canto su-
+perior direito do documento.
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+43
+
+
+6.1.8.1 Os documentos deverão ser colados com cola neutra para 
+não danificar o documento.
+
+6.1.8.2 Os documentos não deverão ser fixados com materiais me-
+tálicos  ou  com  fitas  adesivas,  conforme  orientação  da  Instrução 
+Normativa APE/SAESP nº 2/2010.
+
+6.1.8.3  Deverá  ser  anotado,  na  parte  inferior  da  folha  de  papel, 
+qual(ais) documento(s) foi(ram) colado(s), para evitar perda da in-
+formação, caso o(s) documento(s) seja(m) extraviado(s).
+
+Recebi do Sr. (Empresa)
+
+a quan(cid:10)a de
+
+proveniente de
+
+data
+
+assinatura
+
+Foi(ram) colado(s) nesta folha: mencionar o(s) documento(s)
+
+6.1.9 Inutilizar os espaços em branco: todos os espaços das folhas que 
+não contenham informações deverão ser inutilizados pela aposição de 
+um traço transversal, exceto os espaços da última folha, onde poderão 
+ser registrados os despachos.
+
+Autuação de Processo
+
+44
+
+
+Recebi do Sr. (Empresa)
+
+a quan(cid:10)a de
+
+proveniente de
+
+data
+
+assinatura
+
+Foi(ram) colado(s) nesta folha: mencionar o(s) documento(s)
+
+6.1.10 conferir o registro e a numeração de folhas: antes de encami-
+nhar o processo para a unidade de destino, o servidor/funcionário de-
+verá conferir o registro das informações e a numeração de folhas.
+
+6.1.11 encaminhar o processo: Após a autuação, o processo deverá ser 
+encaminhado, fisicamente, para a unidade de destino indicada na soli-
+citação de autuação. 
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+45
+
+
+GoVerno do estado de são Paulo
+(Nome do órgão ou entidade)
+
+folHa lÍder 
+
+nº do Processo (siGla/nº/ano): 
+
+interessado:
+
+classificação:
+
+descrição do assunto:
+
+localidade:
+
+data:
+
+VoluMe:
+
+restrição de acesso:
+
+– Nível (integral ou parcial)
+
+– Intervalo de folhas (no caso de nível parcial)
+
+– Categoria (sigiloso ou pessoal)
+
+– Grau (no caso do sigiloso)
+
+– Prazo
+
+Local e Data
+
+Nome, cargo e assinatura do servidor/funcionário que realizou o procedimento
+
+Autuação de Processo
+
+46
+
+ 
+ 
+ 
+ 
+
+GoVerno do estado de são Paulo
+(Nome do órgão ou entidade)
+
+terMo de solicitação de autuação
+
+Nesta data, solicito à Unidade com atribuições de Protocolo a autuação do processo 
+
+  (indicar  a  classificação 
+
+conforme  o  Plano  de  Classificação  de  Documentos  das  Atividades-Meio, 
+
+oficializado  pelo  Decreto  estadual  nº  48.898/2004,  ou  o  Plano  de  Classificação 
+
+de  Documentos  das  Atividades-Fim,  devidamente  oficializado),  de  interesse  de 
+
+(indicar  o 
+
+interessado), 
+
+referente a 
+
+a 
+
+ (indicar o assunto) que deverá ser encaminhado 
+
+ (indicar o destinatário após a autuação).
+
+Local e Data
+
+  Nome, cargo e assinatura da autoridade competente que solicitou a autuação do documento
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+47
+
+ 
+ 
+ 
+ 
+
+7. Encerramento e Abertura de Volume
+
+É o procedimento de desdobrar documentos volumosos, em tantos volumes 
+quantos necessários, com o objetivo de facilitar o seu manuseio.
+
+Quando o volume do documento atingir o limite de 200 folhas ou seu manu-
+seio estiver comprometido, as unidades deverão providenciar o seu encerra-
+mento e a abertura de novo volume.
+
+O encerramento e abertura de novo volume de processo deverá ser execu-
+tado exclusivamente pela Unidade com atribuições de Protocolo, mediante 
+solicitação de autoridade competente.
+
+Nos demais casos, o encerramento e abertura de novo volume poderá ser 
+executado pela unidade que identificar a necessidade de fazê-lo, mediante 
+solicitação de autoridade competente.
+
+Só poderão ser encerrados e abertos volumes de documentos pertencentes 
+ao próprio órgão/entidade.
+
+Em caso de documento externo que retornará ao seu órgão/entidade, a jun-
+tada deverá ser realizada mesmo que supere o limite máximo de 200 folhas, 
+não podendo ser aberto novo volume. Quando o documento retornar à sua 
+origem, caberá à Unidade Produtora regularizá-lo.
+
+Também  não  poderá  ser  encerrado  e  aberto  novo  volume  de  documento 
+apensado sem que antes seja desapensado do documento principal. 
+
+7.1 rotina de encerramento e abertura de volume
+
+7.1.1 conferir a solicitação de encerramento e abertura de novo volu-
+me: o servidor/funcionário deverá verificar a existência de solicitação 
+para a realização do procedimento. 
+
+7.1.1.1  Caberá  a  autoridade  competente  analisar  a  formação  de 
+volume,  com  menor  ou  maior  número  de  folhas  do  que  o  limite 
+estabelecido, para evitar a quebra de páginas de documentos que 
+não poderiam ser desmembrados.
+
+7.1.2 formalizar o encerramento do volume: ao final de cada volume 
+encerrado deverá ser inserido Termo de encerramento de volume (ver 
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+49
+
+
+p. 51), devidamente numerado, após o qual nenhum despacho poderá 
+ser acrescido e nenhum documento poderá ser juntado. 
+
+7.1.3 Emitir nova folha líder: para cada novo volume aberto deverá ser 
+preenchida  nova  folha  líder  (Expediente,  ver  p.  37,  e  Processo,  ver  p. 
+46). A nova folha líder deverá conter numeração sequencial a do termo 
+de encerramento e os mesmos dados cadastrais da folha líder do vo-
+lume inicial, diferenciando-se apenas pela identificação do número de 
+volume a que se refere. 
+
+7.1.4 formalizar a abertura do novo volume: cada novo volume deverá 
+conter Termo de abertura de volume (ver p. 52), inserido após a folha 
+líder, devidamente numerado.
+
+7.1.4.1. Independentemente do ano em que se proceda à abertura 
+de novo volume, a identificação (sigla/nº/ano) do processo/expe-
+diente permanecerá a mesma. 
+
+Encerramento e Abertura de Volume
+
+50
+
+
+GoVerno do estado de são Paulo
+(Nome do órgão ou entidade)
+
+terMo de encerraMento de VoluMe
+
+Nesta 
+
+data, 
+
+em 
+
+atendimento 
+
+à 
+
+solicitação 
+
+de 
+
+  (indicar  o  nome,  o 
+
+cargo  e  a  unidade  da  autoridade  que  solicitou  o  encerramento  do 
+
+volume 
+
+do 
+
+documento), 
+
+procedeu-se 
+
+ao 
+
+encerramento 
+
+do 
+
+volume 
+
+nº 
+
+  do  documento 
+
+  (indicar  a 
+
+sigla/nº/ano  do  documento),  que  se  encerra  com  este  Termo,  numerado 
+
+sequencialmente como folha nº 
+
+observação: nenhum despacho poderá ser acrescido e nenhum documento poderá 
+
+ser juntado a este volume.
+
+Local e Data
+
+Nome, cargo e assinatura do servidor/funcionário que realizou o procedimento
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+51
+
+ 
+ 
+ 
+ 
+
+GoVerno do estado de são Paulo
+(Nome do órgão ou entidade)
+
+terMo de abertura de VoluMe
+
+Nesta data, procedeu-se a abertura do volume nº 
+
+ do documento 
+
+ (indicar a sigla/nº/ano do documento) que se inicia 
+
+com a Folha líder, numerada sequencialmente como folha nº 
+
+Local e Data
+
+Nome, cargo e assinatura do servidor/funcionário que realizou o procedimento
+
+Encerramento e Abertura de Volume
+
+52
+
+ 
+ 
+ 
+ 
+
+8. Tramitação
+
+É a movimentação de documentos pelas unidades do próprio órgão/entida-
+de ou entre unidades de órgãos/entidades distintos, para dar conhecimento, 
+bem como para acolher manifestações, instruções e informações necessárias 
+à tomada de decisões.
+
+As unidades (Coordenadorias, Conselhos, Departamentos, Divisões, Núcleos, 
+Setores etc.) por onde circulam os documentos são denominadas “pontos” 
+ou “locais de tramitação”.
+
+Na  tramitação  podem  ser  movimentados  documentos  simples  (ofício,  me-
+morando etc.) ou compostos (processos e expedientes).
+
+Não poderão tramitar:
+
+•  processos e expedientes com capa ou folha líder dilaceradas, cabendo 
+a  substituição,  no  caso  dos  processos,  à  Unidade  com  atribuições  de 
+Protocolo e no caso dos expedientes, à Unidade Produtora;
+
+•  processos que não estejam com todas as suas folhas devidamente nu-
+
+meradas e rubricadas e os espaços em branco inutilizados;
+
+•  processos e expedientes com mais de 200 folhas por volume; 
+
+•  processos e expedientes sem o devido registro de sua tramitação no sis-
+tema informatizado de gestão arquivística de documentos e informações.
+
+Poderão tramitar, temporariamente, na contracapa de processos:
+
+•  originais de certidões a serem fornecidas pela unidade;
+
+•  originais de atos administrativos para publicações;
+
+•  outros documentos que, por sua natureza, devam ser posteriormente 
+
+retirados.
+
+Qualquer documento inserido na contracapa deverá ser juntado ou retirado 
+do processo pela unidade que o inseriu, antes de seu encerramento e arqui-
+vamento.
+
+A tramitação de documentos deverá ser realizada com a maior agilidade possível 
+e com rigorosa observância da indicação de urgência e/ou de prazos especiais 
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+53
+
+
+que estiverem fixados para cada caso pelas autoridades competentes, de acordo 
+com a natureza da matéria, ou de prazos previstos em legislação específica.
+
+A expedição, tramitação e entrega de documento ultrassecreto e se-
+creto deverá ser efetuada pessoalmente por agente público creden-
+ciado, sendo vedada a sua postagem. 
+
+Decreto Estadual nº 58.052/2012, artigo 41
+
+8.1 rotina de tramitação na unidade emissora
+
+8.1.1 conferir o despacho/instrução: os documentos só poderão trami-
+tar mediante solicitação de autoridade competente, por meio de des-
+pacho/instrução.
+
+8.1.1.1 Todo despacho/instrução deverá conter:
+
+a) unidade/autoridade de destino;
+
+b) decisão adotada e/ou providência solicitada;
+
+c)  nome, cargo, assinatura e unidade da autoridade que realizou o 
+
+despacho;
+
+d) data. 
+
+8.1.1.2 O registro do despacho poderá ser realizado na última folha 
+do próprio documento ou em Folha para despacho (ver p. 56) a ser 
+inserida no processo ou expediente, devidamente numerada. 
+
+8.1.2 Conferir a numeração de folhas e a inutilização de espaços em 
+branco: todas as folhas deverão estar devidamente numeradas, rubrica-
+das e com os espaços em branco inutilizados (ver Autuação de Processo 
+p. 39), devendo a unidade emissora providenciar as adequações, quan-
+do necessárias. 
+
+8.1.3 registrar o encaminhamento: o encaminhamento do documento 
+deverá ser registrado em sistema informatizado de gestão arquivística 
+de documentos e informações. 
+
+8.1.4 Emitir relação de remessa: deverá ser emitida Relação de remessa 
+(ver p. 23) para acompanhar o encaminhamento de documentos. 
+
+8.1.4.1 A impressão da relação de remessa é facultativa no trâmite 
+entre unidades do mesmo órgão/entidade interligadas por sistema 
+informatizado de gestão arquivística de documentos e informações.
+
+8.1.5 tramitar o documento
+
+Tramitação
+
+54
+
+
+8.1.5.1 Na tramitação entre unidades do mesmo órgão/entidade, 
+situadas  no  mesmo  local,  o  documento  poderá  tramitar  direta-
+mente da unidade emissora para a unidade de destino, sem passar 
+pela Unidade com atribuições de Protocolo.
+
+8.1.5.2 na tramitação entre unidades descentralizadas do mesmo 
+órgão/entidade, o documento deverá ser encaminhado à unidade 
+de destino pela Unidade com atribuições de Protocolo ou de Expe-
+dição. Entretanto, quando as unidades estiverem interligadas por 
+sistema informatizado de gestão arquivística de documentos e in-
+formações, o documento poderá tramitar diretamente da unidade 
+emissora para a unidade de destino.
+
+8.1.5.3 Na tramitação entre unidades de órgãos/entidades distin-
+tos, o documento deverá ser enviado  e recebido pelas Unidades 
+com atribuições de Protocolo ou de Expedição. 
+
+8.1.5.4 Os documentos de natureza sigilosa tramitarão em enve-
+lopes duplos, fechados e lacrados contendo em ambos o nome do 
+remetente e do destinatário. O número do registro e o grau de si-
+gilo deverão estar indicados apenas no envelope interno (Decreto 
+estadual nº 58.052/2012).
+
+8.2 rotina de tramitação na unidade receptora
+
+8.2.1 Conferir o documento e sua respectiva relação de remessa: o do-
+cumento  e  a  relação  de  remessa  deverão  ser  conferidos,  segundo  as 
+regras constantes do tópico Recebimento deste Manual (ver p. 19). 
+
+8.2.1.1 Documentos com indício de adulteração deverão ser enca-
+minhados à autoridade competente da Unidade Produtora do do-
+cumento ou da Unidade com atribuições de Protocolo, por meio de 
+despacho, expondo as circunstâncias verificadas.
+
+8.2.1.1.1  Caberá  à  autoridade  competente  promover,  quan-
+do necessário, apuração preliminar, de natureza investigativa, 
+quando a infração não estiver suficientemente caracterizada 
+ou definida a sua autoria, para averiguar se houve o ato lesivo 
+contra o patrimônio público, de acordo com os procedimentos 
+previstos na legislação vigente (Lei estadual nº 10.261/1968).
+
+8.2.2 atestar o recebimento do documento: o recebimento deverá ser 
+atestado na relação de remessa, na guia da Empresa Brasileira de Cor-
+reios e Telégrafos - EBCT (ou equivalente) e/ou por registro em sistema 
+informatizado de gestão arquivística de documentos e informações no 
+ato da entrega do documento. 
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+55
+
+
+GoVerno do estado de são Paulo
+(Nome do órgão ou entidade)
+
+folHa Para desPacHo/instrução
+
+núMero do Processo ou eXPediente (siGla/núMero/ano):
+
+interessado:
+
+unidade/autoridade de destino:
+
+decisão/ ProVidÊncia:
+
+Local e Data
+
+Nome, assinatura, cargo e unidade da autoridade competente que realizou o despacho
+
+Tramitação
+
+56
+
+ 
+ 
+ 
+ 
+
+9. Expedição
+
+É o conjunto de rotinas que deverá ser observado para garantir o controle de 
+saída dos documentos do órgão/entidade para unidades descentralizadas ou 
+para unidades de outros órgãos/entidades.
+
+9.1 rotina de expedição na unidade emissora
+
+9.1.1 conferir o registro do documento: a unidade emissora deverá veri-
+ficar se o documento a ser expedido está devidamente registrado no sis-
+tema informatizado de gestão arquivística de documentos e informações.
+
+9.1.2 registrar a expedição: a expedição do documento deverá ser re-
+gistrada em sistema informatizado de gestão arquivística de documen-
+tos e informações.
+
+9.1.3 Providenciar cópia do documento: a Unidade Produtora poderá, 
+por precaução, providenciar cópia do documento original (ofício, pare-
+cer etc.) antes de expedi-lo, com o objetivo de recuperar informações e/
+ou de comprovar as atividades executadas, caso necessário.
+
+9.1.3.1 Não deverão ser realizadas cópias de processos e expedien-
+tes que retornarão à Unidade Produtora após tramitação por ou-
+tras unidades para acolher manifestações e/ou providências.
+
+9.1.4 Emitir relação de remessa: a unidade emissora deverá emitir Relação 
+de remessa (ver p. 23) para acompanhar o documento que será expedido.
+
+9.1.4.1 Caso o documento seja expedido pela Unidade com atribui-
+ções de Protocolo ou de Expedição, a Unidade Produtora poderá 
+emitir outra via da relação de remessa e solicitar que esta unidade 
+ateste o recebimento do documento em trânsito.8
+
+9.1.5 acondicionar o documento: o documento deverá ser acondicio-
+nado em envelope para protegê-lo durante a tramitação.
+
+9.1.5.1  Os  documentos  de  natureza  sigilosa  deverão  ser  acondi-
+cionados em envelopes duplos, fechados e lacrados, contendo em 
+
+8  Documento  produzido  por  unidade  do  órgão/entidade  que  é  encaminhado  à  Unidade 
+com atribuições de Protocolo Central para encaminhamento ao seu destino final.
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+57
+
+
+ambos o nome do remetente e do destinatário. O número do regis-
+tro e o grau de sigilo deverão estar indicados apenas no envelope 
+interno (Decreto estadual nº 58.052/2012, artigo 40).
+
+9.1.5.2 o envelope externo deverá indicar: 
+
+•  O remetente no lado que possui a aba de fechamento do enve-
+lope, mencionando nome, cargo ou função, unidade, órgão, en-
+dereço e CEP; 
+
+•  O destinatário no outro lado do envelope, mencionando prono-
+me de tratamento, nome, cargo ou função, unidade, órgão, en-
+dereço e CEP.
+
+9.1.6 expedir o documento: a expedição do documento deverá ser rea-
+lizada pela Unidade com atribuições de Protocolo ou de Expedição.
+
+9.1.6.1 O documento poderá ser expedido diretamente, quando as 
+unidades  emissoras e de destino pertencerem ao  mesmo órgão/
+entidade e estiverem interligadas por meio de sistema informatiza-
+do de gestão arquivística de documentos e informações.
+
+9.2 rotina de expedição na unidade com atribuições de Protocolo ou 
+na unidade de expedição
+
+9.2.1 Conferir o remetente e o destinatário: a Unidade com atribuições 
+de Protocolo ou de Expedição, ao receber documentos para expedição, 
+deverá verificar se o envelope possui indicação do remetente, do desti-
+natário e se está com o endereçamento completo, devendo devolvê-lo 
+à unidade emissora para adequações, caso necessário.
+
+9.2.2 conferir o registro do documento: a Unidade com atribuições de 
+Protocolo ou de Expedição deverá verificar se o registro do documento 
+que será expedido consta em sistema informatizado de gestão arquivís-
+tica  de  documentos  e informações.  Caso  o  documento  não  esteja  ca-
+dastrado, a Unidade com atribuições de Protocolo deverá devolvê-lo à 
+unidade emissora para a regularização no sistema. 
+
+Expedição
+
+58
+
+
+9.2.3 atestar o recebimento do documento em trânsito: caso seja soli-
+citada, a Unidade com atribuições de Protocolo ou de Expedição deverá 
+atestar o recebimento do documento em trânsito na relação de remes-
+sa produzida pela Unidade emissora. 
+
+9.2.4 expedir o documento: os documentos poderão ser expedidos por 
+mensageiro ou correio:
+
+•  Mensageiro: os documentos serão entregues por servidor/funcionário do 
+órgão/entidade ou por empresa contratada para prestar este serviço; 
+
+•  Correio: os documentos serão enviados por meio dos serviços presta-
+dos pela Empresa Brasileira de Correios e Telégrafos – EBCT (Sedex®, 
+carta, malote, telegrama, encomenda etc.). 
+
+A expedição, tramitação e entrega de documento ultrassecreto e se-
+creto deverá ser efetuada pessoalmente, por agente público creden-
+ciado, sendo vedada a sua postagem.
+
+Decreto estadual nº 58.052/2012, artigo 41
+
+9.2.5  devolver  a  relação  de  remessa:  a  relação  de  remessa  assinada 
+pela unidade de destino deverá ser devolvida para a unidade emissora.
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+59
+
+
+10. Juntada
+
+É o procedimento de inserção de documento avulso em documento compos-
+to que dele fará parte integrante.
+
+Documentos  produzidos  para  serem  juntados  a  documento  composto 
+não  deverão  receber  número  de  protocolo.  Caso  o  documento  tenha 
+sido  protocolado,  a  unidade  deverá  realizar  o  procedimento  de  incor-
+poração (ver p. 75).
+
+A juntada não é um procedimento exclusivo da Unidade com atribuições de 
+Protocolo.  Os  documentos  deverão  ser  inseridos  pelas  próprias  unidades 
+que estiverem de posse do documento, sempre que a informação neles con-
+tida seja fundamental para o encaminhamento de ações ou para a tomada 
+de decisões necessárias à resolução da demanda. 
+
+O documento composto deverá estar ativo. Documentos compostos encer-
+rados não poderão receber a juntada de novos documentos. Havendo esta 
+necessidade, o documento composto deverá ser reativado (ver p.103).
+
+Cabe à chefia da unidade envolvida a responsabilidade de exercer o controle 
+sobre o procedimento de juntada de documentos.
+
+10.1 Rotina de juntada
+
+10.1.1 conferir a numeração das folhas: antes de inserir os documen-
+tos, o servidor/funcionário deverá conferir a numeração das folhas do 
+documento composto. 
+
+10.1.1.1 Quando for constatada irregularidade na numeração co-
+metida  pela  última  unidade  de  posse  do  documento  composto, 
+pertencente ao mesmo órgão/entidade e situada no mesmo local, 
+a unidade deverá devolvê-lo para a regularização. 
+
+10.1.1.1.1 O documento deverá ser encaminhado à Unidade 
+com atribuições de Protocolo para que seja elaborado e inse-
+rido Termo de indicação de irregularidade (ver p.25), quando 
+a irregularidade houver sido cometida:
+
+• por outro órgão/entidade;
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+61
+
+
+•  pela última unidade de posse do documento pertencente ao 
+
+mesmo órgão/entidade, mas situada em outro local;
+
+•  por unidade do mesmo órgão/entidade, situada no mesmo 
+
+local, mas que não tenha sido a última de posse. 
+
+10.1.2  inserir  os  documentos:  os  documentos  deverão  ser  inseridos 
+após a última folha do documento composto obedecendo à ordem cro-
+nológica de sua apresentação. 
+
+10.1.2.1  Documentos  de  tamanho  reduzido  deverão  ser  juntados 
+conforme as orientações do tópico Autuação de Processo (ver p. 39).
+
+10.1.2.2 A juntada de documentos com restrição de acesso de-
+verá ser formalizada por meio de Termo para juntada de docu-
+mentos com restrição de acesso (p. 64), que precederá os docu-
+mentos juntados. 
+
+10.1.2.2.1 Todas as páginas inseridas deverão receber marca-
+ção com a indicação da categoria (pessoal ou sigiloso), do prazo 
+de restrição de acesso atribuído ao documento e, caso seja si-
+giloso, do grau de sigilo (ultrassecreto, secreto ou reservado). 
+
+10.1.2.2.2 A marcação deverá ser registrada por anotação à 
+caneta (azul ou preta) ou por aposição de carimbo específico 
+em local visível, que possibilite sua reprodução em eventuais 
+cópias, e estar necessariamente datada (Decreto estadual nº 
+58.052/2012, artigo 48, §2º).
+
+10.1.2.2.3  O  documento  sigiloso  que  contenha  diferentes 
+marcações de graus de sigilo (ultrassecreto, secreto e reser-
+vado) deve receber diferentes marcações, mas no seu todo, 
+será  tratado  nos  termos  de  seu  grau  de  sigilo  mais  elevado 
+(Decreto estadual nº 58.052/2012, artigo 48, §1º).
+
+10.1.2.2.4 Sempre que a juntada de documento com restrição 
+de acesso alterar a categoria, nível, grau e /ou prazo de restri-
+ção de acesso do processo, este deverá ser encaminhado à Uni-
+dade com Atribuições de Protocolo para regularização da sua 
+indicação de restrição de acesso e emissão de nova folha líder.
+
+10.1.3 numerar as folhas: a numeração das folhas juntadas será reali-
+zada na unidade que as inserir e seguirá a ordem sequencial da última 
+folha do documento.
+
+10.1.3.1 Cada folha juntada deverá ser certificada manualmente com a 
+rubrica do servidor/funcionário responsável pela realização da juntada.
+
+Juntada
+
+62
+
+
+10.1.3.2 Quando a juntada ocasionar a superação do limite de 200 
+folhas ou dificultar o manuseio do documento, novo volume deve-
+rá ser aberto (ver Encerramento e Abertura de Volume p. 49). 
+
+10.1.3.2.1 Em se tratando de processo, caberá à autoridade 
+competente da unidade que estiver de posse do documento 
+solicitar à Unidade com atribuições de Protocolo, por meio de 
+despacho, a abertura de novo volume.
+
+10.1.3.2.2 Em se tratando de outros documentos compostos, 
+caberá à unidade que estiver de posse do documento a aber-
+tura de novo volume.
+
+10.1.3.2.3 Em caso de documento externo que retornará ao 
+seu  órgão/entidade,  a  juntada  deverá  ser  realizada  mesmo 
+que supere o limite máximo de 200 folhas, não podendo ser 
+aberto novo volume. Quando o documento retornar a sua ori-
+gem, caberá à Unidade Produtora regularizá-lo.
+
+10.1.4 Inutilizar os espaços em branco: os espaços em branco das fo-
+lhas inseridas deverão ser inutilizados pela aposição de um traço trans-
+versal, exceto os da última página inserida, onde poderão ser registra-
+dos os despachos.
+
+10.1.5  registrar  o  procedimento:  a  juntada  deverá  ser  registrada  em 
+sistema informatizado de gestão arquivística de documentos e informa-
+ções e no documento, pela aposição de carimbo específico ou anotação 
+à caneta (azul ou preta) contendo as seguintes informações: número ou 
+intervalo de folhas inseridas, data da juntada, nome legível, assinatura, 
+cargo e unidade do servidor/funcionário que realizou a juntada.
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+63
+
+
+GoVerno do estado de são Paulo
+(Nome do órgão ou entidade)
+
+terMo Para Juntada de docuMentos coM restrição de acesso
+
+Nesta 
+
+data, 
+
+procedeu-se 
+
+à 
+
+juntada 
+
+no 
+
+documento 
+
+ (indicar a sigla / nº/ano do documento) de 
+
+documentos  com 
+
+restrição  de  acesso 
+
+(indicar  a  categoria:  pessoal  ou 
+
+sigiloso 
+
+  ,  (indicar  o  grau  de  sigilo:  ultrassecreto,  secreto 
+
+ou  reservado) 
+
+de 
+
+  ,com  prazo  de  restrição  de  acesso 
+
+ (indicar prazo de restrição de acesso: no máximo 100 
+
+anos  para  pessoal,  no  máximo  25  anos  para  ultrassecreto,  15  anos  para 
+
+secreto ou 5 anos para reservado) 
+
+ da folha 
+
+ a 
+
+(Decreto estadual n° 58.052/2012).
+
+Local e Data
+
+Nome, cargo e assinatura do servidor/funcionário que realizou o procedimento
+
+Juntada
+
+64
+
+ 
+ 
+ 
+ 
+ 
+
+11. Desentranhamento
+
+É o procedimento que consiste na retirada de um ou mais documentos avul-
+sos de um documento composto.
+
+Somente poderão ser desentranhados documentos de documentos compostos 
+(processo, expediente, dossiê e prontuário) pertencentes ao órgão produtor.
+
+O documento composto deverá estar ativo. Documento composto encerrado 
+não poderá ter documentos desentranhados. Havendo esta necessidade, o 
+documento composto deverá ser reativado (ver p.103).
+
+Também não poderá ser desentranhado documento avulso de documento 
+composto  apensado,  sem  que  antes  seja  realizado  o  seu  desapensamento 
+do documento principal. 
+
+O  desentranhamento  de  documentos  avulsos  de  um  processo  deverá  ser 
+executado exclusivamente pela Unidade com atribuições de Protocolo, me-
+diante solicitação de autoridade competente.
+
+Nos demais casos, o desentranhamento poderá ser executado por qualquer 
+unidade que identificar esta necessidade, mediante solicitação de autorida-
+de competente.
+
+Poderá ocorrer desentranhamento de documentos sempre que houver ne-
+cessidade de:
+
+•  formar novo documento composto; 
+
+•  eliminar cópias de documentos juntadas em duplicidade;
+
+•  retirar documentos juntados indevidamente; 
+
+•  devolver, para o interessado, via original de documento(s). 
+
+11.1 rotina de desentranhamento
+
+11.1.1 conferir a solicitação de desentranhamento: antes de desentra-
+nhar o(s) documento(s), o servidor/funcionário deverá conferir o despa-
+cho da autoridade competente.
+
+11.1.1.1 Caso a solicitação tenha sido realizada por meio de reque-
+rimento do interessado, este deverá ser encaminhado para autori-
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+65
+
+
+dade competente para análise e autorização. Se autorizado o de-
+sentranhamento, o requerimento deverá ser juntado após a última 
+folha do documento composto, devidamente numerado.
+
+11.1.2  Retirar  o(s)  documento(s)  solicitado(s):  após  a  conferência  do 
+despacho e/ou do requerimento, o servidor/funcionário deverá retirar 
+o(s) documento(s) solicitado(s).
+
+11.1.2.1 Em caso de devolução de documentos originais ao interes-
+sado ou de retirada para a formação de novo documento compos-
+to, a Unidade com atribuições de Protocolo (no caso de processos) 
+ou a unidade de posse do documento (nos demais casos) deverá 
+providenciar cópias para substituir o original retirado. 
+
+11.1.3 formalizar o desentranhamento: a informação do desentranha-
+mento de documento(s) deverá ser formalizada por meio do Termo de 
+desentranhamento (ver p. 67). 
+
+11.1.3.1 No caso da substituição de documentos originais por có-
+pias, o Termo deverá ser inserido ao final do processo ou expedien-
+te e devidamente numerado.
+
+11.1.3.2 No caso de documentos juntados indevidamente ou em 
+duplicidade, o Termo deverá ser inserido no local onde a(s) folha(s) 
+foi(ram) retirada(s) e receber a numeração correspondente à folha 
+ou ao intervalo de folhas desentranhadas.
+
+11.1.4 registrar o desentranhamento: o desentranhamento deverá ser 
+registrado  em  sistema  informatizado  de  gestão  arquivística  de  docu-
+mentos e informações.
+
+11.1.5  encaminhar  o(s)  documento(s)  desentranhado(s):  o(s) 
+documento(s)  desentranhado(s)  deverá(ão)  ser  encaminhado(s)  con-
+forme determinado pela autoridade competente. 
+
+Desentranhamento
+
+66
+
+
+GoVerno do estado de são Paulo
+(Nome do órgão ou entidade)
+
+terMo de desentranHaMento
+
+Nesta 
+
+data, 
+
+atendendo 
+
+à 
+
+solicitação 
+
+de 
+
+  (indicar  o  nome,  o  cargo  e  a 
+
+unidade  da  autoridade  que  solicitou  o  desentranhamento  do  documento), 
+
+registrada  à  folha 
+
+  (indicar  o  número  da  folha  do 
+
+despacho/instrução, 
+
+quando 
+
+houver) 
+
+desentranhou-se 
+
+deste 
+
+documento 
+
+  (indicar  a  sigla/nº/ano  do 
+
+documento),  o(s)  documento(s) 
+
+  (indicar  o(s) 
+
+documento(s)) constante(s) à(s) folha(s) de número(s) 
+
+Motivo do desentranhamento:  
+
+[ ] formar novo documento; 
+
+[ ] eliminar cópias de documentos juntadas em duplicidade; 
+
+[ ] retirar documentos juntados indevidamente; 
+
+[ ] devolver, para o interessado, via original do(s) documento(s). 
+
+Encaminhamento 
+
+dado 
+
+ao(s) 
+
+documento(s) 
+
+desentranhado(s): 
+
+Local e Data
+
+Nome, cargo e assinatura do servidor/funcionário que realizou o procedimento
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+67
+
+ 
+ 
+ 
+ 
+
+12. Apensamento
+
+É o procedimento que consiste em unir documentos, em caráter temporário, 
+quando as informações contidas em um servir de elemento elucidativo ou 
+subsidiário para a instrução de outro ou com vistas à uniformização de trata-
+mento em matérias semelhantes. 
+
+Poderá ocorrer apensamento:
+
+•  entre processos;
+
+•  entre expedientes;
+
+•  de expediente a processo;
+
+•  de processo a expediente.
+
+O apensamento poderá ocorrer entre documentos do mesmo órgão produ-
+tor ou de órgãos distintos.
+
+Não poderá ocorrer apensamento:
+
+•  de processo a documento avulso;
+
+•  de expediente a documento avulso.
+
+O apensamento entre expedientes poderá ser executado pela unidade 
+que identificar a necessidade de fazê-lo, mediante solicitação de auto-
+ridade competente. 
+
+Os  demais  casos  de  apensamento  deverão  ser  executados  exclusivamente 
+pela Unidade com atribuições de Protocolo, mediante solicitação de autori-
+dade competente. 
+
+O documento que receber o apensamento de outro documento será deno-
+minado “documento principal”. 
+
+Poderão ser apensados ao documento principal tantos documentos quantos 
+necessários.
+
+Enquanto durar o apensamento, o(s) documento(s) apensado(s) tramitará(ão) 
+com o principal.
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+69
+
+
+Quando  o  apensamento  ocorrer  apenas  para  subsidiar  a  instrução  do  do-
+cumento principal, não deverão ser registradas manifestações, despachos e 
+juntadas no(s) documento(s) apensado(s). 
+
+Quando o apensamento ocorrer para uniformização de tratamento em ma-
+térias semelhantes, deverá ser reproduzido no(s) documento(s) apensado(s) 
+as manifestações, despachos e juntadas do documento principal ou apenas a 
+decisão final, conforme o caso.
+
+O apensamento não deverá ser realizado:
+
+•  quando desse ato resultar prejuízo para o trâmite do documento a ser 
+
+apensado;
+
+•  quando a juntada de cópia do documento for suficiente para o esclare-
+
+cimento do assunto;
+
+•  em documento apensado a documento principal.
+
+Documentos encerrados não poderão ser apensados a outros. Caso o apen-
+samento seja necessário, o documento deverá ser reativado (ver p. 103).
+
+Processos e expedientes apensados não poderão ser encerrados ou arquiva-
+dos sem que antes sejam desapensados.
+
+12.1 rotina de apensamento
+
+12.1.1 conferir a solicitação de apensamento: a solicitação de apensa-
+mento deverá ser realizada por meio de despacho de autoridade com-
+petente para decisão na matéria. 
+
+12.1.1.1 O despacho deverá ser realizado no documento principal 
+contendo a indicação de qual(is) documento(s) será(ão) apensado(s).
+
+12.1.2 formalizar o apensamento: a informação do apensamento de-
+verá ser formalizada por meio de Termo de apensamento (ver p. 71): 
+uma via será inserida após a última folha do documento principal e ou-
+tra após a última folha de cada documento a ser apensado, devidamen-
+te numeradas.
+
+12.1.3 apensar os documentos: os documentos deverão ser mantidos 
+superpostos, presos por meio de cadarço de algodão, ficando o docu-
+mento principal à frente do(s) documento(s) apensado(s).
+
+12.1.3.1 Durante o apensamento, cada documento manterá a sua 
+individualidade e a sua numeração de folhas.
+
+12.1.4 registrar o apensamento: o apensamento deverá ser registrado em 
+sistema informatizado de gestão arquivística de documentos e informações.
+
+Apensamento
+
+70
+
+
+GoVerno do estado de são Paulo
+(Nome do órgão ou entidade)
+
+terMo de aPensaMento
+
+Nesta 
+
+data, 
+
+atendendo 
+
+à 
+
+solicitação 
+
+de 
+
+ (indicar o nome, o cargo e a 
+
+unidade  da  autoridade  que  solicitou  o  apensamento),  foi(ram)  apensado(s)  ao 
+
+processo ou expediente
+
+ (indicar a sigla/ 
+
+nº/ano  do  processo  ou  expediente),  o(s)  processo(s)  ou  expediente(s) 
+
+ (indicar a 
+
+sigla/nº/ano do(s) processo(s) ou expediente(s)).
+
+Local e Data
+
+Nome, cargo e assinatura do servidor/funcionário que realizou o procedimento
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+71
+
+ 
+ 
+ 
+ 
+
+13. Desapensamento
+
+É o ato de separar um ou mais documentos apensados, sempre que for solu-
+cionada a questão que justificou a sua união temporária.
+
+O  desapensamento  entre  expedientes  poderá  ser  executado  pela  unidade 
+que identificar a necessidade de fazê-lo, mediante solicitação de autoridade 
+competente.
+
+Os demais casos de desapensamento deverão ser executados exclusivamen-
+te pela Unidade com atribuições de Protocolo, mediante solicitação de auto-
+ridade competente. 
+
+Processos e expedientes deverão ser desapensados antes de serem encerra-
+dos e arquivados.
+
+Documentos externos apensados a documentos do órgão/entidade deverão, 
+após solucionada a questão que motivou sua união temporária, serem desa-
+pensados antes de sua devolução ao órgão/entidade de origem.
+
+13.1 rotina de desapensamento
+
+13.1.1 conferir a solicitação de desapensamento: a solicitação de desa-
+pensamento deverá ser realizada por meio de despacho de autoridade 
+competente para decisão na matéria.
+
+13.1.1.1 O despacho deverá ser realizado no documento principal, con-
+tendo a indicação de qual(is) documento(s) será(ão) desapensado(s).
+
+13.1.2 formalizar o desapensamento: a informação do desapensamen-
+to deverá ser formalizada por meio de Termo de desapensamento (ver 
+p. 74): uma via será inserida após a última folha do documento principal 
+e  outra,  após  a  última  folha  de  cada  documento  a  ser  desapensado, 
+devidamente numeradas.
+
+13.1.3 desapensar os documentos: os documentos deverão ser fisica-
+mente separados. 
+
+13.1.4 registrar o desapensamento: o desapensamento deverá ser re-
+gistrado em sistema informatizado de gestão arquivística de documen-
+tos e informações.
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+73
+
+
+GoVerno do estado de são Paulo
+(Nome do órgão ou entidade)
+
+terMo de desaPensaMento
+
+Nesta 
+
+de 
+
+data, 
+
+atendendo 
+
+à 
+
+solicitação 
+
+ (indicar o nome, o cargo e a 
+
+unidade da autoridade que solicitou o desapensamento), foi(ram) desapensado(s) 
+
+do  processo  ou  expediente 
+
+  (indicar  a  sigla  do  órgão 
+
+ou  entidade/nº/ano  do  processo  ou  expediente),  o(s)  processo(s)  ou 
+
+expediente(s) 
+
+  (indicar  a 
+
+sigla/ nº/ano do(s) processo(s) ou expediente(s)).
+
+Local e Data
+
+Nome, cargo e assinatura do servidor/funcionário que realizou o procedimento
+
+Desapensamento
+
+74
+
+ 
+ 
+ 
+ 
+
+14. Incorporação
+
+É o procedimento que consiste em unir, em caráter definitivo, documentos 
+de um mesmo órgão/entidade quando tratarem do mesmo assunto e tive-
+rem as mesmas partes interessadas. 
+
+Poderá ocorrer incorporação: 
+
+•  entre documentos compostos de mesma espécie (entre processos, en-
+
+tre expedientes, entre prontuários e entre dossiês);
+
+•  de expediente a processo;
+
+•  de documento avulso protocolado a documento composto. Caso o do-
+cumento avulso não possua número de protocolo, a unidade deverá re-
+alizar o procedimento de juntada (ver p. 61).
+
+A incorporação entre processos, de expediente a processo e de documento avul-
+so protocolado a processo deverá ser executada exclusivamente pela Unidade 
+com atribuições de Protocolo, mediante solicitação de autoridade competente.
+
+Nos demais casos, a incorporação poderá ser executada pela unidade que iden-
+tificar a necessidade de fazê-la, mediante solicitação de autoridade competente.
+
+Com  a  incorporação,  prevalecerá  o  número  do  documento  principal.  Para 
+efeito de recuperação da informação, o número do documento incorporado 
+deverá ser registrado no Termo de Incorporação (ver p.77).
+
+14.1 rotina de incorporação
+
+14.1.1 conferir a solicitação de incorporação: a solicitação de incorpo-
+ração deverá ser realizada por meio de despacho da autoridade compe-
+tente para decisão na matéria.
+
+14.1.1.1  O  despacho  deverá  ser  realizado  no  documento  prin-
+cipal  contendo  a  indicação  de  qual(is)  documentos  será(ão) 
+incorporado(s).
+
+14.1.2 incorporar os documentos: todas as folhas do documento a ser 
+incorporado - inclusive a folha líder - deverão ser juntadas após a última 
+folha do documento principal, devidamente renumeradas e rubricadas.
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+75
+
+
+14.1.2.1 No caso de processo incorporado, a sua capa não deverá 
+ser juntada ao processo principal. Caso a capa contenha o registro 
+dos dados cadastrais do processo, as informações nela contidas de-
+verão ser transcritas para uma Folha líder (ver p.46). 
+
+14.1.3 formalizar a incorporação: a incorporação deverá ser formaliza-
+da por meio de Termo de incorporação (ver p.77), inserido após a última 
+folha do documento incorporado e devidamente numerado.
+
+14.1.4 registrar a incorporação: a incorporação deverá ser registrada 
+em sistema informatizado de gestão arquivística de documentos e in-
+formações.
+
+14.1.4.1 Para fins de controle e acesso, prevalecerá o número do 
+documento principal.
+
+14.1.4.2 O(s) número(s) do(s) documento(s) incorporado(s) deverá(ão) 
+ser registrado(s) no sistema informatizado de gestão arquivística de 
+documentos e informações e no Termo de incorporação.
+
+Incorporação
+
+76
+
+
+GoVerno do estado de são Paulo
+(Nome do órgão ou entidade)
+
+terMo de incorPoração
+
+Nesta 
+
+de 
+
+data, 
+
+atendendo 
+
+à 
+
+solicitação 
+
+ (indicar o nome, o cargo e a 
+
+unidade  da  autoridade  que  solicitou  a  incorporação),  foi(ram)  incorporado(s)  ao 
+
+documento 
+
+ (indicar a sigla/ nº /ano do 
+
+documento)  o(s)documento(s) 
+
+  (indicar  a 
+
+sigla/nº/ano 
+
+do(s) 
+
+documento(s)), 
+
+a 
+
+partir 
+
+da 
+
+folha 
+
+de 
+
+nº 
+
+ (indicar o nº da folha).
+
+Local e Data
+
+Nome, cargo e assinatura do servidor/funcionário que realizou o procedimento
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+77
+
+ 
+ 
+ 
+ 
+
+15. Encerramento de Documento
+
+É o ato expresso por meio de despacho de autoridade competente, atestan-
+do que todas as decisões e providências esperadas em relação ao objeto do 
+documento tenham sido tomadas e registradas.
+
+Deverão ser encerrados:
+
+•  Documentos compostos (processos, expediente etc.) que devido a sua 
+natureza, dependam do encerramento para o início da contagem de seu 
+prazo de guarda na Unidade Produtora, definido em anos; 
+exemplo: Processo de transferência de bens patrimoniais (04.02.04.04/
+TTD Meio). Temporalidade: Na Unidade Produtora durante 1 ano, mais 
+5 anos de guarda da Unidade com atribuições de Arquivo, seguido de 
+eliminação.
+
+•  Documentos que tenham o prazo de guarda na Unidade Produtora de-
+finido como “Vigência”. Neste caso, o encerramento se dará com o tér-
+mino da vigência. 
+exemplo: Processo de sindicância relativa à defesa de bens patrimoniais 
+(04.02.02.03/TTD Meio). Temporalidade: Na Unidade Produtora duran-
+te  a  vigência,  mais  5  anos  de  guarda  da  Unidade  com  atribuições  de 
+Arquivo, seguido de eliminação.
+
+•  Documentos que tenham o prazo de guarda na Unidade Produtora de-
+finido como “Até aprovação das contas”. Neste caso, o encerramento se 
+dará com a aprovação das contas. 
+exemplo: Processo de  arrolamento de  bens excedentes, inservíveis  ou 
+em desuso (04.02.05.02/TTD Meio). Temporalidade: Na Unidade Produ-
+tora até a aprovação das contas, mais 5 anos de guarda da Unidade com 
+atribuições de Arquivo, seguido de eliminação.
+
+O documento só deverá ser encaminhado para a sua destinação final (elimi-
+nação ou guarda permanente), conforme determinado nas tabelas de tem-
+poralidade de documentos, devidamente aprovadas e oficializadas, após o 
+seu encerramento e o cumprimento de seus prazos de guarda na Unidade 
+Produtora e/ou na Unidade com atribuições de Arquivo.
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+79
+
+ 
+ 
+  
+
+Com a reativação do documento composto, a contagem do prazo de guarda 
+será interrompida (anulada), passando a se contar o prazo novamente quan-
+do ocorrer novo encerramento.
+
+Os documentos desarquivados apenas para consultas ou vista que não resultem 
+na sua reativação, não terão o seu o prazo de guarda interrompido ou suspenso. 
+
+Não poderão ser encerrados documentos que:
+
+•  tenham um ou mais de seus volumes extraviados;
+
+•  não estejam acompanhados de todos os seus volumes;
+
+•  contenham documentos apensados;
+
+•  contenham providências administrativas pendentes;
+
+•  dependam da aprovação do Tribunal de Contas, conforme determinado 
+
+nas tabelas de temporalidade de documentos.
+
+Documentos  encerrados  não  poderão  ser  apensados,  incorporados,  ter 
+documentos  desentranhados,  receber  a  juntada  de  novos  documentos  ou 
+registro de novas decisões e providências. Ocorrendo qualquer uma destas 
+necessidades, o documento deverá ser reativado (ver p. 103).
+
+15.1 rotina de encerramento 
+
+15.1.1 Verificar o despacho: o servidor/funcionário da unidade que forma-
+lizar o encerramento deverá verificar a existência de despacho de autorida-
+de competente determinando o encerramento do documento, constando 
+nome, cargo, assinatura, unidade da autoridade competente e a data.
+
+15.1.1.1 Para fins de contagem de prazos de guarda de documen-
+tos, em conformidade com as tabelas de temporalidade de docu-
+mentos, será considerada a data do despacho de autoridade com-
+petente que determinou o encerramento do documento.
+
+15.1.1.2  Os  danos  causados  à  Administração  em  decorrência  do 
+encerramento e arquivamento de documentos com soluções pen-
+dentes são de responsabilidade da autoridade que determinou os 
+referidos atos.
+
+15.1.2  Verificar  a  regularidade  do  documento:  antes  de  formalizar  o 
+encerramento, o servidor/funcionário deverá conferir a inutilização de 
+espaços  em  branco,  a  inexistência  de  documentos  na  contracapa  do 
+processo ou expediente (anexos), a classificação, em conformidade com 
+os  planos  de  classificação,  devidamente  aprovados  e  oficializados  e  a 
+regular numeração das folhas.
+
+Encerramento de Documento
+
+80
+
+
+15.1.2.1 Em caso de irregularidade na numeração, caberá ao servi-
+dor/funcionário:
+
+a)  corrigir a numeração, se a irregularidade houver sido cometida 
+
+em sua unidade;
+
+b)  devolver para regularização, quando a irregularidade tiver sido 
+cometida pela última unidade de posse do documento, perten-
+cente ao mesmo órgão/entidade e situada no mesmo local;
+
+c)  indicar  a  irregularidade  no  Termo  de  encerramento  (ver  p.82), 
+
+nos demais casos. 
+
+15.1.3 formalizar o encerramento: o encerramento deverá ser forma-
+lizado por meio de Termo de encerramento (ver p.82), inserido após a 
+última folha do último volume do documento, devidamente numerado.
+
+15.1.4 registrar o encerramento: o encerramento deverá ser registra-
+do em sistema informatizado de gestão arquivística de documentos e 
+informações.
+
+15.1.5 Cumprir prazos de guarda e destinação final: formalizado o en-
+cerramento, o documento deverá cumprir seus prazos de guarda e/ou 
+sua  destinação  final  (eliminação  ou  guarda  permanente)  na  Unidade 
+Produtora e/ou na Unidade com atribuições de Arquivo, conforme de-
+terminado nas tabelas de temporalidade de documentos, devidamente 
+aprovadas e oficializadas.
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+81
+
+
+GoVerno do estado de são Paulo
+(Nome do órgão ou entidade)
+
+terMo de encerraMento
+
+Nesta 
+
+de 
+
+data, 
+
+atendendo 
+
+à 
+
+solicitação 
+
+  (indicar  o  nome,  o  cargo  e  a 
+
+unidade  da  autoridade  que  determinou  o  encerramento  do  documento), 
+
+registrada  na  folha  de  nº
+
+(indicar  o  nº  da  folha), 
+
+em 
+
+ (indicar data do despacho de encerramento), encerrou-se o 
+
+documento 
+
+documento).
+
+ (indicar a sigla/nº/ano do 
+
+observação:  consta  neste  documento  irregularidade  na  numeração  de  folha(s) 
+
+de 
+
+folhas). 
+
+(indicar  esta 
+
+informação  no  termo  apenas  quando  houver 
+
+irregularidade na numeração de folhas)
+
+  (indicar  a  folha  ou  o  intervalo 
+
+somente poderão ser juntados documentos avulsos a este documento composto em 
+
+caso de sua reativação.
+
+Local e Data
+
+Nome, cargo e assinatura do servidor/funcionário que realizou o procedimento
+
+Encerramento de Documento
+
+82
+
+ 
+ 
+ 
+ 
+
+16. Reconstituição
+
+É  o  procedimento  administrativo  de  recompor,  com  a  maior  fidelidade 
+possível,  um  documento  extraviado  ou  deteriorado/danificado  que  não 
+possa ser restaurado.
+
+O extravio de documento deverá ser prontamente comunicado, pelo servidor/
+funcionário que constatar o fato, à autoridade competente de sua unidade. 
+
+A Unidade Produtora do documento deverá ser notificada, caso o documen-
+to não tenha sido extraviado na sua posse, para que sejam tomadas as medi-
+das necessárias à sua localização. 
+
+Caso  o  documento  não  seja  localizado,  a  autoridade  que,  por  qualquer 
+meio,  tiver  conhecimento  do  extravio  deverá  promover  apuração  preli-
+minar, de natureza investigativa, quando a infração não estiver suficiente-
+mente caracterizada ou definida a sua autoria, para averiguar se houve o 
+ato lesivo contra o patrimônio público, de acordo com os procedimentos 
+previstos na legislação vigente. 
+
+Informado do extravio da informação solicitada, poderá o interessado re-
+querer à autoridade competente a imediata instauração de apuração pre-
+liminar para investigar o desaparecimento da respectiva documentação.
+
+Decreto estadual nº 58.052/2012, artigo 10, inciso VII, § 5º
+
+Caberá também, à autoridade competente, providenciar a reconstituição do 
+documento  e  registrar  o  seu  extravio  em  sistema  informatizado  de  gestão 
+arquivística de documentos e informações.
+
+A reconstituição de documento extraviado deverá ser realizada a partir de 
+cópias  de  documentos  que  o  compunham,  disponíveis  nas  unidades  por 
+onde o documento tramitou.
+
+Os documentos deteriorados/danificados por ação do fogo, água, infestação 
+por cupins ou brocas, incidência excessiva de radiação solar etc, quando pos-
+sível, deverão ser restaurados.
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+83
+
+
+16.1 rotina de reconstituição 
+
+16.1.1 registrar o extravio: as informações do extravio do documen-
+to  (data,  unidade  onde  foi  constatado  o  extravio  etc.)  deverão  ser 
+registradas em sistema informatizado de gestão arquivística de do-
+cumentos e informações.
+
+16.1.2 solicitar cópias às unidades: o servidor/funcionário da Unidade 
+Produtora do documento deverá solicitar às unidades por onde o do-
+cumento extraviado tramitou segundas vias ou cópias reprográficas de 
+documentos juntados, possivelmente disponíveis nessas unidades que 
+deverão ser idênticas aos originais.
+
+16.1.3  Reconstituir  o  documento:  no  caso  de  documentos  simples,  a 
+reconstituição encerra-se com a obtenção de segunda via ou cópia. Em 
+se tratando de documentos compostos, as segundas vias ou cópias re-
+prográficas deverão ser ordenadas de modo a reproduzir a composição 
+original do documento extraviado. 
+
+16.1.3.1 No caso de processos, caberá à Unidade com atribuições 
+de  Protocolo,  mediante  solicitação  de  autoridade  competente, 
+dar  forma  processual  às  segundas  vias  ou  cópias  reprográficas 
+encaminhadas  pela  Unidade  Produtora.  Esta  solicitação  deverá 
+ser juntada após a folha líder.
+
+16.1.3.2 Em todos os casos, deverá ser mantida a numeração origi-
+nal do documento (número de protocolo e/ou número de proces-
+so/expediente).
+
+16.1.4 Formalizar a reconstituição: a reconstituição deverá ser forma-
+lizada por meio de Termo de reconstituição (ver p.86), inserido ao final 
+do processo ou expediente reconstituído e devidamente numerado.
+
+16.1.4.1 Caso o documento original seja encontrado, caberá à uni-
+dade que procedeu a reconstituição realizar a comparação entre o 
+documento original e o documento reconstituído para identificar 
+quais documentos da segunda via estão em duplicidade.
+
+16.1.4.1.1 Os documentos que estiverem em duplicidade de-
+verão ser eliminados, conforme as determinações do Decreto 
+estadual nº 48.897/2004 e da Instrução Normativa APE/SAESP 
+nº  2/2010.  Os  demais  documentos  deverão  ser  juntados  ao 
+documento original.
+
+Reconstituição
+
+84
+
+
+16.1.4.1.2 O procedimento deverá ser formalizado por meio 
+do Termo de localização de documento extraviado (ver p.87), 
+inserido após a última folha do processo ou expediente origi-
+nal, devidamente numerado.
+
+16.1.5 Registrar a reconstituição: a reconstituição deverá ser registra-
+da em sistema informatizado de gestão arquivística de documentos e 
+informações.
+
+16.1.5.1 Em se tratando de processos ou expedientes, a reconsti-
+tuição deverá ser registrada no campo observações da Folha líder 
+(ver Folha líder Expediente p.37 e Folha líder Processo p.46).
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+85
+
+
+GoVerno do estado de são Paulo
+(Nome do órgão ou entidade)
+
+terMo de reconstituição
+
+Nesta data, atendendo à solicitação de 
+
+ (indicar o nome, o cargo 
+
+e  a  unidade  da  autoridade  que  solicitou  a  reconstituição  do  documento), 
+
+procedeu-se 
+
+à 
+
+reconstituição 
+
+do 
+
+documento 
+
+extraviado 
+
+ (indicar a sigla/nº/ano do 
+
+documento  extraviado),  em 
+
+  (indicar  a  data  do 
+
+extravio).
+
+Local e Data
+
+Nome, cargo e assinatura do servidor/funcionário que realizou o procedimento
+
+Reconstituição
+
+86
+
+ 
+ 
+ 
+ 
+
+GoVerno do estado de são Paulo
+(Nome do órgão ou entidade)
+
+terMo de localiZação de docuMento eXtraViado
+
+Nesta  data,  foi  localizado  o  documento 
+
+ (indicar a sigla/nº/ano do documento), que se 
+
+encontrava extraviado.
+
+Foi(ram) juntada(s) folha(s) de nº 
+
+ a 
+
+ (indicar intervalo de folhas), a(s) 
+
+qual(is) foi(ram) retirada(s) do documento reconstituído.
+
+Local e Data
+
+Nome, cargo e assinatura do servidor/funcionário que realizou o procedimento
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+87
+
+ 
+ 
+ 
+ 
+ 
+
+17. Regularização de Cadastro
+
+É o procedimento de corrigir ou atualizar informações cadastrais de um do-
+cumento, sempre que houver necessidade.
+
+No caso de processos, a regularização é de competência exclusiva da Unida-
+de com atribuições de Protocolo.
+
+ A atualização do interessado é permitida nos casos de: 
+
+•  alteração de nome, quando se tratar de pessoa física;
+
+•  alteração de razão social, quando se tratar de pessoa jurídica;
+
+•  alteração do nome do órgão/entidade, quando ocorrer reestruturação 
+
+administrativa.
+
+A regularização da classificação deverá ser realizada sempre que for consta-
+tado erro na definição da série documental.
+
+A  regularização  da  indicação  da  restrição  de  acesso  deverá  ser  realizada 
+sempre que houver desclassificação ou reavaliação de documentos, dados 
+e informações sigilosas ou pessoais. No caso de reavaliação de documento, 
+dado ou informação sigilosa, somente poderá ocorrer a redução do prazo de 
+restrição de acesso (Decreto estadual nº 58.052/2012).
+
+Em nenhum caso é permitida a alteração de número de protocolo, de núme-
+ro de processo ou de número de expediente.
+
+Somente  poderão  ser  alterados  números  de  processo  ou  e  de  expediente 
+nos casos previstos em legislação específica.
+
+17.1 rotina de regularização de cadastro
+
+17.1.1 conferir a solicitação de regularização: a solicitação de regu-
+larização deverá ser realizada por meio de despacho de autoridade 
+competente.
+
+17.1.1.1 Em se tratando de alteração de classificação de docu-
+mentos, a solicitação deverá indicar a classificação correta, em 
+conformidade com a denominação adotada no Plano de Classi-
+ficação das Atividades-Meio, aprovado pelo Decreto estadual 
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+89
+
+
+nº  48.898/2004,  ou  em  conformidade  com  o  Plano  de  Clas-
+sificação das Atividades-Fim do órgão/entidade, devidamente 
+aprovado e oficializado. 
+
+17.1.1.2 Em se tratando de alteração de interessado, a solicitação 
+deverá estar acompanhada de documento comprobatório da altera-
+ção ocorrida, cujo original ou cópia possa ser juntado ao documento.
+
+17.1.1.3 Em se tratando da alteração de indicação de restrição de 
+acesso, a solicitação deverá conter o nível (integral ou parcial), a 
+categoria  (sigiloso  e/ou  pessoal),  o  grau  de  sigilo  do  documento 
+(ultrassecreto, secreto ou reservado) e o prazo máximo de restri-
+ção de acesso: pessoal (até 100 anos), ultrassecreto (até 25 anos), 
+secreto (até 15 anos) e reservado (até 5 anos), em conformidade 
+com a Tabela de Documentos, Dados e Informações Sigilosas e pes-
+soais ou com a análise dos casos concretos.
+
+17.1.2  Emitir  nova  Folha  líder:  no  caso  de  regularização  do  cadastro  do 
+processo ou expediente, nova Folha líder (ver Folha líder Expediente p.37 e 
+Folha líder Processo p.46) deverá ser emitida em substituição da anterior.
+
+17.1.3 formalizar a regularização: a regularização deverá ser formaliza-
+da por meio de Termo de regularização (ver p. 91, 92 e 93) inserido ao 
+final do processo ou expediente, devidamente numerado.
+
+17.1.4 registrar a regularização: a regularização deverá ser registra-
+da em sistema informatizado de gestão arquivística de documentos 
+e informações.
+
+Regularização de Cadastro
+
+90
+
+
+GoVerno do estado de são Paulo
+(Nome do órgão ou entidade)
+
+terMo de reGulariZação de interessado
+
+Nesta 
+
+de 
+
+data, 
+
+atendendo 
+
+ao 
+
+despacho 
+
+  (indicar  o  nome,  o  cargo  e  a  unidade  da 
+
+autoridade  que  solicitou  a 
+
+regularização),  procedeu-se  à  alteração  da 
+
+denominação 
+
+do 
+
+interessado 
+
+de 
+
+para 
+
+ .
+
+Local e Data
+
+Nome, cargo e assinatura do servidor/funcionário que realizou o procedimento
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+91
+
+ 
+ 
+ 
+ 
+ 
+
+GoVerno do estado de são Paulo
+(Nome do órgão ou entidade)
+
+terMo de reGulariZação de classificação
+
+Nesta 
+
+de 
+
+data, 
+
+atendendo 
+
+ao 
+
+despacho 
+
+  (indicar  o  nome,  o  cargo  e  a  unidade  da 
+
+ autoridade que solicitou a regularização), procedeu-se à alteração da classificação 
+
+do  documento  de 
+
+para 
+
+, 
+
+em  conformidade  com  a  denominação  adotada  no  Plano  de  Classificação  da 
+
+Administração  Pública  do  Estado  de  São  Paulo:  Atividades-Meio,  aprovado 
+
+pelo  Decreto  estadual  nº  48.898/2004  ou  do  Plano  de  Classificação  das 
+
+Atividades-Fim  do  órgão/entidade,  aprovado  pelo  Arquivo  Público  do  Estado  e 
+
+oficializado 
+
+Classificação).
+
+ (indicar o ato normativo que aprovou o Plano de 
+
+Local e Data
+
+Nome, cargo e assinatura do servidor/funcionário que realizou o procedimento
+
+Regularização de Cadastro
+
+92
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+GoVerno do estado de são Paulo
+(Nome do órgão ou entidade)
+
+terMo de reGulariZação da indicação de restrição de acesso 
+
+Nesta  data,  atendendo  ao  despacho  de 
+
+  (indicar  o 
+
+nome, o cargo e a unidade da autoridade que solicitou a regularização), procedeu-se 
+
+neste documento 
+
+ (indicar sigla/número/ano do documento):
+
+da 
+
+ alteração 
+a categoria 
+de acesso: sigiloso e/ou pessoal);
+
+categoria 
+
+para 
+ (indicar a antiga e a nova categoria de restrição 
+
+de 
+
+ alteração da classificação de sigilo (reclassificação) de 
+
+ para 
+  (indicar  o  antigo  e  o  novo  grau  de  sigilo:  ultrassecreto, 
+
+secreto ou reservado);
+
+ alteração  do  prazo  de  restrição  de  acesso  de 
+
+  para 
+  (indicar  o  antigo  e  o  novo  prazo  de  restrição  de  acesso: 
+até 100 anos para pessoal, até 25 anos para ultrassecreto, até 15 anos para 
+secreto, até 5 ano para reservado);
+
+ desclassificação  da  categoria  de  sigilo 
+
+  (indicar  a  classificação  de  grau  de 
+sigilo  e  o  prazo  de  restrição  de  acesso),  tornando  irrestrito  o  acesso  a  este 
+documento (Decreto estadual n° 58.052/2012).
+
+Observação: Conforme a alteração realizada, poderá ser marcada mais de uma opção 
+neste termo.
+
+Local e Data
+
+Nome, cargo e assinatura do servidor/funcionário que realizou o procedimento
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+93
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+18. Consulta
+
+É o procedimento de dar acesso aos documentos produzidos, recebidos e/ou 
+acumulados pelo órgão/entidade aos seus gestores, dirigentes, servidores/
+funcionários e aos demais cidadãos interessados.
+
+As solicitações de consulta poderão ter origem:
+
+•  interna, quando  provenientes de gestores, dirigentes, servidores/fun-
+cionários do próprio órgão/entidade. Neste caso, os documentos públi-
+cos deverão ser consultados no local de arquivamento (Unidade Produ-
+tora ou Unidade com atribuições de Arquivo) ou retirados para consulta 
+em sua unidade, conforme procedimentos internos; 
+
+•  externa, quando provenientes de:
+
+a) gestores,  dirigentes,  servidores/funcionários  de  outros  órgãos/entida-
+des  da  Administração  Estadual  Paulista,  de  órgãos  públicos  de  outros 
+poderes (Legislativo e Judiciário), de outros entes da Federação; 
+
+b) cidadãos;
+
+c) advogado legalmente constituído (ver Pedido de vista, p.99).
+
+Para evitar extravio e tramitações desnecessárias, os documentos deverão 
+ser consultados no local onde estiverem arquivados (Unidade Produtora ou 
+Unidade com atribuições de Arquivo). 
+
+A solicitação de consulta deverá ser encaminhada:
+
+•  diretamente à unidade onde o documento estiver arquivado, quando se 
+
+tratar de solicitação interna; 
+
+•  para a Unidade com atribuições de Protocolo ou para o Serviço de Infor-
+mações ao Cidadão – SIC (ver Decreto estadual 58.052/2012), quando 
+se tratar de solicitação externa.
+
+Serão indeferidas as solicitações de consulta:
+
+•  a documentos pessoais que não sejam relacionados à pessoa do interessado;
+
+•  a documentos sigilosos que contenham restrição de acesso em sua tota-
+lidade. Nos casos de documentos parcialmente classificados como sigi-
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+95
+
+
+losos, será assegurado acesso à parte não sigilosa por meio de certidão, 
+extrato ou cópia com ocultação da parte sob sigilo.
+
+18.1 rotina de consulta interna
+
+18.1.1 Verificar a solicitação de consulta: o servidor/funcionário da uni-
+dade onde o documento estiver arquivado deverá verificar a existência 
+de solicitação de consulta.
+
+18.1.2  cadastrar  a  solicitação  de  consulta:  o  servidor/funcionário  da 
+unidade onde o documento estiver arquivado deverá registrar a solici-
+tação de consulta em sistema informatizado de gestão arquivística de 
+documentos e informações.
+
+18.1.2.1  No  registro  da  solicitação  de  consulta  deverá  constar  o 
+nome, cargo e unidade do solicitante e a data da solicitação. Caso 
+o documento seja consultado fora da unidade de arquivamento de-
+verá também ser registrada a unidade para qual o documento será 
+encaminhado e a data de sua devolução. 
+
+18.1.3 localizar o documento: quando a solicitação for recebida pela Uni-
+dade com atribuições de Protocolo, caberá ao servidor/funcionário desta 
+unidade realizar pesquisa no sistema informatizado de gestão arquivística 
+de documentos e informações para localizar o documento desejado. 
+
+18.1.4 atender a solicitação de consulta 
+
+18.1.4.1 O servidor/funcionário da unidade em que o documento 
+estiver arquivado poderá atender a solicitação de imediato ou en-
+trar em contato com o solicitante para agendar a consulta. 
+
+18.1.4.2 Em caso de consulta fora da unidade de arquivamento, o 
+documento deverá ser encaminhado à unidade solicitante, acom-
+panhado de relação de remessa (ver p.23).
+
+18.1.4.3 A emissão da relação de remessa é facultativa no trâmite 
+entre unidades do mesmo órgão/entidade, interligadas por sistema 
+informatizado de gestão arquivístiva de documentos e informações. 
+
+18.1.4.4 Deverá ser registrado no sistema informatizado de gestão 
+arquivística de documentos e informações a data do atendimento 
+da  solicitação  de consulta  e  a data de devolução  do  documento, 
+quando se tratar de consulta fora da unidade de arquivamento.
+
+18.2 rotina de consulta externa
+
+18.2.1  atestar  o  recebimento  da  solicitação  de  consulta:  o  servidor/
+funcionário  da  Unidade  com  atribuições  de  Protocolo  deverá  atestar 
+
+Consulta
+
+96
+
+
+por qualquer meio, sempre que solicitado, o recebimento da solicitação 
+para garantir, ao interessado, a comprovação da entrega do pedido. 
+
+18.2.2 encaminhar a solicitação de consulta: o servidor/funcionário da 
+Unidade com atribuições de Protocolo deverá realizar pesquisa no siste-
+ma informatizado de gestão arquivística de documentos e informações 
+para localizar a unidade onde o documento está arquivado e encami-
+nhar a solicitação de consulta. 
+
+18.2.3 Para atender a solicitação de consulta a unidade em que o docu-
+mento estiver arquivado deverá seguir os procedimentos da Rotina de 
+consulta interna.
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+97
+
+
+19. Pedido de Vista
+
+É o procedimento de  consulta  a  documento  realizado  pelo  interessado  ou 
+por advogado legalmente constituído.
+
+Os documentos poderão ser consultados no órgão/entidade ou retirados por 
+advogado, conforme legislação vigente.
+
+O documento deverá ser devolvido pelo advogado conforme os prazos previstos 
+em legislação específica, ou na ausência destes, definidos pelo órgão/entidade.
+
+O  pedido  de  vista  e  a  retirada  de  documento  deverão  ser  solicitados  à 
+autoridade competente para devida autorização, de acordo com a legis-
+lação vigente.
+
+Serão indeferidos os pedidos de vista:
+
+•  a documentos pessoais que não sejam relacionados à pessoa 
+
+do interessado;
+
+•  a documentos sigilosos que contenham restrição de acesso 
+em sua totalidade. Nos casos de documentos parcialmente 
+classificados como sigilosos, será assegurado acesso à par-
+te não sigilosa por meio de certidão, extrato ou cópia com 
+ocultação da parte sob sigilo.
+
+Decreto estadual nº 58.052/2012
+
+19.1 rotina de pedido de vista
+
+19.1.1 atestar o recebimento da solicitação de pedido de vista: o servi-
+dor/funcionário da Unidade com atribuições de Protocolo deverá ates-
+tar por qualquer meio, sempre que solicitado, o recebimento da solicita-
+ção para garantir, ao interessado, a comprovação da entrega do pedido.
+
+19.1.2  localizar  o  documento:  o  servidor/funcionário  da  Unidade 
+com atribuições de Protocolo deverá realizar pesquisa em sistema in-
+formatizado de gestão arquivística de documentos e informações para 
+localizar o documento. 
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+99
+
+
+19.1.3 encaminhar a solicitação à unidade de posse do documento: a 
+solicitação deverá ser encaminhada para a devida autorização da auto-
+ridade competente, de acordo com a legislação vigente.
+
+19.1.4 registrar a solicitação de pedido de vista: a unidade de posse do 
+documento deverá registrar as principais informações da solicitação em sis-
+tema informatizado de gestão arquivística de documentos e informações.
+
+19.1.5 conceder vista: o servidor/funcionário da unidade de posse do 
+documento que conceder vista ao processo ou expediente poderá en-
+trar em contato com o solicitante para informar o local, o horário e o 
+prazo para a vista ou a retirada do documento ou publicar a concessão 
+no Diário Oficial do Estado.
+
+19.1.5.1 O servidor/funcionário da unidade que conceder vista ao 
+documento deverá acompanhar o solicitante durante a consulta.
+
+19.1.5.2 Caso o solicitante necessite de cópia(s) de folha(s) do do-
+cumento, a reprodução será cobrada segundo os valores estabele-
+cidos em legislação vigente. 
+
+19.1.5.3  No  caso  de  retirada  de  documento,  o  advogado  deverá 
+preencher  e  assinar  Termo  de  empréstimo  de  documentos  para 
+vista (ver p.102).
+
+19.1.5.4 Deverá ser informado ao advogado o prazo para a devolu-
+ção do documento.
+
+19.1.6 Juntar ou arquivar a solicitação de pedido de vista
+
+19.1.6.1 Em se tratando de processo ou expediente em tramitação, 
+a solicitação deverá ser juntada ao final do documento e devida-
+mente numerada. 
+
+19.1.6.2 Em se tratando de documento encerrado, a solicitação de-
+verá ser arquivada em separado.
+
+19.1.6.3 Para evitar extravio e tramitações desnecessárias, os docu-
+mentos deverão ser consultados no local onde estiverem arquivados.
+
+Pedido de Vista
+
+100
+
+
+Constitui infração disciplinar reter, abusivamente, ou extraviar autos 
+recebidos com vistas ou em confiança.
+
+Lei federal n º 8.906/1994 artigo 34, inciso XXII
+
+A infração será punida com suspensão. A sanção disciplinar acarreta 
+ao infrator a interdição do exercício profissional, em todo o território 
+nacional, pelo prazo de trinta dias a doze meses, de acordo com os 
+critérios de individualização.
+
+Lei federal n º 8.906/1994, artigo 37, inciso I, parágrafo 1º
+
+A concessão de vista será obrigatória, no prazo para manifestação do 
+interessado ou para apresentação de recursos, mediante publicação 
+no Diário Oficial do Estado.
+
+Lei estadual nº 10.177/1998, artigo 35, parágrafo único
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+101
+
+
+GoVerno do estado de são Paulo
+(Nome do órgão ou entidade)
+
+terMo de eMPrÉstiMo de docuMento Para Vista
+
+  (indicar  nome  da 
+
+  (indicar  o  prazo  em  dias),  o 
+
+ (indicar a sigla/ nº /ano do 
+
+Nesta  data,  retiro  da 
+
+unidade),  pelo  prazo  de 
+
+documento 
+
+documento).
+
+Nome do solicitante:
+
+Nº OAB:
+
+Endereço:
+
+Telefone: 
+
+Ramal:
+
+E-mail:
+
+Quantidade de volumes: [ ]
+
+Número de folhas: [ ]
+
+Prazo de devolução: [ ] dias
+
+Observação: As informações prestadas são de inteira responsabilidade do solicitante.
+
+Local e Data
+
+Assinatura do solicitante
+
+Nome, cargo e assinatura do servidor/funcionário que realizou o procedimento
+
+Pedido de Vista
+
+102
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+20. Reativação
+
+É a retomada da tramitação de um documento encerrado, para acolher 
+novas instruções, manifestações ou decisões, quando surgirem novos fa-
+tos ou documentos. 
+
+A reativação de um documento deverá ser realizada pela unidade que estiver 
+de posse do documento (Unidade Produtora ou Unidade com atribuições de 
+Arquivo), por interesse da Administração ou a pedido do interessado, me-
+diante análise e determinação de autoridade competente. 
+
+Com a reativação do documento, a contagem dos prazos prescricionais e pre-
+caucionais previstos nas tabelas de temporalidade de documentos é interrom-
+pida (anulada), iniciando-se nova contagem quando do novo encerramento.
+
+Não deverão ser reativados documentos solicitados apenas para consulta ou vista.
+
+20.1 rotina de reativação
+
+20.1.1 Conferir a solicitação de reativação: o servidor/funcionário da uni-
+dade que estiver de posse do documento deverá verificar a existência de 
+solicitação de reativação, encaminhada por autoridade competente. 
+
+20.1.2 Formalizar a reativação: a reativação deve ser formalizada por 
+meio de Termo de reativação (ver p.104), inserido após a última folha 
+do documento e devidamente numerado.
+
+20.1.3 Registrar a reativação: a unidade que estiver de posse do docu-
+mento deverá registrar a sua reativação em sistema informatizado de 
+gestão arquivística de documentos e informações.
+
+20.1.4 encaminhar o documento: o documento solicitado deverá ser en-
+caminhado à unidade solicitante, acompanhado de relação de remessa.
+
+20.1.4.1 A emissão da relação de remessa é facultativa no trâmite 
+entre unidades do mesmo órgão/entidade, interligadas por sistema 
+informatizado de gestão arquivística de documentos e informações. 
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+103
+
+
+GoVerno do estado de são Paulo
+(Nome do órgão ou entidade)
+
+terMo de reatiVação
+
+Nesta 
+
+data, 
+
+atendendo 
+
+à 
+
+solicitação 
+
+de 
+
+(indicar 
+
+o 
+
+nome,  o  cargo  e  a  unidade  da  autoridade  que  solicitou  a  reativação  do 
+
+documento), 
+
+procedeu-se 
+
+à 
+
+reativação 
+
+do 
+
+documento 
+
+(indicar 
+
+a 
+
+sigla/nº/ano do documento).
+
+Local e Data
+
+Nome, cargo e assinatura do servidor/funcionário que realizou o procedimento
+
+Reativação
+
+104
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+21. Recomendações de Conservação
+
+Para a melhor conservação dos documentos públicos recomenda-se:
+
+21.1 Utilizar capas com visor e substituí-las sempre que necessário, evitando-
+-se tramitar documentos com capas sujas ou dilaceradas.
+
+21.2 Utilizar trilhos (tipo “Romeu e Julieta” ou “macho e fêmea”) grampos 
+ou clipes plásticos, evitando-se o uso de materiais metálicos que provocam 
+manchas de ferrugem nos documentos.
+
+21.3 Utilizar cadarços de algodão para apensar os documentos.
+
+21.4 Utilizar cola metilcelulose (a base de água), que é neutra e reversível, 
+sempre que for necessário colar documentos de tamanhos menores em fo-
+lhas em branco.  Não utilizar colas  plásticas e em bastão, que  favorecem a 
+degradação  dos  documentos,  nem  fitas  adesivas  ou  gomadas  de  qualquer 
+espécie,  que  se  alteram  e  provocam  manchas  permanentes,  bem  como  a 
+fragilização do suporte.
+
+21.5 Utilizar embalagens produzidas com material de qualidade arquivística 
+adequada, como por exemplo, as caixas de polipropileno corrugado (plásti-
+cas) para proteger os documentos das ações nocivas do ambiente. Caixas ou 
+pastas de papelão não devem ser utilizadas.
+
+21.6 Utilizar mobiliário adequado para armazenar os documentos. Os móveis 
+mais indicados são os de metal esmaltado. Móveis de madeira, fórmica ou 
+ferro não são recomendados, pois podem atrair insetos e pragas e/ou emitir 
+produtos voláteis ácidos no ambiente.
+
+21.7 Utilizar a microfilmagem, digitalização ou fotografia para reproduzir, se 
+necessário, documentos com suporte fragilizado, evitando-se, nesses casos, 
+realizar cópias reprográficas que exigem manuseio constante do documento 
+contribuindo com sua degradação. 
+
+21.8 Reproduzir e imprimir documentos no modo frente e verso, sempre que 
+possível,  para  fins  de  preservação  do  Meio  Ambiente  e redução  de  gastos 
+com material.
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+105
+
+
+22. Índice Remissivo
+
+Abertura de Expediente ver p.35
+
+Apensamento ver p.69
+
+Autuação de Processo ver p.39
+
+Atividade ver p.30
+Atividade-meio ver p.30
+
+Atividade-fim ver p.31
+
+Autenticidade ver p.18
+
+Classificação de documentos ver p.29
+
+Comissões de Avaliação de Documentos e Acesso – CADA ver p.15
+
+Consulta ver p.95
+
+Desapensamento ver p.73
+
+Desentranhamento ver p.65
+
+Destinatário ver p.29
+
+Documentos de arquivo ver p.17
+
+Documento de origem externa ver p.19
+
+Documento de origem interna ver p.19
+
+Documento em trânsito ver p. 57
+
+Documento inicial ver p.28
+Documentos compostos ver p.17
+
+Documentos simples ver p.17
+
+Dossiê ver p.17
+
+Encerramento de documento ver p.79
+
+Encerramento e abertura de volume ver p.49
+
+Expediente ver p.17
+
+Expedição de documentos ver p.57
+
+Função ver p.30
+Gestão de documentos ver p.15
+
+Incorporação ver p.75
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+107
+
+
+Imparcialidade ver p.18
+
+Interessado ver p.29
+
+Inter-relacionamento ver p.18
+
+Juntada de documentos ver p.61
+
+Naturalidade ver p.18
+
+Número de origem de expedientes e processos ver p.28
+
+Número do protocolo ver p.28
+
+Órgão produtor ver p.30
+
+Pedido de vista ver p.99
+
+Plano de Classificação de Documentos ver p.16
+
+Política Estadual de Arquivos e Gestão de Documentos ver p.15
+
+Processo ver p.17
+
+Prontuário ver p.17
+
+Reativação ver p.103
+
+Reautuação de processo ver p.39
+
+Recebimento de documentos ver p.19
+
+Reconstituição ver p.83
+
+Registro de documentos ver p.27
+
+Regularização de cadastro ver p.89
+
+Relação de remessa de documentos ver p.23
+
+Restrição de acesso ver p.32
+
+Série documental ver p.31
+
+Serviços de Arquivo ver p.15
+
+Serviços de Protocolo ver p.15
+
+Serviço de Informações ao Cidadão – SIC ver p.16
+
+Sistema Informatizado de Gestão Arquivística de Documentos e Informações 
+ver p.16
+
+Solicitante ver p.29
+
+Subfunção ver p.30
+
+Suporte ver p.33
+
+Tabela de Documentos, Dados e Informações Sigilosas e Pessoais ver p.16
+
+Tabela de Temporalidade de Documentos ver p.16
+
+Termo de abertura de volume ver p.52
+Termo de apensamento ver p.71
+
+Termo de empréstimo de documentos para vista ver p.102
+
+Índice Remissivo
+
+108
+
+
+Termo de encerramento de volume ver p.51
+
+Termo de desapensamento ver p.74
+
+Termo de desentranhamento ver p.67
+
+Termo de encerramento ver p.82
+
+Termo de incorporação ver p.77
+
+Termo de indicação de irregularidade ver p.25
+
+Termo de solicitação de autuação ver p.47
+
+Termo de localização de documentos extraviado ver p.87
+
+Termo de reativação ver p.104
+
+Termo de reconstituição ver p.86
+
+Termo de regularização da indicação de restrição de acesso ver p.93
+
+Termo de regularização de classificação ver p.92
+
+Termo de regularização de interessado ver p.91
+
+Termo para juntada de documentos com restrição de acesso ver p.64
+
+Tramitação ver p.53
+
+Unicidade ver p.18
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+109
+
+
+23. Referências Bibliográficas
+
+23.1 Manuais técnicos
+
+ADVOCACIA GERAL DA UNIÃO (Brasil). Manual de procedimentos de protoco-
+
+lo, expedição e arquivo. Brasília, 2010.
+
+AGÊNCIA NACIONAL DE ÁGUAS (Brasil). Manual de gestão de documentos, 
+
+arquivos e biblioteca. Brasília, 2005.
+
+AGÊNCIA NACIONAL DE AVIAÇÃO (Brasil). Manual de procedimentos. Brasí-
+
+lia, 2009.
+
+BERNARDES, Ieda P. (coord.); DELATORRE, Hilda. Gestão documental aplica-
+
+da. São Paulo: Arquivo Público do Estado de São Paulo, 2008.
+
+BRASIL. Ministério da Integração Nacional. Manual de procedimentos opera-
+
+cionais - apoio administrativo. Brasília, 2010.
+
+BRASIL. Ministério da Saúde. SIPAR-Sistema Integrado de Protocolo e Arqui-
+vo: curso básico de protocolo. 2. ed. aum., 3. reimpr., Brasília, 2003.
+
+CONSELHO DA JUSTIÇA FEDERAL (Brasil). Programa de gestão documental – 
+
+manual de procedimentos. Brasília, 2001.
+
+ESPÍRITO  SANTO  (Estado).  Departamento  de  Imprensa  Oficial.  Manual  de 
+
+gestão documental do Estado do Espírito Santo. Vitória, 2005.
+
+FUNDAÇÃO NACIONAL DE SAÚDE (Brasil). Cartilha de formação de processos. 
+
+1. ed. rev. Brasília, 2010.
+
+GONZÁLEZ, Glaydes G. Ordenación Documental. Bogotá: Archivo General de 
+
+La Nación, 2003.
+
+LIMEIRA (Cidade). Secretaria Municipal de Administração. Manual sobre pro-
+
+cessos. Limeira, [2006].
+
+Manual  do  Módulo  Protocolo-Sistema  Integrado  de  Gestão  Universitária, 
+
+Florianópolis: [s.n.], 2005.
+
+PARANÁ  (Estado).  Departamento  Estadual  de  Arquivo  Público.  Manual  de 
+gestão de documentos do Estado do Paraná. 2. ed. rev. e aum. Curitiba, 
+1998.
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+111
+
+
+SÃO PAULO (Cidade). Secretaria Municipal de Gestão Pública. Manual sobre 
+
+processos. São Paulo, [2006].
+
+SÃO PAULO (Estado). Departamento de Gestão do Sistema de Arquivos. Ma-
+nual de procedimentos para protocolo e arquivo. São Paulo, 2008.
+
+SÃO PAULO (Estado). Secretaria de Estado da Administração e Modernização 
+do Serviço Público. Manual de procedimentos do servidor público esta-
+dual: o protocolo. São Paulo, 1993.
+
+SÃO PAULO (Estado). Secretaria de Estado da Fazenda. Manual de procedi-
+
+mentos, sistema de protocolo único. São Paulo, 2004.
+
+SÃO PAULO (Estado). Secretaria de Estado dos Direitos da Pessoa com Defici-
+
+ência.  Manual de gestão documental. São Paulo, [2009].
+
+SILVA, Cláudia S. P. Manual de normas e procedimentos para gerenciamento 
+de processos oriundos da Fiocruz. 3. ed. Rio de Janeiro: Fundação Oswal-
+do Cruz, 2006.
+
+SOUZA, Marli M., SILVA, Denise A., SMIT, Johanna W., NASCIMENTO, Jorge H. S., 
+(org.), Gestão Documental: Procedimentos de Protocolo, 2. ed. rev. e aum., 
+São Paulo: Ed. USP, 2010.
+
+UNIVERSIDADE ESTADUAL DE CAMPINAS. Manual de gestão de processos e 
+expedientes da Universidade Estadual de Campinas. Campinas, 2009.
+
+UNIVERSIDADE ESTADUAL PAULISTA. Manual de normas processuais da Uni-
+
+versidade Estadual Paulista Julio de Mesquita. [S.l.: s.n.], 2008.
+
+23.2 referência legislativa
+
+BRASIL. Casa Civil. Lei nº 8159, de 8 de janeiro de 1991. Dispõe sobre a polí-
+tica nacional de arquivos públicos e privados e dá outras providências.
+
+BRASIL. Centro Federal de Educação Tecnológica de São Paulo–CEFET. Porta-
+ria nº 592/GAB, de 30 de maio de 2008. Aprova o Manual de Normas e 
+Procedimentos de Protocolo e de Documentação e Arquivo.
+
+BRASIL. Ministério da Defesa. Portaria do Comando Geral do Pessoal da Ae-
+ronáutica nº 89/5M, de 7 de junho de 2010. Aprova a reedição da Ins-
+trução que dispõe sobre correspondência e atos oficiais do Comando da 
+Aeronáutica.
+
+BRASIL. Ministério do Planejamento, Orçamento e Gestão. Portaria Norma-
+tiva nº 5, de 19 de dezembro de 2002. Dispõe sobre os procedimentos 
+gerais para utilização dos serviços de Protocolo, no âmbito da Adminis-
+
+Referências Bibliográficas
+
+112
+
+
+tração Pública Federal, para os órgãos e entidades integrantes do Siste-
+ma de Serviços Gerais–SISG.
+
+BAHIA (Estado). Ministério Público do Estado da Bahia. Instrução Normativa 
+nº 5, de 25 de agosto de 2005. Disciplina as atividades relacionadas ao 
+recebimento, registro, tramitação, controle e expedição de documentos 
+no Ministério Público do Estado da Bahia, em apoio aos seus órgãos de 
+administração superior, auxiliares e de execução.
+
+BAHIA (Estado). Ministério Público do Estado da Bahia. Instrução Normativa 
+nº  5,  de  5  de  outubro  de  2007.  Disciplina  as  atividades  de  expedição 
+de  documentos  para  órgãos/unidades  externas,  pelo  Protocolo  Geral 
+do  Ministério  Público  do  Estado  da  Bahia,  estabelecendo  critérios  de 
+formalização, padronização e racionalização no uso dos recursos desti-
+nados a esses serviços.
+
+PERNAMBUCO (Estado). Fundação de Aposentadorias e Pensões dos Ser-
+vidores do Estado de Pernambuco-FUNAPE. Resolução nº 13, de 23 
+de agosto de 2010. Estabelece procedimentos relativos a processos 
+e  documentos  de  benefícios  previdenciários  para  autuação,  proto-
+colização, controle, tramitação, anexação, apensação, despacho, di-
+ligência,  desentranhamento,  reconstituição,  encerramento  e  arqui-
+vamento, bem como a rotina a ser seguida a partir de seu registro no 
+âmbito da FUNAPE;
+
+RIO DE JANEIRO (Estado). Decreto nº 43.897, de 16 de outubro de 2012. Apro-
+va o Manual de Gestão de Protocolo e institui a numeração única de Pro-
+tocolo no âmbito do poder executivo estadual e dá outras providências.
+
+RIO GRANDE DO SUL (Estado). Decreto nº 43.803, de 20 de maio de 2005. 
+Regulamenta as atividades de protocolo de expedientes administrativos 
+na Administração Estadual.
+
+RIO GRANDE DO SUL (Estado). Secretaria de Estado da Administração e dos 
+Recursos  Humanos.  Instrução  Normativa  nº  2,  de  25  de  fevereiro  de 
+1997. Transmite instruções a respeito da formação de processos admi-
+nistrativos e sua tramitação. 
+
+SALVADOR  (Município).  Secretaria  Municipal  de  Administração.  Instrução 
+Normativa nº 02, de 14 de abril de 1998. Dispõe sobre organização, pro-
+tocolo, tramitação, remessa, expedição e arquivamento de processos e 
+expedientes.
+
+SANTA CATARINA (Estado). Secretaria de Estado da Administração. Instrução 
+Normativa nº 10, de 13 de julho de 2010. Orienta quanto aos procedi-
+mentos relativos ao recebimento, registro, autuação, expedição, trami-
+
+Manual de Normas e Procedimentos de Protocolo 
+para a Administração Pública do Estado de São Paulo
+
+113
+
+
+tação e arquivamento de documentos e processos eletrônicos no Siste-
+ma de Gestão de Protocolo Eletrônico–SGP-e.
+
+SÃO PAULO (Estado). Decreto nº 50.974, de 2 de dezembro de 1968. Dispõe 
+sobre a instituição do processo único destinado à apuração do tempo 
+de serviço público e dá outras providências.
+
+SÃO  PAULO  (Estado).  Lei  nº  10.294,  de  20  de  abril  de  1999.  Dispõe  sobre 
+proteção e defesa do usuário do serviço público do Estado de São Paulo 
+e dá outras providências.
+
+SÃO PAULO (Estado). Hospital das Clínicas da Faculdade de Medicina da Uni-
+versidade de São Paulo. Ordem de Serviço Consolidada nº 3, de 26 de 
+dezembro de 1994. Disciplina e atualiza as atividades do Serviço de Co-
+municações Administrativas da Divisão de Atividades Complementares.
+
+SÃO PAULO (Estado). Secretaria de Estado da Educação. Resolução nº 42, de 
+18 de junho de 2013. Dispõe sobre a tramitação de processos de contra-
+tação de serviços terceirizados.
+
+SÃO PAULO (Estado). Secretaria de Estado da Fazenda. Portaria nº 25 da São 
+Paulo Previdência, de 27 de janeiro de 2012. Dispõe sobre novo procedi-
+mento para concessão de aposentadoria no Estado de São Paulo deter-
+minando o envio de processo de aposentadoria SPPREV que deve reunir 
+documentos essenciais e suficientes para concessão do benefício de apo-
+sentadoria através de trâmite digital monitorado pelo Sistema de Gestão 
+de Benefícios Previdenciários–SIGEPREV e posterior fiscalização do Tribu-
+nal de Contas do Estado, tornando o procedimento dinâmico e célere.
+
+SÃO PAULO (Estado). Secretaria de Estado da Saúde. Resolução nº 122, de 6 
+de julho de 1995. Dispõe sobre a revisão da numeração única dos pro-
+cessos da Secretaria da Saúde e dá providências correlatas.
+
+SÃO PAULO (Estado). Secretaria de Estado dos Negócios dos Transportes. Re-
+solução n° 83, de 24 de junho de 1994. Disciplina a formação e trami-
+tação de processos, recebimento de expediente e papéis de natureza 
+diversa que tratem de assunto de cunho administrativo, no âmbito da 
+Administração Centralizada da Secretaria dos Transportes.
+
+SÃO PAULO (Estado). Secretaria de Estado do Meio Ambiente. Resolução nº 67, 
+de 9 de agosto de 2013. Regulamenta as atividades de Protocolo e Arquivo.
+
+Referências Bibliográficas
+
+114
+
+

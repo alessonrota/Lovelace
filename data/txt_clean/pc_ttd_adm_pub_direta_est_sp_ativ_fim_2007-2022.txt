@@ -2690,15 +2690,15 @@ Extratos de identificação civil e criminal INTEGRA Prontuário processual da p
 058.02.03.001
 058.01.01.001
 
-059.01.01.001
+059.01.02.003
 
 059.02.02.002
 
-058.03.01.002
-
-059.01.02.003
+059.01.01.001
 
 058.03.01.001
+
+058.03.01.002
 
 059.01.01.009
 059.01.01.010
@@ -2749,13 +2749,13 @@ Financeira do pecúlio da pessoa presa, Expediente de movimentação
 
 058.03.02.002
 
-059.02.01.001
+058.02.02.002
 
-058.02.03.003
+059.02.01.001
 
 058.03.02.002
 
-058.02.02.002
+058.02.03.003
 
 35
 
@@ -3382,13 +3382,13 @@ Expediente de medidas preventivas para segurança da pessoa presa
 
 058.02.01.008
 
-058.02.01.008
-
-059.02.01.001
+058.02.03.006
 
 059.02.01.002
 
-058.02.03.006
+058.02.01.008
+
+059.02.01.001
 
 42
 
@@ -3508,13 +3508,6 @@ Rotina e revista especial, Relatório de
 
 058.01.01.001
 
-058.02.01.013
-058.01.01.002
-059.02.02
-058.01.02
-059.02.02.002
-059.02.02.001
-
 S
 Saída da pessoa presa, Ficha de permissão de 
 Saúde da pessoa presa, Prontuário de 
@@ -3545,6 +3538,13 @@ Solicitação de remição por leitura USE Expediente de remição por leitura
 Solicitação de transferência da pessoa presa, Expediente de 
 SUPERVISÃO E CONSULTA DA EXECUÇÃO DA PENA
 Sustação cautelar de regime INTEGRA Prontuário processual da pessoa presa
+
+058.02.01.013
+058.01.01.002
+059.02.02
+058.01.02
+059.02.02.002
+059.02.02.001
 
 058.02.02.002
 059.01.01.004
@@ -5319,10 +5319,10 @@ ou 036.05.01.006
 036.05.01.011  Permissão de Trânsito Vegetal - PTV
 036.05.02 
 
-Monitoramento de insumos e conservação do solo
-
 Atividade:  
 Documentos:   036.05.02.001  Expediente de manifestação sobre o uso da queima controlada
+
+Monitoramento de insumos e conservação do solo
 
 036.05.02.002  Processo de registro de empresa, fabricante, formuladora, manipuladora, importadora, exportadora, 
 
@@ -5928,9 +5928,9 @@ Cancro cítrico, Notificação de INTEGRA Expediente de controle de praga e doen
 
 036.04.02.001
 
-036.04.02.003
-
 036.04.02.001
+
+036.04.02.003
 
 036.04.02.001
 
@@ -6005,13 +6005,13 @@ Certificadora, Processo de credenciamento de
 
 036.03.01.001
 
-036.04.02.001
-
-036.04.02.001
-
 036.03.02.007
 
+036.04.02.001
+
 036.03.01.001
+
+036.04.02.001
 
 036.04.02.001
 
@@ -6195,9 +6195,9 @@ CURSOS DE PÓS-GRADUAÇÃO E DE CAPACITAÇÃO, PROMOÇÃO DE
 036.02.01.008
 036.02.01 
 
-036.04.04.003
-
 036.04.02.001
+
+036.04.04.003
 
 036.04.02.001
 
@@ -7392,13 +7392,13 @@ Processo de regularização ambiental de propriedade e posse rural
 
 036.04.04 
 
-036.02.02.001
-
 036.04.02.001
 
 036.01.01.001
 
 036.04.02.001
+
+036.02.02.001
 
 036.04.04.002
 
@@ -7475,13 +7475,13 @@ Projeto de pesquisa USE Processo de desenvolvimento de pesquisa científica
 036.06.01.005
 036.01.01.001
 
-036.06.01.002
+036.05.02.002
 
 036.06.01.002
 
 036.05.02.003
 
-036.05.02.002
+036.06.01.002
 
 036.04.03 
 
@@ -17057,13 +17057,13 @@ pública
  
  
 
-021.01.02.001
-
-021.02.02.003
+021.02.01.005
 
 021.01.02.005
 
-021.02.01.005
+021.01.02.001
+
+021.02.02.003
 
 021.01.02.008
 021.02.01.005
@@ -17136,10 +17136,6 @@ estabelecimento de ensino e instalação de curso
 
 021.02.01.004
 
-021.02.02.005
-
-021.02.01.006
-
 021.02.02.007
 
 021.02.02.004
@@ -17147,6 +17143,10 @@ estabelecimento de ensino e instalação de curso
 021.01.02.001
 
 021.02.02.007
+
+021.02.02.005
+
+021.02.01.006
 
 162
 
@@ -20245,6 +20245,10 @@ impressão de documentos fiscais
 
  
 
+018.02.02.013
+
+018.03.02.016
+
 018.02.02.120
 
 018.02.02.013
@@ -20252,10 +20256,6 @@ impressão de documentos fiscais
 018.02.02.013
 
 018.02.02.013
-
-018.02.02.013
-
-018.03.02.016
 
 018.02.02.120
 018.02.02.114
@@ -20315,40 +20315,40 @@ Análise fiscal de doação, inventário ou arrolamento, Expediente de
 
 018.03.02.016
 
-018.02.02.013
-
-018.03.02.016
-
-018.03.02.016
-
-018.02.02.013
-
-018.03.02.016
+018.02.02.005
 
 018.02.02.022
+
+018.03.02.016
+
+018.03.02.016
+
+018.03.02.016
 
 018.02.02.040
 
 018.02.02.013
 
-018.02.02.005
+018.02.02.013
 
 018.03.02.016
+
+018.02.02.013
 
 189
 
 
-018.02.02.034
-
 018.02.02.001
 
-018.02.04.001
+018.02.02.065
 
 018.02.02.013
 
 018.02.02.065
 
-018.02.02.065
+018.02.02.034
+
+018.02.04.001
 
 018.02.02.112
 018.02.02.001
@@ -20412,21 +20412,21 @@ Atendimento referente ao Programa Nota Fiscal Paulista, Expediente de
 018.03.01.012
 018.01.01.002
 
+018.02.02.034
+
+018.03.01.017
+
+018.02.02.041
+
 018.02.02.113
 
 018.02.02.034
 
-018.02.02.034
+018.02.02.110
 
 018.02.02.034
 
 018.02.02.122
-
-018.02.02.041
-
-018.03.01.017
-
-018.02.02.110
 
 190
 
@@ -21119,13 +21119,13 @@ Divergência de arrecadação, Relatório de
 
 018.03.02
 
+018.03.02.016
+
 018.03.01.008
 
-018.03.02.016
-
-018.03.02.016
-
 018.02.02.110
+
+018.03.02.016
 
 018.03.02.016
 
@@ -21172,15 +21172,15 @@ DREMU, Declaração da Receita Tributária Própria Municipal -
 018.02.02.001
 018.03.01.018
 
-018.02.02.005
-
-018.02.02.001
-
-018.02.02.122
-
 018.03.01.013
 
 018.02.02.005
+
+018.02.02.005
+
+018.02.02.122
+
+018.02.02.001
 
 002.05.01
 
@@ -21901,25 +21901,25 @@ débito fiscal
 018.02.02.035
 018.02.02.035
 
-018.02.02.022
-
-018.02.02.037
-
-018.02.02.021
-
-018.02.02.075
-
-018.02.02.062
-
 018.02.02.074
 
 018.02.02.049
 
 018.02.02.034
 
-018.03.02.016
+018.02.02.021
+
+018.02.02.037
 
 018.02.04.001
+
+018.02.02.022
+
+018.03.02.016
+
+018.02.02.075
+
+018.02.02.062
 
 205
 
@@ -22427,11 +22427,11 @@ regularidade de tributos e multas
 210
 
 
+018.02.02.013
+
 018.02.02.071
 
 018.02.02.092
-
-018.02.02.013
 
 Pedido de certidão negativa de débitos não inscritos USE Expediente de emissão de certidão negativa de 
 débitos
@@ -22468,19 +22468,19 @@ utilização de crédito acumulado ou de produtor rural
 018.02.02.035
 018.02.02.035
 
-018.02.02.122
-
 018.02.02.065
 
-018.02.02.035
+018.02.02.074
 
 018.02.02.059
 
-018.02.02.013
+018.02.02.122
 
 018.02.02.052
 
-018.02.02.074
+018.02.02.035
+
+018.02.02.013
 
 Pedido de liquidação de débito fiscal com imposto a ser ressarcido, Processo de USE Processo de compensação, 
 restituição ou ressarcimento de tributos, multas e outras receitas
@@ -22535,9 +22535,9 @@ multas e outras receitas
 
 018.02.02.092
 
-018.02.02.092
-
 018.02.02.053
+
+018.02.02.092
 
 Pedido de restituição de custas e emolumentos USE Processo de compensação, restituição ou ressarcimento de 
 tributos, multas e outras receitas
@@ -22579,29 +22579,29 @@ Programa Nota Fiscal Paulista
 Pedido/ alteração/ reclamação, Processo de credenciamento para intervenção em ECF USE Expediente de 
 credenciamento para intervenção em Emissor de Cupom Fiscal - ECF
 
-018.02.02.065
-
 018.02.02.033
+
+018.02.02.013
+
+018.02.02.122
+
+018.02.02.031
+
+018.02.02.065
 
 018.02.02.041
 
 018.02.02.065
 
-018.02.02.053
-
-018.02.02.065
-
-018.02.02.059
-
-018.02.02.065
-
-018.02.02.122
-
-018.02.02.013
-
 018.02.02.110
 
-018.02.02.031
+018.02.02.065
+
+018.02.02.065
+
+018.02.02.053
+
+018.02.02.059
 
 PENSÃO ESPECIAL AOS PARTICIPANTES CIVIS DA REVOLUÇÃO CONSTITUCIONALISTA DE 
 1932, CONCESSÃO DE
@@ -27013,14 +27013,6 @@ de bens Inativado
 Processo de ajuizamento 
 Inativado
 
-018.03.02 
-Controle da 
-cobrança 
-administrativa de 
-débitos fiscais e 
-da inscrição na 
-dívida ativa
-
 018.03.02.005
 
 018.03.02.006
@@ -27095,6 +27087,14 @@ vigência
 -
 
 -
+
+018.03.02 
+Controle da 
+cobrança 
+administrativa de 
+débitos fiscais e 
+da inscrição na 
+dívida ativa
 
 ✓
 
@@ -29214,13 +29214,13 @@ INFRAESTRUTURA E MEIO AMBIENTE
 Código de 
 classificação
 
-064.06.02
-
 063.00.03
 
-063.00.03.001
+064.06.02
 
 063.00.02.001
+
+063.00.03.001
 
 064.01.02.001
 063.00.01
@@ -29282,23 +29282,23 @@ Apoio às embarcações, Processo de autorização para implantação de estrutu
 064.01.03
 064.01.03.001
 
+063.00.01.001
+
 064.05.01.019
 
-063.00.01.001
-
-002.05.01.001
-
 002.05.01.001
 
 063.00.01.001
+
+002.05.01.001
 
 255
 
  
 
-062.01.01
-
 064.06.01
+
+062.01.01
 
 064.06.01.001
 
@@ -29377,11 +29377,11 @@ cartilha, vídeo, roteiro, manual e fôlder - (TTD-Meio)
 
 063.00.01.001
 
+002.05.01.001
+
+002.05.01.001
+
 062.01.01.004
-
-002.05.01.001
-
-002.05.01.001
 
 063.00.01.001
 
@@ -29986,11 +29986,11 @@ Pós-graduação, Dossiê de docentes de
 
 063.00.01.001
 
+064.01.04.001
+
+064.01.04.001
+
 063.00.03.001
-
-064.01.04.001
-
-064.01.04.001
 
 064.05.03.003
 064.03.02.005
@@ -31804,6 +31804,12 @@ ambiental
 Identificação de 
 espécies vegetais
 
+064.04.03 
+Desenvolvimento 
+e controle de 
+coleções de 
+recursos naturais
+
 064.04.01.001
 
 Processo de compensação 
@@ -31826,6 +31832,36 @@ de espécies vegetais
 Livro de registro de 
 coleções de recursos 
 naturais
+
+064.04.03.002
+
+064.04.03.003
+
+064.04.03.004
+
+Processo de estudo e 
+descrição de espécies da 
+fauna e flora
+
+Processo de intercâmbio 
+de coleções de recursos 
+naturais
+
+Processo de manutenção e 
+ampliação de coleções de 
+recursos naturais
+
+vigência
+
+vigência
+
+vigência
+
+vigência
+
+vigência
+
+vigência
 
 5
 
@@ -31869,42 +31905,6 @@ do livro.
 
 O documento é importante para a 
 preservação da memória institucional.
-
-vigência
-
-vigência
-
-vigência
-
-vigência
-
-vigência
-
-vigência
-
-064.04.03 
-Desenvolvimento 
-e controle de 
-coleções de 
-recursos naturais
-
-064.04.03.002
-
-064.04.03.003
-
-064.04.03.004
-
-Processo de estudo e 
-descrição de espécies da 
-fauna e flora
-
-Processo de intercâmbio 
-de coleções de recursos 
-naturais
-
-Processo de manutenção e 
-ampliação de coleções de 
-recursos naturais
 
 276
 
@@ -34484,9 +34484,9 @@ Documento:   020.02.05.001   Tabela de acidentes na hidrovia
 
 Atendimento técnico
 
-020.02.04  
-
 020.02.05  
+
+020.02.04  
 
 299
 
@@ -38260,9 +38260,9 @@ CONTROLE DE PROCEDIMENTOS LABORATORIAIS
 056.01.03.016
 057.02.04
 
-057.02.02.003
-
 056.03.02.004
+
+057.02.02.003
 
 057.02.02.003
 
@@ -40961,13 +40961,13 @@ Protocolos de avaliação de paciente INTEGRA Prontuário do paciente
 056.01.01.001
 056.01.01.001
 
-056.01.01.001
-
-056.01.01.001
-
-056.01.01.001
-
 056.03.01.010
+
+056.01.01.001
+
+056.01.01.001
+
+056.01.01.001
 
 056.01.01.001
 
@@ -48640,9 +48640,9 @@ Apreendido, Auto de vistoria para remoção de veículo
 068.03.03.001
 068.02.05.003
 
-068.03.02.001
-
 068.03.02.002
+
+068.03.02.001
 
 403
 
@@ -48841,6 +48841,8 @@ Cargas excepcionais, Relatório de escolta de
 
 068.03.02.002
 
+068.03.01.001
+
 068.03.03.001
 
 068.05.01.001
@@ -48848,8 +48850,6 @@ Cargas excepcionais, Relatório de escolta de
 068.03.04
 068.03.01.005
 068.03.01.004
-
-068.03.01.001
 
 Carteira técnica de segurança do trabalho INTEGRA Processo para concessão de auto de vistoria do corpo de 
 bombeiros – AVCB
@@ -48925,9 +48925,9 @@ CONTROLE DA SEGURANÇA E DA DISCIPLINA DO POLICIAL PRESO, ACOMPANHAMENTO E  068.
 068.03.01.005
 068.03.04
 
-068.03.02.002
-
 068.03.02.001
+
+068.03.02.002
 
 406
 

@@ -1,0 +1,1734 @@
+COMO FAZER 2 - COMO CLASSIFICAR E ORDENAR DOCUMENTOS DE ARQUIVO
+
+COMO CLASSIFICAR E ORDENAR
+DOCUMENTOS DE ARQUIVO
+
+Janice Gonçalves
+
+                                        Reedição com correção
+
+                                        São Paulo
+                                            1998
+
+
+COMO FAZER 2 - COMO CLASSIFICAR E ORDENAR DOCUMENTOS DE ARQUIVO
+
+GOVERNO DO ESTADO DE SÃO PAULO
+MÁRIO COVAS
+GOVERNADOR
+
+SECRETARIA DE ESTADO DA CULTURA
+MARCOS MENDONÇA
+SECRETÁRIO
+
+DEPARTAMENTO DE MUSEUS E ARQUIVOS
+MARILDA SUYAMA TEGG
+DIRETORA
+
+DIVISÃO DE ARQUIVO DO ESTADO
+FAUSTO COUTO SOBRINHO
+DIRETOR
+
+COMO CLASSIFICAR E ORDENAR
+DOCUMENTOS DE ARQUIVO
+
+Janice Gonçalves
+
+Oficina realizada no dia 08 de novembro de 1997 pela AAB/
+SP – Associação dos Arquivistas Brasileiros / Núcleo Re-
+gional  de  São  Paulo,  como  resultado  do  Projeto  “Como
+Fazer”.
+
+t
+
+DIVISÃO DE ARQUIVO DO ESTADO DE SÃO PAULO
+R. Voluntários da Pátria, 596 - Santana
+CEP: 02010-000 São Paulo - SP - Brasil
+Fones / Fax: (011) 6221-1924 / 6221-4785
+
+volume 2
+
+São Paulo
+1998
+
+
+COMO FAZER 2 - COMO CLASSIFICAR E ORDENAR DOCUMENTOS DE ARQUIVO
+
+Sumário
+
+Apresentação ........................................................ 7
+
+Introdução ............................................................ 9
+
+Classificação e ordenação de documentos................ 11
+
+Classificação, identificação dos documentos
+
+ e análise documental............................................ 15
+
+Bibliografia comentada........................................... 37
+
+ASSOCIAÇÃO DOS ARQUIVISTAS BRASILEIROS
+NÚCLEO REGIONAL DE SÃO PAULO - AAB/SP
+Diretoria:
+
+Ana Maria de Almeida Camargo (Diretora)
+Silvana Goulart França Guimarães (Vice-Diretora)
+Rita de Cássia Martinez Lo Schiavo (Secretária)
+João Martins Rodrigues Neto (Tesoureiro)
+
+Comissão de cursos:
+
+Viviane Tessitore (Coord.)
+Ana Célia Navarro de Andrade
+Maria Angélica Campos Resende
+Simone Silva Fernandes
+
+DIVISÃO DE ARQUIVO DO ESTADO
+Coordenação editorial:  Lauro Ávila Pereira
+Editora responsável:  Sílnia Nunes Martins
+Revisão:
+
+Beatriz Cavalcanti de Arruda
+Tereza Regina Leme de Barros Cordido
+
+Equipe técnica: Adriana Cristina Zambrini
+
+André Oliva Teixeira Mendes
+Antonio Pedro Leme de Barros
+Débora de Castro Araújo
+
+CO-EDIÇÃO
+IMESP - Imprensa Oficial do Estado de São Paulo
+
+AGRADECIMENTOS
+FUNDUNESP - Fundação para o Desenvolvimento da UNESP
+
+Gonçalves,  Janice.
+
+Como classificar e ordenar documentos de arquivo / Janice Gonçalves.
+
+–  São Paulo: Arquivo do Estado, 1998.
+
+              37 p. : il. ; 23 cm. -- (Projeto como fazer; v. 2)
+
+ISBN  85-86726-05-2
+
+1.Arquivística - Classificação. 2. Ordenação - Arquivística I.
+
+Arquivo do Estado (São Paulo). II. Título. III. Série
+
+CDD - 025.717
+CDU - 930.251
+
+
+COMO FAZER 2 - COMO CLASSIFICAR E ORDENAR DOCUMENTOS DE ARQUIVO
+
+A direção e o corpo técnico do Arquivo do Estado sentem-se
+gratificados pelos excelentes frutos já colhidos desse profícuo rela-
+cionamento, contando que o mesmo se perpetue e se intensifique,
+em  benefício  da  comunidade  arquivística  e  da  cultura  em  nosso
+Estado.
+
+Dr. Fausto Couto Sobrinho
+
+Diretor Técnico do Arquivo do Estado
+
+Apresentação
+
+A instalação do Arquivo do Estado de São Paulo em prédio
+próprio,  na  rua  Voluntários  da  Pátria,  596,  Santana,  Capital,  com
+dependências apropriadas para abrigar seu rico acervo e pessoal
+técnico  em  número  suficiente  para  o  desenvolvimento  de  suas
+atividades, permitiu-lhe assumir uma feição muito mais dinâmica,
+passando a assumir o papel de relevo que lhe cabe historicamente
+na administração pública e entre seus congêneres.
+
+Essa nova fase da instituição manifesta-se, entre outros as-
+pectos,  pela  ampliação  da  gama  dos  serviços  prestados  na  área
+cultural,  dentre  os  quais  destaca-se  a  publicação  sistemática  de
+instrumentos de pesquisa, e de manuais  técnicos que auxiliem no
+processo de formação e aperfeiçoamento dos profissionais da área
+de arquivos.
+
+O Arquivo do Estado tem-se valido, para esse trabalho, de
+valiosas  parcerias,  cabendo  especial  relevo  às  mantidas  com  a
+Imprensa Oficial do Estado – I.O. e a Associação dos Arquivistas
+Brasileiros – AAB – Núcleo Regional de São Paulo. A primeira de-
+las vem possibilitando o desenvolvimento de um extenso programa
+de publicações (vinte e três previstas apenas para este ano), e a
+segunda  tem  resultado  numa  assessoria  permanente  –  tanto  for-
+mal, quanto informal – na área da Arquivística, eis que a AAB/SP
+congrega  especialistas  de  renome  internacional  nesse  campo  de
+atuação.
+
+A presente publicação é, pois, o resultado do esforço conju-
+gado das três instituições e integra o Projeto “Como Fazer”, elabo-
+rado pela Comissão de Cursos da AAB/SP. Orientado, como o pró-
+prio nome indica, para aspectos práticos do dia a dia dos profissio-
+nais da área, esse projeto prevê uma série de outras publicações,
+sempre de autoria de professores com larga experiência na organi-
+zação de arquivos.
+
+7 
+
+8
+
+
+COMO FAZER 2 - COMO CLASSIFICAR E ORDENAR DOCUMENTOS DE ARQUIVO
+
+Introdução
+
+O Projeto “Como Fazer” compreende uma série de oficinas
+
+de trabalho que abordam temas específicos em profundidade, tan-
+
+to em seu aspecto teórico, quanto metodológico e operacional, ca-
+
+pacitando o aluno a planejar e realizar as atividades inerentes ao
+
+aspecto  da  Arquivística  em  foco.  Visa  o  aperfeiçoamento  técnico
+
+de profissionais que já atuam na área e que possuem, no mínimo, o
+
+nível médio completo, bem como conhecimentos arquivísticos bási-
+
+cos. Como uma de suas marcas características, para cada Oficina
+
+é elaborado um Manual, de responsabilidade do Professor.
+
+Janice Gonçalves, autora deste “Como classificar e orde-
+
+nar documentos de arquivo”, é mestre em História Social pela Uni-
+
+versidade  de  São  Paulo,  especialista  em  Arquivos  Públicos  e,
+
+atualmente,  é  superintendente  da  Fundação  Pró-Memória  de
+
+Indaiatuba.
+
+Comissão de Cursos da AAB/SP
+
+9
+
+CLASSIFICAÇÃO E ORDENAÇÃO
+DE DOCUMENTOS
+
+O TEMA E O MANUAL
+
+O  presente  manual  aborda  privilegiadamente  dois  procedimentos
+técnicos arquivísticos de fundamental importância: a classificação e a orde-
+nação. As reflexões aqui contidas são, como de esperar, produto do contato
+com a bibliografia da área arquivística, do convívio com profissionais da área
+e da experiência com o processamento técnico de documentos de arquivo.
+Dai decorre que as posições assumidas no manual, em relação às diversas
+questões abordadas, sejam, em muitos aspectos, amplamente compartilha-
+das, enquanto que em outros, não.
+
+As  questões  tratadas  estão  integradas  ao  tecido  vivo  do  debate
+arquivístico e, portanto, sujeitas a questionamentos de maior ou menor pro-
+fundidade. Entendo que as divergências mais significativas estão indicadas,
+mas, considerado o próprio perfil de um manual, não são objeto de longas
+explanações: apenas pontuam o texto, sugerindo ao leitor pausas de refle-
+xão para que ele matize, repense e reelabore a argumentação apresentada.
+Assim, procurei fazer com que o manual, de forma breve e compacta, cum-
+prisse sua vocação, reunindo informações e apresentando discussões téc-
+nicas essenciais sobre o tema - servindo, enfim, como ferramenta de traba-
+lho dos profissionais da área arquivística -, sem ser confundido, porém, com
+o mero arrolamento de regras estáticas.
+
+CLASSIFICAÇÃO E ORDENAÇÃO:
+UMA PRIMEIRA APROXIMAÇÃO
+
+Tanto  a  classificação
+quanto a ordenação estão a ser-
+viço  da  organização  dos  docu-
+mentos.  Do  ponto  de  vista
+arquivístico, convém que ambas
+estejam articuladas, para que a
+organização possa resultar efici-
+ente.
+
+Classificação ou arranjo? – I
+
+No  meio  arquivístico  brasileiro,  foi
+consagrada a distinção entre “classificação”
+e “arranjo”. De acordo com tal distinção, a
+“classificação” corresponderia às operações
+técnicas destinadas a organizar a documen-
+tação de caráter corrente, a partir análise
+das funções e atividades do organismo pro-
+dutor de arquivos. Por seu turno, o “arran-
+jo” englobaria as operações técnicas desti-
+nadas  a  organizar  a  documentação  de
+caráter permanente.
+
+11
+
+
+COMO FAZER 2 - COMO CLASSIFICAR E ORDENAR DOCUMENTOS DE ARQUIVO
+
+Classificação ou arranjo? – II
+
+O  objetivo  da  classificação  é,  basicamente,  dar  visibilidade  às
+funções e às atividades do organismo produtor do arquivo, deixando cla-
+ras as ligações entre os documentos. Podemos entender que a classifi-
+cação é, antes de tudo, lógica: a partir da análise do organismo produtor
+de  documentos  de  arquivo,  são  criadas  categorias,  classes  genéricas,
+que dizern respeito às funções/atividades detectadas (estejam elas con-
+figuradas ou não em estruturas específicas, como departamentos, divis6es
+etc.). Exemplo: uma classe “Adminis-
+tração de Finanças”, subdividida em
+quatro outras: “Controle orgament6rio
+geral”,  “Receita”,  “Despesa”,  “Movi-
+mentação bancária”. Outro exemplo:
+uma classe “Departamento Financei-
+ro”, subdividida em duas: “Contabili-
+dade” e “Tesouraria”. Nas subclasses,
+serão inseridas as séries tipológicas:
+notas  de  empenho  e  comprovantes
+de pagamento, ligados às atividades
+de despesa controladas pela área de
+Contabilidade; extratos bancários, fo-
+lhas de conciliação bancária, registro
+diário de caixa e bancos, todos liga-
+dos às atividades de controle da mo-
+vimentação bancária, de modo geral.
+A  classificação  é  geralmente
+traduzida em esquema no qual a hi-
+erarquia  entre  as  classes  e
+subclasses aparece representada es-
+pacialmente.  Esse  esquema  é  cha-
+mado “plano de classificação”.
+
+Em ambos os casos, po-
+rém, o procedimento básico é
+o mesmo: definir grandes clas-
+que
+abstratas 
+ses 
+correspondam, de forma coe-
+rente e articulada, às funções
+e atividades do organismo am
+questão, no período recoberto
+pela  documentação  a  ser  or-
+ganizada.
+
+É  inegável  que  as  condições
+em  que  o  tratamento  técnico
+da documentação é feito, em
+um e outro caso, são bastan-
+te  diferentes;  no  entanto,
+pode-se considerar o trabalho
+técnico a ser  realizado subs-
+tancialmente diverso, a ponto
+de  merecer outra denomina-
+ção?
+
+Quanto  à  ordenação,  seu
+objetivo básico é facilitar e agilizar a
+consulta aos documentos, pois, mes-
+mo no que se refere a uma mesma atividade, e em relação a um mesmo
+tipo  documental,  os  documentos  atingern  um  volume  significativo.  A
+adoção de um ou mais critérios de ordenação para uma série documen-
+tal permite evitar, em princípio, que, para a localização de um único docu-
+mento, seja necessária a consulta de dezenas ou centenas de outros.
+
+O procedimento técnico de classificação alcança, portanto, os ti-
+pos documentais (identifica-os e articula-os entre si), mas considera so-
+bretudo a forma e as razões que determinaram sua existência (como e
+
+por  quê  foram  produzidos).  Já  a  ordenação  aborda  os  tipos  documentais
+especialmente do ponto de vista das consultas que lhes forem feitas.
+
+Utilizando o exemplo dado anteriormente: cabe à ordenação definir
+a  melhor  maneira  de  dispor  fisicamente  as  notas  de  empenho  (numerica-
+mente?),  os  extratos  bancários  (cronologicamente?)  e  todos  os  demais  ti-
+pos  documentais.
+
+É POSSÍVEL CLASSIFICAR SEM ORDENAR?
+
+Certamente, é possível classificar sem ordenar, mas não é recomen-
+dável (pois a organização dos documentos ficará incompleta). Documentos
+organizados através de um plano de classificação que não estiverem orde-
+nados por nenhum critério serão mais dificilmente manipulados (o acesso a
+eles será mais difícil).
+
+É POSSÍVEL ORDENAR SEM CLASSIFICAR?
+
+Grosso modo, no Brasil, na maior parte dos organismos acumula-
+dores/  produtores  de  arquivos,  é  pouco  freqüente  que  a  organização  dos
+documentos  esteja  a  cargo  de  um  profissional  que  conheça  e  aplique  ao
+seu trabalho os princípios técnicos arquivísticos. Assim, é muito raro encon-
+trar, nestes organismos, documentos classificados de acordo com a estrutu-
+ra ou com as funções que os geraram. Mais comumente, a organização dos
+documentos de arquivo costuma ser resumida à sua ordenação - após se-
+rem separados por tipo ou espécie, são ordenados cronologicamente, alfa-
+beticamente  ou  numericamente.
+
+No entanto, tal organização não é suficiente para informar sobre os
+vínculos da documentação com o seu organismo produtor. A natureza des-
+tes vínculos fica verdadeiramente clara através do plano de classificação.
+Assim, é exatamente em função de sua complementaridade que a
+classificação e a ordenação estão sendo aqui consideradas de forma con-
+junta.
+
+Sem a classificação, fica nebulosa a característica que torna os do-
+cumentos  de  arquivo  peculiares  e  diferenciados  em  relação  aos  demais
+documentos:  a  organicidade.  Nenhum  documento  de  arquivo  pode  ser
+plenamente compreendido isoladamente e fora dos quadros gerais de
+sua  produção  -  ou,  expresso  de  outra  forma,  sem  o  estabelecimento  de
+seus vínculos orgânicos. Por conseqüência, a classificação torna-se condi-
+ção para a compreensão plena dos documentos de arquivo – tanto a pers-
+pectiva de quem os organiza como de quem os consulta. De outro lado, o
+acesso bem sucedido à documentação está associado,  entre outros fato-
+
+12 
+
+13
+
+
+produção. 
+
+produção. 
+
+produção. 
+
+produção. 
+
+produção. 
+
+produção. 
+
+produção. 
+
+produção. 
+
+produção. 
+
+produção. 
+
+produção. 
+
+produção. 
+
+produção. 
+
+produção. 
+
+produção. 
+
+produção. 
+
+produção. 
+
+produção. 
+
+produção. 
+
+produção. 
+
+produção. 
+
+produção. 
+
+produção. 
+
+COMO FAZER 2 - COMO CLASSIFICAR E ORDENAR DOCUMENTOS DE ARQUIVO
+
+res, à sua localização rápida e precisa, algo que depende da convenien-
+te ordenação dos documentos.
+
+Buscar alcançar boa qualidade técnica na organização de docu-
+mentos de arquivo implica entender a necessidade de realização conjun-
+ta  -  embora  não  necessariamente  simultânea  -  dos  procedimentos  de
+classificação e de ordenação.
+
+Plano de Classificação ou Quadro do Arranjo?
+
+Como  decorrência  da  distinção  tradicional  de  “classificação”  e  “ar-
+ranjo”  ,  os  esquemas  ou  quadros  gerais  que  os  expressam  costu-
+mam ser denominados diferentemente: “plano de classificação” (para
+os documentos de caráter corrente) e “quadro de arranjo” (para os
+documentos de caráter permanente).
+Ambos, porém, têm a finalidade do traduzir visualmente as relações
+hierárquicas e orgânicas entre as classes definidas para a organiza-
+ção da documentação. Vale destacar que, no caso de documenta-
+ção de caráter permanente, as classes ganham nomes específicos:
+grupos, subgrupos a séries.
+
+CLASSIFICAÇÃO, IDENTIFICAÇÃO DOS
+DOCUMENTOS E ANÁLISE DOCUMENTAL
+
+A NECESSIDADE DE IDENTIFICAÇÃO DOS DOCUMENTOS
+E A IMPORTÂNCIA
+DA ANÁLISE DOCUMENTAL
+
+A identificação dos documentos de arquivo é o primeiro passo para
+sua organização e guarda adequadas. Na identificação, é fundamental que
+tenhamos como referência os elementos característicos dos documentos.
+
+Situação-problema:
+documentos desorganizados encontrados em depósito
+
+A situação-problema (1)
+Suponhamos que um volume imenso de docu-
+mentos seja encontrado em depósito de uma
+determinada Prefeitura Municipal. As condi-
+ções em que se encontram não são animado-
+ras: amarrados, em sacos plásticos ou soltos,
+e aparentemente sem nenhuma ordem.
+Serão documentos de arquivo?
+Como podemos ter certeza?
+
+A situação-problema (2)
+Tentando identificar os documentos encontrados,
+constatamos a existência de balancetes mensais,
+guias de arrecadação de taxas, folhas de pagamen-
+to e livros-razão, todos originais, e todos gerados
+
+pela Prefeitura Municipal.
+
+Procedimentos possíveis
+
+Bem, um encaminhamento
+possível e recomendável
+para a situação seria, pri-
+meiramente, identificar os
+documentos.
+Nessa tarefa, conviria apro-
+ximar os documentos se-
+gundo as espécies e, so-
+bretudo, segundo os tipos
+documentais. Pois os tipos
+documentais estão intima-
+mente relacionados às
+atividades que os geraram,
+e oferecem pistas significa-
+tivas, conseqüentemente,
+sobre suas condições de
+produção.
+
+O que podemos concluir?
+
+Estamos diante de um con-
+junto de documentos de
+arquivo relacionados à ad-
+ministração de finanças da
+Prefeitura  Municipal!!
+
+14 
+
+15
+
+
+COMO FAZER 2 - COMO CLASSIFICAR E ORDENAR DOCUMENTOS DE ARQUIVO
+
+A situação-problema (3)
+
+Ao lado daqueles documentos, encontramos
+cópias de folhas de controle de freqüência de
+alunos, assinadas por professores de escolas
+rurais mantidas pelo Governo do Estado, mas
+que apresentam carimbo de recebimento da
+Câmara Municipal.
+
+O que podemos concluir?
+
+Muito  provavelmente,
+estamos diante de docu-
+mentos de arquivo da
+Cârnara Municipal (envia-
+dos a ela por algurna razão
+a ser investigada, mas que
+certamente se relaciona à
+questão do ensino no âmbi-
+to do Município).
+
+Numa  situação  como  a  apresentada  acima,  a  espécie,  o  tipo,  a
+forma, o formato e o próprio conteúdo do documento são muito importan-
+tes para a sua identificação e para a sua caracterização como documen-
+to  de  arquivo.  E  todos  estes  elementos  ajudam  a  esclarecer  um  outro,
+ainda mais fundamental, que é o contexto de produção do documento.
+
+MAS, AFINAL, O QUE É UM DOCUMENTO?
+
+Pensemos  em  três  pessoas  com  perfis  profissionais  distintos  -
+um porteiro, um motorista de táxi e um historiador. Se solicitássemos a
+todos que mencionassem a1guns “documentos”, ao acaso, que tipo de
+respostas  obteríamos?
+
+É bem provável que, como a maior parte das pessoas, o porteiro
+e o motorista de táxi citassem: cédulas de identidade; certidões de nasci-
+mento, de casamento ou de óbito; certificados de reservista; carteiras de
+trabalho  etc.  Fundamentando  suas  respostas,  poderíamos  perceber  a
+associação de “documento” àquilo que de alguma forma medeia as rela-
+ções dos indivíduos com a esfera pública.
+
+No senso comum, o documento costuma ser entendido como tudo aquilo
+que possa, registrar (e atestar) o cumprimento de deveres do indivíduo,
+enquanto  cidadão,  ou  mesmo  servir  como  garantia  de  direitos;  e,  em
+geral, “documento” também costuma estar identificado a “documento escri-
+to”.
+
+Por seu lado, um historiador, hoje, tenderá a dar uma definição mais
+ampla de “documento”, abrangendo tanto a esfera pública da vida dos indi-
+víduos como a esfera privada, e contemplando registros nos mais variados
+suportes, formas e formatos.
+
+Para um historiador, praticamente tudo poderá vir a ser considerado “do-
+cumento”,  desde que forneça informação sobre algum problema sujeito
+à investigação histórica.
+
+Assim, uma camiseta poderá ser considerada um documento de cul-
+tura material, informando sobre a indústria de malhas ou sobre moda; uma
+boneca poderá informar sobre práticas  lúdicas infantis ou sobre a socieda-
+de de consumo; um disco poderá informar sobre a indústria fonográfica, a
+produção musical ou os padrões estéticos vigentes numa determinada épo-
+ca. Aquilo que para a maior parte das pesso-
+as, no seu dia-a-dia, não é documento, pode
+ser “transformado” em documento por um his-
+toriador, em função de seu interesse por cer-
+tos  temas  de  pesquisa.  Para  poder  realizar
+tal “transformação”, o historiador passa a de-
+tectar,  nestes  materiais,  mais  do  que  o  seu
+mero valor primário - para ele, a camiseta não
+é  apenas  algo  para  vestir,  a  boneca  não  é
+apenas algo para brincar, o disco não é ape-
+nas algo para ouvir. Ao valor primário destes
+materiais - aquele valor que fez com que fos-
+sem produzidos, o valor que lhes foi atribuído
+primeiramente, primariamente - o historiador
+acrescenta  um  segundo  valor,  um  valor  se-
+cundário.
+
+Valores primários
+e secundários
+Em Arquivística, a discus-
+são em torno dos valores
+primários a secundários da
+documentação está intima-
+mente associada à questão
+da avaliação de documen-
+tos - isto é, da determina-
+ção de valores (sejam eles
+administrativos, jurídico-
+legais ou histórico- cultu-
+rais) que permitam estabe-
+lecer a destinação ser dada
+a ales (eliminação, guarda
+temporária ou guarda per-
+manente). Os valores pri-
+mários são também chama-
+dos de valores imediatos, e
+os valores secundários,
+mediatos.
+
+É  sabido  que  os  historiadores  -  e  os
+especialistas em documentos, em geral - de-
+moraram a adotar esta visão tão ampla de “do-
+cumento”.  Mas  é  curioso  observar  que,  hoje
+como  no  século  XIX,  na  visão  do  senso  co-
+mum ou de profissionais, a definição de documento ainda continua ligada à
+idéia de prova, enquanto demonstração ou evidência.
+
+16 
+
+17
+
+
+COMO FAZER 2 - COMO CLASSIFICAR E ORDENAR DOCUMENTOS DE ARQUIVO
+
+Por mais heterodoxos que sejam os documentos dos quais lance
+mão, atualmente, o historiador sempre recorrerá a eles para fundamen-
+tar suas interpretações: ao citar os documentos consultados em sua pes-
+quisa, não só estará declarando, indiretamente, que eles possibilitaram
+suas interpretações, como assegurando que tais interpretações não são
+mero fruto de sua criatividade e imaginação (os documentos “demonstra-
+riam”, “evidenciariam”, em alguma medida, a consistência de suas refle-
+xões). Certamente, as grandes inovações tecnológicas do século XX e a
+possibilidade de registrar informações numa multiplicidade de materiais,
+dimensões  e  circunstâncias  contribuíram  enormemente  para  ampliar  a
+noção  de  “documento”.  E,  assim,  cruzando  reflexões  historiográficas  e
+inovações tecnológicas, poderemos compreender melhor a tendência de
+os “profissionais dos documentos” (arquivistas, museólogos, bibliotecári-
+os e documentalistas em geral) adotarem uma definição de “documento”
+que contemple toda esta diversidade - entendendo-o, muito simplesmen-
+te, como todo registro material de informação.
+
+Os elementos característicos dos documentos:
+suporte, forma, formato, gênero,
+espécie, tipo, contexto de produção
+
+Por  mais  variados  que  sejam,  os  documentos  costumam  apre-
+sentar elementos característicos comuns: suporte, forma, formato, gêne-
+ro,  espécie,  tipo  e  contexto  de  produção.  Para  maior  clareza,  convém
+examinar as definições técnicas:
+
+Suporte 
+
+Forma 
+
+Formato 
+
+Gênero 
+
+Espécie 
+
+definição técnica 
+“Material sobre o qual 
+as informações são 
+registradas.” 
+“Estágio de 
+preparação e de 
+transmissão de 
+documentos.” 
+“Configuração física 
+de um suporte, de 
+acordo com a 
+natureza e o modo 
+como foi 
+confeccionado.” 
+“Configuração que 
+assume um 
+documento de acordo 
+com o sistema de 
+signos utilizado na 
+comunicação de seu 
+conteúdo.” 
+“Configuração que 
+assume um 
+documento de acordo 
+com a disposição e a 
+natureza das 
+informações nele 
+contidas.” 
+
+Tipo 
+
+“Configuração que 
+assume uma espécie 
+documental, de 
+acordo com a 
+atividade que a gerou. 
+
+exemplos 
+
+fita magnética, filme de nitrato, 
+papel 
+
+original, cópia, minuta, 
+rascunho 
+
+caderno, cartaz, diapositivo, 
+folha, livro, mapa, planta, rolo 
+de filme 
+
+documentação audiovisual, 
+documentação fonográfica, 
+documentação iconográfica, 
+documentação textual 
+
+boletim, certidão, declaração, 
+relatório 
+
+boletim de ocorrência, boletim 
+de freqüência e rendimento 
+escolar, certidão de 
+nascimento, certidão de óbito, 
+declaração de bens, 
+declaração de imposto de 
+renda, relatório de atividades, 
+relatório de fiscalização 
+
+  Obs.: as definições acima relacionadas são as mesmas que se encontram em Dicionário 
+ de Terminologia Arquivística. São Paulo: AAB-SP, Secretaria de Estado da Cultura, 1996. 
+
+18 
+
+19
+
+ 
+ 
+ 
+ 
+ 
+
+COMO FAZER 2 - COMO CLASSIFICAR E ORDENAR DOCUMENTOS DE ARQUIVO
+
+No  exemplo  dado  anteriormente  -  dos  documentos  reunidos  de
+forma desordenada no depósito de uma Prefeitura Municipal -, a impor-
+tância  da  análise  dos  elementos  característicos  dos  documentos  já  foi
+destacada. No entanto, é preciso salientar que, ao menos no caso dos
+documentos de arquivo, um destes elementos é ainda mais determinante
+na organização da documentação: o contexto de produção, ou seja, as
+circunstâncias que fizeram com que o documento existisse e tivesse um
+suporte, uma forma e um formato específicos, configurando um determi-
+nado tipo documental.
+
+Diferentemente do que ocorre com os demais elementos caracte-
+rísticos dos documentos, o contexto de produção não pode ser percebi-
+do apenas através da análise minuciosa do documento que tivermos em
+mãos  -  embora  a  análise  sempre  forneça  indicações  preciosas  a  este
+respeito. Como, então, tal contexto pode ser reconstruído, por parte de
+quem está incumbido de organizar a documentação?
+
+O CONTEXTO DE PRODUÇÃO DOS DOCUMENTOS DE
+ARQUIVO E A IMPORTÂNCIA DO ESTUDO DA ESTRUTURA
+E DO FUNCIONAMENTO
+DO ORGANISMO PRODUTOR
+
+Na história das sociedades, as etapas da existência de pessoas e
+entidades  -  nascimento/criação  e  implantação,  crescimento/desenvolvi-
+mento,  morte/desativação  -  foram  e  são,  costumeiramente,  objeto  de
+registro, nos mais variados suportes. Tais registros, intimamente relacio-
+nados às diversas atividades exercidas, ao longo do tempo, por pessoas
+e entidades - ou, mais precisamente, por pessoas físicas ou jurídicas -
+dão origem a arquivos. O documento de arquivo é, assim, o documento
+que um determinado organismo - seja ele pessoa física ou jurídica - pro-
+duz  no  exercício  de  suas  funções  e  atividades  (“produção”  que  pode
+significar tanto a elaboração do documento pelo próprio organismo, como
+a recepção e guarda). Conseqüentemente, compreender o contexto de
+produção de um documento de arquivo exige conhecer a história do or-
+ganismo produtor, abordando-a, principalmente, na perspectiva das fun-
+ções e atividades por ele desenvolvidas - na perspectiva da estrutura e
+funcionamento do organismo produtor.
+
+Que procedimentos devem ser adotados para estudar a estrutura
+e funcionamento do organismo produtor de arquivo, no decorrer de sua
+história?
+
+Antes de tudo, é preciso localizar as fontes de informação privile-
+
+giadas para a realização do estudo.
+
+Se  o  organismo  produtor  de  arquivo  for  uma  entidade  (pessoa
+jurídica),  muito  provavelmente  estas  fontes  estarão  no  próprio  arquivo,
+correspondendo a documentos relacionados à criação e à instalação da
+entidade e aos principais momentos de reformulação ou redirecionamento
+administrativo.  No  caso  de  instituições  públicas,  as  informações  sobre
+sua criação e sobre suas principais transformações estruturais deverão
+estar  contidas  na  legislação,  podendo  ser  complementadas  através  da
+consulta de relatórios de atividades (indicando em que medida as dispo-
+sições legais se efetivaram) e atas de reuniões das instâncias internas
+de  poder.  No  caso  de  instituições  particulares,  ao  invés  da  legislação,
+outros documentos de constituição são, freqüentemente, mais decisivos
+(estatutos sociais, por exemplo), mas o estudo da estrutura e do funcio-
+namento do organismo também costuma se apoiar em atas de reuniões
+e  relatórios  de  atividades,  ou  outros  documentos  correlatos  (planos  de
+metas, projetos institucionais etc.).
+
+Se  o  organismo  produtor  de  arquivo  for  uma  pessoa  física,  as
+fontes  privilegiadas  para  a  realização  do  estudo  serão  os  documentos
+que  concentram  informações  gerais  sobre  sua  vida.  Também  aqui,  há
+grande probabilidade de que estas fontes componham o próprio arquivo
+a ser organizado: currículos (muito úteis, por serem simultaneamente sin-
+téticos  e  abrangentes),  diários  (ótimos  para  esclarecem  dúvidas  mais
+pontuais), relatos de caráter memorialístico etc.
+
+Caso a consulta a todos estes documentos não seja suficiente ou
+ainda, por alguma razão, tais documentos não mais existam ou não se-
+jam encontrados - será necessário localizar outras fontes de informação:
+amigos e parentes do titular do arquivo, ou antigos diretores e funcioná-
+rios da entidade (que estejam dispostos a fornecer depoimentos); estu-
+dos e trabalhos que tratem, direta ou indiretamente, da entidade ou da
+pessoa que produziu o arquivo etc.
+
+A  localização  e  a  consulta  destas  fontes  de  informação  devem,
+em princípio, resultar na reunião substancial de dados que, sistematiza-
+dos permitirão compreender o contexto geral de produção dos documen-
+tos.
+
+Na sistematização dos dados levantados, será importante, para a
+organização  dos  documentos  de  arquivo,  detectar  com  clareza  as  fun-
+ções  primordiais  assumidas  pelo  organismo  produtor.  O  conjunto  de
+funções  detectadas  envolverá  necessariamente,  atividades  que  deve
+cumprir de forma direta (atividades-fim), bem como atividades que lhe
+servem como suporte (atividades-meio).
+
+Grosso modo, uma escola terá como função primordial servir como
+espaço de exercício de práticas pedagógicas que  permitam  o  ensino-
+
+20 
+
+21
+
+
+COMO FAZER 2 - COMO CLASSIFICAR E ORDENAR DOCUMENTOS DE ARQUIVO
+
+aprendizagem.  Já  uma  livraria  terá  como  função  primordial  o  comércio
+de publicações (especialmente, livros e revistas). Embora as funções pri-
+mordiais de ambas sejam distintas e, igualmente, suas atividades-fim, é
+muito  provável  que  existam  atividades-meio  semelhantes  (controle  de
+finanças,  controle  de  materiais,  manutenção  das  instalações  físicas,
+contratação de pessoal etc.).
+
+Definir  atividades-fim  e  atividades-meio  e  relacioná-las  a  funções  mais
+abrangentes já significa reunir elementos para a classificação dos documen-
+tos. A reunião lógica de funções e atividades, com a percepção de sua
+maior ou menor autonomia ou subordinação  interna, permitirá a elabo-
+ração do plano de classificação.
+
+ELABORAR PLANOS DE CLASSIFICAÇÃO
+DE DOCUMENTOS DE ARQUIVO
+
+Ao estabelecer as “classes” do plano de classificação, devemos
+seguir um critério funcional (classes correspondendo estritamente a fun-
+ções)  ou  estrutural  (classes  correspondendo  a  “estruturas”  -  setores,
+divisões,  departamentos)?
+
+A questão talvez pareça equivocada - uma falsa questão -, uma
+vez que as estruturas presentes em um determinado organismo produtor
+de arquivo (neste caso, obrigatoriamente uma entidade) devem, em prin-
+cípio, guardar correspondência com funções por ele assumidas e desen-
+volvidas.
+
+No  entanto,  a  questão  se  sustenta,  e  não  é  de  fácil  resolução,
+pois a opção por um ou outro critério poderá interferir na coerência inter-
+na do plano de classificação.
+
+Quem  se  habitua  a  estudar,  numa  perspectiva  propriamente
+arquivística,  a  história  de  organismos  produtores  de  arquivo,
+freqüentemente se depara com situações em que algumas funções são
+logo  traduzidas  em  unidades  administrativas  claramente  definidas,  ao
+passo que outras, apesar de importantes e exercidas com regularidade,
+tardam ou nunca chegam a ter uma correspondência “estrutural”. Como
+proceder?  Elaborar  um  plano  de  classificação  em  parte  funcional,  em
+parte,  estrutural?
+
+A opção pela classificação “estrutural” é, tradicionalmente, mais
+aceita  e  adotada.  Apresenta,  porém,  inconvenientes  -  quando  não  há
+estruturas que digam respeito à totalidade das funções e atividades do
+organismo; quando, eventualmente, as estruturas existentes são confu-
+sas,  misturando  indevidamente  funções;  quando  as  estruturas  sofrem
+alterações  constantes.
+
+De modo geral, e salvaguardadas as exceções de praxe, entendo
+que  a  opção  pela  classificação  estritamente  “funcional”,  apesar  de  me-
+nos  freqüente  e  tecnicamente  mais  complexa,  costuma  atender  melhor
+as  exigências  da  classificação  arquivística.  No  entanto,  cabe  ao  profis-
+sional de arquivo examinar cada situação e decidir pelo que se apresen-
+tar como tecnicamente mais correto.
+
+Classificação funcional, estrutural ou “por assunto”
+
+A questão da opção preferencial pela classificação funcional ou estrutural é
+polêmica  e  parece  muito  longe  de  qualquer  consenso.  Como  elemento
+complicador, ambas as classificações são, com freqüência, associadas à clas-
+sificação “por assunto” .
+No âmbito arquivístico, o emprego do termo “assunto” gera inúmeras confu-
+sões, sendo ora entendido como “função”, ora como “tema”. Seria conveniente
+que o uso do termo “assunto” fosse evitado, pois se refere, mais propriamente,
+ao conteúdo estrito de um documento. Assim, um relatório sobre as atividades
+de alunos e professores de uma escola municipal nas comemorações do Dia
+da Brasilidade estará associado à função “desenvolvimento de atividades pe-
+dagógicas” (ou outra similar), mas poderá ser remetido a “assuntos” ou temas
+diversos (ensino, civismo, nacionalismo etc.).
+
+Convém ainda salientar que, para elaborar planos de classifica-
+ção de boa qualidade técnica, não basta proceder ao levantamento exaus-
+tivo de funções, atividades-fim e atividades-meio, nem apenas optar, após
+muita reflexão, pelo critério funcional ou estrutural. Se o plano esboçado
+resultar em um número muito grande de classes, tenderá a ser utilizado
+com certa dificuldade - quantas classes terão que ser examinadas para
+que o melhor “local” do documento seja encontrado? Por outro lado, se
+resultar  em  um  número  reduzido  de  classes  para  urna  documentação
+muito variada e volumosa, é possível que se torne insatisfatório. O mes-
+mo poderá acontecer no caso de classes muito especificamente ligadas
+a determinados documentos, de tal modo que não permitam a inclusão
+de  outros  que  venham  a  ser  produzidos.  A  elaboração  do  plano  não
+pode estar desconectada da preocupação com sua aplicação.
+
+22 
+
+23
+
+
+COMO FAZER 2 - COMO CLASSIFICAR E ORDENAR DOCUMENTOS DE ARQUIVO
+
+Assim, convém buscar, para as classes a serem criadas, um ní-
+vel de generalidade ideal, que proporcione ao menos três qualidades ao
+plano de classificação:
+
+Simplicidade 
+
+Flexibilidade 
+
+Expansibilidade 
+
+Estas três qualidades, reunidas, deverão permitir que o plano de
+classificação seja aplicado sem grandes dificuldades, bem como possibi-
+litar a necessária adaptação a situações não previstas nos levantamen-
+tos  efetuados  para  sua  elaboração  (como  o  surgimento  de  novas
+atividades, ou a incorporação de novos documentos a classes anterior-
+mente  definidas).
+
+Por fim, é interessante verificar se o plano de classificação, uma
+vez elaborado, está livre de algumas deficiências técnicas: ele fetivamente
+espelha,  com  clareza,  o  conjunto  de  atividades  do  organismo  produtor
+de arquivo? mesmo que não tenhamos nenhuma informação sobre este
+organismo, será possível identificar o seu perfil, por meio do exame das
+diversas classes do plano? a hierarquização das classes foi bem realiza-
+da? e as classes definidas - não se sobrepõem, em alguma medida?
+
+Alguns exemplos de planos de classificação
+
+Seguem, adiante, dois exemplos de planos de classificação, não
+só  para  evitar  que  as  considerações  aqui  tecidas  pareçam  excessiva-
+mente abstratas, como para permitir, de imediato, que sejam melhor ava-
+liadas  e  ponderadas.  Não  são,  portanto,  apresentados  corno  modelos,
+mas como referências para reflexão.
+
+Administração 
+Material 
+Patrimônio 
+Pessoal 
+Protocolo 
+Transporte 
+Manutenção 
+
+Agricultura 
+Cultura 
+
+Equipamentos 
+Eventos 
+
+Desenvolvimento Urbano e Rural 
+
+Habitação 
+Meio Ambiente 
+Obras Particulares 
+Obras Públicas 
+Uso e Ocupação do Solo  
+
+Educação 
+
+Educação Infantil 
+Ensino Fundamental 
+Ensino Superior 
+Merenda Escolar 
+
+Esportes 
+
+Finanças 
+
+Contabilidade 
+Orçamento 
+Tesouraria 
+Tributação 
+Representação 
+
+Assessoria Jurídica 
+Eleições 
+Publicidade 
+
+Saúde 
+
+Assistência Médico-Odontológica 
+Vigilância Sanitária 
+Serviços Municipais 
+Abastecimento 
+Água e Esgotos 
+Cemitério 
+Recursos Energéticos 
+Limpeza Pública 
+Segurança 
+Telecomunicações 
+Trânsito 
+Transportes 
+
+Fonte:ARQUIVO  PÚBLICO  E  HISTÓRICO  DE  RIBEIRÃO  PRETO.  Guia  doArquivo
+Público e Histórico de Ribeirão Preto. Ribeirão Preto (SP): O Arquivo, 1996.
+
+Exemplo 1: Plano de classificação adotado para os fundos públicos do
+Arquivo Público e Histórico de Ribeirão Preto (identificado como “Quadro
+de Classificação dos Documentos do Poder Público Municipal”). São dis-
+criminados abaixo apenas os grupos e subgrupos.
+
+Exemplo 2: Plano de classificação adotado para o arquivo do Sindicato
+dos Jornalistas Profissionais no Estado de São Paulo (identificado como
+“Quadro  de  arranjo  do  Fundo  Sede  do  SJPESP”).  São  discriminados
+abaixo apenas os grupos e subgrupos.
+
+24 
+
+25
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+COMO FAZER 2 - COMO CLASSIFICAR E ORDENAR DOCUMENTOS DE ARQUIVO
+
+Administração 
+  Tomada de decisão 
+    Assembléia 
+    Reunião de diretoria 
+    Reunião do Conselho de Base 
+  Suporte às atividades-fim 
+    Recursos financeiros 
+    Recursos humanos 
+    Recursos patrimoniais 
+    Recursos informacionais 
+    Recursos documentais 
+  Escolha de dirigentes 
+Assistência Jurídica 
+  Acompanhamento de processos trabalhistas 
+  Homologação 
+  Pedidos de Aposentadoria 
+Assistência à Saúde 
+  Atendimento ambulatorial 
+  Convênios 
+Assistência Social 
+  Auxílio-funeral 
+  Auxílio-natalidade 
+  Bolsas de estudo 
+  Campanhas 
+  Convênios 
+  Financiamento de casa própria 
+  Fundo-desemprego 
+  Fundo de greve 
+Comunicação 
+  Boletim do Sindicato 
+  Café Jornal 
+  Jornal Unidade 
+  Liberdade Sindical 
+  Mural 
+Cultura 
+  Biblioteca 
+  Cineclube 
+  Conferências 
+  Cursos 
+  Palestras 
+
+  Prêmios 
+
+Defesa de Condições de Trabalho 
+  Acompanhamento de casos individuais 
+  Acompanhamento de casos coletivos 
+  Campanhas específicas / gestões 
+  Campanhas salariais 
+  Organização das redações 
+Defesa do Exercício Profissional 
+  Campanhas 
+  Denúncias junto à DRT (Delegacia Regional do 
+    Trabalho) 
+  Pareceres sobre registro profissional 
+Fiscalização da Aplicação do Código de Ética 
+  Sindicâncias 
+Formação Profissional 
+  Campanhas 
+  Cursos 
+Formação Sindical 
+  Conferências 
+  Congressos 
+  Cursos 
+  Debates 
+  Publicações 
+Lazer I Recreação 
+  Baile da Imprensa 
+  Colônia de Férias 
+  Shows 
+Relações Sindicais 
+  Campanhas 
+  Congressos 
+  Debates 
+  Entidades 
+Relações Sociais 
+  Campanhas 
+  Congressos 
+  Debates 
+  Entidades 
+Sindicalização 
+  Admissão / demissão de sócios 
+  Campanhas 
+  Sindicâncias 
+
+Fonte: LO SCHIAVO, Rita de Cássia Martinez. Roteiro para organização de arquivos
+de  entidades  de  classe.  São  Paulo,  1997.  Dissertação  de  mestrado  apresentada  à
+FFLCH/USP.
+
+As classes e subclasses de um plano de classificação podem ser
+numeradas  seqüencialmente  ou  receber  um  código  alfabético,  numéri-
+co,  ou  alfanumérico,  definido  por  quem  o  elaborou.  Para  que  a  hierar-
+quia entre as classes e suas divisões se torne mais perceptível, muitas
+
+vezes opta-se por atribuir a elas números que sigam as convenções do
+método decimal ou do método duplex’1 .
+
+      A ORDENAÇÃO: SOBRE QUAIS DOCUMENTOS RECAI?
+
+No  presente  manual,  a  ordenação  está  sendo  entendida  como
+tecnicamente  muito  menos  complexa  que  a  classificação:  trata-se  de
+estabelecer um ou mais critérios que determinem a disposição física de
+um  dado  conjunto  de  documentos  -  e  não  um  conjunto  qualquer,  mas
+uma série, isto é, o conjunto de unidades de um mesmo tipo documen-
+tal. Em princípio, se a classificação precedeu a ordenação, os diversos
+tipos documentais deverão ser facilmente visualizáveis, pois estarão (ou
+deveriam estar) contidos no plano, identificáveis sempre como as meno-
+res subdivisões no interior de cada grande classe.
+
+Se, portanto, os documentos a serem ordenados são tipos docu-
+mentais, o que deve ser considerado no estabelecimento de critérios para
+sua  ordenação?
+
+                            ORDENAÇÃO: A IMPORTÂNCIA
+                                 DE CONSIDERAR OS TIPOS
+                                                DE BUSCA
+
+Para  definir  como  devem  ser  ordenados  os  documentos,  deve-
+mos considerar os tipos de busca a que estarão sujeitos: como os docu-
+mentos  poderão  ser  procurados?  ou,  de  forma  mais  precisa:  como  os
+documentos poderão ser mais freqüentemente procurados?
+
+As respostas tenderão a variar, para uma mesma documentação,
+caso ela esteja em sua fase corrente ou permanente. De uma forma ou
+de outra, entretanto, as respostas dependerão da percepção, por parte
+do  arquivista,  das  necessidades  dos  usuários  principais  dos  documen-
+tos. Deste modo, se uma determinada empresa reúne correspondência
+
+1  Para  que  possa  ser  aplicado  o  método  decimal,  o  plano  não  pode  ter  mais  de  10
+classes, e suas subdivisões seguintes também devem estar limitadas a dez. Assim, sen-
+do 100 a primeira classe, as subclasses imediatas corresponderão às dezenas existen-
+tes entre a primeira e a classe seguinte, 200 (ou  seja, 110, 120, 130 etc.); por sua vez, as
+subdivisões da classe 110 serão as dez que existem entre 110 e 120 (ou seja, 111, 112,
+113 etc.), e assim por diante. No método duplex, não há limite máximo para classes e
+subclasses;  as  divisões  entre  classes  e  subclasses  são  indicadas  por  traços  (ou,  em
+outras versões, por pontos): sendo 1 a primeira classe, as divisões imediatas serão 1-1,
+1-2, 1-3 etc.; as divisões de 1-1 serão 1-1-1, 1-1-2, e assim sucessivamente.
+
+26 
+
+27
+
+ 
+ 
+ 
+
+COMO FAZER 2 - COMO CLASSIFICAR E ORDENAR DOCUMENTOS DE ARQUIVO
+
+ com clientes e fornecedores de todo o país, e se há interesse da empre-
+sa em realizar projetos regionais, provavelmente haverá também interes-
+se em buscar as diversas cartas em função da situação geográfica de
+seus destinatários e emitentes; também, muito provavelmente, no interi-
+or  desta  ordenação  geográfica  haverá  interesse  em  agrupar  as  cartas
+pelos  fornecedores  e  clientes  da  empresa  (ordenação  alfabética  dos
+nomes)  e,  finalmente,  de  ordenar  cronologicamente  as  cartas  trocadas
+com cada um deles.
+
+Série e tipo
+documental – I
+
+Não há consenso
+arquivístico quanto às
+séries: seriam apenas
+tipológicas? não pode-
+riam ser “funcionais” ou
+“temáticas”? Destaco,
+como apoio para a re-
+flexão, que a palavra
+“série” está fortemente
+associada a dois signi-
+ficados: seqüência e
+conjunto.  Costumam
+formar uma série os
+elementos que, mesmo
+não sendo rigorosa-
+mente iguais, apresen-
+tam entre si mais se-
+melhanças do que dife-
+renças, o que permite
+sua reunião (dando
+origem a um conjunto).
+
+Portanto, mais de um critério de ordenação
+poderá  ser  adotado  para  os  documentos,  de
+acordo com a conveniência do seu usuário prin-
+cipal - no caso citado, a própria entidade pro-
+dutora do arquivo. Assim, os interesses do usu-
+ário  principal,  ao  consultar  a  documentação,
+têm que ser conhecidos por aquele que orga-
+niza os documentos.
+
+Porém, nem sempre a forma de ordenação
+que  seria  supostamente  mais  adequada  aos
+interesses  imediatos  do  usuário  se  revela  a
+mais  adequada  à  organização  dos  documen-
+tos, tomados na inteireza de seu ciclo vital. Por
+exemplo: as prefeituras municipais costumam
+produzir,  anualmente, milhares de processos,
+a partir de requerimentos diversos encaminha-
+dos a elas pelos cidadãos. Tais processos cos-
+tumam ter origem em um único órgão, embora
+tramitem  por  vários;  freqüentemente,  o  órgão
+no qual os requerimentos foram protocolados
+e autuados reúne os processos em ordem nu-
+mérica  seqüencial,  a  cada  ano,  e,  também
+freqüentemente, é pelo número que são solici-
+tados. Aparentemente, a ordenação mais con-
+veniente  seria  a  cronológica  e  numérica  (por
+ano e, no interior do ano, por número de pro-
+cesso). Mas, seria mesmo?
+
+Se atentarmos para as consultas feitas a es-
+tes  processos,  verificaremos  que  as  solicitações
+dos  documentos  se  fazem  em  função  do  tipo  de
+requerimento, antes de tudo, e depois pelo reque-
+rente, sendo que o número do processo é o único
+mecanismo  disponível  de  busca.  Se  pensarmos
+ainda que esta documentação terá que ser avalia-
+da, estando sujeita a eliminação, torna-se clara a
+maior conveniência de tais processos estarem agru-
+pados segundo o  tipo de requerimento (de apro-
+vação de plantas, de parcelamento de taxa de as-
+falto, de revisão de IPTU, de “habite-se”, de con-
+cessão de alvará de funcionamento etc.).
+
+A  que  conclusões  podemos  chegar,  neste
+
+caso?
+
+Série e tipo
+documental - Il
+
+ Ao serem reunidos,
+os elementos de
+uma série usualmen-
+te obedecem a uma
+certa disposição su-
+cessiva, seja ela
+temporal ou espacial
+/ física. Ora, numa
+perspectiva
+arquivística, não é o
+conjunto de docu-
+mentos de um mes-
+mo tipo documental
+(passível de disposi-
+ção física sucessiva,
+a partir de critérios
+comuns) o mais coe-
+rentemente identifi-
+cado a uma série?
+
+Em primeiro lugar, que a ordenação adotada
+pela unidade de origem é insatisfatória, por não se
+dar sobre os tipos documentais, propriamente: um
+processo de requerimento de aprovação de planta
+de construção é bastante diferente de um proces-
+so  de  revisão  de  IPTU,  relacionando-se  a  áreas,
+funções e atividades administrativas distintas. Em segundo lugar, que os
+documentos, mesmo separados por tipos e talvez ordenados por ano e
+por  requerente,  ainda  terão  o  número  como  um  mecanismo  de  busca
+importante (mesmo se a administração não o utilizar, o número possivel-
+mente será a única informação que o requerente disporá sobre o proces-
+so). Assim, se o número do processo não for considerado na ordenação
+direta dos documentos, deverá ao menos ser considerado na elaboração
+de instrumento paralelo de busca (uma listagem, por exemplo).
+
+AS DIVERSAS FORMAS DE ORDENAÇÃO
+
+       A adoção de uma determinada forma de ordenação está longe de
+ser uma obviedade. Além de ter de considerar os interesses dos usuários
+e a própria perspectiva de avaliação e eliminação de documentos, o ar-
+quivista deve verificar se a ordenação adotada não cria dificuldades para
+os funcionários que ficarão diretamente incumbidos dela. Por tudo isso,
+deve-se optar, tanto quanto possível, por formas simples de ordenação.
+         A ordenação é feita com base nos elementos informativos contidos
+nos documentos. De forma geral (e sempre dependendo do  tipo  docu-
+
+28 
+
+29
+
+
+COMO FAZER 2 - COMO CLASSIFICAR E ORDENAR DOCUMENTOS DE ARQUIVO
+
+mental em questão), os elementos informativos mais comumente toma-
+dos como referência para a ordenação são:
+
+a) Número do documento (atribuído pelo emissor ou pelo receptor);
+b) Data;
+c) Local de procedência;
+d) Nome do emissor ou do destinatário;
+e) Objeto ou tema específico do documento.
+
+Se os documentos a serem ordenados forem relatórios anuais de
+atividades da entidade, mais provavelmente serão consultados de acor-
+do com a data, e, portanto, ordenados cronologicamente. Se forem rela-
+tórios mensais de atividades de funcionários, elaborados por eles e diri-
+gidos  ao  superior,  os  documentos  poderão  ser  ordenados  cronologica-
+mente e alfabeticamente: divididos em meses, e dentro de cada mês, por
+nome  de  funcionário  (caso,  para  a  entidade,  seja  importante  acompa-
+nhar  sistematicamente  as  atividades  de  cada  funcionário,  a  ordenação
+poderá  ser  invertida:  alfabeticamente,  por  nome  de  funcionário,  sendo
+os relatórios de cada um ordenados cronologicamente). Se forem plan-
+tas  de  construções  residenciais  aprovadas  no  município,  poderão  ser
+ordenadas cronologicamente e alfabeticamente (pelo nome do projetista/
+construtor, pelo nome do proprietário ou por ambos os nomes, definindo-
+se apenas o elemento informativo que deve preceder ao outro). Se forem
+portarias e resoluções, deverão ser procuradas pelo número (ordenação
+numérica  simples);  poderão  ainda  ser  procuradas  conforme  o  seu  “as-
+sunto” ou tema estrito, o que exigirá a confecção de um vocabulário con-
+trolado que preveja os temas mais regulares ou prováveis e os transfor-
+me  em  descritores  (então,  as  portarias  serão  reunidas  conforme  esses
+descritores  e  distribuídas  sucessivamente,  na  ordem  alfabética  dos
+descritores)2.   Neste último exemplo,  caberia verificar o tipo de busca
+mais importante; se o nível de importância fosse praticamente equivalen-
+te, seria conveniente a elaboração de um índice remissivo (temático, se a
+ordenação fosse numérica; numérico, se a ordenação obedecesse a cri-
+tério temático).
+
+Os  exemplos  poderiam  ser  multiplicados,  a  partir  da  considera-
+ção de diferentes  tipos  documentais.  Já  são  suficientes,  entretanto,
+2 Os procedimentos para elaboração deste vocabulário controlado seriam os mesmos
+adotados pela biblioteconomia a as disciplinas ligadas à documentação em geral. No
+caso citado, a necessidade de informação estaria exigindo o conhecimento e a
+indexação do conteúdo estrito de cada documento - um grau de detalhamento que
+não pode ser alcançado pela classificação, tal como tratada neste manual, e pela abor-
+dagem essencialmente tipológica da documentação.
+
+para reforçar o que foi dito anteriormente, quanto à adoção de um único
+critério  de  ordenação  para  um  mesmo  tipo  documental:  mais
+freqüentemente,  é  necessário  combinar  dois  ou  três  critérios,  de  modo
+que a ordenação garanta a agilidade necessária à consulta. Além disso,
+nota-se que nem sempre a ordenação final será suficiente para dar conta
+de  todos  os  tipos  de  buscas  -  daí  a  necessidade  de  elaborar  índices
+remissivos  que  contemplem  as  buscas  não  atendidas  pela  ordenação
+adotada.
+
+Outra conclusão a que se pode chegar, a partir do que foi exami-
+nado até agora, é que as modalidades de ordenação usualmente consi-
+deradas principais - numérica simples, cronológica, numérico-cronológi-
+ca, alfabética, geográfica e temática - formam, a rigor, duas grandes ca-
+tegorias: uma, das que tomam como referência elementos informativos
+compostos por algarismos, e outra, das que tomarn como referência ele-
+mentos  informativos  compostos  por  letras3 . Como a habilidade de lidar
+com seqüências numéricas crescentes e a de lidar com a seqüência das
+letras do alfabeto são amplamente compartilhadas pelas pessoas, é raro
+que a aplicação de alguma das modalidades de ordenação acima referi-
+das se depare com dificuldades de porte.
+
+Não  obstante,  a  ordenação  alfabética,  em  especial,  pode  gerar
+dúvidas  em  algumas  situações  específicas,  sobretudo  quando  tiverem
+de  ser  ordenados  nomes  de  pessoas  físicas  e  jurídicas.  Nestes  casos,
+são seguidas as regras clássicas de alfabetação:
+1)  Nomes  de  pessoas  físicas  são  registrados  de  forma  invertida,  com
+entrada pelo nome de família;
+2) Nomes de família compostos por substantivo mais adjetivo, ou unidos
+por hífen, são considerados no seu conjunto;
+3) Nomes de família que designam entidades religiosas (santos ou san-
+tas) também são considerados integralmente;
+4) Prenomes ou nomes de empresas abreviados devem ter precedência;
+5) Artigos e preposições devem ser desconsiderados;
+6) Nomes que designam grau de parentesco, (Filho, Neto, Sobrinho) são
+considerados apenas quando o nome de família não for suficiente para
+realizar a ordenação;
+7) Nomes espanhóis têm entrada pelo penúltimo nome de família;
+8) Nomes orientais não são invertidos;
+9) Títulos (Prof., Dr., Ministro etc.) são desconsiderados;
+
+3  Para  definições  técnicas  dos  tipos  de  ordenação  anteriormente  referidos,  consultar:
+Dicionário de Terminologia Arquivística, op. cit.
+
+30 
+
+31
+
+
+COMO FAZER 2 - COMO CLASSIFICAR E ORDENAR DOCUMENTOS DE ARQUIVO
+
+10) Nomes de entidades são registrados tal como se apresentam;
+11) Eventos (como congressos, reuniões, seminários) têm entrada pelo
+seu nome, sendo o número de sua edição considerado apenas quando o
+nome do evento não for suficiente para realizar a ordenação4 .
+
+CLASSIFICAÇÃO E ORDENAÇÃO NOS
+ARQUIVOS CORRENTES E PERMANENTES
+
+Feita, então, a abordagem genérica da classificação e da ordena-
+ção arquivísticas, cabe tratar um pouco mais de perto das especificidades
+que apresentam, em arquivos de perfil institucional, nas fases; corrente e
+permanente.
+
+CLASSIFICAÇÃO E ORDENAÇÃO NOS ARQUIVOS
+CORRENTES: RELAÇÕES COM O PROTOCOLO
+E A EXPEDIÇÃO DE DOCUMENTOS
+
+Os documentos de arquivo de uma entidade são produzidos para
+cumprirem uma determinada finalidade e, para isso, usualmente, trami-
+tam. Ao tramitarem, os documentos circulam de uma entidade para ou-
+tra,  ou  de  um  setor  para  outro  da  mesma  entidade,  até  finalmente  ser
+arquivados. Todos os documentos que tramitam no interior de uma enti-
+dade foram elaborados diretamente por ela ou foram a ela encaminha-
+dos. Assim, os documentos de arquivo guardam relações estreitas com o
+protocolo e a expedição da documentação.
+
+A expedição pode ser centralizada ou não. É muito comum que
+as várias unidades administrativas de um órgão expeçam documentos. A
+expedição descentralizada costuma obrigar a uma multiplicidade de con-
+troles e registros do que é expedido, e é freqüentemente acompanhada
+da criação de pequenos “arquivos” em setores e seções (sendo arquiva-
+das, basicamente, as cópias de tudo o que é expedido). Neste caso, a
+pulverização da organização dos documentos de arquivo favorece a fal-
+ta de unidade de procedimentos técnicos, e também dificulta a adoção
+de um plano de classificação unificado.
+
+4 As informações sobre as regras de alfabetação, bem como as modalidades de ordena-
+ção,  foram  em  grande  medida  adaptadas  de  PAES,  Marilena  Leite.  Arquivo:  teoria  e
+prática, 28 ed. Rio de Janeiro: FGV, 1991. esp. p. 33-62.
+
+Similarmente, nem sempre há um setor ou serviço de protocolo
+centralizado - às vezes, nem mesmo formalmente estruturado. No entan-
+to, de uma forma ou de outra, todo organismo deve providenciar a reali-
+zação de algumas das atividades essenciais de um serviço de protocolo
+-  receber,  identificar,  registrar  e  distribuir  os  documentos  na  entidade.
+Seria desejável ainda que, a estas atividades básicas, fosse acrescenta-
+da a de classificar os documentos.
+
+Qual  a  importância  de  classificar  os  documentos,  nos  locais  de
+
+expedição e de protocolo?
+
+A classificação é o procedimento mais determinante na organiza-
+ção  dos  documentos  de  arquivo:  no  que  se  refere  especificamente  à
+fase corrente, os documentos podem ser classificados durante a própria
+tramitação,  o  que  já  os  “prepara”  para  a  integração  aos  demais  docu-
+mentos, quando tiverem de ser arquivados. Mais que isso: a classifica-
+ção dos documentos na sua entrada ou saída do órgão auxilia na atuali-
+zação do plano de classificação, pois novos tipos documentais, não pre-
+vistos  no  plano,  que  forem  recebidos  ou  expedidos  terão  necessaria-
+mente que ser incorporados a ele. Neste sentido, se adotado em todas
+as unidades que lidam com os documentos - seja protocolando-os, expe-
+dindo-os ou arquivando-os -, o plano de classificação será um instrumen-
+to fundamental para a realizarão da gestão de documentos.
+
+O UNIVERSO DOS DOCUMENTOS A SEREM
+CLASSIFICADOS E ORDENADOS
+NOS ARQUIVOS CORRENTES
+
+Na  fase  corrente,  o  plano  de  classificação  deve  abranger  todos
+os tipos documentais produzidos/acumulados pela entidade, pois todos
+eles devem ser objeto de organização, estando, portanto, sujeitos à clas-
+sificação e à ordenação. Sendo assim, o plano de classificação será tam-
+bém  extremamente  útil  à  elaboração  dos  planos  de  destinação  e  das
+tabelas de temporalidade, essenciais no processo de avaliação de docu-
+mentos de arquivo.
+
+32 
+
+33
+
+
+COMO FAZER 2 - COMO CLASSIFICAR E ORDENAR DOCUMENTOS DE ARQUIVO
+
+CLASSIFICAÇÃO E ORDENAÇÃO NOS ARQUIVOS
+CORRENTES: RELAÇÕES COM OS TIPOS DE BUSCA
+
+OS ARQUIVOS PERMANENTES E SUAS RELAÇÕES
+COM OS ARQUIVOS CORRENTES E INTERMEDIÁRIOS
+
+A  consulta  aos  documentos  guardados  nos  arquivos  correntes
+costuma exigir rapidez e precisão na sua localização, e um arquivamento
+que permita até mesmo sua recuperação individual. Os tipos de busca,
+entretanto, podem variar - desde a busca pontual (em relação a um do-
+cumento específico, cuja data, local de produção e emitente são conhe-
+cidos),  até  a  tipológico-cronológica  (ex.:  todos  os  contratos  de  trabalho
+do  último  exercício),  ou  mesmo  “temática”,  no  sentido  de  se  referir  ao
+conteúdo  estrito  do  documento  (ex.:  todos  os  documentos  que  versam
+sobre um mesmo projeto, ou funcionário, ou departamento etc.).
+
+Como já foi mencionado anteriormente, os tipos de busca influen-
+ciam enormemente a adoção desta ou daquela modalidade de ordena-
+ção.  Mas,  como  também  já  foi  salientado,  muito  embora  a  ordenação
+atribuída  aos  documentos,  na  fase  corrente,  deva  atender
+satisfatoriamente  às  demandas  de  seus  usuários  (essencialmente,  os
+funcionários da própria entidade), não deve deixar de ser adequada, igual-
+mente, às necessidades do processo de avaliação.
+
+VÍNCULOS DA CLASSIFICAÇÃO E DA ORDENAÇÃO
+COM O PROCESSO DE AVALIAÇÃO
+
+Do que foi dito, conclui-se que, na fase corrente, tanto a classifi-
+cação  como  a  ordenação  a  serem  adotadas  devem  ter  no  horizonte  o
+processo  de  avaliação.  Os  estudos  que  precedem  a  classificação  dos
+documentos são decisivos para a compreensão da estrutura e do funcio-
+namento do organismo gerador de arquivo, fornecendo condições para a
+discussão  dos  valores  administrativos,  jurídico-legais  e  histórico-cultu-
+rais da documentação (e, conseqüentemente, de sua destinação). A clas-
+sificação,  em  si  -  desde  que  periodicamente  atualizada  -,  possibilita  o
+levantamento sistemático de toda a produção documental do organismo,
+sem o qual a tarefa de elaboração dos planos de destinação e das tabe-
+las de temporalidade torna-se extremamente árdua.
+
+Resta  destacar  ainda  que  a  própria  avaliação  dos  documentos
+deverá determinar, em princípio, transformações significativas na sua clas-
+sificação e ordenação (que, na fase permanente, terão que ser repensa-
+das e readequadas).
+
+Teoricamente,  o  arquivo  permanente  de  uma  entidade  é  o  seu
+arquivo corrente transformado pelas eliminações efetuadas no processo
+de avaliação e pelas mudanças observadas nos valores primários e se-
+cundários de seus documentos. Pois, em princípio, os documentos de
+caráter permanente  invertem a relação estabelecida, na fase corrente,
+entre valor primário e valor secundário: enquanto os documentos corren-
+tes costumam apresentar alto valor primário e baixo valor secundário, é
+de se esperar que os documentos de caráter permanente possuam bai-
+xo valor primário e alto valor secundário.
+
+Seguindo  o  mesmo  raciocínio,  os  arquivos  intermediários  nada
+mais seriam do que os arquivos correntes a meio caminho desta transfor-
+mação.
+
+O UNIVERSO DOS DOCUMENTOS A SEREM
+CLASSIFICADOS E ORDENADOS
+NOS ARQUIVOS PERMANENTES
+
+Para organizar os documentos de arquivo de caráter permanen-
+te, é necessário, primeiramente, estudar a história, a estrutura e o funci-
+onamento da entidade, e a partir disso elaborar uma classificação para
+os documentos (classificação que, na fase permanente, como já foi men-
+cionado,  costuma  ser  denominada  “arranjo”).  Ou  seja:  em  suas  linhas
+gerais, a classificação obedece, na fase permanente, aos mesmos pro-
+cedimentos adotados para a classificação dos documentos na fase cor-
+rente.
+
+Se os documentos de arquivo já tiverem sido classificados na fase
+corrente, de acordo com as diferentes estruturas/atividades ou funções/
+atividades da entidade produtora, a tarefa dos arquivistas, na fase per-
+manente, será facilitada - só precisarão rever e adaptar a classificação
+adotada, sobretudo em função das eliminações realizadas na passagem
+dos documentos correntes para o arquivo intermediário (transferência) e
+dos  documentos  que  se  encontravam  no  arquivo  intermediário  para  o
+arquivo  permanente  (recolhimento).
+
+34 
+
+35
+
+
+COMO FAZER 2 - COMO CLASSIFICAR E ORDENAR DOCUMENTOS DE ARQUIVO
+
+CLASSIFICAÇÃO E ORDENAÇÃO NOS ARQUIVOS
+PERMANENTES: RELAÇÕES COM OS TIPOS DE BUSCA
+
+Se a classificação tem que ser reformulada, na fase permanente,
+o mesmo deve ocorrer, em alguma medida, com a ordenação, caso as
+demandas dos usuários dos documentos de caráter permanente sejam
+pouco compatíveis com as necessidades dos usuários dos documentos
+na sua fase corrente.
+
+Nos  arquivos  permanentes  de  caráter  privado,  a  quase
+indiferenciação dos usuários - pois a abertura à consulta pública é mais
+rara,  neste  caso  -  provavelmente  não  exigirá  alterações  na  ordenação.
+Já nos arquivos permanentes públicos, o acesso dos cidadãos à docu-
+mentação deve ser garantido, o que faz com que os usuários passem a
+ter um perfil bastante diferenciado: praticamente saem de cena os funci-
+onários da administração e passam a predominar os pesquisadores (ama-
+dores ou profissionais). Assim, os tipos de busca tenderão a se diferenci-
+ar bastante, do que era observado na fase corrente.
+
+No entanto, no caso de existirem novas demandas de busca, os
+arquivistas  dos  arquivos  permanentes  serão  sempre  obrigados  a  optar
+pela alteração da ordenação dos documentos?
+
+Vivendo um ritmo menos frenético de busca dos documentos, tais
+arquivistas, ao invés de se dedicarem a modificar a ordenação dos docu-
+mentos, poderão optar por elaborar instrumentos de pesquisa que aten-
+dam às necessidades dos usuários. Os mecanismos de elaboração des-
+tes instrumentos são domínio da descrição arquivística, outro momento
+fundamental da organização de documentos de arquivo.
+
+Ao se dedicarem à classificação e à ordenação arquivísticas, os
+profissionais  da  área  certamente  encontrarão  situações  não  previstas
+nos exemplos e comentários deste manual - e, frente a situações diferen-
+tes, diferentes encaminhamentos deverão ser dados. Porém, algum novo
+problema ou desafio pode ser enfrentado com instrumentos e ferramen-
+tas completamente novos? Não estamos sempre nos servindo de infor-
+mações  e  experiências  já  adquiridas,  que  adaptamos  e  transformamos
+constantemente?
+
+Longe da pretensão de fornecer respostas a toda a sorte de per-
+guntas, esteve na base da elaboração deste manual apenas a intenção
+de fornecer os materiais de informação e reflexão necessários à realiza-
+ção tecnicamente qualificada dos procedimentos arquivísticos de classi-
+ficação e ordenação. Só o “fazer” de seus leitores poderá demonstrar em
+que grau esta intenção se tornou realidade.
+
+BIBLIOGRAFIA COMENTADA
+
+BELLOTTO, Heloísa Liberalli. Arquivos permanentes: tratamento docu-
+mental. São Paulo: T.A.Queiroz, 1991. Neste livro, Heloísa Bellotto - uma
+das  mais  importantes  arquivistas  do  pais  -  reúne  textos  que,  em  sua
+maioria, foram anteriormente apresentados em encontros ou publicados
+em  revistas  especializadas,  aqui  fundidos,  revisados  e/ou  ampliados.
+Capítulos mais diretamente relacionados ao tema do manual: “Identifica-
+ção de fundos”, “Sistemática do arranjo”, “A ordenação interna dos fun-
+dos”.
+
+DICIONARIO de Terminologia Arquivística. S. Paulo: AAB-SP, Secreta-
+ria de Estado da Cultura, 1996. É uma versão revista e ampliada do dici-
+onário publicado pela AAB-Núcleo Regional de São Paulo em 1990. Em
+seus  verbetes,  assinala  a1gumas  concepções  inovadoras  e  polêmicas,
+em relação às terminologias usualmente empregadas no país. Na defini-
+ção de suas próprias coordenadoras, o dicionário é o “fruto do amadure-
+cimento das discussões terminológicas” que, entre 1991 e 1996, “envol-
+veram os profissionais de arquivo” - sobretudo os profissionais que parti-
+ciparam mais diretamente do projeto deste dicionário, entre os quais se
+inclui a autora do presente manual.
+
+HEREDIA HERRERA, Antonia.  Archivistica general: teoria y práctica.
+5a. ed. actualizada y aumentada. Sevilla: Diputación Provincial de Sevi-
+lla, 1991. Manual da conhecida arquivista espanhola, abordando questões
+arquivísticas  fundamentais.  Boa  introdução  para  aqueles  interessados
+em conhecer as peculiaridades do debate arquivístico na Espanha, não
+só em relação à classificação e à ordenação.
+
+PAES, Marilena Leite. Arquivo: teoria e prática. 2a ed. Rio de Janeiro:
+Fundação Getúlio Vargas, 1991. Versão revista e ampliada do trabalho
+Teoria e prática de arquivo, publicado em 1972, e que, por sua vez, já
+era versão do trabalho O papel da arquivística na documentação, pu-
+blicado  em  1969.  É,  há  quase  três  décadas,  obra  de  referência  funda-
+mental na parca bibliografia arquivística brasileira. Muito embora as refle-
+xões  contidas  no  presente  manual  guardem,  hoje,  uma  certa  distância
+deste trabalho de Marilena Leite Paes, é certo que são, em grande medi-
+da, fruto da sua leitura e releitura constantes.
+
+36 
+
+37
+
+
+COMO FAZER 2 - COMO CLASSIFICAR E ORDENAR DOCUMENTOS DE ARQUIVO
+
+SCHELLENBERG, TR. Arquivos modernos: princípios e técnicas. Trad.
+Nilza  Teixeira  Soares.  Rio  de  Janeiro:  Fundação  Getúlio  Vargas,  1973.
+Obra de leitura obrigatória, do arquivista americano que influenciou deci-
+sivamente as discussões arquivísticas no Brasil.
+
+TESSITORE,  Viviane.  Arranjo:  estrutura  ou  função?  Arquivo:  boletim
+histórico e informativo, São Paulo, 10(l): 19-28, jan.-jun. 1989. Impor-
+tante reflexão sobre as implicações da classificação (“arranjo”) funcional
+ou estrutural dos documentos de arquivo. No texto, há um balanço das
+posições de vários arquivistas sobre a questão, tais como Schellenberg,
+Michel Duchein, Vicenta Cortés Alonso, Antonia Heredia Herrera, Marilena
+Leite Paes e Heloísa Bellotto.
+
+VAZQUEZ,  Manuel.  Introducción  a  la  Archivología:  guia  de  estudio.
+Mercedes (Bs.As): Asociación Bonaerense de Archiveros, 1994. Manual
+que  reúne  as  posições  fundamentais  deste  arquivista  argentino.  Mais
+diretamente  relacionado  ao  tema  do  presente  manual:  capítulo  3,  “El
+documento de archivo”.
+
+38 
+
+

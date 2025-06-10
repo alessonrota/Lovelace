@@ -1,0 +1,4525 @@
+ARQUIVO PÚBLICO DO ESTADO 
+Sistema de Arquivos do Estado de São Paulo – SAESP 
+
+GESTÃO DOCUMENTAL APLICADA 
+
+GGeessttããoo  DDooccuummeennttaall  
+
+AApplliiccaaddaa  
+
+Ieda Pimenta Bernardes 
+Hilda Delatorre 
+
+Governo do Estado de São Paulo 
+São Paulo 
+2008 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+
+Gestão Documental 
+Aplicada 
+
+Ieda Pimenta Bernardes 
+Hilda Delatorre 
+
+2 
+
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+GOVERNO DO ESTADO DE SÃO PAULO 
+
+José Serra 
+Governador 
+
+CASA CIVIL 
+
+Aloysio Nunes Ferreira Filho 
+Secretário Chefe 
+
+ARQUIVO PÚBLICO DO ESTADO 
+
+Carlos de Almeida Prado Bacellar 
+Coordenador 
+
+DEPARTAMENTO DE GESTÃO DO SISTEMA DE 
+ARQUIVOS DO ESTADO DE SÃO PAULO - SAESP 
+
+Ieda Pimenta Bernardes 
+DDiirreettoorraa  TTééccnniiccaa  
+
+3 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+______________________________________________________________________________________________________________________ 
+
+FICHA CATALOGRÁFICA 
+
+ Ieda Pimenta Bernardes (Coordenação) 
+       Gestão Documental Aplicada / Ieda Pimenta Bernardes, Hilda Delatorre 
+ São Paulo: Arquivo Público do Estado de São Paulo, 2008 
+       54 p. 
+
+       ISBN: 978-85-61599-02-7.  
+
+       1. Arquivologia 2. Arquivos públicos – São Paulo (Estado) 3. Gestão documental 4. Plano de      
+classificação 5. Tabela de temporalidade 6. Documentos Públicos – São Paulo (Estado) 
+I. Título 
+______________________________________________________________________________  
+
+Copyright ã 2008 by Sistema de Arquivos do Estado de São Paulo – SAESP 
+Rua Voluntários da Pátria, 596, 02010-000, São Paulo-SP 
+Fone: (0xx11) 2221-3990 
+saesp@arquivoestado.sp.gov.br 
+www.saesp.sp.gov.br 
+
+Arquivo Público do Estado 
+www.arquivoestado.sp.gov.br 
+
+4 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Índice  
+
+Gestão documental e cidadania.........................................................................6 
+
+Os arquivos e a gestão documental..................................................................7 
+Objetivos da gestão de documentos..............................................................................8 
+Atividade da gestão de documentos...............................................................................9 
+A gestão e o ciclo de vida dos documentos..................................................................10 
+Instrumentos de gestão de documentos.......................................................................10 
+
+Gestão de documentos: fundamentos legais................................................11 
+
+Plano de Classificação de Documentos de Arquivo...................................14 
+Objetivos e benefícios da classificação........................................................................14 
+Contexto de produção e organicidade..........................................................................15 
+Classificação e análise de documentos........................................................................15 
+Propriedades dos documentos de arquivos..................................................................15 
+Documentos de arquivo: elementos característicos......................................................16 
+Metodologia e estratégias para elaboração do Plano de 
+Classificação de Documentos de Arquivo.....................................................................16 
+Etapas para elaboração do Plano de Classificação de Documentos de Arquivo..........23 
+
+Tabela de Temporalidade de Documentos de Arquivo...............................33 
+Conceito de Avaliação Documental...............................................................................35 
+Objetivos e benefícios da avaliação documental...........................................................35 
+Por que elaborar a Tabela de Temporalidade de Documentos de Arquivo?.................36 
+O que é a Tabela de Temporalidade de Documentos de Arquivo?................................36 
+Competência para avaliar documentos: Comissões de Avaliação 
+de Documentos de Arquivo............................................................................................37 
+Metodologia e estratégias para elaboração da Tabela de Temporalidade 
+de Documentos de Arquivo............................................................................................38 
+Etapas para elaboração do Plano de Classificação de Documentos de Arquivo..........39 
+
+Avaliação e eliminação da massa documental acumulada  
+em órgãos públicos: atividades técnicas  
+e procedimentos administrativos......................................................................45 
+
+Conclusão..................................................................................................................50 
+
+Bibliografia................................................................................................................52 
+
+5 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+1. Gestão documental e cidadania 
+
+As  informações  produzidas,  recebidas  e  acumuladas  pelos  órgãos  e  entidades  da 
+
+Administração Pública no exercício de suas funções e atividades são registradas nos documentos 
+
+públicos, que, por sua vez, são preservados nos arquivos públicos, instrumentos essenciais para a 
+
+tomada de decisões, para a comprovação de direitos individuais e coletivos e para a o registro da 
+
+memória coletiva. 
+
+Torna-se cada vez mais estratégico para o Estado Moderno o amplo acesso às informações 
+
+de  governo,  considerando-se  o  fortalecimento  da  democracia  e  o  pleno  exercício  da  cidadania, 
+
+bem como o avanço das tecnologias da informação, que vem permitindo crescente racionalização 
+
+de procedimentos, operações e rotinas de trabalho.   
+
+Entretanto, a ausência da política de gestão conduz a uma pluralidade, heterogeneidade e, 
+
+por vezes, ausência de normas, métodos e procedimentos de trabalho nos serviços de protocolo e 
+
+arquivo dos órgãos da administração pública, que vêm dificultando o acesso às informações, bem 
+
+como provocando o acúmulo desordenado de documentos, transformando os arquivos em meros 
+
+depósitos empoeirados de papéis. 
+
+Os  Planos  de  Classificação  e  as  Tabelas  de  Temporalidade  de  Documentos  associados 
+
+garantem a simplificação e a racionalização dos procedimentos de gestão documental, imprimem 
+
+maior  agilidade  e  precisão  na  recuperação  dos  documentos  e  das  informações  e  autorizam  a 
+
+eliminação criteriosa de documentos cujos valores já se esgotaram. 
+
+Por outro lado, pode parecer ao Poder Público que o pleno e rápido acesso às informações 
+
+depende  exclusivamente  da  incorporação  de  tecnologias  avançadas.  Não  se  cogita  que  o 
+
+desenvolvimento  de  sistemas  informatizados  dependa  de  requisitos  que  apenas  uma  política  de 
+
+gestão documental possa definir. Nesse sentido, é preciso esclarecer que a informática apresenta-
+
+se como uma ferramenta da gestão integral de documentos e que o Poder Público precisa produzir 
+
+e/ou  consolidar  um  conhecimento  sobre  sua  produção  documental,  o  que  envolveria  uma  área 
+
+também técnica - a arquivística, e que esse trabalho demanda, assim como os trabalhos na área 
+
+de tecnologia da informação, um aporte de recursos humanos e financeiros. Somente a elaboração 
+
+de um conjunto de normas e procedimentos técnicos para a produção, tramitação, avaliação, uso e 
+
+arquivamento de documentos durante todo o seu ciclo de vida (idade corrente, idade intermediária 
+
+e idade permanente), com a definição de seus prazos de guarda e de sua destinação final permite 
+
+o desenvolvimento e a implementação eficaz de sistemas informatizados de gestão de documentos 
+
+e informações. 
+
+Ao  definir  normas  e  procedimentos  técnicos  referentes  à  classificação,  avaliação, 
+
+preservação  e  eliminação  de  documentos  públicos,  a  gestão  documental  contribui  decisivamente 
+
+para atender às demandas da sociedade contemporânea por transparência nas ações de governo 
+
+e acesso rápido às informações.  
+
+6 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+2. Os arquivos e a gestão de documentos 
+
+Em geral, o arquivo é considerado uma unidade administrativa menor, sem atribuições bem 
+
+definidas  a  não  ser  “guardar  papéis”.  O  conceito  corrente  de  “arquivo”  é  sinônimo  de  “arquivo 
+
+morto”, ou seja, um amontoado de papéis velhos sem “utilidade” nenhuma.  
+
+Sua  posição  hierárquica  na  estrutura  administrativa  dos  órgãos  públicos  e  das  empresas 
+
+privadas induz ao desprestígio, à desvalorização de seus serviços e à falta de recursos materiais e 
+
+humanos com qualificação técnica adequados ao seu pleno funcionamento.  
+
+Por  outro  lado,  para  o  controle  pleno  dos  documentos,  desde  a  sua  produção  até  a  sua 
+
+destinação  final,  torna-se  necessário  assegurar  a  integração  dos  protocolos  com  os  arquivos 
+
+visando à padronização dos procedimentos técnicos. Essa integração permitirá que os documentos 
+
+sejam rapidamente localizados não apenas durante sua tramitação, mas também durante o período 
+
+em que aguardam o cumprimento de seus prazos no arquivo corrente, intermediário e permanente.  
+
+As falhas nos sistemas de controle da produção e tramitação dos documentos, a acumulação 
+
+desordenada  e  a  falta  de  normas  e  procedimentos  arquivísticos  comprometem  a  qualidade  das 
+
+atividades rotineiras, uma vez que dificulta o acesso à informação, onera o espaço físico e aumenta os 
+
+custos operacionais.  
+
+Assim,  a  implantação  de  um  programa  de  gestão  documental  garante  aos  órgãos  públicos  e 
+
+empresas  privadas  o  controle  sobre  as  informações  que  produzem  ou  recebem,  uma  significativa 
+
+economia  de  recursos  com  a  redução  da  massa  documental  ao  mínimo  essencial,  a  otimização  e 
+
+racionalização  dos  espaços  físicos  de  guarda  de  documentos  e  agilidade  na  recuperação  das 
+
+informações.  
+
+O programa de gestão documental deverá definir normas e procedimentos técnicos referentes à 
+
+produção, tramitação, classificação, avaliação, uso e arquivamento dos documentos durante todo o seu 
+
+ciclo de vida (idade corrente, idade intermediária e idade permanente), com a definição de seus prazos 
+
+de  guarda  e  de  sua  destinação  final,  requisitos  necessários  inclusive,  para  o  desenvolvimento  de 
+
+sistemas informatizados de gestão de informações. 
+
+Ao  fazer  gestão  documental  não  estamos  nos  preocupando  somente  em  atender  aos 
+
+interesses  imediatos  do  organismo  produtor,  de  seus  clientes  ou  usuários,  mas  estamos  nos 
+
+assegurando  que  os  documentos 
+
+indispensáveis  à 
+
+reconstituição  do  passado  sejam 
+
+definitivamente preservados. Aliado ao direito à informação está o direito à memória. 
+
+A gestão documental pressupõe uma ampla pesquisa e estudo da produção documental de 
+
+um  organismo  produtor.  A  fim  de  identificar  os  tipos  documentais  produzidos,  recebidos  e 
+
+acumulados,  definir  quais  e  quando  poderão  ser  eliminados  e  quais  deverão  ser  preservados 
+
+permanentemente. 
+
+A execução das atividades de gestão, classificação e avaliação, permitem a elaboração do 
+
+Plano de Classificação e de Tabela de Temporalidade de Documentos de Arquivo. 
+
+7 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Esses  dois  instrumentos  associados  garantem  a  simplificação  e  a  racionalização  dos 
+
+procedimentos de gestão documental, imprimindo maior agilidade e precisão na recuperação dos 
+
+documentos e informações. 
+
+Na Administração Pública, atualmente, graças à Constituição Federal de 1988, os arquivos 
+
+estão associados à conquista de direitos civis e ao exercício pleno da cidadania. No capítulo sobre 
+
+os direitos e garantias fundamentais, a Constituição Federal, assegurou a todos o direito ao acesso 
+
+à informação e o direito de receber dos órgãos públicos informações de seu interesse particular ou 
+
+de  interesse  coletivo  geral  (art.  5º,  incisos  XIV,  XXIX)  resgatando  assim  a  vocação  inicial  dos 
+
+arquivos,  de  coadjuvante  das  ações  de  governo,  uma  vez  que  é responsável pela formulação de 
+
+política pública de gestão de documentos, nos termos da Lei federal n. 8.159/91, que regulamentou 
+
+o artigo 216 da Constituição Federal.  
+
+Os  Arquivos  Públicos  responsabilizavam-se  apenas  pela  guarda  e  divulgação  do  patrimônio 
+
+documental de valor histórico e cultural. Para executar a atribuição de formular política pública de gestão 
+
+de documentos, determinada pela Constituição Federal e pela Lei federal de arquivos, precisam sair do 
+
+isolamento  ao  qual  se  confinaram  e  interagir  com  os  geradores  da  produção  documental dos órgãos 
+
+públicos.  
+
+Para  desenvolver  as  atribuições  referentes  à  gestão  documental  as  instituições  arquivísticas 
+
+estão adotando a estratégia de criar, oficialmente, sistemas de arquivos para integrar todos os órgãos e 
+
+entidades da administração pública, tendo como órgão central a própria instituição arquivística, isto é, o 
+
+Arquivo Público. 
+
+Outra  estratégia  é  a  instituição  de  Comissões  de  Avaliação  de  Documentos  em  cada  um dos 
+
+órgãos  e  entidades  da  administração,  para  garantir  a  articulação  entre  o  órgão  central  e  os  órgãos 
+
+setoriais, integrantes do Sistema. 
+
+A  importância  dessa  estratégia  reside  no  fato  de  ser  a  gestão  documental  um  conjunto  de 
+
+atividades que para o seu desenvolvimento precisa adotar uma metodologia participativa, pois envolve 
+
+todos os agentes públicos envolvidos com a produção, recebimento, acumulação e uso de documentos.  
+
+Objetivos da gestão de documentos: 
+
+§  Assegurar o pleno exercício da cidadania 
+
+§  Agilizar o acesso aos arquivos e às informações 
+
+§  Promover a transparência das ações administrativas 
+
+§  Garantir economia, eficiência e eficácia na administração pública ou privada 
+
+§  Agilizar o processo decisório 
+
+§  Incentivar o trabalho multidisciplinar e em equipe 
+
+§  Controlar o fluxo de documentos e a organização dos arquivos 
+
+§  Racionalizar a produção dos documentos 
+
+8 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+§  Normalizar  os  procedimentos  para  avaliação,  transferência,  recolhimento,  guarda  e 
+
+eliminação de documentos 
+
+§  Preservar o patrimônio documental considerado de guarda permanente 
+
+Atividades da gestão de documentos 
+
+§  Produção  de  documentos  –  elaboração  padronizada  de  tipos/séries  documentais, 
+
+implantação  de  sistemas  de  organização  da  informação  e  aplicação  de  novas  tecnologias 
+
+aos procedimentos administrativos.  
+
+§  Utilização  dos  documentos  -  inclui  todas  as  atividades  de  Protocolo  (recebimento, 
+
+classificação, registro, distribuição, tramitação e expedição), todas as atividades de Arquivo 
+
+(organização  e  arquivamento,  reprodução,  acesso  à  documentação  e  recuperação  de 
+
+informações)  e  a  gestão  de  sistemas  de  protocolo  e  arquivo,  sejam  eles  manuais  ou 
+
+informatizados.  
+
+§  Destinação  de  documentos  -  inclui  uma  das  atividades  mais  complexas  da  gestão  de 
+
+documentos  que  é  a  avaliação.  A  avaliação  se  desenvolve  a  partir  da  classificação  dos 
+
+documentos  produzidos,  recebidos  e  acumulados  pelos  órgãos  públicos  ou  empresas 
+
+privadas,  com  vistas  a  estabelecer  seus  prazos  de  guarda  e  sua  destinação  final, 
+
+garantindo a preservação de documentos de guarda permanente e a eliminação criteriosa 
+
+de documentos desprovidos de valor probatório e informativo. 
+
+·  Tramitação  -  estudo  das  instâncias  de  decisão,  padronização  e  controle  do  fluxo 
+
+documental (workflow). 
+
+·  Organização  e  arquivamento  –  de  acordo  com  os  critérios  definidos  no  Plano  de 
+
+Classificação. 
+
+·  Reprodução  –  Duas  razões  para  a  reprodução:  1.  reprodução  visando  a  preservação  do 
+
+documento  original  de  guarda  permanente  e,  2.  reprodução  visando  a  substituição  do 
+
+documento em papel pelo microfilme. O documento em papel de guarda temporária poderá 
+
+ser  eliminado  e  o  microfilme  deverá  ser  preservado  pelo  prazo  indicado  na  Tabela  de 
+
+Temporalidade de Documentos de Arquivo. 
+
+·  Classificação  –  recupera  o  contexto  de  produção  dos  documentos,  isto  é,  a  função  e  a 
+
+atividade que determinou a sua produção e identifica os tipos/séries documentais.  
+
+·  Avaliação  –  trabalho  multidisciplinar  que  consiste  em  identificar  valores  para  os 
+
+documentos e analisar seu ciclo de vida, com vistas a estabelecer prazos para sua guarda e 
+
+destinação (eliminação ou guarda permanente). 
+
+A gestão e o ciclo de vida dos documentos 
+
+9 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+
+A gestão documental assegura o cumprimento de todas as fases do documento: corrente, 
+
+intermediária  e  permanente.  Nesse  sentido  a  gestão  documental  garante  o  efetivo  controle  do 
+
+documento  desde  sua  produção  até  sua  destinação  final:  eliminação  ou  guarda  permanente  e 
+
+permite a localização dos documentos e acesso rápido às informações. 
+
+Arquivo corrente ou 1ª idade: os documentos estão estreitamente vinculados aos fins imediatos 
+
+(administrativo,  fiscal,  legal)  que  determinaram sua produção ou recebimento no cumprimento de 
+
+atividades e se encontram junto aos órgãos produtores/acumuladores em razão de sua vigência e 
+
+da  freqüência  com  que  são  consultados  por  eles.  É  nessa  idade  que  os  documentos  devem  ser 
+
+avaliados  determinando-se  os  prazos  de  permanência  dos  documentos  no  arquivo  corrente, 
+
+quando deverão ser transferidos ao arquivo intermediário, quais os que poderão ser eliminados e 
+
+quais deverão ser recolhidos ao arquivo permanente. 
+
+Arquivo  intermediário  ou  2ª  idade:  documentos  originários  do  arquivo  corrente,  com  pouca 
+
+freqüência de uso e que aguardam cumprimento de prazos de prescrição ou precaução no arquivo 
+
+destinado  à  guarda  temporária.  São  consultados,  com  maior  freqüência,  pelo  órgão  produtor. 
+
+Nessa  fase,  após  o  cumprimento  dos  prazos  estabelecidos,  executa-se  a  destinação  final 
+
+procedendo-se  à  eliminação,  coleta  de  amostragem  dos  documentos  que  serão  eliminados  ou 
+
+recolhimento ao arquivo permanente. 
+
+Arquivo permanente ou 3ª idade: os documentos são preservados em definitivo em razão de seu 
+
+valor  histórico,  testemunhal,  legal,  probatório  e  científico-cultural.  Como  fonte  de  pesquisa  são 
+
+liberados para consulta, sendo permitido o acesso ao público em geral.  
+
+Instrumentos da gestão de documentos 
+
+O  Plano  de  Classificação  e  a  Tabela  de  Temporalidade  de  Documentos  de  Arquivo  são 
+
+instrumentos eficazes de gestão documental. Estes dois instrumentos garantem a simplificação e a 
+
+racionalização  dos  procedimentos  de  gestão, 
+
+imprimindo  maior  agilidade  e  precisão  na 
+
+recuperação  dos  documentos  e  das  informações,  autorizando  a  eliminação  criteriosa  de 
+
+documentos desprovidos de valor que justifique a sua guarda e a preservação dos documentos de 
+
+guarda permanente. 
+
+10 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+O  Plano  de  Classificação  de  Documentos  de  Arquivo  resulta  da  atividade  de 
+
+classificação  que  recupera  o  contexto  de  produção  dos  documentos de arquivo agrupando-os de 
+
+acordo com o órgão produtor, a função, a subfunção e a atividade responsável por sua produção 
+
+ou acumulação.  
+
+A  Tabela  de  Temporalidade  de  Documentos  de  Arquivo  resulta  da  atividade  de 
+
+avaliação,  que  define  prazos  de  guarda  para  os  documentos  em  razão  de  seus  valores 
+
+administrativo, fiscal, jurídico-legal, técnico, histórico, autoriza a sua eliminação ou determina a sua 
+
+guarda permanente. 
+
+3. Gestão de documentos: fundamentos legais 
+
+Gestão documental 
+Constituição Federal de 1988, art. 216, § 2.º 
+“Cabem à administração pública, na forma de lei, a gestão da documentação governamental e as 
+providências para franquear sua consulta a quantos dela necessitem”. 
+
+Lei Federal de Arquivos n.º 8.159, de 8 de  janeiro de 1991, art. 1.º 
+“É  dever  do  poder  público  a  gestão  documental  e  a  proteção  especial  a  documentos  de  arquivo, 
+como  instrumento  de  apoio  à  administração,  à  cultura  e  ao  desenvolvimento  científico  e  como 
+elemento de prova e informação”. 
+
+Lei Federal de Arquivos n.º 8.159, de 8 de janeiro de 1991, art. 3.º 
+ “Considera-se gestão de documentos o conjunto de procedimentos e operações referentes à sua 
+produção,  tramitação,  uso,  avaliação e arquivamento em fase corrente e intermediária, visando a 
+sua eliminação ou recolhimento para guarda permanente”. 
+
+Lei Federal de Arquivos n.º 8.159, de 8 de janeiro de 1991, art. 17 
+“A  administração  da  documentação  pública  ou  de  caráter  público  compete  às  instituições 
+arquivísticas federais, estaduais, do Distrito Federal e municipais”. 
+
+11 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Lei Federal de Arquivos n.º 8.159, de 8 de janeiro de 1991, art. 21 
+“Legislação  estadual,  do  Distrito  Federal  e  municipal  definirá  os  critérios  de  organização  e 
+vinculação dos arquivos estaduais e municipais, bem como a gestão e o acesso aos documentos 
+observado o disposto na Constituição Federal e nesta Lei”. 
+
+Acesso à informação 
+Constituição Federal de 1988, art. 5.º, XXXIV 
+“Todos  têm  direito  a  receber  dos  órgãos  públicos  informações  de  seu  interesse  particular,  ou  de 
+interesse  coletivo  ou  geral,  que  serão  prestadas  no  prazo  da  lei,  sob  pena  de  responsabilidade, 
+ressalvadas aquelas cujo sigilo seja imprescindível à segurança da sociedade e do Estado”. 
+
+Lei Federal de Arquivos n.º 8.159, de 8 de janeiro de 1991, art. 4º 
+“Todos  têm  direito  a  receber  dos  órgãos  públicos  informações  de  seu  interesse  particular  ou  de 
+interesse coletivo ou geral, contidas em documentos de arquivos, que serão prestadas no prazo da 
+lei,  sob  pena  de  responsabilidade,  ressalvadas  aquelas  cujos  sigilo  seja  imprescindível  à 
+segurança da sociedade e do Estado, bem como à inviolabilidade da intimidade, da vida privada, 
+da honra e da imagem das pessoas”. 
+
+Lei Federal de Arquivos n.º 8.159, de 8 de janeiro de 1991, art. 22 
+“É assegurado o direito de acesso pleno aos documentos públicos”. 
+
+Arquivos 
+Lei federal de Arquivos n.º 8.159, de 8 de janeiro de 1991, art. 2.º 
+“Consideram-se  arquivos,  para  os  fins  desta  lei,  os  conjuntos  de  documentos  produzidos  e 
+recebidos por órgãos públicos, instituições de caráter público e entidades privadas, em decorrência 
+do exercício de atividades específicas, bem como por pessoa física, qualquer que seja o suporte da 
+informação ou a natureza dos documentos”. 
+
+Arquivos Públicos 
+Lei federal de Arquivos n.º 8.159, art. 7º, § 1º 
+”Os  arquivos  públicos  são  os  conjuntos  de  documentos  produzidos  e  recebidos,  no  exercício  de 
+suas atividades, por órgãos públicos de âmbito federal, estadual, do Distrito Federal e municipal em 
+decorrência de suas funções administrativas, legislativas e judiciárias”. 
+“São  também  públicos  os  conjuntos  de  documentos  produzidos  e  recebidos  por  instituições  de 
+caráter público, por entidades privadas encarregadas da gestão de serviços públicos no exercício 
+de suas atividades”. 
+
+Decreto federal n. 4.073, de 3 de janeiro de 2002, art. 15 
+São arquivos públicos os conjuntos de documentos: 
+I – produzidos e recebidos por órgãos e entidades públicas federais, estaduais, do Distrito Federal 
+e municipais, em decorrência de suas funções administrativas, legislativas e judiciárias; 
+II – produzidos e recebidos por agentes do Poder Público, o exercício de seu cargo ou função ou 
+deles decorrente; 
+III – produzidos e recebidos pelas empresas públicas e pelas sociedades de economia mista. 
+
+Proteção ao patrimônio documental 
+Constituição Federal de 1988, art. 23 
+É competência comum da União, dos Estados, do Distrito Federal e dos Municípios: 
+III – proteger os documentos, as obras e outros bens de valor histórico e cultural, os monumentos, 
+as paisagens naturais notáveis e os sítios arqueológicos. 
+Constituição Federal de 1988, art. 24 
+Compete à União, aos Estados, e ao Distrito Federal legislar concorrentemente sobre: 
+VII - proteção ao patrimônio histórico, cultural, turístico e paisagístico. 
+
+12 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Decreto estadual n.º 22.789, de 19 de outubro de 1984, art. 3.º 
+“Consideram-se  integrantes  do  patrimônio  arquivístico  público  todos  os  documentos,  de  qualquer 
+tipo e natureza, gerados e acumulados no decurso das atividades de cada órgão da administração 
+do  Estado  de  São  Paulo,  como  produto  do  exercício  de  funções  executivas,  legislativas  e 
+judiciárias”. 
+
+Eliminação de documentos públicos 
+Lei federal de Arquivos n.º 8.159, art. 9º 
+“A  eliminação  de  documentos  produzidos  por  instituições  públicas  e  de  caráter  público  será 
+realizada  mediante  autorização  da  instituição  arquivística  pública,  na  sua  específica  esfera  de 
+competência”. 
+
+Lei federal de Arquivos n.º 8.159, art. 10 
+“Os documentos de valor permanente são inalienáveis e imprescritíveis”. 
+
+Decreto Federal n.º 1.799, de 30/01/96, art. 11 
+“Os documentos, em tramitação ou em estudo, poderão, a critério da autoridade competente, ser 
+microfilmados, não sendo permitida a sua eliminação até a definição de sua destinação final”. 
+
+Decreto Federal n.º 1.799, de 30/01/96, art. 12 
+“A  eliminação  de  documentos,  após  a  microfilmagem,  dar-se-á  por  meios  que  garantam  sua 
+inutilização, sendo a mesma precedida de lavratura de termo próprio e após a revisão e a extração 
+de filme cópia”. 
+
+Resolução CONARQ n.º 5, de 30 de setembro de 1996 (D.O.U de 11/10/1996).  
+Dispõe sobre a publicação de editais para eliminação de documentos nos diários oficiais da União, 
+Distrito Federal, Estados e Municípios. 
+
+Resolução CONARQ n.º 7, de 20 de maio de 1997 (D.O.U de 23/5/97).  
+Dispõe  sobre  os  procedimentos  para  a  eliminação  de  documentos  no  âmbito  dos  órgãos  e 
+entidades integrantes do Poder Público. 
+
+Crimes contra os documentos públicos 
+Código Penal, art. 305 
+Destruir, suprimir ou ocultar, em benefício próprio ou de outrem, ou em prejuízo alheio, documento 
+público ou particular verdadeiro, de que não podia dispor: 
+Pena – reclusão de dois a seis anos, e multa, se o documento é público, e reclusão, de um a cinco 
+anos, e multa, se o documento é particular. 
+
+Lei Federal n. 9.605, de 12 de fevereiro de 1998 
+Dispõe  sobre  as  sanções  penais  e  administrativas  derivadas  de  condutas  e  atividades  lesivas  ao 
+meio ambiente, e dá outras providências. 
+Dos crimes contra o ordenamento urbano e o patrimônio cultural 
+Art. 62 – Destruir, inutilizar ou deteriorar: 
+II – arquivo, registro, museu, biblioteca, pinacoteca, instalação científica ou similar protegido por lei, 
+ato administrativo ou decisão judicial: 
+Pena – reclusão, de um a três anos, e multa 
+
+Decreto Federal n. 3.179, de 21 de setembro de 1999 
+Dispõe sobre a especificação das sanções aplicáveis às condutas e atividades lesivas ao meio 
+ambiente, e dá outras providências 
+Art. 49 – Destruir, inutilizar ou deteriorar: 
+II – arquivo, registro, museu, biblioteca, pinacoteca, instalação científica ou similar protegido por lei, 
+ato administrativo ou decisão judicial: 
+Multa de R$ 10.000,00 (dez mil reais) a R$ 500.000,00 (quinhentos mil reais) 
+
+13 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Legislação do Estado de São Paulo 
+Decreto n.º 22.789, de 19 de outubro de 1984 - Institui o Sistema de Arquivos do Estado de São 
+Paulo 
+Decreto n.º 29.838, de 18 de abril de 1989 - Dispõe sobre a constituição da Comissão de Avaliação 
+de Documentos de Arquivo nas Secretarias de Estado 
+Decreto nº 48.897 de 27 de agosto de 2004 - Dispõe sobre os arquivos públicos, os documentos de 
+arquivo e sua gestão, os Planos de Classificação e a Tabela de Temporalidade de Documentos da 
+Administração  do  Estado  de  São  Paulo,  define  normas  para  avaliação,  guarda  e  eliminação  de 
+documentos de arquivo e dá providências correlatas. 
+Decreto  nº  48.897  de  27  de  agosto  de  2004  -  Aprova  o  Plano  de  Classificação  e  a  Tabela  de 
+Temporalidade  dos  Documentos  da  Administração  Pública  do  Estado  de  São  Paulo:  Atividades-
+Meio e dá providências correlatas. 
+
+4. Plano de Classificação de Documentos de Arquivo 
+
+A  ausência  de  normas,  métodos  e  procedimentos  de  trabalho  provocam  o  acúmulo 
+
+desordenado  de  documentos,  transformando  os  arquivos  em  meros  depósitos  de  papéis, 
+
+dificultando o acesso aos documentos e a recuperação de informações necessárias para a tomada 
+
+de decisões no âmbito das instituições públicas e privadas. Diante dessa realidade, a elaboração 
+
+do  Plano  de  Classificação  assume  uma  importância  relevante  como  ferramenta  de  gestão 
+
+documental, exigindo, para sua elaboração, profundo conhecimento da estrutura e funcionamento 
+
+do organismo produtor e o comprometimento dos profissionais de todas as suas áreas de atuação.  
+
+O  Plano  de  Classificação  de  Documentos  de  Arquivo  apresenta  os  documentos 
+
+hierarquicamente  organizados  de  acordo  com  a  função,  subfunção  e  atividade  (classificação 
+
+funcional), ou de acordo com o grupo, subgrupo e atividade (classificação estrutural), responsáveis 
+
+por sua produção ou acumulação. Para recuperar com maior facilidade esse contexto da produção 
+
+documental, atribuímos códigos numéricos aos tipos/séries documentais.  
+
+Classificação:  “Seqüência  de  operações  que,  de  acordo  com  as  diferentes  estruturas, 
+funções e atividades da entidade produtora, visam a distribuir os documentos de um arquivo”. 
+(CAMARGO, Ana Maria de A., BELLOTTO, Heloísa L. Dicionário de Terminologia Arquivística. São Paulo: AAB-
+SP, Secretaria de Estado da Cultura, 1996) 
+
+“Entende-se  por  classificação  de  documentos  o  conjunto  de  procedimentos  e  operações 
+técnicas que visam a agrupar os documentos de arquivo relacionando-os ao órgão produtor, 
+à  função,  à  subfunção  e  atividade  responsável  por  sua  produção  ou  acumulação.  O 
+instrumento resultante da classificação é o Plano de Classificação de Documentos”.  
+São Paulo (Estado). Decreto estadual nº 48.897, de 27 de agosto de 2004, art. 10, parágrafo único. 
+
+Objetivos e benefícios da classificação 
+
+§  Organização lógica e correto arquivamento de documentos 
+
+§  Recuperação da informação ou do documento 
+
+§  Recuperação do contexto original de produção dos documentos 
+
+§  Visibilidade às funções, subfunções e atividades do organismo produtor 
+
+§  Padronização da denominação das funções, atividades e tipos/séries documentais 
+
+§  Controle do trâmite 
+
+§  Atribuição de códigos numéricos 
+
+14 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+§  Subsídios para o trabalho de avaliação e aplicação da Tabela de Temporalidade 
+
+Contexto de produção e organicidade 
+
+No decorrer do exercício das funções e atividades de um órgão público ou empresa privada, 
+
+os documentos são acumulados organicamente, de forma natural, independentemente da natureza 
+
+ou do suporte da informação. Os documentos de arquivo caracterizam-se por sua unicidade e por 
+
+serem  provenientes  de  uma  única  fonte  geradora,  ou  seja,  do  organismo  que  os  produziram.  O 
+
+arquivo,  portanto,  é  um  conjunto  indivisível  de  documentos  que  espelha  a  trajetória  e  o 
+
+funcionamento do organismo produtor. 
+
+Assim,  o  documento  em  seu  contexto  original  de  produção  é  pleno  de  significado,  pois 
+
+integra  um  conjunto  de  documentos  que  possibilita  compreender  as  funções  e  atividades 
+
+executadas pelo órgão produtor. Os documentos de arquivo não têm importância em si mesmos, 
+
+isolados, ainda que contenham informações aparentemente valiosas.  
+
+Classificação e análise de documentos 
+
+A  classificação  de  um  documento  de  arquivo  exige  uma  rigorosa  análise  documental  que 
+
+deve  partir,  antes  de  qualquer  coisa,  da  definição  do  objeto  a  ser  analisado:  o  documento  de 
+
+arquivo. 
+
+Os  documentos  de  arquivo  são  registros  de  informação,  em  qualquer  suporte,  inclusive  o 
+
+magnético ou óptico, produzidas, recebidas e mantidas por um órgão público ou empresa privada 
+
+no exercício de suas atividades, que apresentam características próprias: 
+
+·  São  produzidos,  recebidos  ou  acumulados  organicamente  no  exercício  de  funções  e 
+
+atividades de um órgão público ou empresa privada.  
+
+·  Já  nascem  com  valor  probatório.  Primeiro,  porque  testemunham  o  exercício  de  uma 
+
+função/atividade e, segundo, porque podem asseguram direitos individuais ou coletivos.  
+
+Propriedades dos documentos de arquivo 
+
+Imparcialidade 
+
+Autenticidade 
+
+Naturalidade 
+
+Inter-
+
+relacionamento 
+
+Os  documentos  de  arquivo  são  produzidos  para  atender  determinadas 
+demandas e “trazem uma promessa de fidelidade aos fatos e ações que 
+manifestam e para cuja realização contribuem”. 
+
+“Os  documentos  são  autênticos  porque  são  criados,  mantidos  e 
+conservados sob custódia de acordo com procedimentos regulares que 
+podem ser comprovados”. 
+
+Os  documentos  de  arquivo  são  acumulados  “de  maneira  contínua  e 
+progressiva, como sedimentos de estratificações geológicas”, o que “os 
+dota de um elemento de coesão espontânea, ainda que estruturada”. 
+
+Os  documentos  de  arquivo  “estão  ligados  entre  si  por  um  elo  que  é 
+criado  no  momento  em  que  são  produzidos  ou  recebidos,  que  é 
+determinado  pela  razão  de  sua  produção  e  que  é  necessário  à  sua 
+própria  existência,  à  capacidade  de  cumprir  seu  objetivo,  ao  seu 
+significado, confiabilidade e autenticidade”. 
+
+Unicidade 
+
+Cada  documento  de  arquivo  “assume  um  lugar  único  na  estrutura 
+documental do grupo ao qual pertence e no universo documental”. 
+
+15 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Fonte:  DURANTI,  Luciana.  Registros  documentais  contemporâneos  como  provas  de  ação.  Estudos  históricos,  Rio  de 
+Janeiro,  v.7.  nº  13,  1994,  p.49-64  (extraído  da  apostila  Introdução  à  política  e  ao  tratamento  dos  arquivos.  Apostila 
+01/2002 – Classificação e Ordenação – Janice Gonçalves – p.80) 
+
+Documentos de arquivo: elementos característicos 
+
+Na  análise  documental  podem  ser  identificados  os  elementos  característicos  de  cada 
+
+documento, individualmente, conforme quadro abaixo: 
+
+Suporte 
+
+Forma 
+
+Formato 
+
+Gênero 
+
+Espécie 
+
+Tipo 
+
+Material sobre o qual as 
+informações são registradas 
+Estágio de preparação e 
+transmissão dos documentos 
+Configuração física que 
+assume um documento, de 
+acordo com a natureza do 
+suporte e o modo como foi 
+confeccionado 
+
+Configuração que assume um 
+documento de acordo com o 
+sistema de signos (com a 
+linguagem) utilizado na 
+comunicação de seu conteúdo 
+
+Configuração que assume um 
+documento  de acordo com a 
+disposição e a natureza das 
+informações nele contidas 
+
+Configuração que assume uma 
+espécie documental de acordo 
+com a atividade que a gerou 
+
+Documento 
+simples 
+
+Documento 
+composto 
+
+Os documentos são simples 
+quando formados por um único 
+item 
+Os documentos são compostos 
+quando, ao longo de sua 
+trajetória, acumulam vários 
+documentos simples 
+
+papel, disco magnético, fita magnética, filme 
+de nitrato, papiro, pergaminho, argila 
+
+original, cópia, minuta, rascunho 
+
+livro, caderno, caderneta, cartaz, diapositivo, 
+folha, mapa, planta, rolo de filme, microfilme, 
+gravura 
+
+Textuais: a linguagem básica é a palavra 
+escrita – textos manuscritos, impressos, 
+digitados, em disquete 
+Audiovisuais: a linguagem básica é a 
+associação do som e da imagem - filmes, 
+vídeos, DVDs 
+Fonográficos: a linguagem básica é o som - 
+discos, fitas magnéticas, CDs 
+Iconográficos: a linguagem básica é a 
+imagem – cartões postais, mapas, fotografias, 
+gravuras, desenhos, cartões postais 
+
+Relatório, ata, boletim, certidão, declaração, 
+atestado 
+
+Relatório de atividades, relatório de 
+fiscalização, ata de reunião de diretoria, ata 
+de licitação, boletim de ocorrência, certidão de 
+nascimento, certidão de tempo de serviço, 
+declaração de imposto de renda, atestado de 
+freqüência 
+
+Carta, recibo, nota fiscal 
+
+Prontuário médico, dossiê de evento, 
+processo judicial, processo de adiantamento 
+
+Metodologia e estratégias para a elaboração de Plano de Classificação de Documentos de 
+
+Arquivo 
+
+Considerando  o  volume  da  produção  documental,  recomenda-se  que  o  trabalho  seja 
+
+realizado,  primeiramente,  com  os  documentos  resultantes  do  exercício  das  atividades-meio,  pois 
+
+16 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+nessas áreas já existem trabalhos que podem servir de referência e a legislação que fundamenta 
+
+prazos prescricionais está mais disponível e é mais conhecida. 
+
+A atividade-meio é a ação, encargo ou serviço que um órgão leva a efeito para auxiliar e 
+
+viabilizar o desempenho de suas atribuições específicas e que resulta na produção e acumulação 
+
+de  documentos comuns nos vários órgãos e entidades, documentos estes de caráter instrumental 
+
+e  acessório.  No  caso  da  Administração  Paulista,  foram  identificadas  as  seguintes  funções  que 
+
+agrupam as atividades-meio: 1. Organização administrativa; 2. Comunicação institucional; 3.Gestão 
+
+de  recursos  humanos;  4.  Gestão  de  bens  materiais  e  patrimoniais;  5.  Gestão  orçamentária  e 
+
+financeira; 6. Gestão de documentos e informações; 7. Gestão de atividades complementares. 
+
+A  atividade-fim  é  a  ação,  encargo  ou  serviço  que  um  órgão  leva  a  efeito  para  o  efetivo 
+
+desempenho  de  suas  atribuições  específicas  e  que  resulta  na  produção  e  acumulação  de 
+
+documentos típicos, de caráter substantivo e essencial para o seu funcionamento. 
+
+Exemplos de funções que agrupam as atividades-fim: Cultura, Educação, Meio Ambiente, Saúde, 
+
+Segurança  Pública,  Prestação  de  Serviços  (médico,  odontológico,  consultoria,  consertos...), 
+
+Exploração de atividade econômica (fabricação de móveis, restaurantes, supermercados). 
+
+Método estrutural  
+
+A  classificação  estrutural  representa,  de  acordo  com  o  organograma,  os  vários  níveis  de 
+
+divisão interna do organismo produtor: coordenadorias, departamentos, divisões, centros, setores e 
+
+cada um dentro da estrutura executam determinadas atribuições. Se a atribuição de um setor for 
+
+transferida  para  um  outro  ou,  então,  se  um  novo  setor  for  criado  e  suas  atribuições  forem 
+
+redistribuídas, 
+
+todos  os  documentos  deverão  ser 
+
+reclassificados  para  acompanhar  a 
+
+reestruturação.  
+
+Inconveniências da classificação estrutural: 
+
+§  a estrutura, muitas vezes, não informa a totalidade das funções e atividades do organismo 
+
+produtor 
+
+§  a estrutura pode sofrer constantes alterações 
+
+§  um mesmo tipo documental poderá constar no Plano de Classificação com códigos distintos 
+
+quando registrarem atividades comuns às várias unidades da estrutura do órgão produtor. 
+
+Exemplos: ofícios, cartas, memorandos, requisição de material, relatórios. 
+
+Para  exemplificar  a  classificação  estrutural,  vamos  tomar  como  exemplo uma empresa de 
+
+médio  porte  que  atua  na  área  da  construção  civil.  Para  desenvolver  com  eficiência  as  suas 
+
+atividades,  a  empresa  foi  organizada  em  três  Diretorias:  Técnica,  Comercial  e  Administrativa-
+
+Financeira. As Diretorias, assim, constituíram a primeira divisão interna da empresa. 
+
+ Como o trabalho tornou-se mais volumoso e complexo, as Diretorias foram subdivididas em 
+
+Gerências. A Diretoria Técnica subdividiu-se em Gerência Técnica e de Obras e em Gerência de 
+
+Suprimentos.  A  Diretoria  Comercial  subdividiu-se  em  Gerência  Comercial,  Gerência  de 
+
+17 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Orçamentos  e  Gerência  de  Contratos.  A  Diretoria  Administrativa-Financeira  subdividiu-se  em 
+
+Arquivo  Central,  Gerência  Financeira  e  Gerência  Administrativa  e  de  Recursos  Humanos.  As 
+
+Gerências constituíram a segunda divisão interna da empresa.  
+
+Mas,  as  atividades  se  multiplicaram  e  se  tornaram  ainda  mais  complexas  e  as  Gerências 
+
+precisaram se subdividir em setores de trabalho ainda mais específicos, que constituíram a terceira 
+
+divisão interna da empresa. 
+
+Pois bem, quando os documentos de uma Diretoria, Gerência ou Setor chegam ao arquivo, 
+
+é preciso que eles sejam identificados de acordo com a sua origem (unidade produtora) para que 
+
+não se misturem com os documentos de outra Diretoria, Gerência ou Setor. Do contrário, quando 
+
+os documentos forem solicitados, como eles serão localizados?  
+
+Por  isso,  o  primeiro  passo  para  se  organizar  corretamente  um  arquivo  é  o  estudo  da 
+
+estrutura  e  do  funcionamento  da  organização  responsável  pela  produção  e  acumulação  de 
+
+documentos. Esse estudo das estruturas, funções e atividades nos permitirá elaborar um Plano de 
+
+Classificação. 
+
+Observe abaixo, o Plano de Classificação da empresa que tomamos como exemplo: 
+
+1. Diretoria Técnica 
+
+1.1  Gerência Técnica e de Obras 
+
+1.1.1 Coordenadoria de Obras 
+
+1.2 Gerência de Suprimentos 
+
+1.2.1 Setor de Compras 
+
+1.2.2 Setor de Transportes 
+
+2. Diretoria Comercial 
+
+2.1 Gerência Comercial 
+
+2.1.1 Assistência de Obras Privadas 
+
+2.2  Gerência de Orçamentos 
+
+2.2.1  Assistência de Orçamentos 
+
+2.3  Gerência de Contratos 
+
+3. Diretoria Administrativa e Financeira 
+
+3.1 Arquivo Central 
+
+3.2 Gerência Financeira 
+
+3.2.1 Faturamento 
+
+3.2.2 Contas a Pagar 
+
+3.2.3 Contabilidade 
+
+3.3 Gerência Administrativa e de Recursos 
+
+Humanos 
+
+3.3.1 Departamento de Pessoal 
+
+3.3.2 CIPA 
+
+3.3.3 Serviços Gerais 
+
+18 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+O  Plano  de  Classificação  é  a  representação  lógica  da  estrutura  e  do  funcionamento  da 
+
+organização. Por isso, o arquivo organizado de acordo com a classificação proposta assemelha-se 
+
+a  um  espelho  que  reflete  a  imagem  da  organização  com  toda  fidelidade.  Observando  o  Plano, 
+
+identificamos as funções de natureza técnica que desencadeiam a realização de atividades-fim, ou 
+
+seja, atividades que justificam a sua criação: edificação de obras públicas e particulares. 
+
+Identificamos  também  as  funções  que  se  relacionam  com  a  administração  interna  da 
+
+empresa.  Essas  funções  desencadeiam  a  realização  de  atividades-meio,  pois  constituem  os 
+
+instrumentos  utilizados  pela  organização  para  atingir  os  seus  fins.  São  as  atividades  auxiliares, 
+
+comuns  a  todos  os  órgãos  públicos  e  empresas  privadas,  geralmente  identificadas  como 
+
+Orçamento  e  Finanças,  Recursos  Humanos,  Material  e  Patrimônio,  Comunicação,  Atividades 
+
+Complementares como transporte, manutenção, portaria, zeladoria, etc.  
+
+O  objetivo  da  classificação  dos  documentos,  portanto,  é  facilitar  a  recuperação  da 
+
+informação  ou  do  documento  com  economia  de  tempo  e  dinheiro.  Para  alcançar  esse  objetivo, 
+
+apesar do grande volume de documentos que a organização produz e recebe, torna-se necessário 
+
+um  Plano  de  Classificação  que  indique  a  família  do  documento,  permitindo  o  seu  correto 
+
+arquivamento.  
+
+A  classificação  permite  a  organização  física  dos  documentos,  mas  também  a  sua 
+
+organização lógica por meio da atribuição de códigos numéricos de identificação das famílias, ou 
+
+seja,  das  funções  e  atividades  geradoras  dos  documentos.  Observe  que  no  Plano  os  três 
+
+primeiros números corresponderão sempre à unidade produtora dos documentos. 
+
+Digamos que nos chegou ao arquivo um documento do Departamento de Pessoal. Evidente 
+
+que  o  código  da  unidade  produtora  do  documento  será  3.3.1,  não  é?  Mas  o  Departamento  de 
+
+Pessoal  realiza  inúmeras  atividades  e  produz  vários  documentos  diferentes.  Como  organizá-los? 
+
+Além  de  identificar  o  setor,  é  preciso  identificar  também  as  atividades  realizadas  pelo  setor  e  os 
+
+documentos produzidos em decorrência do exercício dessas atividades. 
+
+Ora, de forma geral o que faz um Departamento de Pessoal? Seleciona candidatos, controla 
+
+a  freqüência  dos  funcionários,  promove  cursos  de  treinamento,  controla  as  férias  e  licenças, 
+
+expede atestados e certidões. Pois bem, essas atividades é que serão responsáveis pela produção 
+
+dos documentos desse setor. Tomemos, novamente, o exemplo da Construtora:  
+
+19 
+
+ 
+ 
+ 
+ 
+ 
+
+Muito  bem,  para  organizar  o  documento  é  preciso  saber  qual  a  atividade  responsável  por 
+
+sua produção. Qual é o documento em questão? Digamos, folha de ponto. Por quem e para quê 
+
+são  produzidas  as  folhas  de  ponto?  Claro,  as  folhas  de  ponto  são  produzidas  pelo  setor  de 
+
+Departamento de Pessoal para exercer a atividade de controlar a freqüência dos funcionários. Mas, 
+
+para  cumprir  essa  atividade,  apenas  as  folhas  de  ponto  são  produzidas?  Evidente  que  não. 
+
+Vejamos, abaixo, os documentos gerados pela atividade de controlar a freqüência dos funcionários. 
+
+Então,  podemos  afirmar:  para  arquivar  corretamente as folhas de ponto e encontrá-las no 
+
+arquivo com rapidez quando o setor de Departamento de Pessoal solicitá-las, devemos classificar 
+
+as folhas de ponto com o código 3.3.1.2.6. 
+
+20 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Plano de classificação: estrutural 
+
+3. Diretoria Administrativa e Financeira: GRUPO 
+3.3. Gerência Administrativa de Recursos Humanos: SUBGRUPO 
+
+Unidade de 
+Produção 
+
+3.3.1 
+Departamento  
+de Pessoal 
+
+Atividades 
+
+3.3.1.1 Selecionar 
+candidatos 
+
+3.3.1.2 Controlar a 
+freqüência de 
+funcionários 
+
+Documentos 
+
+3.3.1.2.1. Atestado de freqüência 
+3.3.1.2.2 Banco de horas 
+3.3.1.2.3 Boletim de freqüência 
+3.3.1.2.4 Comunicado de ocorrências 
+3.3.1.2.5 Formulário de  justificativa de falta 
+3.3.1.2.6 Folhas de ponto 
+3.3.1.2.7 Planilha de controle de horas-extras 
+
+3.3.1.3 Realizar cursos 
+de treinamento 
+3.3.1.4 Controlar as 
+férias e  licenças 
+
+Método funcional 
+
+A classificação funcional é a representação lógica das funções, subfunções e atividades do 
+
+organismo  produtor.  Por  isso,  ela  independe  da  estrutura  e  de  suas  mudanças  no  decorrer  do 
+
+tempo. A classificação funcional é a mais apropriada para órgãos públicos do Poder Executivo que 
+
+sofrem  freqüentes  alterações  em  sua  estrutura,  de  acordo  com  as  injunções  políticas. Apesar de 
+
+mais complexa, a classificação funcional é mais duradoura. 
+
+ Considerando-se que as estruturas podem mudar com alguma freqüência e que as funções 
+
+e  atividades,  em  geral,  permanecem  estáveis,  o  Plano  de  Classificação  funcional  permite 
+
+atualizações  periódicas  sem  comprometer  os  códigos  numéricos  de  classificação  atribuídos  aos 
+
+tipos/séries documentais. 
+
+Conveniências: 
+
+§  as funções e atividades permanecem inalteradas; 
+
+§  identifica a totalidade das funções e atividades do organismo produtor; 
+
+§  as  atividades  e  documentos  comuns  às  várias  unidades  da  estrutura  do  organismo 
+
+constarão uma única vez no Plano de Classificação. 
+
+21 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Plano de classificação: funcional  
+
+Plano de Classificação: funcional 
+
+3. Gestão de Recursos Humanos: FUNÇÃO 
+3.3 Controle da Freqüência: SUBFUNÇÃO 
+
+Atividade 
+
+Documentos 
+
+3.3.1 Registro de 
+freqüência  
+
+3.3.1.1 Atestado de freqüência 
+3.3.1.2 Banco de horas 
+3.3.1.3 Boletim de freqüência 
+3.3.1.4 Comunicado de ocorrências 
+3.3.1.5 Formulário de justificativa de falta 
+3.3.1.6 Folha de ponto 
+3.3.1.7 Planilha de controle de horas-extras 
+
+22 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+O que deve ser evitado? 
+
+Qualquer  que  seja  o  método  de  classificação  adotado  deve-se  evitar  a  utilização  do 
+
+“assunto”  tanto  na  identificação  da  função  e  da  atividade,  quanto  na  identificação  do  tipo/série 
+
+documental.  
+
+A  identificação  da  função  e  atividade  como  “assunto”  poderá  causar  dificuldades  ao 
+
+processo  de  avaliação,  que  deverá  incidir  sobre  conjuntos  documentais e não sobre assuntos ou 
+
+unidades  isoladas.  Ainda,  um  mesmo  tipo/série  documental  poderá  ser  associado  a  “assuntos” 
+
+distintos, o que ocasionará dificuldades no momento da classificação. 
+
+O  “assunto”  refere-se  ao  conteúdo  informativo  do  documento  e  deverá  ser  identificado 
+
+no momento da descrição, que é uma outra atividade da gestão documental. 
+
+Etapas para a elaboração do Plano de Classificação de Documentos de Arquivo 
+
+O organismo produtor dos documentos: estrutura e funcionamento 
+
+O  organismo  produtor  é  a  instituição  ou  entidade,  pública  ou  privada,  juridicamente 
+
+constituída  e  organizada  responsável  pela  execução  de  funções  e  atividades.  Para  cumprir  a 
+
+finalidade  pela  qual  foi  criado,  o  organismo  produtor  executa  inúmeras  atribuições.  Essas 
+
+atribuições  apresentam-se  distribuídas  entre  suas  diversas  unidades  internas  (Coordenadorias, 
+
+Departamentos, Divisões, Centros, Setores).  
+
+Para estudar a estrutura e o funcionamento do organismo produtor é necessário localizar as 
+
+fontes  de  informação:  documentos  relacionados  à  sua  criação  e  instalação,  documentos  de 
+
+reformulação  ou  redirecionamento  administrativo,  organogramas,  leis,  decretos,  regimentos, 
+
+regulamentos,  estatutos,  relatórios  de  atividades,  estatutos  sociais,  atas  de  reunião,  planos  de 
+
+metas, projetos institucionais. 
+
+O  estudo  da  estrutura  e  do  funcionamento  do  organismo  produtor  permite  identificar  o 
+
+conjunto de atribuições relacionadas às atividades-fim e atividades-meio, e, a partir das atribuições, 
+
+identificar as funções, subfunções e atividades das quais decorrem a produção dos documentos.  
+
+23 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Sistematização de dados 
+
+Após o estudo da estrutura e do funcionamento do organismo produtor, é preciso elaborar 
+
+um quadro com a estrutura detalhada e as atribuições de cada área de atuação. 
+
+Vamos usar como exemplo o organograma da Secretaria de Agricultura e Abastecimento de São 
+Paulo: 
+
+24 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Estrutura organizacional da Secretaria de Agricultura e Abastecimento 
+
+Organograma da Secretaria de Agricultura e Abastecimento 
+
+Administração Direta 
+ Secretário adjunto 
+ Gabinete do secretário 
+ Assessoria técnica 
+ Chefia de gabinete 
+ Comissão processante permanente 
+ Consultoria jurídica 
+ DEPARTAMENTO DE ADMINISTRAÇÃO  
+ Divisão de comunicações administrativas 
+ Núcleo de protocolo e arquivo 
+ Divisão de finanças 
+ Núcleo de administração patrimonial 
+ Departamento de recursos humanos 
+ Centro de planejamento e controle de recursos humanos 
+ Centro de seleção e desenvolvimento de recursos humanos 
+ AGÊNCIA PAULISTA DE TECNOLOGIA DOS AGRONEGÓCIOS - APTA  
+ Departamento de descentralização do desenvolvimento 
+ Unidades de pesquisa e desenvolvimento 
+ Núcleo de informação e transferência de conhecimento 
+ Instituto agronômico 
+ Instituto de economia agrícola 
+ Instituto de pesca 
+ Instituto de tecnologia de alimentos - ital 
+  COORDENADORIA DA DEFESA AGROPECUÁRIA  
+  Núcleo de análises de produtos 
+  Núcleo de análises e diagnósticos de insumos agropecuários 
+  Núcleo de diagnósticos de doenças dos animais 
+  Centro de defesa sanitária, animal e vegetal 
+  Centro de inspeção de produtos de origem animal 
+  Centro de fiscalização de insumos e conservação do solo 
+
+COORDENADORIA DE DESENVOLVIMENTO DOS AGRONEGÓCIOS - CODEAGRO 
+
+   Departamento de abastecimento, alimentação e nutrição 
+   Centro de execução, monitoramento e controle de programas e projetos 
+   Centro de segurança alimentar e nutricional sustentável 
+   Departamento de planejamento e informações 
+   Centro de informações técnicas 
+   Centro de planejamento 
+   Instituto de cooperativismo e associativismo 
+   Centro de capacitação e assistência técnica rural 
+   Centro de organização e planejamento rural 
+   Núcleo de documentação técnica 
+
+25 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Do  organograma  da  Secretaria  de  Agricultura  e  Abastecimento,  a  título  de  exemplo,  vamos 
+detalhar a Coordenadoria de Desenvolvimento dos agronegócios – CODEAGRO. 
+
+ESTRUTURA 
+
+DIVISÕES DA 
+ESTRUTURA 
+
+SUBDIVISÕES 
+DA 
+ESTRUTURA 
+
+COORDENADORIA 
+DE 
+DESENVOLVIMENTO 
+DOS 
+AGRONEGÓCIOS - 
+CODEAGRO 
+
+Decreto  nº 43.142 de 
+02/06/1998 
+
+Departamento 
+de 
+abastecimento, 
+alimentação e 
+nutrição 
+
+Centro de 
+execução, 
+monitoramento 
+e controle de 
+programas  e 
+projetos 
+
+Centro de 
+segurança 
+alimentar e 
+nutricional 
+sustentável 
+
+ATRIBUIÇÕES 
+
+Executar e supervisionar os 
+programas e projetos nas áreas de 
+abastecimento, alimentação e 
+nutrição 
+Implantar ações que visem à 
+produção e à comercialização de 
+produtos e insumos agrícolas, 
+agropecuários e agroindustriais 
+Coordenar e executar ações de 
+abastecimento alimentar e de 
+combate à fome 
+Realizar cursos, palestras e 
+treinamentos voltados aos setores 
+dos agronegócios 
+Operacionalizar sistemas de 
+monitoramento e controle dos 
+padrões de qualidade dos 
+programas e projetos 
+desenvolvidos  
+Acompanhar os resultados de 
+análises físicas, químicas e 
+biológicas, provenientes dos 
+programas e projetos realizadas 
+por laboratórios credenciados 
+Executar ações específicas, nas 
+áreas de alimentação, nutrição, 
+economia doméstica e segurança 
+alimentar 
+Desenvolver instrumentos e 
+estratégias de informação e 
+conhecimento no que se refere à 
+segurança alimentar e nutricional 
+Propor ações de segurança 
+alimentar e nutricional sustentável 
+Realizar cursos, palestras, 
+treinamentos e eventos educativos 
+visando ao combate ao 
+desperdício, à adequada 
+manipulação dos alimentos e ao 
+aproveitamento de suas partes não 
+convencionais 
+Desenvolver receitas e cardápios 
+de elevado valor nutritivo 
+Realizar análises e estudos sobre 
+métodos de higiene e manipulação 
+de alimentos 
+
+26 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ATRIBUIÇÕES 
+
+ESTRUTURA 
+
+COORDENADORIA 
+DE 
+DESENVOLVIMENTO 
+DOS 
+AGRONEGÓCIOS - 
+CODEAGRO 
+
+Decreto  nº 43.142 de 
+02/06/1998 
+
+DIVISÕES DA 
+ESTRUTURA 
+
+Departamento 
+de 
+planejamento 
+e informações 
+
+Instituto de 
+cooperativismo 
+e 
+associativismo 
+
+SUBDIVISÕES 
+DA 
+ESTRUTURA 
+
+Centro de 
+informações 
+técnicas 
+Centro de 
+planejamento 
+Centro de 
+capacitação e 
+assistência 
+técnica rural 
+Centro de 
+organização e 
+planejamento 
+rural 
+Núcleo de 
+documentação 
+técnica 
+
+Observando o quadro acima, podemos constatar que os dois Centros executam atividades 
+
+semelhantes:  realizar  cursos,  palestras  e  treinamentos,  o  que  difere  é  a  área  de  atuação.  Se  o 
+
+Plano  for  elaborado  de  acordo  com  o  método  funcional  as  atribuições  idênticas  e  semelhantes 
+
+deverão  ser  agrupadas  e  deverá  ser  definida  uma  proposta  de  redação  que  represente  esse 
+
+conjunto.  Se  o  método  for  o  estrutural  podemos  perceber  uma  das  inconveniências  apontadas 
+
+anteriormente:  “um  mesmo  tipo/série  documental  poderá  constar  no  Plano  de  Classificação  com 
+
+códigos distintos quando registrarem atividades comuns às várias unidades da estrutura do órgão 
+
+produtor”. 
+
+Trabalhando com as atribuições 
+
+ESTRUTURA
+
++
+
+DIVISÕES DA
+ESTRUTURA
+
+SUBDIVISÕES DA
+ESTRUTURA
+
++
+
+ATRIBUIÇÕES
+
+FUNÇÃO
+FUNÇÃO
+
+SUBFUNÇÃO
+SUBFUNÇÃO
+
+ATIVIDADE
+ATIVIDADE
+
+SÉRIE 
+SÉRIE 
+DOCUMENTAL
+DOCUMENTAL
+
+ou
+
+GRUPO
+GRUPO
+
+SUBGRUPO
+SUBGRUPO
+
+ATIVIDADE
+ATIVIDADE
+
+SÉRIE 
+SÉRIE 
+DOCUMENTAL
+DOCUMENTAL
+
+27 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Plano de classificação funcional 
+
+FUNÇÃO 
+
+SUBFUNÇÃO 
+
+Desenvolvimento 
+dos 
+agronegócios 
+
+Gerenciamento 
+de 
+abastecimento, 
+alimentação e 
+nutrição 
+
+ATIVIDADES 
+Execução e supervisão dos programas e projetos nas 
+áreas de abastecimento, alimentação e nutrição 
+Implantação de ações que visem à produção e à 
+comercialização de produtos e insumos agrícolas, 
+agropecuários e agroindustriais 
+coordenação e execução de  ações de abastecimento 
+alimentar e de combate à fome 
+Realização de  cursos, palestras, treinamentos e 
+eventos educativos voltados aos setores de 
+agronegócios e  visando ao combate ao desperdício, à 
+adequada manipulação dos alimentos e ao 
+aproveitamento de suas partes não convencionais  
+Operacionalização de sistemas de monitoramento e 
+controle dos padrões de qualidade dos programas e 
+projetos desenvolvidos  
+Acompanhamento dos resultados de análises físicas, 
+químicas e biológicas, provenientes dos programas e 
+projetos  
+avaliação, cadastramento e credenciamento de  
+beneficiários, produtores rurais e instituições públicas 
+e privadas, abrangidos pelos programas e projetos  
+Execução de  ações específicas, nas áreas de 
+alimentação, nutrição, economia doméstica e 
+segurança alimentar 
+
+A Coordenadoria de Desenvolvimento dos Agronegócios – CODEAGRO aparecerá no Plano como 
+
+a função Desenvolvimento dos agronegócios e o Departamento de abastecimento, alimentação 
+
+e nutrição como a subfunção Gerenciamento de abastecimento, alimentação e nutrição.  
+
+Plano de classificação estrutural 
+
+GRUPO 
+
+SUBGRUPO 
+
+UNIDADE 
+PRODUTORA 
+
+ATIVIDADES 
+
+Coordenadoria 
+de 
+desenvolvimento 
+dos 
+agronegócios 
+
+Departamento 
+de 
+abastecimento, 
+alimentação e 
+nutrição 
+
+Centro de 
+execução, 
+monitoramento e 
+controle de 
+programas e 
+projetos, através 
+do corpo técnico 
+
+Execução e supervisão dos 
+programas e projetos nas áreas de 
+abastecimento, alimentação e 
+nutrição 
+Implantação de ações que visem à 
+produção e à comercialização de 
+produtos e insumos agrícolas, 
+agropecuários e agroindustriais 
+coordenação e execução de  ações 
+de abastecimento alimentar e de 
+combate à fome 
+Realização de  cursos, palestras e 
+treinamentos voltados aos setores 
+dos agronegócios 
+
+28 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+GRUPO 
+
+SUBGRUPO 
+
+UNIDADE 
+PRODUTORA 
+
+ATIVIDADES 
+
+Coordenadoria 
+de 
+desenvolvimento 
+dos 
+agronegócios 
+
+Centro de 
+segurança 
+alimentar e 
+nutricional 
+sustentável 
+
+Executar ações específicas, nas 
+áreas de alimentação, nutrição, 
+economia doméstica e segurança 
+alimentar 
+Propor ações de segurança 
+alimentar e nutricional sustentável 
+Realizar cursos, palestras, 
+treinamentos e eventos educativos 
+visando ao combate ao desperdício, 
+à adequada manipulação dos 
+alimentos e ao aproveitamento de 
+suas partes não convencionais 
+
+Identificação  da  produção  documental:  análise  dos  tipos  documentais,  controle  de 
+vocabulário e atribuição de códigos numéricos. 
+
+Para  a  identificação  da  produção  documental  é  necessário  analisar  os  tipos  documentais 
+
+produzidos. O Tipo Documental é a configuração que assume uma espécie documental de acordo 
+
+com a atividade que a gerou.  
+
+O  tipo  documental  é  composto  pela  série  +  ação  +  objeto.  Não  devemos  confundir  com 
+
+assunto. 
+
+Exemplos: 
+
+29 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Estratégia: 
+
+·  a  identificação  dos  tipos  documentais  pode  ser  realizada  pelos  agentes/funcionários  que 
+
+executam as atividades e, portanto, produzem, recebem e  acumulam documentos  
+
+·  ou  por  meio  de  entrevistas  com  os  agentes/funcionários  que  produzem,  recebem  e  
+
+acumulam documentos em suas respectivas áreas de atuação 
+
+No  Plano  de  Classificação,  o  Tipo  Documental  associado  ao  Órgão  Produtor  +  Função  + 
+
+Subfunção + Atividade é representado pela Série Documental.  
+
+“Série documental: é o conjunto de documentos do mesmo tipo documental produzido por um 
+mesmo órgão, em decorrência do exercício da mesma função, subfunção e atividade e que 
+resultam de idêntica forma de produção e tramitação e obedecem à mesma temporalidade e 
+destinação”.  
+São Paulo (Estado). Decreto estadual nº 48.897, de 27 de agosto de 2004, art. 12 
+
+Controle do vocabulário: padronização da denominação dos documentos 
+
+A elaboração de um índice contribui para a ampliação das formas de busca. O Índice é um 
+
+instrumento complementar ao Plano de Classificação que favorece a recuperação dos documentos 
+
+a  partir  das  variantes  do  seu  conteúdo  e  das  modalidades  da  sua  produção,  ao  relacionar 
+
+alfabeticamente  e  de  forma  permutada,  todos  os  tipos  documentais,  funções,  subfunções  e 
+
+atividades  ou  grupos,  subgrupos  e  atividades,  bem  como  os  termos  e  expressões  utilizados 
+
+freqüentemente. 
+
+O índice alfabético, remissivo e permutado confere credibilidade e confiabilidade ao sistema 
+
+que  está  sendo  adotado  ao  cumprir  a  função  de  padronizar  a  denominação  dos  documentos, 
+
+possibilitando  o  controle  do  vocabulário.  O  índice  estabelece  um  sistema  de  “pontes”  ligando  as 
+
+expressões  usualmente  utilizadas,  porém  não  adotadas  pelo  Plano  de  Classificação,  às 
+
+30 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+expressões convencionadas, permitindo a busca de tipos documentais a partir das variantes de seu 
+
+conteúdo  e  das  modalidades  de  sua  produção.  O  índice  alfabético,  remissivo  e  permutado,  nos 
+
+permite ainda: 
+
+·  organizar  em  ordem  alfabética  as  funções,  subfunções,  atividades  e  tipos  documentais, 
+
+bem como os “assuntos” usualmente utilizados por tradição administrativa; 
+
+· 
+
+realizar  remissivas  por  meio  da  expressão  USE  para  encaminhar  o  usuário  às  
+
+denominações padronizadas. 
+
+·  orientar  o  usuário  a  localizar  documentos  simples  quando  estes  integram  documentos 
+
+compostos, por meio da expressão INTEGRA. 
+
+Exemplo de padronização de vocabulário 
+
+Contas de luz  
+Contas de água 
+Contas de telefone 
+
+Benefícios do Índice 
+
+USE 
+
+Processo  de  pagamento  de  contas  de 
+utilidade pública 
+
+·  Contribui para o controle do vocabulário 
+
+·  Liga  as  expressões tradicionalmente adotadas às expressões padronizadas pelo Plano de 
+
+Classificação 
+
+·  Confere credibilidade e confiabilidade ao sistema de controle adotado 
+
+Exemplo de Índice Alfabético, Remissivo e Permutado: 
+
+Acidente de trabalho ou doença profissional, Licença por USE Processo de 
+afastamentos ou licenças 
+
+Adoção, Licença por USE Processo de afastamentos ou licenças 
+
+Afastamento com vencimentos USE Processo de afastamentos ou licenças 
+
+Afastamento de funcionário preso USE Processo de afastamentos ou licenças 
+
+Afastamento para desempenho de mandato eletivo USE Processo de 
+afastamentos ou licenças 
+Afastamento para executar serviços obrigatórios por lei USE Processo de 
+afastamentos ou licenças 
+Afastamento para exercício de cargo em comissão USE Processo de 
+afastamentos ou licenças 
+Afastamento para exercício de cargo em sindicato USE Processo de 
+afastamentos ou licenças 
+Afastamento para exercício em atividades com as quais o Estado mantenha 
+convênio USE Processo de afastamentos ou licenças 
+Afastamento para participação em congressos e outros certames culturais, 
+técnicos ou científicos USE Processo de afastamentos ou licenças 
+
+3.3.4.5 
+
+3.3.4.5 
+
+3.3.4.5 
+
+3.3.4.5 
+
+3.3.4.5 
+
+3.3.4.5 
+
+3.3.4.5 
+
+3.3.4.5 
+
+3.3.4.5 
+
+3.3.4.5 
+
+31 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Atribuição de códigos de classificação 
+
+No  Plano  de  Classificação,  o  órgão  produtor,  as  funções,  subfunções,  atividades  e 
+
+documentos apresentam-se hierarquicamente organizados e recebem códigos numéricos próprios. 
+
+ “O  código  de  classificação  é  a  referência  numérica  que  associa  o  documento  ao  seu 
+
+contexto  de  produção,  e  é  composto  das  seguintes  unidades  de  informação:  órgão  produtor; 
+
+função;  subfunção;  atividade  e  série  documental”.  São  Paulo  (Estado).  Decreto  estadual  nº  48.897/2004, 
+
+artigo 13.  
+
+Representação do Código de Classificação: 
+
+O  código  de  classificação  da  série  documental  é  composto  das  seguintes  unidades  de 
+
+informação: órgão produtor, função, subfunção, atividade, série documental. 
+
+Órgão  produtor:  é  o  órgão  público  ou  empresa  privada  juridicamente  constituída  e  organizada 
+
+responsável pela execução de funções e atividades.  
+
+Função:  corresponde  ao  conjunto  das  atividades  que  um  órgão  público  ou  empresa  privada  
+
+exerce  para  a  consecução  de  seus  objetivos.    As  funções  podem  ser  diretas  ou  essenciais  e 
+
+indiretas ou auxiliares. As funções indiretas ou auxiliares são as que possibilitam a infra-estrutura 
+
+administrativa,  financeira,  de  recursos  humanos,  de  material  e  patrimônio,  transporte  e  de 
+
+comunicação, infra-estrutura necessária ao desempenho concreto e eficaz das funções essenciais.  
+
+Subfunção:  refere-se  a  um  agrupamento  de  atividades  afins,  correspondendo  cada  subfunção  a 
+
+uma vertente da respectiva função.  
+
+Atividade:  ações, encargos ou serviços decorrentes do exercício de uma função. 
+
+32 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Ilustração do Plano de Classificação de Documentos da Administração Pública do Estado de São 
+
+Paulo: Atividades-Meio, oficializado pelo Decreto nº 48.897/2004: 
+
+5. Tabela de Temporalidade de Documentos de Arquivo 
+
+Todos  nós  já  nos  deparamos  com  o  acúmulo  desordenado  de  documentos  em  nossos 
+
+armários, mesas ou gavetas. Quantos já não se perguntaram: será que não posso eliminar esses 
+
+documentos?  Eles  ainda  me  são  úteis  para  alguma  coisa?  Pois  é,  ao  nos  fazer  essa  pergunta 
+
+estamos nos colocando o grande desafio da avaliação de documentos. Existem documentos que 
+
+não podemos eliminar jamais porque comprovam fatos ou atos fundamentais para nossa existência 
+
+civil  e  para  nossa  vida  pessoal:  certidão  de  nascimento,  de  casamento,  de  óbito,  diplomas  e 
+
+certificados, histórico escolar, cédula de identidade, título de eleitor, carteira de motorista, carteira 
+
+de  trabalho,  escrituras  de  imóveis,  cartas,  fotografias  de  família  etc.  Se  perder  ou  eliminar  tais 
+
+documentos,  uma  pessoa  não  tem  como  provar  sua  existência  ou  realizações,  e,  por  isso,  não 
+
+pode exercer os seus direitos, ou ainda, fica “desmemoriada”, sem provas de sua passagem pela 
+
+vida e de suas realizações. 
+
+No entanto, determinados documentos cumprem uma função importante durante um certo 
+
+tempo  e  depois  perdem  o  seu  valor  original  e  devem  ser  eliminados,  sob  pena  de  dificultarem  o 
+
+acesso  a  outros  documentos  com  valor  informativo  e  probatório  relevantes.  Trata-se  de 
+
+documentos rotineiros, instrumentais, que acumulamos em grande volume: notas fiscais, contas de 
+
+água,  luz,  telefone,  gás,  carnês  de  prestações,  recibos  de  pagamento,  notas  fiscais,  extratos 
+
+bancários, imposto de renda, convites etc. Por isso, de tempos em tempos, as pessoas se sentem 
+
+obrigadas  a  realizar  uma  “limpeza”  nas  gavetas  pois,  do  contrário,  ficariam  submersas  numa 
+
+montanha de papéis... 
+
+33 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Pois é, mas o grande desafio é saber o quê podemos eliminar e quando, sem prejudicar 
+
+nenhum de nossos direitos e sem destruir nossas melhores lembranças de tempos passados. Se 
+
+você  eliminar  uma  nota  fiscal  e  depois  desejar  trocar  ou  consertar  uma  mercadoria,  a  loja  não 
+
+efetuará a troca e nem o conserto. Por quê? Porque a nota fiscal prova que aquela mercadoria de 
+
+fato foi adquirida naquela determinada loja e sem essa prova, o seu direito de trocar ou consertar a 
+
+mercadoria não poderá ser exercido. Por isso, a nota fiscal somente poderá ser eliminada quando 
+
+se esgotar o prazo de troca (previsto no Código de Defesa do Consumidor) ou o prazo da garantia 
+
+(definido no certificado de garantia do produto). Se você não conhecer ou não souber como exercer 
+
+os seus direitos, precisará da colaboração de um outro profissional que possa orientá-lo. Por isso, 
+
+em geral, não decidimos sozinhos sobre os valores dos documentos. 
+
+Nesse  sentido,  observamos  que  não  é  possível  e  nem  desejável  que  todos  os  documentos 
+
+sejam  preservados.  No  entanto,  a  preservação  e  a  eliminação  dependem  de  uma  análise  prévia 
+
+dos documentos que possa nos orientar sobre quais deles e quando devem ser eliminados. Esse 
+
+trabalho  de  análise  denomina-se  avaliação  de  documentos  e,  nesse  processo,  geralmente 
+
+precisamos contar com a colaboração de outros profissionais, de outras áreas do conhecimento. 
+
+Nas  organizações,  públicas  e  privadas,  também  nos  deparamos  com  documentos  que 
+
+devem  ser  preservados  e  outros  que  precisam  ser  eliminados  quando  seus  valores  tiverem  se 
+
+esgotado. 
+
+Em  relação  à  organização  administrativa  de  nossa  construtora,  por  exemplo,  vamos 
+
+encontrar  tipos  documentais  que  registram  a  sua  criação,  o  seu  funcionamento  e  as  suas 
+
+atividades-fim, tais como contratos sociais e alterações contratuais, metas e programas, propostas 
+
+técnicas, projetos (arquitetura, estrutural, hidráulica, elétrica), ensaios tecnológicos (aço, concreto, 
+
+solo, elétrica etc), memorial descritivo, laudos técnicos, registros fotográficos, diário da obra, livro 
+
+de registro de inspeção etc. Esses documentos certamente precisam ser preservados para sempre, 
+
+sob pena da empresa perder a sua “memória”.  
+
+Por outro lado, determinados documentos possuem um valor fiscal que se esgota depois de 
+
+cinco anos (de acordo com o Código Tributário Nacional), tais como notas fiscais, comprovantes de 
+
+pagamento,  comprovantes  de  recebimento,  extratos  bancários,  etc.  Esses  documentos  que  têm 
+
+seu  prazo  de  guarda  definido  no  Código  Tributário  (denomina-se  prazo  prescricional  o  prazo  de 
+
+guarda definido em lei), poderão ser eliminados, após os cinco anos, sem nenhum prejuízo para a 
+
+empresa. 
+
+O  importante  é  perceber  que  a  guarda  do  documento  decorre  do  valor  que  ele  possui. 
+
+Analisar  os  valores  dos  documentos  é  uma  atividade  técnica  da  gestão  documental  denominada 
+
+avaliação.  A  Tabela  de  Temporalidade  de  Documentos  de  Arquivo  é  o  instrumento  resultante  da 
+
+atividade de avaliação documental.   
+
+34 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Conceito de avaliação documental 
+
+A  avaliação  documental  é  um  processo  multidisciplinar  de  análise  que  permite  a 
+
+identificação  dos  valores  dos  documentos,  para  fins  da  definição  de seus prazos de guarda e de 
+
+sua destinação final (eliminação ou guarda permanente). A avaliação contribui decisivamente para 
+
+a  racionalização  dos  arquivos,  para  a  agilidade  e  eficiência  administrativa,  bem  como  para  a 
+
+preservação do patrimônio documental. 
+
+Os valores primários ou imediatos relacionam-se ao motivo que determinou a produção do 
+
+documento,  considerando  seu  uso  para  fins  administrativo,  jurídico-legal  e  fiscal.  Os  valores 
+
+secundários  ou  mediatos  relacionam-se  ao  potencial  do  documento  como  prova  ou  fonte  de 
+
+informação  para  a  pesquisa  em  qualquer  área  do  conhecimento  (urbanismo,  meio-ambiente, 
+
+história, clínica médica etc.) 
+
+Assim,  a  avaliação  consiste  fundamentalmente  em  identificar  valores  e  definir  prazos  de 
+
+guarda para os documentos de arquivo, independentemente de seu suporte material ser o papel, o 
+
+filme, a fita magnética, o disquete, o disco ótico ou qualquer outro. Assim como a classificação, a 
+
+avaliação  deve  ser  realizada  no  momento  da  produção  do  documento,  para  evitar  a  produção  e 
+
+acumulação desordenadas, segundo critérios temáticos, numéricos ou cronológicos.  
+
+A  avaliação  deve  ser  realizada  dentro  de  parâmetros  técnicos  e  jurídicos,  a  fim  de  se 
+
+assegurar  ao  processo  de  análise  a  objetividade  possível.  Por  isso,  observa-se,  de  um  lado,  a 
+
+legalidade  (a  conformidade  dos  prazos  de  guarda  com  a  legislação  vigente)  e,  por  outro,  a 
+
+legitimidade (a elaboração multidisciplinar e coletiva de critérios). Além disso, o trabalho almeja um 
+
+estatuto científico, pois deve ser conduzido por técnicas, princípios e conceitos consagrados pela 
+
+Arquivística.  Importante  registrar  que  se  a  objetividade  total  não  é  alcançável,  não  apenas  na 
+
+Arquivística,  mas  em  qualquer  área  do  conhecimento  humano,  ao  menos,  se  observados  esses 
+
+parâmetros, a subjetividade será reduzida a níveis toleráveis.  
+
+O  conhecimento  é  dinâmico  e  está  permanentemente  em  construção.  Além  do  mais,  os 
+
+profissionais de qualquer área atuam a partir do conhecimento legado e de acordo com os valores 
+
+e a visão de mundo predominantes na sua época. Nesse sentido, a avaliação permite a elaboração 
+
+de  critérios  que  podem  e  devem  ser  periodicamente  revisitados  para  possíveis  ajustes  e 
+
+aperfeiçoamentos.  O  que  importa,  contudo,  é  que  o  profissional  de  arquivo  esteja  comprometido 
+
+com  a  análise  e  com  a  definição  de  critérios,  e  não  se  intimide  diante  da  complexidade  e  do 
+
+alcance desse desafio.  
+
+Objetivos e benefícios da avaliação documental 
+
+· 
+
+Identificar os valores imediatos e mediatos dos documentos 
+
+·  Definir os prazos de guarda e a destinação dos documentos 
+
+·  Elaborar a Tabela de Temporalidade de Documentos 
+
+·  Agilizar a recuperação dos documentos e das informações 
+
+·  Reduzir a massa documental acumulada 
+
+35 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+·  Liberar espaço físico 
+
+·  Dar visibilidade e preservar os documentos de guarda permanente 
+
+·  Autorizar a eliminação criteriosa de documentos 
+
+·  Estimular a pesquisa e uso de dados retrospectivos 
+
+Por que elaborar a Tabela de Temporalidade de Documentos de Arquivo? 
+
+Com  o  Plano  de  Classificação  garantimos  a  organização  lógica  e  física  dos  documentos, 
+
+recuperamos  as  informações  em  seu  contexto  original  de  produção  e  visualizamos  as  funções, 
+
+subfunções e atividades do organismo produtor. Por essa razão, o Plano de Classificação precede 
+
+e orienta a elaboração da Tabela de Temporalidade de Documentos.  
+
+Contudo, mesmo com o Plano de Classificação, continuamos com os arquivos abarrotados 
+
+de documentos e sem espaço para acomodá-los, pois diante do volume não é possível guardar a 
+
+totalidade da produção documental.  
+
+Desta  forma  torna-se  necessário  fazer  a  avaliação  de  documentos  e  consolidar  os 
+
+resultados dessa análise na Tabela de Temporalidade de Documentos,  instrumento que autoriza a 
+
+eliminação de documentos rotineiros, sem valor para a administração ou para a coletividade e que, 
+
+ao  mesmo  tempo,  garante  a  preservação  de    documentos  com  relevante  valor  informativo  e 
+
+probatório. 
+
+O que é a Tabela de Temporalidade de Documentos de Arquivo? 
+
+É  o  instrumento  de  gestão,  resultante  da  avaliação  documental,  aprovado  por  autoridade 
+
+competente, que define prazos de guarda e a destinação de cada série documental, determinando 
+
+sua preservação ou autorizando a sua eliminação.  
+
+A  oficialização  e  efetiva  aplicação  da  Tabela  de  Temporalidade  permitirá  ao  órgão  ou 
+
+entidade  preservar  os  documentos  que  possuam  valor  probatório  e  informativo  relevantes  e  que 
+
+sejam considerados de guarda permanente, ou ainda, eliminar com segurança, de acordo com os 
+
+procedimentos técnicos e legais, aqueles documentos desprovidos de valor, sem que haja prejuízo 
+
+à administração ou à sociedade. 
+
+Em se tratando de documentos públicos ou considerados de interesse público, a Tabela de 
+
+Temporalidade deverá ser encaminhada para aprovação da instituição arquivística pública em sua 
+
+esfera de competência, de acordo com o que determina o artigo 9.º da Lei Federal n.º 8.159/1991.  
+
+Por  ser  um  instrumento  dinâmico  de  gestão,  a  Tabela  de  Temporalidade  deve  ser 
+
+atualizada  periodicamente:  primeiro,  porque  com  o  passar  do  tempo,  é  provável  que  muitos 
+
+documentos deixem de existir e outros novos sejam produzidos, segundo, porque a legislação ou 
+
+as  razões  administrativas  ou  técnicas  que  justificaram  alguns  prazos  de  guarda  podem  sofrer 
+
+alterações.  
+
+36 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Competência para avaliar documentos: as Comissões de Avaliação de Documentos de 
+
+Arquivo 
+
+As  Comissões  de  Avaliação  de  Documentos  de  Arquivo  são  grupos  permanentes  e 
+
+multidisciplinares  responsáveis  pela  elaboração  e  aplicação,  em  suas  respectivas  áreas  de 
+
+atuação, de Planos de Classificação e de Tabelas de Temporalidade de Documentos.  
+
+Devem  integrar  as  Comissões  de  Avaliação  de  Documentos  de  Arquivo  profissionais  das 
+
+áreas jurídica, administração geral, orçamentária e financeira, protocolo e arquivo, informática e de 
+
+áreas específicas de atuação do órgão, entidade ou empresa. Recomenda-se, para não inviabilizar 
+
+as  reuniões,  que  as  Comissões  sejam  compostas  de  no  mínimo  3  e  no  máximo  9  membros 
+
+designados pelo titular do órgão. O número ideal de membros deve ser ímpar, para se evitar casos 
+
+de  empate  nos  momentos  em  que  forem  necessárias  as  votações.  Por  outro  lado,  o  número  de 
+
+integrantes  depende  da  necessidade  do  caso  concreto,  tamanho  e  complexidade  do  órgão, 
+
+entidade ou empresa.  
+
+Às  Comissões  de  Avaliação  cabe,  também,  propor  critérios  para  orientar  a  seleção  de 
+
+amostragens  dos  documentos  destinados  à  eliminação.  As  Comissões  de  Avaliação  de 
+
+Documentos de Arquivo deverão consultar, em caso de dúvida, a Consultoria/Assessoria Jurídica 
+
+acerca das ações judiciais encerradas ou em curso para que se possa dar cumprimento aos prazos 
+
+prescricionais e precaucionais de guarda previstos nas Tabelas de Temporalidade. Os documentos 
+
+necessários à instrução de processos administrativos ou ações judiciais deverão ter sua prescrição 
+
+suspensa e o seu  
+
+prazo de guarda deverá ser reiniciado a partir do encerramento definitivo da 
+
+ação. 
+
+Para garantir a efetiva aplicação dos Planos de Classificação e Tabelas de Temporalidade 
+
+de  Documentos,  as  Comissões  de  Avaliação  deverão  solicitar  as  providências  necessárias  para 
+
+sua inclusão nos sistemas informatizados utilizados nos protocolos e arquivos de seus respectivos 
+
+órgãos ou entidades. 
+
+As Comissões de Avaliação de Documentos de Arquivo deverão receber orientação técnica 
+
+na área arquivística das unidades de Arquivo Central e, em se tratando de documentos públicos, 
+
+também das instituições arquivísticas públicas em suas respectivas esferas de competência. 
+
+Para  executar  a  atividade  de  avaliação    dos  documentos  as  Comissões  de  Avaliação  de 
+
+Documentos  poderão  solicitar  a  nomeação  de  grupos  de  trabalho  auxiliares  ligados  às  diversas 
+
+áreas  de  atuação  do  organismo  produtor,  por  ser  um  trabalho  de  grande  complexidade  e 
+
+responsabilidade. 
+
+O conhecimento sobre a produção documental consolidado nos Planos de Classificação e 
+
+Tabelas  de  Temporalidade  resulta  de  um  esforço  coletivo,  por  isso  é  fundamental  promover  a 
+
+participação  e  integração  entre  os  membros  das  comissões  e  grupos,  os  responsáveis  pela 
+
+coordenação dos trabalhos, e os profissionais das áreas produtoras/acumuladoras de documentos. 
+
+37 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+Para a execução do trabalho, é imprescindível, ainda, o apoio da superior administração por meio 
+
+de suas Diretorias ou Gerências. 
+
+No Estado de São Paulo, por exemplo, o trabalho realizado para a elaboração do Plano de 
+
+Classificação e da Tabela de Temporalidade das atividades-meio contou com a participação de 51 
+
+Comissões  de  Avaliação  de  Documentos  de  Arquivo,  instituídas  em  20  Secretarias  de  Estado,  8 
+
+Fundações,  13  Autarquias,  8  Empresas,  Procuradoria  Geral  do  Estado  e  Ministério  Público 
+
+Estadual, em conjunto com os grupos auxiliares de trabalho e eventuais colaboradores, totalizando 
+
+cerca de 800 agentes públicos envolvidos no projeto,  entre assessores, procuradores, diretores de 
+
+departamentos  e  técnicos  altamente  especializados,  além  da  consultoria  de  profissionais 
+
+especializados em arquivística. 
+
+Com a responsabilidade de orientar e realizar o processo de classificação e avaliação dos 
+
+documentos  produzidos,  recebidos  e  acumulados  em  sua  esfera  de  atuação,  as  Comissões  de 
+
+Avaliação de Documentos de Arquivo deverão ser as principais interlocutoras, o elo de ligação 
+
+entre  os  órgãos  que  representam  e  o  grupo  que  coordena  o  programa  de  gestão  documental, 
+
+disseminando  a  orientação  técnica  e  o  conhecimento  arquivístico  recebidos,  bem  como, 
+
+disponibilizando ao programa um saber específico de cada uma de suas áreas de atuação. 
+
+Metodologia e estratégias para a elaboração da Tabela de Temporalidade de Documentos de 
+
+Arquivo 
+
+Campos de informação da Tabela de Temporalidade de Documentos de Arquivo 
+
+Na  Tabela  de  Temporalidade  de  Documentos  deverão  constar  os  seguintes  campos  de 
+
+informação:  prazos  de  guarda  (na  unidade  produtora  e  na  unidade  com  atribuição  de  arquivo); 
+
+destinação (eliminação ou guarda permanente) e observações. 
+
+Exemplo: 
+
+Resultados da 
+Classificação 
+
+Resultados da 
+Avaliação 
+
+FUNÇÃO  SUBFUNÇÃO 
+
+ATIVIDADE 
+
+SÉRIE 
+DOCUMENTAL 
+
+Unidade 
+Produtora 
+
+Unidade com 
+atribuições 
+de arquivo 
+
+Eliminação 
+
+Guarda 
+Permanente 
+
+OBSERVAÇÕES 
+
+PRAZOS DE GUARDA 
+(em anos) 
+
+DESTINAÇÃO 
+
+Informações para 
+o Plano de Classificação de 
+Documentos de Arquivo 
+
+Informações para 
+a Tabela de Temporalidade de 
+Documentos de Arquivo 
+
+38 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Etapas para a elaboração da Tabela de Temporalidade de Documentos de Arquivo 
+
+As informações necessárias para preencher os campos da Tabela de Temporalidade serão 
+
+obtidas  por  meio  da  avaliação  de  documentos.  Para  compreender  melhor  o  que  é  avaliação  de 
+
+documentos vamos a seguir analisar cada uma das seguintes etapas: 
+
+Identificação dos valores dos documentos 
+
+Valor primário ou imediato (administrativos, fiscal e legal): O valor primário decorre da razão pela 
+
+qual  o  documento  foi  gerado  pela  instituição,  no  exercício  de  suas  atividades,  destacando-se  o 
+
+valor administrativo, fiscal e legal. 
+
+Valor  secundário  ou  mediato  (probatórios, 
+
+informativos,  históricos  e  culturais):  Alguns 
+
+documentos, mesmo depois de esgotado seu valor primário continuam tendo relevância probatória, 
+
+informativa,  ou  histórica  e,  portanto  tornam-se  importantes  fontes  de  pesquisa,  tanto  para  a 
+
+administração quanto para a comunidade. 
+
+Análise do ciclo de vida dos documentos 
+
+Esta etapa compreende o estudo dos documentos desde a sua criação até a sua destinação final, 
+
+permite  identificar  os  valores  e  definir  o  tempo  em  que  o  documento  deverá  permanecer  na 
+
+unidade  produtora  (arquivo  corrente)  e  na  unidade  com  atribuições  de  arquivo  (arquivo 
+
+intermediário  ou  central),  bem  como  se  a  sua  destinação  será  a  guarda  permanente  (arquivo 
+
+permanente) ou a eliminação. 
+
+ Pesquisa da temporalidade dos documentos 
+
+§  Considerando a legislação específica: O objetivo desta etapa de trabalho é identificar o prazo 
+
+de guarda do documento definido na legislação (prescrição). Para tanto, o primeiro passo é o 
+
+levantamento  da  legislação  que  determina  eventuais  prazos  de  prescrição  dos  documentos 
+
+produzidos/acumulados  no  exercício  das  atividades-meio  e  das  atividades-fim.  Por  exemplo: 
+
+Leis, Decretos, Resoluções, Portarias e outros atos normativos.  
+
+§  Considerando  as  necessidades  administrativas:  Para  os  documentos  cujos  prazos  de 
+
+guarda  não  são  regulamentados  por  legislação  específica  deverão  ser  consideradas  as 
+
+necessidades  administrativas  do  órgão/entidade,  a  fim  de  se  definir  os  prazos  de  guarda 
+
+(precaução) e a destinação dos documentos. Esse trabalho deverá contar com a colaboração 
+
+dos representantes das áreas envolvidas, pois são eles que, como produtores ou acumuladores 
+
+39 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+dos  documentos,  melhor  conhecem  sua  área  de  atuação,  suas  normas,  procedimentos, 
+
+trâmites, rotinas e antecedentes. 
+
+Definição dos prazos de guarda dos documentos: vigência, prescrição e precaução 
+
+Realizada a pesquisa na legislação e o estudo das necessidades administrativas poderá ser 
+
+preenchido o campo PRAZOS DE GUARDA na Tabela: 
+
+PRAZOS  DE  GUARDA  (em  anos)  -  com  fundamento  em  legislação  específica  ou  nas 
+
+demandas administrativas para cada série documental deverá ser indicado o correspondente prazo de 
+
+guarda,  ou  seja,  o  tempo  de  permanência  de  cada  conjunto  documental  na  unidade  produtora  e  na 
+
+unidade com atribuições de arquivo. 
+
+Unidade  Produtora:  deve  ser  indicado  o  número  de  anos  em  que  o  documento  deverá 
+
+permanecer no arquivo corrente, cumprindo a finalidade para a qual foi produzido. Consideram-se 
+
+documentos  correntes  aqueles  em  curso  ou  que  se  conservam  junto  às  unidades  produtoras  em 
+
+razão de sua vigência e da freqüência com que são por elas consultados. 
+
+Quando  utilizamos  o  conceito  vigência,  na  unidade produtora, estamos nos referindo ao intervalo 
+
+de tempo durante o qual o documento produz efeitos administrativos e legais plenos, cumprindo as 
+
+finalidades que determinaram sua produção. Este intervalo de tempo deverá, sempre que possível, 
+
+ser  definido  em  anos  e  quando  não  for  possível,  recomendamos  o  uso  da  palavra  VIGÊNCIA.  O 
+
+registro  da  informação  que  explica  o  término  da  VIGÊNCIA  deverá  ser  inserido  no  campo 
+
+OBSERVAÇÕES. 
+
+ATIVIDADES  DOCUMENTOS 
+
+PRAZOS DE GUARDA 
+(em anos) 
+
+Unidade 
+Produtora 
+
+Unidade 
+com 
+atribuições 
+de arquivo 
+
+DESTINAÇÃO 
+
+Eliminação 
+
+Guarda 
+Permanente 
+
+4.5.8 
+Controle da 
+guarda e do 
+uso de 
+veículos 
+
+4.5.9 
+Controle do 
+consumo de 
+combustível 
+
+4.5.8.15 
+Processo relativo 
+ao uso irregular 
+de veiculo oficial 
+
+4.5.9.5 
+Quadro 
+demonstrativo 
+mensal de 
+consumo de 
+combustível 
+
+vigência 
+
+1 
+
+OBSERVAÇÕES 
+
+A vigência esgota-se com 
+o término da apuração ou 
+com a prescrição criminal. 
+
+Exemplos de alguns documentos de valor primário ou imediato e guarda temporária: 
+
+Unidade  com  atribuições  de  Arquivo:  deve  ser  indicado  o  número  de  anos  em  que  o 
+
+documento  deverá  permanecer  na  unidade  com  atribuições  de  arquivo  cumprindo  prazos 
+
+prescricionais  ou  precaucionais  (documentos 
+
+intermediários).  Consideram-se  documentos 
+
+40 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+intermediários  aqueles  com  uso  pouco  freqüente  que  aguardam  prazos  de  prescrição  e 
+
+precaução nas unidades que tenham atribuições de arquivo. 
+
+Os  prazos  considerados  para  a  definição  do  tempo  de  guarda  na  Unidade  com  atribuições  de 
+
+arquivo são os seguintes: 
+
+Prazo de Prescrição – intervalo de tempo durante o qual pode-se invocar a tutela do Poder 
+
+Judiciário  para  fazer  valer  direitos  eventualmente  violados.  O  tempo  de  guarda  dos  documentos 
+
+será dilatado sempre que ocorrer a interrupção ou suspensão da prescrição, em conformidade com 
+
+a legislação vigente.  
+
+Exemplo: 
+
+ATIVIDADES 
+
+DOCUMENTOS 
+
+PRAZOS DE GUARDA 
+(em anos) 
+
+DESTINAÇÃO 
+
+Unidade 
+Produtora 
+
+Unidade 
+com 
+atribuições 
+de arquivo 
+
+Eliminação 
+
+Guarda 
+Permanente 
+
+5.2.11 
+Controle da 
+contabilidade 
+
+5.2.11.9 
+Guia de 
+Recolhimento de 
+FGTS 
+
+1 
+
+30 
+
+OBSERVAÇÕES 
+
+Lei Federal n.º 8.036/90, art. 
+23, § 5.º -  O processo de 
+fiscalização, de autuação e 
+de imposição de multas 
+reger-se-á pelo disposto no 
+Titulo VII da CLT, respeitado 
+o privilégio do FGTS à 
+prescrição trintenária. 
+
+Prazo  de  precaução  –  intervalo  de  tempo  durante  o  qual  guarda-se  o  documento  por 
+
+precaução, antes de eliminá-lo ou encaminhá-lo para guarda permanente.  
+
+Exemplo: 
+
+ATIVIDADES 
+
+DOCUMENTOS 
+
+PRAZOS DE 
+GUARDA 
+(em anos) 
+
+Unidade 
+Produtora 
+
+Unidade 
+com 
+atribuições 
+de arquivo 
+
+DESTINAÇÃO 
+
+Eliminação 
+
+Guarda 
+Permanente 
+
+4.2.4 
+Registro da 
+movimentação de 
+bens patrimoniais 
+
+4.2.4.4. 
+Processo de 
+transferência de 
+bens 
+patrimoniais 
+
+1 
+
+5 
+
+OBSERVAÇÕES 
+
+As 
+informações  estão 
+contidas  no  documento 
+“Inventário físico de bens 
+patrimoniais”  mas  por 
+precaução  o  processo 
+deve  ser  guardado  por 
+mais  5  anos.  Caso  haja 
+alguma irregularidade no 
+Inventário 
+quando 
+analisado  pelo  Tribunal 
+de 
+as 
+Contas, 
+informações do processo 
+na 
+poderão 
+elucidação 
+dos 
+problemas. 
+
+auxiliar 
+
+41 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+O prazo de guarda do documento na unidade com atribuições de arquivo, freqüentemente, 
+
+coincide com o seu prazo prescricional e precaucional e deve ser contado a partir do cumprimento 
+
+do prazo de vigência na Unidade Produtora.  
+
+É importante considerar que estes prazos podem ser interrompidos quando instaurada uma 
+
+ação judicial ou por qualquer ato inequívoco ainda que extrajudicial, passando a se contar o prazo,  
+
+novamente,  a  partir  da  data  da  decisão  ou  resolução  do  ato  que  a  interrompeu.  Entretanto,  uma 
+
+simples  consulta  ao  documento  não  interrompe  a  contagem  do  prazo  previsto  na  unidade  com 
+
+atribuições de arquivo. 
+
+DESTINAÇÃO: eliminação ou guarda permanente 
+
+O último passo da avaliação é definir, em razão de seus valores, se a destinação de cada 
+
+um das séries documentais é a eliminação ou a guarda permanente. Entende-se por destinação a 
+
+decisão decorrente da avaliação documental, que determina o seu encaminhamento.  
+
+Eliminação:  Os  documentos  destinados  à  eliminação são aqueles que já cumpriram seus 
+
+prazos de guarda na unidade produtora e na unidade com atribuições de arquivo e não apresentam 
+
+valor secundário que justifique a sua guarda. Documentos de guarda temporária são aqueles que, 
+
+esgotados os prazos de guarda na unidade produtora ou nas unidades que tenham atribuições de 
+
+arquivo,  podem  ser  eliminados  sem  prejuízo  para a coletividade ou memória do órgão público ou 
+
+empresa privada.  
+
+Exemplo: 
+
+ATIVIDADES  DOCUMENTOS 
+
+4.2.2 
+Defesa de 
+bens 
+patrimoniais 
+4.2.4 
+Registro da 
+movimentação 
+dos bens 
+patrimoniais 
+
+4.2.2.1 
+Certificado de 
+garantia 
+
+4.2.4.4 
+Processo de 
+transferência 
+de bens 
+patrimoniais 
+
+PRAZOS DE GUARDA 
+(em anos) 
+
+Unidade 
+Produtora 
+
+Unidade 
+com 
+atribuições 
+de arquivo 
+
+DESTINAÇÃO 
+
+Eliminação 
+
+Guarda 
+Permanente 
+
+vigência 
+
+1 
+
+- 
+
+5 
+
+b 
+
+b 
+
+OBSERVAÇÕES 
+
+Justifica-se a guarda 
+somente durante o prazo de 
+validade do certificado. 
+
+As informações estão 
+contidas no Inventário físico 
+de bens patrimoniais. 
+
+Guarda permanente: Os documentos destinados à guarda permanente são aqueles cujas 
+
+informações  são  consideradas  imprescindíveis  ao  órgão  produtor  e  para  a  comunidade.  Esses 
+
+documentos, além do valor administrativo, legal e fiscal, encerram também valor de prova e como 
+
+fonte para a pesquisa e, portanto, devem ser definitivamente preservados.  
+
+São  exemplos  de  documentos  de  guarda  permanente  os  constitutivos  e  extintivos  de 
+
+direitos, os que encerram orientações normativas, os que refletem a evolução social, econômica e 
+
+42 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+administrativa  da  instituição,  os  que  emanam  da  direção  superior,  como  planos,  projetos, 
+
+programas e relatórios anuais, os que tratam de política de pessoal, dentre outros. 
+
+Exemplo: 
+
+ATIVIDADES  DOCUMENTOS 
+
+1.2.1 
+
+Formulação de 
+
+diretrizes e 
+
+metas de ação 
+
+1.2.1.1 
+
+Plano, 
+
+programa ou 
+
+projeto 
+
+1.2.2 Execução, 
+
+1.2.2. 6 
+
+acompanhament
+
+o e avaliação de 
+
+atividades 
+
+Relatório anual 
+
+de atividades 
+
+do órgão, 
+
+entidade ou 
+
+empresa 
+
+PRAZOS DE GUARDA 
+(em anos) 
+
+Unidade 
+Produtora 
+
+Unidade 
+com 
+atribuições 
+de arquivo 
+
+DESTINAÇÃO 
+
+Eliminação 
+
+Guarda 
+Permanente 
+
+OBSERVAÇÕES 
+
+vigência 
+
+5 
+
+b 
+
+5 
+
+5 
+
+O documento é importante 
+
+b 
+
+para a preservação da 
+
+memória institucional. 
+
+Preenchimento do campo “OBSERVAÇÕES” 
+
+Este  campo  da  Tabela  é  reservado  para  o  registro  dos  atos  legais  e  das  razões  de  natureza 
+
+administrativa  que  fundamentaram  a  indicação  dos  prazos  propostos  ou  ainda  informações 
+
+relevantes sobre a produção, guarda ou conteúdo do documento.  
+
+PRAZOS DE GUARDA 
+(em anos) 
+
+Unidade 
+Produtora 
+
+Unidade 
+com 
+atribuições 
+de arquivo 
+
+DESTINAÇÃO 
+
+Eliminação 
+
+Guarda 
+Permanente 
+
+Exemplo: 
+
+ATIVIDADES  DOCUMENTOS 
+
+5.2.11 
+
+5.2.11.10 
+
+Controle da 
+
+Contabilidade 
+
+Guia de 
+
+Recolhimento do 
+
+FINSOCIAL 
+
+6.1.6 
+
+6.1.6.2 Tabela de 
+
+Avaliação e 
+
+temporalidade de 
+
+destinação de 
+
+documentos 
+
+documentos 
+
+OBSERVAÇÕES 
+
+Indicação da legislação sobre 
+temporalidade 
+
+Decreto-Lei Federal n.º 2.049/83 
+
+Art. 9.º - A ação para cobrança das 
+contribuições  devidas ao FINSOCIAL 
+prescreverá no prazo de dez anos, 
+contados a partir da data prevista para 
+seu recolhimento. 
+
+Necessidades administrativas 
+sobre temporalidade 
+
+Fica na unidade enquanto estiver 
+vigente e não elimina. Alguém pode 
+reclamar que uma eliminação não 
+respeitou os prazos da tabela e na 
+verdade foram respeitados os prazos 
+da tabela válida na época da 
+eliminação e não da atual.  
+
+Informado pelo produtor/acumulador 
+do documento. 
+
+43 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Ilustração da Tabela de Temporalidade de Documentos da Administração Pública do Estado de São 
+Paulo: Atividades-Meio, oficializada pelo decreto nº 48.897/2004. 
+
+6. Avaliação e eliminação da massa documental acumulada em órgãos públicos: atividades 
+técnicas e procedimentos administrativos 
+
+O  grande  desafio  no  momento  de  avaliar  massas  documentais  acumuladas  nos  arquivos 
+
+centrais  ou  intermediários,  especialmente  nos  do  setor  público,  é  que  o  critério  predominante  de 
+
+arquivamento dos processos administrativos ainda é o seqüencial numérico/cronológico, de acordo 
+
+com o número recebido no protocolo no momento da autuação. Essa prática resulta na mistura de 
+
+documentos gerados no exercício de funções e atividades distintas, tornando difícil a recuperação 
+
+do contexto original da produção. A avaliação de documentos arquivados em seqüência numérica 
+
+implica basicamente na análise de documento por documento, o que é bastante trabalhoso face à 
+
+massa documental acumulada com o decorrer do tempo.  
+
+É freqüente, por isso, a eliminação sem critério ou, o que é igualmente grave, a reprodução 
+
+do acervo em outros suportes, sem a prévia identificação e avaliação dos conjuntos documentais. 
+
+O  que  interessa,  nessa  visão  imediatista  é  a  liberação  de  espaço.    Contudo,  esse  procedimento 
+
+pode  representar  um  investimento  inútil  quando  incidir  sobre  documentos  rotineiros,  repetitivos, 
+
+desprovidos  de  valor  informativo  ou  probatório,  que  poderiam  ser  eliminados,  conservando-se  
+
+deles  apenas  pequenas  amostragens.  Por isso, a avaliação deve preceder qualquer processo de 
+
+reprodução  de  documentos,  seja  pela  microfilmagem,  seja  pela  digitalização.  Vale  lembrar  que  
+
+documentos  digitalizados  não  possuem  valor  legal  e  que  os  originais  dos  documentos  de guarda 
+
+permanente devem ser preservados, mesmo se estiverem microfilmados ou digitalizados. 
+
+44 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+O  que  autoriza  a  eliminação  de  documentos  é  a  avaliação.  Mesmo  que  a  Tabela  de 
+
+Temporalidade não estiver concluída e oficializada, pode-se eliminar documentos, adotando-se aos 
+
+seguintes procedimentos: 
+
+1.  Edição  de  ato  oficial 
+
+instituindo  a  Comissão  de  Avaliação  de  Documentos 
+
+(Resolução/Portaria/Ato). 
+
+2.  Elaboração  da  Relação  de  Eliminação  de  Documentos  -  tem  por  objetivo  registrar 
+
+informações pertinentes aos documentos a serem eliminados, de acordo com orientação do 
+
+CONARQ, Resolução n.º 7, de 20/05/97. Essa Relação de Eliminação deverá ser aprovada 
+
+pela  Comissão  de  Avaliação  de  Documentos  e,  no  setor  público,  encaminhada  para 
+
+aprovação  da  instituição  arquivística  pública,  em  sua  esfera  de  competência,  no  caso  da 
+
+Tabela de Temporalidade ainda não estar concluída e oficializada.  
+
+3.  Definição  de  amostragem  dos  documentos  destinados  à  eliminação.  Amostragem 
+
+documental  é  o  fragmento  representativo  de  um  conjunto  de  documentos  destinado  à 
+
+eliminação,  selecionado  por  meio  de  critérios  qualitativos  (estudo  das  características 
+
+informacionais  do  tipo  documental)  e  quantitativos  (análise  estatística).  Em  geral,  são 
+
+contemplados  critérios  estatísticos,  cronológicos,  e  geográficos.  O  trabalho  é  extenso  e 
+
+especializado  visto  que  para  cada  série  é  possível  se  adotar  critérios  específicos.  O  ideal 
+
+seria constituir um grupo técnico com profissionais da área de estatística e representantes 
+
+das  Comissões  de  Avaliação  de  Documentos  de  Arquivo  para  realizar  os  estudos 
+
+necessários.  
+
+4.  Elaboração  da  ata  de  reunião  da  Comissão  de  Avaliação  de  Documentos  aprovando  a 
+
+relação  proposta  -  a  Relação  de  Eliminação  deverá  ser  aprovada  pela  Comissão  de 
+
+Avaliação  de  Documentos  e  esta  deliberação  deverá  ser  registrada  em  Ata,  e  no  setor 
+
+público, a cópia será encaminhada à instituição arquivística pública.  
+
+5.  Elaboração  de  ofício  da  Comissão  de  Avaliação  de  Documentos  ao  Diretor  da  instituição 
+
+arquivística  pública,  no  setor  público,  solicitando  autorização  para  eliminar  os  documentos 
+
+avaliados. 
+
+6.  Elaboração  de  Edital  de  Ciência  de  Eliminação  -  o  Edital  de  Ciência  de  Eliminação  de 
+
+Documentos tem por objetivo dar publicidade, no Diário Oficial do Estado de São Paulo ao 
+
+ato  de  eliminação  dos  documentos  públicos,  de  acordo  com  a  Resolução  n  .º  5  do 
+
+CONARQ.  O  objetivo  do  Edital  é  que  os  interessados  possam  requerer  à  Comissão  de 
+
+Avaliação de Documentos de Arquivo, no prazo definido no edital, o desentranhamento de 
+
+documentos  ou  cópias  de  peças  do  processo,  mediante  petição,  desde  que  tenham  a 
+
+respectiva qualificação e demonstração de legitimidade do pedido. 
+
+7.  Fragmentação manual ou mecânica de documentos, de acordo com a Resolução n.º 7 do 
+
+CONARQ, de 20/5/1997.  Quando os documentos a serem eliminados encontram-se fora da 
+
+sede do órgão ou entidade e nenhum membro da Comissão de Avaliação de Documentos 
+
+de Arquivo puder presenciar a eliminação no local do evento, a mesma deverá designar um 
+
+45 
+
+ 
+ 
+ 
+ 
+ 
+
+representante  junto  à  unidade  que  efetivará  a  eliminação,  para  que  este  presencie  a 
+
+fragmentação  e  assine  o  Termo  de  Eliminação  de  Documentos.  A  incineração  de 
+
+documentos em papel pode ser considerado crime ambiental. 
+
+8.   Elaboração  do  Termo  de  Eliminação  de  Documentos  -  tem  por  objetivo  registrar  as 
+
+informações  relativas  ao  ato  de  eliminação,  de  acordo  com  a  orientação  do  CONARQ, 
+
+Resolução n.º 7, de 20/05/2000. 
+
+  Recomendações para eliminar documentos com segurança 
+
+§  Verificar a situação de ações judiciais encerradas ou em curso A Comissão de Avaliação de 
+
+Documentos  deverá  consultar  a  Consultoria/Assessoria  Jurídica  sobre  as  ações  judiciais 
+
+encerradas ou em curso, para que se possa dar cumprimento aos prazos prescricionais e 
+
+precaucionais de guarda previstos na Tabela de Temporalidade de Documentos. 
+
+§  Verificar se há documentos de guarda permanente microfilmados ou reproduzidos em outro 
+
+suporte:  Todo  documento  considerado  de  guarda  permanente  não  poderá  ser  eliminado 
+
+após  microfilmagem,  digitalização  ou  qualquer  outra  forma  de  reprodução,  devendo  ser 
+
+preservado pelo próprio órgão produtor ou, se tratar-se de documentos públicos, recolhido 
+
+ao Arquivo Público,  na sua esfera de competência. O documento de guarda permanente é 
+
+inalienável e imprescritível (Lei federal de arquivos n.º 8.159/91, art. 10) 
+
+§  Eliminação de documentos que não constam na Tabela de Temporalidade: no setor público, 
+
+a  eliminação  de  documentos  que  não  constam  em  Tabelas  de  Temporalidade  de 
+
+Documentos  oficializadas  pelo  órgão,  entidade  ou  empresa  só  será  possível  mediante 
+
+autorização  do  Arquivo  Público,  em  seu  âmbito  de  atuação,  após  análise  da  Relação  de 
+
+Eliminação de Documentos que deverá ser encaminhada pelo órgão ou entidade. 
+
+Eliminação de documentos públicos: fundamentos legais 
+
+§  A eliminação de documentos produzidos por instituições públicas e de caráter público será 
+
+realizada mediante autorização da instituição arquivística pública, na sua específica esfera 
+
+de competência (Lei Federal n.º 8.159, de 08/10/91, art. 9.º) 
+
+§  Os  documentos,  em  tramitação  ou  em  estudo,  poderão,  a  critério  da  autoridade 
+
+competente,  ser  microfilmados,  não  sendo  permitida  a  sua  eliminação  até  a  definição  de 
+
+sua destinação final (Decreto Federal  n.º 1.799, de 30/01/96, art. 11) 
+
+§  A eliminação de documentos, após a microfilmagem, dar-se-á por meios que garantam sua 
+
+inutilização, sendo a mesma precedida de lavratura de termo próprio e após a revisão e a 
+
+extração de filme cópia (idem, art. 12) 
+
+§  A eliminação de documentos oficiais ou público só deverá ocorrer se prevista na tabela de 
+
+temporalidade do órgão, aprovada pela autoridade competente na esfera de sua atuação e 
+
+respeitado  o  disposto  no  art.  9.º  da  Lei  n.º  8.159,  de  8  de  janeiro  de  1991  (idem,  art.  12, 
+
+parágrafo único) 
+
+46 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+§  Fica  vedada  a  eliminação  de  documentos  integrantes  do  patrimônio  arquivístico  público, 
+
+sem  prévia  consulta  ao  órgão  central  do  Sistema  de  Arquivos  do  Estado  de  São  Paulo 
+
+(Decreto Estadual n.º 22.789, de 19/10/84, art. 13). 
+
+Recomendações para o recolhimento de documentos ao arquivo permanente 
+
+§  O  recolhimento  é  a  passagem  de  documentos  que  foram  considerados  de  guarda 
+
+permanente  no  processo  de  avaliação,  em  função  de  seu  valor  informativo  ou  probatório, 
+
+para o arquivo permanente. 
+
+§  Os  documentos  de  arquivo  a  serem  recolhidos  ao  arquivo  permanente  deverão  estar 
+
+avaliados, organizados, higienizados e acondicionados. 
+
+§   Antes  de  desencadear  o  processo  de  recolhimento  é  importante  fazer  uma  revisão  para 
+
+assegurar que todos dos documentos estejam devidamente classificados de acordo com o 
+
+Plano  de  Classificação  e  obedecem  aos  prazos  previstos  nas  respectivas  Tabelas  de 
+
+Temporalidade. Essa cautela deve-se ao fato de que uma vez recolhido, o documento não 
+
+deverá mais ser eliminado ou voltar ao arquivo de origem. 
+
+§   A organização do acervo a ser recolhido deverá ser feita de acordo com critérios técnicos 
+
+de identificação, classificação e descrição. 
+
+§  É  importante  observar  se  os  documentos  estão  devidamente  higienizados  e  livres  de 
+
+pragas, a fim de evitar a contaminação do acervo ao qual serão incorporados. 
+
+§  Os documentos deverão estar acondicionados em embalagens adequadas, que os protejam 
+
+de  eventuais  danos.  Os  documentos  textuais  poderão  ser  acondicionados  em  caixas  de 
+
+polionda  de  tamanho  padrão  (0,14  m  de  largura  por  0,27  m  de  altura  e  0,39  m  de 
+
+comprimento).  Os  documentos  que  excedam  ao  padrão  convencional  deverão  ser 
+
+acondicionados em embalagens adequadas às suas dimensões. Documentos audiovisuais, 
+
+cartográficos,  micrográficos  e  informáticos  deverão  ser  acondicionados  em  estojos  ou 
+
+caixas  de  material  inerte  ou  sem  acidez.  As  unidades  de  acondicionamento  deverão  ser 
+
+identificadas com etiquetas contendo, no mínimo, o nome do fundo/coleção, datas-limite e 
+
+numeradas em ordem seqüencial. 
+
+§    Elaboração  da  relação  e  do  termo  de  recolhimento,  contendo  as  seguintes  informações: 
+
+nome  do  órgão  ou  entidade  transferidor  (a),  as  séries  documentais,  as  datas-limite,  a 
+
+mensuração (em metros lineares) e quantificação (quantidade de caixas). 
+
+§   Os  documentos  a  serem  transferidos  ou  recolhidos  deverão  ser  acompanhados  de  todos 
+
+os instrumentos de busca existentes, incluindo listagens, fichários, bases de dados etc. 
+
+Definição da estratégia de trabalho 
+
+Antes  de  iniciar  um  trabalho  desse  porte,  é  recomendável  elaborar  um  Projeto  com  a 
+
+justificativa, os objetivos, as estratégias e as atividades para o seu desenvolvimento, os agentes que 
+
+47 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+serão envolvidos, os produtos que serão gerados pelo projeto e os benefícios que a implementação 
+
+da gestão documental trará para o órgão público ou empresa privada. 
+
+Esse  projeto  deverá  ser  encaminhado  ao  dirigente  do  órgão  ou  empresa,  com  o  intuito  de 
+
+sensibilizá-lo para a necessidade de apoiar o trabalho e fortalecer o relacionamento da Comissão de 
+
+Avaliação  de  Documentos  e  do  responsável  pela  unidade  de  arquivo  e  protocolo  com  todos  os 
+
+profissionais das mais diversas áreas de sua atuação. 
+
+Programação das atividades 
+
+Elaborar  a  programação  com  todas  as  atividades  necessárias  para  o  desenvolvimento  do 
+
+trabalho, tais como: 
+
+§  Estudo  da  estrutura  administrativa  do  órgão  para  identificar  as  competências,  funções  e 
+
+atividades  de  cada  uma  de  suas  unidades  por  meio  da  legislação  que  dispõe  sobre  sua 
+
+organização  e  funcionamento;  para  gerar  o  quadro  de atribuições de cada área meio e/ou de 
+
+cada área fim. 
+
+§  Levantamento de toda a produção documental. 
+
+§  Elaboração do Plano de Classificação com as funções, subfunções e atividades para a inclusão 
+
+dos documentos identificados. 
+
+§  Padronização na nomeação das tipologias documentais geradas no exercício da mesma função; 
+
+§  Atribuição de códigos de classificação aos documentos. 
+
+§  Estudo de atos legais ou de razões de natureza administrativa que fundamentam, para cada tipo 
+
+de documento, a indicação da temporalidade e da destinação proposta. 
+
+§  Definição dos prazos de guarda em cada local de arquivamento, bem como sua destinação final: 
+
+guarda definitiva ou eliminação dos documentos de arquivo, em conformidade com a legislação 
+
+em vigor, respeitados os prazos de vigência, prescrição e precaução. 
+
+§  Elaboração  da  Tabela  de  Temporalidade  dos  Documentos  a  partir  do  Plano  de  Classificação, 
+
+para inserir os valores indicados para os documentos de acordo com sua idade: administrativo, 
+
+legal, fiscal, técnico, histórico, fundamentando com a legislação específica, quando houver. 
+
+§  Consistência  técnica  arquivística  do  Plano  de  Classificação  e  a  Tabela  de  Temporalidade  e 
+
+análise da Consultoria/Assessoria Jurídica. 
+
+§  Oficialização dos instrumentos de gestão documental. 
+
+Reuniões com todos os agentes envolvidos 
+
+Realizar  reuniões  com  os  profissionais  das  áreas  que  produzem  documentos  relativos  às 
+
+atividades-meio e atividades-fim para divulgar a  legislação que dispõe sobre documentos públicos 
+
+e privados, oferecer informações a respeito da importância da gestão documental e a metodologia 
+
+a ser adotada pela Comissão de Avaliação de Documentos para a execução do trabalho.  
+
+48 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+Terceirização da guarda de documentos públicos ou de serviços arquivísticos 
+
+Os  serviços  arquivísticos  terceirizados  deverão  ser  realizados  sob  a  supervisão  das 
+
+Comissões  de  Avaliação  de  Documentos  de  Arquivo  e  de  acordo  com  os  critérios  técnicos 
+
+estabelecidos  pela  legislação  arquivística,  respeitando-se  as  determinações  dos  atos  normativos 
+
+vigentes.  
+
+A  guarda  dos  documentos  públicos  é  exclusiva  dos  órgãos  e  entidades  do  Poder  Público, 
+visando  garantir  o  acesso  e  a  democratização  da  informação,  sem  ônus,  para  a 
+Administração e para o cidadão. 
+Poderão  ser  contratados  serviços  para  a  execução  de  atividades  técnicas  auxiliares,  desde 
+que planejados, supervisionados e controlados por agentes públicos pertencentes aos órgãos 
+e entidades produtores e acumuladores dos documentos. (Resolução n.º 6, de 15 de maio de 1997, 
+do Conselho Nacional de Arquivos, artigos 2º e 3º) 
+
+7. CONCLUSÃO 
+
+Benefícios da gestão 
+
+§  A aplicação dos instrumentos de gestão na produção atual permite que o documento seja 
+
+classificado  no  momento  de  sua  produção,  com  seus  prazos  de  guarda,  destinação  e  e 
+
+localização  física  definidos,  interrompendo  o  acúmulo  desordenado  de  documentos  nos 
+
+arquivos.  
+
+§  A  aplicação  dos  instrumentos  de  gestão  na  massa  documental  acumulada  permitirá  a 
+
+eliminação  criteriosa  e  conseqüente  liberação  de  espaço  físico,  garantindo  assim  uma 
+
+melhor conservação dos documentos de guarda permanente. 
+
+Gestão documental: interfaces com os programas de qualidade 
+
+Ao  definir  normas  e  procedimentos  técnicos  referentes  à  classificação,  avaliação, 
+
+preservação  e  eliminação  de  documento,  um  programa  de  gestão  documental  contribui 
+
+decisivamente  para  atender  às  demandas  da  sociedade  contemporânea  por  transparência  que 
+
+permitam  a  fiscalização  das  ações  do  governo,  assegurando  o  efetivo  exercício  da  cidadania  e 
+
+acesso rápido aos documentos e informações gerados pelo Poder Público. 
+
+A gestão documental vem ao encontro, também, da orientação dos governos de simplificar 
+
+os  procedimentos  administrativos,  imprimir  maior  qualidade  e  produtividade,  bem  como  de 
+
+assegurar o direito de acesso pleno à informação pelo usuário do serviço público, em conformidade 
+
+com as disposições da Constituição Federal e da Lei federal de arquivos n.º 8.159/91.   
+
+Nessa  mesma  direção,  a  gestão  documental  atende  também  aos  objetivos mais elevados 
+
+da Lei de Responsabilidade Fiscal (Lei Complementar n.º 101/2000), quais sejam, os de assegurar 
+
+condições para o planejamento, o controle e a transparência nas finanças públicas.  
+
+A  administração  racional  dos  arquivos  e  o  processamento  técnico  das  informações 
+
+representam uma significativa economia de recursos, pois permitem a eliminação de documentos 
+
+desprovidos  de  valores,  reduzindo  a  massa  documental  ao  mínimo  essencial,  a  otimização  dos 
+
+49 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+espaços  físicos  dos  arquivos  e,  por  outro  lado,  permitem  a  preservação  de  documentos  que 
+
+encerram    valor  informativo  ou  probatório.  Da  mesma  forma,  a  agilidade  na  recuperação  das 
+
+informações  além  de  permitir  o  planejamento  estratégico   é  capaz  de  imprimir  maior  rapidez  ao 
+
+processo decisório e garantir a eficiência da administração pública. 
+
+Definição  de  requisitos  para  o  desenvolvimento  de  sistemas  informatizados  de  gestão 
+
+arquivística de documentos 
+
+Muitas vezes, parece inquestionável para as administrações públicas que o pleno e rápido 
+
+acesso  às  informações  depende  exclusivamente da incorporação de tecnologias avançadas. Não 
+
+se  cogita  que  o  desenvolvimento  de  sistemas  informatizados  dependa  de  requisitos  que  apenas 
+
+uma política de gestão documental possa definir. 
+
+Entretanto,  não  é  a  informática,  mas  a  elaboração  de  um  conjunto  de  normas  e 
+
+procedimentos  técnicos  para  a  produção,  tramitação,  avaliação,  uso  e  arquivamento  dos 
+
+documentos  durante  todo  o  seu  ciclo  de  vida  (idade  corrente,  idade  intermediária  e  idade 
+
+permanente), que lançará as bases para o adequado desenvolvimento e eficaz implementação de 
+
+sistemas  informatizados  de  gestão  de  documentos  e  informações.  Caso  contrário,  um  aporte 
+
+expressivo  de  recursos  financeiros  e  humanos  poderia  ser  mobilizado,  sem  eficácia,  na 
+
+informatização do caos. 
+
+Por outro lado, o avanço das tecnologias da informação vem demonstrando que, cada vez 
+
+mais,  a  definição  e  adoção  de  critérios  de  classificação  e  avaliação  de  documentos  assumem  o 
+
+papel de requisitos indispensáveis ao desenvolvimento ideal de sistemas informatizados de gestão 
+
+de documentos e informações. Estes critérios permitem uma identificação completa e padronizada 
+
+dos tipos documentais produzidos, a descrição do conteúdo, o controle do trâmite, e estabelecem 
+
+os  prazos  de  guarda  e  a destinação final dos documentos, dados esses, imprescindíveis ao bom 
+
+desempenho do sistema. 
+
+A  gestão  integral  dos  documentos  públicos  lançará,  também,  as  bases  necessárias  à 
+
+integração dos protocolos aos arquivos garantindo assim a rápida localização dos documentos não 
+
+apenas durante sua tramitação, mas também durante o período em que aguardam o cumprimento 
+
+de  seus  prazos  nos  arquivos  administrativos,  ou,  até  mesmo,  quando  integrarem  acervos 
+
+permanentes. 
+
+Nesse  sentido,  os  responsáveis  pela  implementação  de  programas  de  gestão  documental 
+
+devem  demonstrar  não  apenas  que  a  organização  precisa  produzir  e/ou  consolidar  um 
+
+conhecimento sobre sua produção documental, o que envolveria uma área técnica - a arquivística , 
+
+mas também que a integração dos protocolos com os arquivos faz-se cada vez mais necessária e 
+
+que  a  informática  apresenta-se  neste  trabalho  como  uma  ferramenta  da  gestão  arquivística  de 
+
+documentos e informações. 
+
+50 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+8. BIBLIOGRAFIA 
+
+ALBERCH  FUGUERAS,  Ramón.  Los  archivos,  entre  la  memoria  histórica  y  la  sociedad  del 
+
+conocimiento. Barcelona: Editorial UOC, 2003. 
+
+ARQUIVO  DO  ESTADO  DE  SÃO  PAULO.  Plano  de Classificação e Tabela de Temporalidade 
+
+de  Documentos  da  Administração  Pública  do  Estado  de  São  Paulo:  Atividades-Meio. 
+
+São Paulo: Arquivo do Estado, 2005. 
+
+ARQUIVO  NACIONAL.  Gestão  de  Documentos:  conceitos  e  procedimentos  básicos.  Rio  de 
+
+Janeiro, 1995. (Publicações Técnicas, 47). 
+
+_____________.  Manual  de  identificação  de  acervos  documentais  para  transferência  e/ou 
+
+recolhimento aos arquivos públicos. Rio de Janeiro, 1985 (Publicações Técnicas, 40). 
+
+_____________.  Orientação  para  avaliação  e  arquivamento  intermediário  em  arquivos 
+
+públicos. Rio de Janeiro, 1985 (Publicações Técnicas, 41). 
+
+_____________.  Dicionário  Brasileiro  de  Terminologia  Arquivística.  Rio  de  Janeiro:  Arquivo 
+
+Nacional, 2005 (Publicações Técnicas, 51). 
+
+BELLOTTO, Heloísa Liberalli. Arquivística: objetos, princípios e rumos. São Paulo: Associação 
+
+de Arquivistas de São Paulo, 2002. (Scripta, 1) 
+
+_____________.  Arquivos  permanentes:  tratamento  documental.  2  ed.  rev.  e  ampl.  Rio  de 
+
+Janeiro: Fundação Getúlio Vargas, 2004. 
+
+_____________.  Como  fazer  análise  diplomática  e  análise  tipológica  de  documentos  de 
+
+arquivo. São Paulo: Arquivo do Estado, 2002. (Projeto Como fazer, 8) 
+
+BERNARDES,  Ieda  Pimenta.  Como  avaliar  documentos  de  arquivo.  São  Paulo:  Arquivo  do 
+
+Estado, 1998. (Projeto Como Fazer, 1). 
+
+BERNARDES, Ieda Pimenta (coord.). Manual de aplicação do Plano de Classificação e Tabela 
+
+de Temporalidade de Documentos da Administração Pública do Estado de São Paulo: 
+
+Atividades-Meio.  São  Paulo:  Arquivo  Público  do  Estado,  2008.  Disponível  em: 
+
+<http://www.arquivoestado.sp.gov.br>. 
+
+___________ . Manual de elaboração de Planos de Classificação e Tabelas de Temporalidade 
+
+de Documentos para a Administração Pública do Estado de São Paulo: Atividades-Fim. 
+
+São 
+
+Paulo: 
+
+Arquivo 
+
+Público 
+
+do 
+
+Estado, 
+
+2008. 
+
+Disponível 
+
+em: 
+
+<http://www.arquivoestado.sp.gov.br>. 
+
+CAMARGO,  Ana  Maria  de  Almeida  e  BELLOTTO,  Heloísa  Liberalli  (coord.).  Dicionário  de 
+
+Terminologia  Arquivística.  São  Paulo:  Associação  dos  Arquivistas  Brasileiros.  Núcleo 
+
+Regional  de  São  Paulo/Secretaria  de  Estado  da  Cultura.  Departamento  de  Museus  e 
+
+Arquivos, 1996. 
+
+CONSELHO  NACIONAL  DE  ARQUIVOS  (Brasil).  Resolução  n.º 5 de 30 de setembro de 1996. 
+
+Dispõe sobre a publicação de editais para eliminação de documentos nos Diários Oficiais da 
+
+União, Distrito Federal, Estados e Municípios. 
+
+51 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+_____________. Resolução n.º 7 de 20 de maio de 1997. Dispõe sobre os procedimentos para a 
+
+eliminação de documentos no âmbito dos órgãos e entidades integrantes do Poder Público. 
+
+_____________.  Resolução  n.º  14,  de  24  de  outubro  de  2001.  Aprova  a  versão  revisada  e 
+
+ampliada  da  Resolução  n.º  4,  de  28  de  março  de  1996,  que  dispõe  sobre  o  Código  de 
+
+Classificação  de  Documentos  de  Arquivo  para  a  Administração  Pública:  Atividades-Meio,  a 
+
+ser adotado como modelo para os arquivos correntes dos órgãos e entidades integrantes do 
+
+Sistema Nacional de Arquivos (SINAR), e os prazos de guarda e a destinação de documentos 
+
+estabelecidos na Tabela Básica de Temporalidade e Destinação de Documentos de Arquivo 
+
+Relativos as Atividades-Meio da Administração Pública. Diário Oficial da República Federativa 
+
+do Brasil. Brasília, DF, 8 de fev. de 2002. Seção1.p.2. (D.O.U, 08/02/2002) 
+
+_____________. Resolução nº 25, de 27 de abril de 2007. Dispõe sobre a adoção do Modelo de 
+
+Requisitos  para  Sistemas  Informatizados  de  Gestão  Arquivística  de  Documentos  -  e-ARQ 
+
+Brasil pelos órgãos e entidades integrantes do Sistema Nacional de Arquivos - SINAR. 
+
+DUPLÁ  DEL  MORAL,  Ana.  Manual  de  Archivos  de  Oficina  para  Gestores.  Comunidad  de  
+
+Madrid.  Madrid:  Dirección  General  de  Patrimonio  Cultural.  Consejeria  de  Educacion  y 
+
+Cultura/Marcial Pons Ediciones Jurídicas y Sociales, 1997. 
+
+GONÇALVES, Janice. Como classificar e ordenar documentos de arquivo. São Paulo: Arquivo 
+
+do Estado, 1998. (Projeto Como Fazer, 2). 
+
+GRUPO DE ARCHIVEROS MUNICIPALES DE LA COMUNIDAD DE MADRID. El expurgo en los 
+
+Archivos  Municipales.  Propuesta  de  un  Manual.  VII  Jornadas  de  Archivos  Municipales, 
+
+Comunidad de Madrid, Ayuntamiento de Leganés, [1989] 
+
+GRUPO  DE  TRABAJO  DE  ARCHIVEROS  MUNICIPALES  DE  MADRID.  Manual  de  Tipologia 
+
+Documental de los Municipios.  Diretora de la colección de “Archivos”: Ana Duplá del Moral. 
+
+Madrid (Espanha): Comunidad de Madrid, Consejería de Cultura, Secretaría General Técnica, 
+
+Servicios de Estudios, 1988. (Archivos estudios, 2). 
+
+HEREDIA HERRERA,  Antonia  (1986)  -  Gestión de Documentos. Archivistica General. Teoría 
+
+y Práctica. Actualizada y  aumentada, 5a. edição, Sevilha, Diputación Provincial, 1991. 
+
+HEREDIA  HERRERA,  Antonia.  El  principio  de  procedencia  y  los  otros  principíos  de  la 
+
+Archivística. S.Paulo: Associação de Arquivistas de São Paulo, 2003. (Scripta, 5) 
+
+INOJOSA,  Rose  Marie  -  Tabelas  de  Temporalidade.    CASTILHO,  Ataliba  Teixeira  (org.)  -  A 
+
+sistematização de arquivos públicos. Campinas, Editora da UNICAMP, 1991. p. 87-97. 
+
+JARDIM, José Maria - O conceito e a prática de gestão de documentos. Acervo, Rio de Janeiro, 
+
+2 (2): 35-42, jul.-dez. 1987. 
+
+LODOLINI, Elio. Archivística: princípios y problemas. Madrid: ANABAD, 1993. 
+
+LOPEZ,  André  Porto  Ancona.  Como  descrever  documentos  de  arquivo:  elaboração  de 
+
+instrumentos de pesquisa. São Paulo: Arquivo do Estado e IMESP, 2002. (Como fazer, 6) 
+
+MACHADO, Helena Corrêa - Avaliação de documentos: principais critérios. Arquivo Rio Claro, 
+
+Rio Claro (SP), 5 (2): 33-41, jul.1986 
+
+52 
+
+ 
+ 
+ 
+ 
+ 
+
+MACHADO,  Helena  Corrêa,  CAMARGO,  Ana  Maria  de  Almeida.  Como  implantar  arquivos 
+
+públicos municipais. 2 ed. São Paulo: Arquivo do Estado e IMESP, 2000. (Como fazer, 3) 
+
+MENDOZA  NAVARRO,  Aída.  Apuntes  para  el  estúdio  de  la  selección  documental  .  Lima: 
+
+Biblioteca Nacional del Perú,1997. 
+
+NÚÑEZ  FERNÁNDEZ,  Eduardo.  Organización  y  gestión  de  archivos.  Gijón:  Ediciones  TREA, 
+
+1999. 
+
+OLIVEIRA,  Daise  Apparecida.  Planos  de  Classificação  e  Tabelas  de  Temporalidade  de 
+
+Documentos para as Administrações Públicas Municipais. São Paulo: Arquivo Público do 
+
+Estado, 2007. 
+
+OLIVEIRA, Daise Apparecida - Sistema de Arquivos para o Município de São Paulo - SAMSP. 
+
+Revista do Arquivo Municipal v. 199. São Paulo, Departamento do Patrimônio Histórico, 1991. 
+
+PAES, Marilena Leite. Arquivo: teoria e prática. 2ª ed. Rio de Janeiro: Fundação Getúlio Vargas, 
+
+1991. 
+
+RIBEIRO, Fernanda & SILVA, Armando B. Malheiro. "A Avaliação em Arquivística reformulação 
+
+teórico-prática de uma operação metodológica". Lisboa: Páginas Arquivos & Bibliotecas - 
+
+a&b, pp.57- 113. 
+
+RONDINELLI,  Rosely  Curi.  Gerenciamento  arquivístico  de  documentos  eletrônicos:  uma 
+
+abordagem  da  diplomática  arquivística  contemporânea.  Rio  de  Janeiro:  Editora  FGV, 
+
+2002. 
+
+ROUSSEAU,  Jean-Yves,  COUTURE,  Carol.  Os  Fundamentos  da  Disciplina  Arquivística. 
+
+Lisboa: Publicações Dom Quixote, 1998. (Nova Enciclopédia, 56) 
+
+SÃO PAULO (Estado). Decreto n.º 48.897, de 27 de agosto de 2004. Dispõe sobre os Arquivos 
+
+Públicos,  os  documentos  de  arquivo  e  sua  gestão,  os  Planos  de  Classificação  e  as  Tabelas  de 
+
+Temporalidade de Documentos da Administração Pública do Estado de São Paulo, define normas 
+
+para  a  avaliação,  guarda  e  eliminação  de  documentos  de  arquivo  e  dá  providências  correlatas. 
+
+Diário Oficial do Estado de São Paulo. São Paulo, São Paulo, 28 de ago. de 2004. Seção I, p. 1. 
+
+_____________. Decreto nº. 48.898, de 27 de agosto de 2004. Aprova o Plano de Classificação e 
+
+a  Tabela  de  Temporalidade  de  Documentos  da  Administração  Pública  do  Estado  de  São 
+
+Paulo:  Atividades-Meio  e  dá  providências  correlatas.  Diário  Oficial  do  Estado  de  São Paulo. 
+
+São Paulo, São Paulo, 28 de ago. de 2004. Seção I, p. 3. 
+
+SCHELLENBERG, Theodoro R. A Avaliação dos Documentos Públicos Modernos. Trad. Lêda 
+
+Boechat Rodrigues. Rio de Janeiro: Arquivo Nacional, 1959. 
+
+_____________.  Arquivos  modernos:  princípios  e  técnicas.  Rio  de  Janeiro:  Editora  da  FGV, 
+
+2002. 
+
+SILVA,  Armando  Malheiro  e  outros.  Arquivística  –  Teoria  e  Prática  de  uma  Ciência  da 
+
+Informação,  v.  1.  Porto:  Edições  Afrontamento,  1999  (Biblioteca  das  Ciências  do 
+
+Homem/Série Plural, 2). 
+
+53 
+
+ 
+ 
+ 
+ 
+ 
+
+SOUSA, Renato Tarciso Barbosa de. As bases do processo classificatório em Arquivística: um 
+
+debate metodológico. São Paulo: Associação de Arquivistas de São Paulo, 2002. (Scripta, 
+
+2) 
+
+TESSITORE, Viviane. Arranjo: estrutura ou função? Arquivo: boletim histórico e informativo, São 
+
+Paulo, 10(1):19-28, jan.-jun. 1989. 
+
+__________.  Os  arquivos  fora  dos  arquivos:  dimensões  do  trabalho  arquivístico  em 
+
+instituições de documentação. São Paulo: Associação de Arquivistas de São Paulo, 2002. 
+
+(Scripta, 4) 
+
+VÁZQUEZ  MURILLO,  Manuel.  Cómo  seleccionar  documentos  de  archivo.  Ad  Sidera  Editorial: 
+
+Córdoba-Argentina, 2002. (Colección Archivos Vivientes-Centro Latinoamericano). 
+
+_____________.  Administración  de  documentos  y  archivos:  planteos  para  el  siglo  XXI,  1.ª 
+
+ed., Buenos Aires: Alfagrama, 2004. 
+
+54 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
