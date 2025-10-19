@@ -1,7 +1,6 @@
 # Ada-Lovelace LoRA 🇧🇷 Arquivologia e Língua Portuguesa
 
-LoRA (~80 MB) aprimorada sobre **[Vicuna-7B v1.5]** para melhorar respostas em arquivologia, especialmente para aplicação de Planos de Classificação e Tabelas de Temporalidades produzidos pelo Estado de São Paulo
-
+LoRA (~80 MB) aprimorada sobre **[Vicuna-7B v1.5]** para melhorar respostas em arquivologia
 ![banner](https://img.shields.io/badge/LoRA-Vicuna7B-blue)
 ![license](https://img.shields.io/badge/license-MIT-%2B-NC-green)
 
@@ -128,4 +127,5 @@ Taxa de acerto Ada-Lovelace: 86%
   url     = {https://github.com/alessonrota/ada-lovelace-lora}
 }
 ```
+
 
