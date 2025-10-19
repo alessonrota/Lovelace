@@ -125,6 +125,7 @@ Taxa de acerto Ada-Lovelace: 86%
   title   = {Ada-Lovelace LoRA: Fine-tuning Vicuna-7B on Brazilian archival manuals},
   author  = {Rota, Alesson Ramon.},
   year    = {2025},
-  url     = {https://github.com/<usuario>/ada-lovelace-lora}
+  url     = {https://github.com/alessonrota/ada-lovelace-lora}
 }
 ```
+
