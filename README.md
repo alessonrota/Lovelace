@@ -1,4 +1,4 @@
-# Ada-Lovelace LoRA 🇧🇷 Arquivologia e Língua Portuguesa
+# Ada-Lovelace LoRA 🇧🇷 Arquivologia e História da Historiografia em Língua Portuguesa
 
 LoRA (~80 MB) aprimorada sobre **[Vicuna-7B v1.5]** para melhorar respostas em arquivologia
 ![banner](https://img.shields.io/badge/LoRA-Vicuna7B-blue)
@@ -127,6 +127,7 @@ Taxa de acerto Ada-Lovelace: 86%
   url     = {https://github.com/alessonrota/ada-lovelace-lora}
 }
 ```
+
 
 
 
