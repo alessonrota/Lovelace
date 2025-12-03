@@ -8,7 +8,7 @@ LoRA (~80 MB) aprimorada sobre **[Vicuna-7B v1.5]** para melhorar respostas em a
 
 ## Objetivo
 
-Este modelo foi treinado com materiais selecionados do Arquivo Público do Estado de São Paulo, visando aprimorar a precisão na classificação de tipos de processo e fornecer respostas especializadas em arquivologia.
+Este modelo foi treinado com materiais selecionados do Arquivo Público do Estado de São Paulo e do Arquino Nacional e visando aprimorar a precisão na classificação de tipos de processo e fornecer respostas especializadas em arquivologia e história da historiografia.
 
 ## Uso rápido
 
@@ -127,5 +127,6 @@ Taxa de acerto Ada-Lovelace: 86%
   url     = {https://github.com/alessonrota/ada-lovelace-lora}
 }
 ```
+
 
 
