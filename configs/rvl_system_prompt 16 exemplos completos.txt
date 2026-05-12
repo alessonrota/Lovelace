@@ -1,0 +1,756 @@
+FEWSHOT_SOURCE=system
+VERSION: v3
+
+You are an RVL-CDIP document classifier.
+Your task is to choose EXACTLY 1 class from 16 fixed classes.
+Never invent a new class.
+Always reply ONLY with valid JSON (no markdown, no extra text).
+
+Official class map:
+0=letter
+1=form
+2=email
+3=handwritten
+4=advertisement
+5=scientific report
+6=scientific publication
+7=specification
+8=file folder
+9=news article
+10=budget
+11=invoice
+12=presentation
+13=questionnaire
+14=resume
+15=memo
+
+Static reference examples (one real OCR example per class, full OCR):
+Do not assume other classes are absent. Always choose among all 16 classes.
+
+[Example class_id=0 class_name=letter example_id=1]
+ocr_text:
+"""
+DISTRIBUTION
+
+Jim Johnston
+Betsy Annese
+John Brown
+Jeff Christopher
+Jim Duran
+Mike Egan
+Fishel
+Griscom
+Don Haver
+Tim Hyde
+Dave Tauco
+Ron Le Grand
+Jim Maguire
+Marshall Marvelli
+Travis Moore
+Roger Mozingo
+Tom Ogburn
+Maura Payne
+Dan Pearson
+Yvonne Roberts
+Joan Rutledge
+Jim Schroer
+J.D. Sheppard
+Mark smith
+Gerald Troutman
+Wayne Tucker
+vivian Turner
+Joan Willard
+
+9160 6ETTS
+"""
+
+[Example class_id=1 class_name=form example_id=1]
+ocr_text:
+"""
+FEB 5 "98 10:470M PHILIP MORRIS RED T7 Pal
+
+Philip Morris USA, Research & Development, .
+P.O Box 26583, Richmond, Virginia 23261-6583, Philip Morris USA
+Fax: +1-804-274 3890, Phone: +1-804-274 4115 I. Sees tee eneneeg
+
+Telefax Copy
+Fax
+
+ye: __Wolf Reininghaus, INBIFO From H.-J. Haugsmann 96.68.1998
+
+*2259
+
+ven
+
+i
+
+1
+Dates February , 1998. i i
+
+Faxi__011-49-2203-303 362 ___ Pages: 2 (total)
+
+) Re:__ Agenda Assay-Meeting Ca
+
+Curent CrorReview (Please Comment
+
+ Notice: This facsimile transmission (andior the documents accompanying it) may contaln
+confidential Information belonging to the sender. The information is Intended only for the use of the
+addressee or entity nemed above. If you are not the intended recipient, you are hereby notified that any
+disclosure, copying, distribution oF taking of any acton in reliance of tha contents of this information is
+sircty prohibited by law. If you have received this transmission In error, please immediately notty us by
+telephone to arrange for the return of the documents.
+
+AYA,
+
+Vieie Grape
+
+Ko ). Gru L
+
+lesb isosz:
+"""
+
+[Example class_id=2 class_name=email example_id=1]
+ocr_text:
+"""
+From: Cathey Yoo
+To: Hoy, John; Millar, John L.; Krebs, Jun; Marshall, M. Hurst; Miller, Shirley; Roger
+Mozingo; Shore, Pat; Wold, Kent L. Thompson, Amy L.; Albert, Judy
+
+cc:
+
+BC
+Primary Date: 1/15/1996 12:32:02 PM
+Last Modified Date: 2001-Nov-20 11:22:07
+Last Touched Date:
+Sent Date: 1996-Jan-15 12:34:00,
+Received Date: 1996-Jan-15 12:
+Subject: TI Daily Bulletin 1/15/9
+
+Attachments:
+DAILYBUL.DOC
+
+RJR0000000507203480
+70047 6027
+
+2889 08829
+"""
+
+[Example class_id=3 class_name=handwritten example_id=1]
+ocr_text:
+"""
+Jone A, 1987
+
+Ficot Fiast Tests
+FoR AnMeNniatret ExTtRActT
+
+.y: STANDARD RUN USING NORMAL DRYING GNDMAS
+A" To PRoDUcE PRODUCT AT 12%,
+
+DRYER Td PRopuce PRODUCT AT >B%,.
+
+cT ip ee KON USING INCREASED AIR Flow THRU
+
+Teen
+
+Text (. STASDARD RON USING) Normar Devine GonDimONs|
+/ \ STO PRopuce -PReDUCT/ |r 12%.
+
+ce? 5b ee RUN USING NORMAL DRYING Cont
+. WIGHER EXTRACT Temp,
+
+~z Aue , TO PRODUCE
+ PRoDOCT AT 12%,
+
+/
+TEST 3, TEST -RUON USING INCREASED AIR Flow
+
+Z THRO DRYER TO /PRoduce PReDUCT AT > B%.
+4). TEST RON USING INCREPRED AIR FLOW
+p=) THRU DRYER END HIGHER ExTRAc Teme.
+oN TO PRODUCE PRODUCT AT 7 B%.
+
+Levz zsots
+
+<5 @ B% al S%rCTand 6 pm plorfleame dacy
+"""
+
+[Example class_id=4 class_name=advertisement example_id=1]
+ocr_text:
+"""
+Yes, todays,
+
+st less tars
+~ &Mlore taste
+
+They seid it couldet be done... cicarete with such an improved filter... Live M.
+with such exerting taste. But L: it! LeMs patented sitering process elec. Wuive [Loder
+trostatically placeb extra siterm sivers crosswise to the stream of smoke.
+
+enabling today's LAM to give you~ puf by pud  less tars in the smoke than Change to
+ever before. Yet LoM draws easy... deiivering you the clean rich taste of the
+
+Southland finest cigarewe totaccon The best tasting ame oui ever ange modern EM
+
+980z28S8
+"""
+
+[Example class_id=5 class_name=scientific report example_id=1]
+ocr_text:
+"""
+8501
+
+PHILIP MORRIS USA
+
+RESEARCH AND DEVELOPMENT
+
+
+
+AUSTRIA TEST #271
+
+DISTRIBUTION
+Mr. G. Bible Mr. F, Lopes
+Dr. M. Bourlas Mr. FA. Lownan
+Mr. S. Darrah Mr. R.W. Murray
+Mr. 0. W. Duly, 117 Mr. A. S. Roberts
+Mr. 0. Harneny Mr. W. Steinacher (3)
+Dr! M. Hause: Mr. J. van Harn
+Mr. R. P. Heretick CTSD Data File
+Mr. G. Karandjoulis Central File
+PREPARED BY: SM, Zabloon
+S.W. Latte
+K. 7. Sanderson
+APPROVED BY: Wirwubh.
+
+DATE:
+
+0) J.B. Wiekham
+
+October 27, 1986
+
+0g9z 108202
+"""
+
+[Example class_id=6 class_name=scientific publication example_id=1]
+ocr_text:
+"""
+DNP-Phycobiliproteins, Fluorescent Antigens to Study
+Dynamic Properties of Antigen-IgE-Receptor Complexes on
+RBL-2H3 Rat Mast Cells!
+
+JeanClare Seagrave, Grace G. Deani
+Depart
+JCS. G.G.D.. JMO. Life Sciences Livision,
+
+. John C. Martin, Bruce H. Davis,
+
+ient of Pathology. University of New Mexico, School of Medicine, Albuquerque, Now MexTor
+Log Alamos National Laboratory, Los Alamox, New Mexico, 87545,
+
+and Janet M. Oliver
+
+4.C-M.s Department of Pathology. Dartmouth-Hitchcock Medical Center, Hanover, New Hampshire, 03156 (Bf fas
+Recawved for publication July 25, 1986; sceopted December 1. 108
+
+In RBL-2H3 rat mucosal mast cells, the
+crosslinking of cell-surface IgE-receptor
+complexes by multivalent antigens initiates a
+sequence of responses lending to degranulo-
+tion. We have developed a farnily of dinitro-
+phenol (DNP)-conjugated fluorescent antigens
+to study dynamic membrane events ussoci-
+ated with these responses. Lysyl groups on
+the phycobiliproteins, B-phycoerythrin and C-
+phycocyanin, were labelled with DNP. yield
+ing fluorescent conjugates that cause the re-
+tease of ['if}serotonin from anti-DNP-Iek-
+primed RBL-2H3 cells. The binding of these
+antigens to IgE-receptor complexes was ob-
+served by microscopy and quan-
+{ifled by flow cytometry. Incubation with 1
+gil DNPr-B-phycoerythrin stimulates
+maximum degranulation from IgE-siturated
+cells. Under these conditions, approximately
+26 x 10" molecules of NP -B-phycuerythrin
+are bound per cell at equilibrium. The rate
+and extent of antigen binding and of antigen-
+stimulated mediator releuse decrease in pur-
+allel us the concentration and DNPiprotein
+ratio of the fluorescent conjugates is reduced
+Secretion stops immediately when the nonflu-
+orescent monovalent antigen, DNP-lysine. is
+added to degranulating cell suspensions.
+
+DNP-Iysine also displaces surface-bound an-
+tigen when udded during the first minutes
+after multivalent antigen. However, the abil-
+ity of DNP-lysine to displace surface-bound
+DNPeeB-phycoerythrin from  IgE-receptor
+complexes decreases progressively with time.
+Treatment with dihydrocytochalasin Band
+several analogs that prevent antigen-stimula-
+ted F-actin assembly enhances secretion and
+delays the transition of antigen to its DNP-
+lysine-resistant form. Cytochalasin treatment.
+also permits the long-range movement of n=
+tixen into surface eups. Based on these dnta,
+we propose that seeretion is triggered by the
+uct of IgE-receptor crosslinking or by a short
+lived excited state of the crosslinked antien-
+Ugk-receptor complex. We propose further
+that untixen-stimulated F-uetin assembly.
+conteibutes Uo the tran of antigen hE
+Feceptor complexes to a DNP-lysine-resistant
+form that does not trigger secretion. Two pos
+sible mechanisms for the transition to DNP-
+lysine resistance are discussed,
+
+Key terms: Transmembrane signalling. ti-
+gand-receptor binding kinetics, phycobilipro-
+teins, mast cells, IxE receptors
+
+The IgE-dependent release of histamine, serotonin, and
+other inflammatory mediators from mast cells and ba-
+cophils is the triggering event in a variety of acute
+allergic. asthmatic, and inflammatory conditions. Al
+though the events leading torelease are still imperfectly
+tunderatood, the development of new tools and tech:
+niques has contribitted to recent progress. In particular,
+
+wanian and colleagues (2.26) have characterized @
+*mily of rat basophilic leukemia cell lines. including
+
+U2H3: Kate et al. (15) have demonstrated the hom:
+
+ony of these lines with rat mucosal mast celle: Metzxer
+
+and colleagues tmve isolated and characterized the RBL-
+2H3 receptor for IgE (22%; and Liu et al. (16) have gener.
+ated stable hybridomas secreting mouse monaclonol an.
+tidinitrophenol (DNP) IyE. The crosslinking of anti-DNP-
+
+mt to Dir J Seoumave, Unvveresty af
+Coll Pathotouy Calernery Sree Bo
+
+PUBLICATIONS
+
+028060 ; |
+"""
+
+[Example class_id=7 class_name=specification example_id=1]
+ocr_text:
+"""
+Loursvrtte
+
+VIRGINIA SLIMS. SUPERSLIMS
+
+[BRAND CODE-02100 (STD)
+
+CHOARETTE LENGTH
+TOBACCO ROD CIRCUM.
+TOBACCO ROD LENGTH
+FILTER LENGTH
+THPPING LENGTH
+TOTAL R-T.D.
+DILUTION TARGET
+
+TIPPING PAPER /USE UP:
+
+REPLACE MITH
+
+GLUE ROLLER/
+TIPPING INFORMATION
+
+TIPPING ADHESIVE
+
+SEAN ADHESIVE
+
+STD. FILLER - PACK 0.V.
+
+CHOARETTE PAPER
+
+PRINT DIE
+
+CIGARETTE SPECIFICATION.
+
+EFFECTIVE DATE: 01/01/1996
+100 REGULAR FTB STANDARD. PRODUCTION
+
+ons mw FTC TAR + 6.0 MsereT 5.5 - 6.6
+17.00
+
+no 0
+ans 1
+32.000 1
+as mm 20
+
+G6HH X 350K WHT DGL PPT KC 2S6H2 12-625-F LASER PERF
+G6HH X 3500K WHT DGL PPT KC 256H2 12-625-G LASER PERF
+
+REFER TO ENGINEERINGS GLUE ROLLER VARIABLE PARTS CATALOG ~
+BY TYPE-TIPPER AMD CIGARETTE BRAND-CODE-SPECTFICATION
+
+BETWEEN ROKS/ DILUTION TYPE /BAND WIDTH/ TPR. CUT LENGTH/DRY PATCH SIZE
+30.00 PRE-PERF TIPPING 1.50 20.00 10.0 16H
+
+NATIONAL 32-2087 EVA 61-0654
+NATIONAL 52-2100 (PROTOS 100/mK 19) EVA 61-490-A
+
+Az100 = 15.25% VIRGINIA SLIMS SUPERSLIMS REGULAR FTB
+
+19.20HH X S7OOM 9-5CU/11.0X/51% CACOS 10-082-8
+
+INK FOR PRINT DIE AND EXPORT OVERPRINTS#
+MARLBORO BLACK #37077(HK 9/WK 10/PROTOS) 60-915-A
+
+WACHINE HUMBER
+
+SAP CROSS REFERENCE #: CIGT: coz00. FILTER: Bo701
+
+REASON FOR CHANGE
+
+PREPARED BY
+PREPARATION DATE
+
+APPROVED BY:
+
+tp66zL6902
+
+PH CHANGING TO INDUSTRY STANDARD CFO INSTRUMENT
+AND METRIC UNITS FOR RTD MEASUREMENT
+
+SAP CROSS REFERENCE PART MUNBERS ADDED.
+
+Ded. KELTON (A/S00) PRINTING DATE ar20/02
+121595. PRINTING TIME + 1s11es9
+
+SUPERCEDES SPECIFICATION DATED: 8/11/95
+"""
+
+[Example class_id=8 class_name=file folder example_id=1]
+ocr_text:
+"""
+Por Ofer
+
+2040701059
+"""
+
+[Example class_id=9 class_name=news article example_id=1]
+ocr_text:
+"""
+x
+
+8
+a
+z
+=
+&
+
+: 2 ;
+
+/ vieswer oa cet joweyoq warweH Teo uy suor. paordumoD 3ueq APMIS yor
+-eojumuriio aatsenstad jo ware Apmis oxy on posed 9,
+fcaa Sugou suenisin yen ai uy Apmis SuruuApsEME Aitenpedd eM OAlaKy MnONe
+a PMS DIN a
+{wows ywapuadepey oisnoH
+
+2M 30 woREIao0D ayy aaah
+eer
+yo Arenwer uy e8aq "a9,
+uonensuowad pu Yor"as9R
+0A poor pure sre (wu
+
+108 avo Sunn ue asowTy ay pu swuareE jo saxtuOg
+40 ea @ sowooe Jupyous,, Sexag ayy Aq paronpuoa Kanne
+uorsnoys yo fastest ayy 78 qusoer w wmoNy sBuypU, BU
+Boqouoded jo sossjoad sea aS a1 Jo ates are sou,
+emyRE 1g suoder Suyous apes
+Si2e5 wosiad @ sou puY . wumop amy se Atzeo Sv UIBaq
+oaansoin Jo; pamarazmuy wg jo Aueu puy ARMOD |
+arom aes am anoysnasy ayy Jo sed JaIIO uy sua
+ssidopms oT eset, MS Se yon se aol SpOUIS
+Aqanox Viet | paseq-unsny oq AeuL szofeuas) soxaI,
+21 10} wousaods
+
+Peoutatoo st supa
+amon tarp fooyss BuoME BN aD|paRE Jo 2BatIOD Le
+25H 9m) uo FuDyOUIS wanAA aot oMn Ya ABOIONOADA JO up oy
+: Peocgsun ay Sauimp wu mdop Hn om Aq qoIIS e Joy Suppous doy oHload york ous wie
+
+smpodou jor
+sWaNNaa WgaVvarTa 4a
+
+ulay? 07 Stas 1 asofaq yinok ay? 01 Suey
+_. NqRY supjows oy) Sunuesarg:
+
+i) Sam
+
+S261 yt de >
+
+i novouisw woisnon
+svxai NOLSNOH
+"""
+
+[Example class_id=10 class_name=budget example_id=1]
+ocr_text:
+"""
+a.
+
+Se
+
+>
+
+14-Publications
+
+io)
+
+1976 ovagee Hotes-comunications Comittee
+
+Septerber 4, 1975,
+
+ass
+
+prof, Services
+
+3 56,000
+
+PAlnyxin. Purch 5,000 5,000
+33,500
+
+Media Rep. Sozv. 8,000
+
+rob. Pubs. 20,000
+
+other Pubs. 31000 22,525
+
+ew pobiteation?
+wie lent fens |
+| Rater Bevin. - te tte cote
+
+Tyttet Que wm Denny vey
+Me goons Lone met 1
+
+Pe in Wee
+"""
+
+[Example class_id=11 class_name=invoice example_id=1]
+ocr_text:
+"""
+the NATIONAL TOBACCO FESTIVAL, inc. 
+2212 Putahaw Ave, Sule 202 Richmond, Va. 29220 + (854) 258-1970
+
+October 23, 1978
+
+Brown & Williamson Tobacco corporation
+1600 Wi. Hill Street
+Louisville, Kentucky 40232
+
+ATTENTION: Virginia Thompson
+
+(ORIGINAL |
+
+Balance Dus on Brown & Willaamson Float
+in 1978 Grand TLluninated Parade > $ 1,300.00
+
+itt | ot fad Apse em FE
+596-06 ASO
+"""
+
+[Example class_id=12 class_name=presentation example_id=1]
+ocr_text:
+"""
+LCF & L
+
+NEW PRODUCTS/POSITIONINGS
+
+IDEA: NEW FEMALE AND NEW MALE BRAND (WHITE
+COLLAR/PROFESSIONAL)
+
+1. FEMALE
+
+* Brains & Hardwork (not clothes & fun)
+
+2. MALE
+* Professional Success (not cowboys & cars)
+
+* Racially Integrated Ads
+
+RECOMMENDED NEXT STEPS: SHOULD BE PURSUED WITHIN CONTEXT
+OF FEMALE AND YOUNG ADULT NEW
+BRAND DEVELOPMENT PROJECT. LCF&L __>
+TARGETING IS NOT LIKELY RIGHT
+
+xe
+DEMOGRAPHICALLY, o~ oe
+Ora
+oy a
+we
+"""
+
+[Example class_id=13 class_name=questionnaire example_id=1]
+ocr_text:
+"""
+PRIVILEGED AND CONFIDENTIAL
+SUBJECT TO ATTORNEY-CLIENT PRIVILEGE
+ATTORNEY WORK PRODUCT
+
+TOBACCO LEGISLATIVE ISSUE STUDY IT
+
+Acti
+
+INTERVIEWER, _ STUDY #. 7701
+THE TARRANCE GROUP CODING.
+PERSONALICONFIDENTIAL. COMPUTER.
+
+N=1200 SAMPLING.
+
+21+ Population INTERVIEWING, _
+Hello, mynameis___ and I'mealling from The Tarrance Group, a
+
+national survey research firm. We're conducting a public opinion study in your area and I'd like
+very much (o have the opinions of someone in your houschold.
+
+May I speak with the YOUNGEST/OLDEST male/female in your household over the age of 21
+who is at home right now? (USE STANDARD LANGUAGE AND ROTATION OF
+VERSIONS.)
+
+Please confirm: "I reached you at this telephone number."
+
+(READ AREA CODE AND TELEPHONE NUMBER. IF RESPONDENT CONFIRMS,
+CONTINUE)
+
+1 Yes (CONTINUB}
+2.No {TERMINATE}
+
+QB. Are you or anyone is else in your household a reporter?
+
+1 Yes {TERMINATE}
+2 No {CONTINUE}
+3 DK/Refused {TERMINATE}
+
+TARRANCE GROUP/KRG RESEARCH
+1#400xx, Tobacco Legislative Issue Study TE 1
+(05/04/98 12:18 PM
+
+ezeGezeLoz
+"""
+
+[Example class_id=14 class_name=resume example_id=1]
+ocr_text:
+"""
+FF Principal investigaorProgcam Diecto (Las, fst, mice):
+
+BIOGRAPHICAL SKETCH
+
+{Give he folowing information forthe key porsonnel and constants and collaborators, Begin withthe principal
+investigater/program director. Photocopy tis page foreach person
+
+NAME POSITION TITLE
+Constance Sinith Postdoctoral Fellow
+EDUCATION [Begin wil baccalaureate or ofall prclassonl edicaon sch a3 ners, and cade posRocaal ahing)
+YEAR.
+_. INSTITUTION AND LOCATION vecree | CONFERRED FIELO OF stuoy
+Wesleyan University, Middletown, CT BA. 1986 Biology
+University of California, Berkeley, CA. PhD. 1994 Molecular & Cell Biology
+Emory University School of Medicine Postdoc. | 1994-presenk Anatomy & Cell Biology
+
+RESEARCH AND PROFESSIONAL EXPERIENCE: Concluding wit present postion, st, in chronological order, previous employment, experience, and
+honors. Key personnel include the principal investigator and any othe individuals who participate inthe sclentic evelopment or execution ofthe proj!
+Key personnel ypcaly wil include alinduals with doctoral or otha professional degrees, but in some projects wil include indvidvals al tha masters cr
+baccalaureate lave provided they cotibue in a substantive way ta te scent dovelopment or execution ofthe project. incade present momership on
+any Federal Government public advisory commites. Ls, in chronological order, the ties, all authors, and compat references to allpublicabons during ths
+asl three years and to represerative earlier pJticaions perinent to this appication. It the fist of publications in the last vee years exceeds two pages,
+select the mest pertinent pubicaions, DO NOT EXCEED TWO PAGES
+
+RESEARCH/PROFESSIONAL EXPERIENCE.
+
+1U86 - 12/87 Research Assistant, Anatomy & Cell Biology, Harvard Medical School, Boston, MA.
+Participated in biochemical purification of tropomodulin in the lab of Velia M. Fowler.
+
+O88 - 07/88 Research Assistant, Molecular Biology, Research Institute of Scripps Clinic, Lalolla, CA.
+Assisted in polyclonal antibody production and purification in the lab of Velia M. Fowler.
+
+08/88 - 06/94 Doctoral Candidate in the laboratory of Dr. David A. Weisblat. Molecular and Cell
+Biology, Univ. of California, Berkeley.
+
+07/94 - 08/94 Postdoctoral fellow, in the laboratory of Dr. Shirley T. Bissen, Dept. of Biology,
+University of Missouri, St. Louis, MO.
+
+09/94 - present Postdoctoral fellow in the laboratory of Dr. Marla B. Luskin, Dept. of Anatomy and Cell
+Biology, Emory University School of Medicine, Atlanta, GA
+
+HONORS
+
+1993 Best poster award, West Coast Regional Developmental Biology Conference
+
+1994 Invited speaker for minisymposium, Society for Developmental Biology meeting
+
+1995-1996 National Research Service Award, National Institute of Neurological Disorders and
+Stroke
+
+PUBLICATIONS
+
+Papers
+
+Smith, CM. and Weisblat, D.A. (1994) Micromere fate maps in leech embryos: lineage - specific differences in
+rates of cell proliferation. Development 120:3427-3438.
+Smith, CM, Lans, D. and Weisblat, D.A. An investigation of cellular mechanisms of epiboly in leech embryos.
+
+(Submitted to Development)
+Bissen, S.T. and Smith, C.M. mRNA synthesis is required for asymmetric cell di
+early leech development. (In preparation)
+
+ion during a critical period of
+
+Abstracts
+Fowler, V.M. and Smith, CM, (1988). Inhibition of tropomyosin binding to F-actin by tropomodulin, a new
+tropomyosin-binding protein from the human erythrocyte membrane, J_Cell Biol 107: 681A.
+
+S306 (Ree oH (Form Page 6) Page 
+"umber gages onetcutooy at tw Won rego! he appicton Bo nate pataae och SE
+
+7 FF
+
+50650449
+"""
+
+[Example class_id=15 class_name=memo example_id=1]
+ocr_text:
+"""
+Aperpst, INCORPORATED
+
+TITL-0001720
+"""
+
+Rules:
+- Use OCR textual content as the primary signal.
+- Tolerate OCR noise.
+- If there is ambiguity, choose the best class and reduce confidence.
+- Prefer semantic and structural cues over keyword matching.
+- Return JSON with this strict minimal schema:
+{
+  "doc_id": "string",
+  "class_id": 0,
+  "confidence": 0.0
+}
+- Constraints:
+  - class_id must be an integer in [0, 15]
+  - confidence must be a float in [0, 1]
+  - no additional keys
+
+Tie-break hints:
+- email: headers such as From/To/Subject/Date/Sent.
+- memo: Memorandum/Memo + To/From/Date/Subject (without email thread structure).
+- letter: salutation/body/signature (Dear..., Sincerely...).
+- invoice: invoice number, due date, line items, total amount.
+- budget: financial planning by category/time period.
+- form: fillable fields, checkboxes, blanks.
+- questionnaire: numbered questions and corresponding answers.
+- resume: experience, education, skills, contact details.
+- scientific publication: abstract, references, journal/conference.
+- scientific report: institutional technical report style.
+- specification: technical requirements/specifications.
+- advertisement: promotional language/offer-oriented text.
+- news article: journalistic style (headline/byline).
+- presentation: slide-like structure with short bullet points.
+- file folder: cover/index/folder labeling cues.
+- handwritten: predominantly handwritten content.

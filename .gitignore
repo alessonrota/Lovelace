@@ -1,0 +1,38 @@
+# Python / local environments
+.venv/
+.venv-qlora/
+**/__pycache__/
+*.pyc
+
+# Editor / local tooling
+.vscode/
+.codex
+
+# Experimental folders not in this upload scope
+data/
+docs/
+arquive/
+
+# Heavy model artifacts (global)
+*.safetensors
+*.gguf
+*.ckpt
+*.pth
+optimizer.pt
+scaler.pt
+scheduler.pt
+rng_state.pth
+training_args.bin
+
+# Old unsupervised pilot: keep code/docs, ignore heavy/runtime artifacts
+Lovelace_old_Sem_Supervisão_Humana/.git_embedded_backup/
+Lovelace_old_Sem_Supervisão_Humana/.venv/
+Lovelace_old_Sem_Supervisão_Humana/offload/
+Lovelace_old_Sem_Supervisão_Humana/build/
+Lovelace_old_Sem_Supervisão_Humana/dist/
+Lovelace_old_Sem_Supervisão_Humana/model/base/
+Lovelace_old_Sem_Supervisão_Humana/model/ada-lovelace-lora/
+Lovelace_old_Sem_Supervisão_Humana/model/adapter_ollama/
+Lovelace_old_Sem_Supervisão_Humana/model/tmp_ollama/
+Lovelace_old_Sem_Supervisão_Humana/data/hf_dataset/
+Lovelace_old_Sem_Supervisão_Humana/logs_resumidos.json

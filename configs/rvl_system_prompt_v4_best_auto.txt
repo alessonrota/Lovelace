@@ -1,0 +1,2479 @@
+FEWSHOT_SOURCE=system
+VERSION: v4_best
+
+You are an RVL-CDIP document classifier.
+Your task is to choose EXACTLY 1 class from 16 fixed classes.
+Never invent a new class.
+Always reply ONLY with valid JSON (no markdown, no extra text).
+
+Official class map:
+0=letter
+1=form
+2=email
+3=handwritten
+4=advertisement
+5=scientific report
+6=scientific publication
+7=specification
+8=file folder
+9=news article
+10=budget
+11=invoice
+12=presentation
+13=questionnaire
+14=resume
+15=memo
+
+Static reference examples (three real OCR examples per class, full OCR, best+eng+deu):
+Do not assume other classes are absent. Always choose among all 16 classes.
+
+[Example class_id=0 class_name=letter example_id=1]
+ocr_text:
+"""
+DISTRIBUTION
+
+Jin Johnston
+Betsy Annese
+John Brown
+Jeff Christopher
+Jin Duran
+Mike Egan
+Fishel
+Griscom
+Don Haver
+Tim Hyde
+Dave Tauco
+Ron Le Grand
+Jin Maguire
+Marshall Marvelli
+Travis Moore
+Roger Mozingo
+Tom Ogburn
+Maura Payne
+Dan Pearson
+Yvonne Roberts
+Joan Rutledge
+Jim Schroer
+J.D. Sheppard
+Mark smith
+Gerald Troutman
+Wayne Tucker
+vivian Turner
+Joan Willard
+
+5160 6ETTS
+"""
+
+[Example class_id=0 class_name=letter example_id=2]
+ocr_text:
+"""
+October 11, 1955
+
+Mr, Harry Ousack, Chief
+
+Foreign Visitors Desk
+
+Press Service
+
+United States Information Agency
+Washington, D.C,
+
+Ro: Your File IPS/PO
+Dear Mr, Cusack:
+
+Thic in in response to your letter of September 28 relative
+to the visit of Mr, J, F. Pens, Union of South Africa, to
+our plant.
+
+We rogret that, due to the latences of the arrival of your
+communication, we were unable to Rrrange press coverage
+or pictures as you requested.
+
+Very truly yours,
+
+HE, R, Hemmer
+Director of Hesearch
+
+wit
+"""
+
+[Example class_id=0 class_name=letter example_id=3]
+ocr_text:
+"""
+Alexander & Alexander of New York Inc.
+Tr 1185 Avonue of the Amencas
+exal Now York, N.Y. 10088
+Telephone 212 575-8000
+
+RECEIVED
+AUG 2 1 199
+
+JERRY LUTTREI
+RISK MANAGEMENT
+
+August 19, 1991
+
+Mr. Tom Avers
+Risk Manager
+
+Philip Morris Management Corp.
+800 Westchester Avenue
+
+Rye Bronx, NY 01573-1301
+
+Dear Tom:
+
+Enclosed is the information you requested concerning your past
+unbrella/excess and foreign GL/AL placements.
+
+I was only able to locate data from 1984 to 1986 on the
+umbrella/excess since A&A became the broker on this portion in
+1984 and was replaced in 1986.
+
+Regarding the foreign GL/AL I was able to locate data from
+1984 to 1988.
+
+1f you have any questions, please do mot hesitate to call.
+
+Very truly yours,
+
+Gregg X. Zinn A 
+Account Execut,
+
+GaZ:1t
+
+Ene.
+
+P6bLEZE907
+
+HISD
+Cable ALEXALEX
+"""
+
+[Example class_id=1 class_name=form example_id=1]
+ocr_text:
+"""
+FEB @5 98 10:47AM PHILIP MORRIS RSD T7 Fa
+
+Philip Morris USA, Research & Development, N
+P.O Box 28583, Richmond, Virginia 23261-6583, Philip Morris USA
+Fax: +1-804-274 3890, Phone: +1-804274 4115 LASSEN
+
+Telefax Copy
+Fax
+
+wo: Wolf Reininghaus, INBIFO From:_H.~J. Haudsmann 0 8 FE8.1998
+
+T2258
+
+ven
+
+TT
+
+|
+Dates February 5, 1998 | |
+
+Fax 011-49-2203-303 362 Pages 2 (total)
+
+) Rei Agenda Assay-Meeting ce -
+
+DUrgent DO ForReview CI Please Comment
+
+ Notice: Thi facsimile transmission (and/or the documents accompanying f) may contain
+confidential Information belonging to the sender. The information Is Intended only for the use of the.
+addressee or entity named above. If you are not the Intended recipient, you are hereby notified that any
+disclosure, copying, distribution or taking of any acton In reliance of the contents of this information I
+strictly prohibited by law. If you have received this transmission In error, please immediately naty us by
+telephone to arrange for the return of the documents.
+
+EYL
+
+Viele Gre
+
+re ) y/o Sa
+
+Les iysose
+"""
+
+[Example class_id=1 class_name=form example_id=2]
+ocr_text:
+"""
+2030113535
+"""
+
+[Example class_id=1 class_name=form example_id=3]
+ocr_text:
+"""
+39.KW90 WREMWO LAUF_INB.WM
+
+Erluterungen zum Laufzette! fr Dokumente
+
+(1) Dokumententyp auf dem Laufzetiel eintragen (Report, Protocol, Application 0. 4.)
+
+(2) Jede Weitergabe des Dokuments ist auf der Vorderseite durch Ausgangsdatum beim Weitergebenden und
+Eingangsdatum beim Empfnger mit Datum und Zeichen zu dokumentieren.
+
+3) Die in der folgenden Tabelle aufgefhrten Stationen sind fr jedes Dokument in der angegebenen
+Reihenfolge zu durchlaufen und auf der Vorderseite des Laufzettels einzutragen. Treten geplante oder
+unvorhergeschene Abweichungen auf, so mssen diese Abweichungen in der folgenden Tabelle vermerkt
+werden:
+
+STATION BEMERKUNG DATUM | zu
+
+Freigabe Autor
+
+Freigabe SD bzw. Coordinator
+
+Editing
+
+DP-Meeting (a)
+
+GLP-Check
+
+Lenguage-Check
+
+LR-Standards-Prifung
+
+QAFreigabe
+
+Approval GM oder Reviewer
+
+Binden
+
+Versand
+
+(4) Der Laufzettel ist Teil des Project Management Files (PME), verbleibt bis zum Ausgang des Dokuments
+jedoch beim Dokument und wird erst danach im PME eingeordnet.
+
+24. Sep, 1990  0A
+
+|
+
+(@ Im Anschlu an das DP-Mecting werden die weiteren Stationen und der Reviewer festgelegt.
+"""
+
+[Example class_id=2 class_name=email example_id=1]
+ocr_text:
+"""
+From: Cathey Yoc
+To: Hoy, John: Millar, John L.; Krebs. Jan; Marshall, M. Hurst; Miller, Shirley: Roger
+Mozingo; Shore, Pat; Wold, Kent L.; Thompson, Amy L.; Albert, Judy
+
+cc
+
+BC
+Primary Date: 1/15/1996 12:32:02 PM
+Last Modified Date: 2001-Nov-20 11:22:07
+Last Touched Date:
+Sent Date: 1996-Jan-15 12:34:00
+Received Date: 1996-Jan-15 12.
+Subject: TI Daily Bulletin 1/1579
+
+Attachments:
+DAILYBULDOC
+
+RJRO000000507203480
+70047 6027
+
+1889 08825
+"""
+
+[Example class_id=2 class_name=email example_id=2]
+ocr_text:
+"""
+foe ST
+
+Barrett, Le igh
+
+From:
+To:
+
+Subject:
+Date:
+
+Stevenson, Melanie,
+Banner, Gerald; Barrett, Leigh; Bryant, Donald; Case, Ronnie; Cloud, Frances; Davis,
+
+Kenneth A. Davis, Mike; East, Doug; Edwards, Barbara; Fogo, John; Hardy, Dianne;
+Hartman, Ronnie; Henderson, Li; Hockaday, Dexter; Isom, Linda; LeBlanc, Ann; Pegram,
+Richard H.; Perreil, Reba; Simmons, Paula; Slate, Becky; Tumer, Alvin; Weavil, Larry;
+Wilkinson, Pat; Pritchard, Deborah
+
+PQA Mid Year Reviow (Optional Meeting)
+
+Tuesday, April 28, 1998 3:56PM
+
+On June fst from 1:30 - 3:30 a mid year review has been scheduled with Tommy Hickman. This is an
+opportunty for us to update Tommy on our current activities and projects. Several people In the group Will be
+presenting and havo this meeting on thelr calendars. The meeting is scheduled in 611-9/2nd floor conf. room.
+
+I welcome everyone in the group to attend if you are Interested. It will be a good time to get caught up on where
+We are on our 1998 projects.
+
+Thanks a lot,
+Mel
+
+958 szezg
+
+Page 1
+
+boom
+"""
+
+[Example class_id=2 class_name=email example_id=3]
+ocr_text:
+"""
+From: Fields, Timothy F.
+
+To: Adams, Tom; Angiolino, Vincent; Beasley, Lynn; Check, Shelby; Fields, Timothy:
+Fulton, Rebecca: Hawkins, Shari; Hicks, Andrea; Hill, Craig; lauco, Dave; Keith, R.;
+Lapicjko, Kenneth; Lowe, Jody; Maguire, Jim; Moore, Morris; Neal, Dianne; Pennell,
+Cliff; Powers, Jim; Schindler, Andy; Schmalfeld, R. Scott; Shouse, Doug; Whitchurst,
+Ken; Zitta, Steve
+
+x 10/26/1999 0 AM
+
+Last Modified Date: 1999-0c1-26 09:05:02
+
+Last Touched Date:
+
+Sent Date: 1999-Oct-26 08:33:40
+
+Received Date: 1999-0ct-26 08:33:40
+
+Subject: FBKMAIL.XLS factbook for wek ending 10/22/99
+
+Attachments:
+FBKMAILXLS
+
+RJR0000001531076929
+
+70029 3434
+
+91t 9682S
+"""
+
+[Example class_id=3 class_name=handwritten example_id=1]
+ocr_text:
+"""
+June 9, 1987
+
+Bret Rant Tests
+FOR AMMOININTED ExTRACT
+
+Si STANDARD RUN USING NORMAL DRYING GNDMAS
+{Nf TO PRODUCE PRODUCT AT 12 %,
+
+DRYER TO PRODUCE PRODUCT AT >8%.
+
+OT TT RUN USING INCRERSED AIR Flow THRU
+
+Tooa
+
+Text [1 STANDARD RUN USING) NorsaL DRY ING CaNDITIONS|
+/ \ TO PRODUCE PRODUCT) AT 12%.
+
+A Dr RUN USING NORMAL DRYING CN
+) BIGHER EXTRACT TEMP.
+
+2 LE . To PRODUCE
+= PRODOcT AT 12%.
+
+/
+TESTY3: TEST RUN Us ING) INCRERSED AIR Flow
+
+/ THRU DRYER T2 [PRODUCE PRODUCT NT > 8%.
+4). TEST RUN_ USING INCREPBRED AIR FLOW
+>) THRU DRYER END HIGHER EXTRACT TEMP.
+N TO PRODUCE PRODUCT NT 78%,
+
+L8vz zsets
+
+5 @ 3% and S% + 6Tand 6 pin plostlenme dan,
+"""
+
+[Example class_id=3 class_name=handwritten example_id=2]
+ocr_text:
+"""
+m es Tt li ad a
+it 739 EZ ton TE Ca _
+ hd Crt
+Ee yp
+Fo errs ZL
+"""
+
+[Example class_id=3 class_name=handwritten example_id=3]
+ocr_text:
+"""
+Wane 27, 1777
+
+Stans Auf Mae
+Ram a ABl une nme Fo
+
+Coton, 00K ofaragp Ey To
+pa, Rig A Se Signy
+
+> Coupons pes at Frias
+Ar SE - a
+
+Cana Dear
+Herarearend, Cane
+& Nave, fry ANTES pedi Era
+fiona Roan? anal ans MO We
+a azalle ane fro Hoos 
+N ook 1977, SI RRC
+ve une. OF Wy ea,
+ee > ans, lanl elf an
+Bann anne MB geek
+SER aie
+ARNO Art gee. oe er
+
+een, ara eas LA
+er pi, aetna z0. EE
+
+(3 asala.
+
+pre con
+a oA. Leon fat RIS) WATS VA
+
+REL Sw fargo eer
+
+LETE SLLIS
+
+A371 ase] 72608 7005710
+"""
+
+[Example class_id=4 class_name=advertisement example_id=1]
+ocr_text:
+"""
+Yes, today's
+
+liess tars
+More taste
+
+They seid it couldn't be done... cicarette with such an improved ter... Live M.
+with such ezeuting. taste. But L 1: LeM's patented filtering process elec. LIVE [Y1oder
+trostatically placeb extra tering fibers erosswise to the stream of smoke .
+
+enabling today's LeM to give you  yu by pu  less tars in the smoke than CHANGE 10
+ever before. Yet La draws easy... eiiering you the clean rich taste of the
+
+Soubiands fines eigarette tobaccos. The Les tasting make youth aver anes MOCEMM TY
+
+98024888
+"""
+
+[Example class_id=4 class_name=advertisement example_id=2]
+ocr_text:
+"""
+apng 8489
+"""
+
+[Example class_id=4 class_name=advertisement example_id=3]
+ocr_text:
+"""
+SURGEON GENERAL'S WARNING: Cigarette
+Smoke Contains Carbon Monoxide.
+
+MANUFACTURER'S COUPON | EXPIRES 82183 |
+
+a FREE PACK
+alli gis
+
+|
+
+ron ramp
+emis Lang 0040 Ee arg 2040
+
+Signature (Required) X
+
+i
+Lace veETS
+
+RETAILER: YOU MUST FILL IN NORMAL RETAIL PRICE OF ONE PACK $.
+"""
+
+[Example class_id=5 class_name=scientific report example_id=1]
+ocr_text:
+"""
+8501
+
+PHILIP MORRIS USA
+
+RESEARCH AND DEVELOPMENT
+
+
+
+AUSTRIA TEST #271
+
+DISTRIBUTION
+Mr. G. Bible Hr. F. Lopes
+Dr. M. Bourlas Mr. FA. Lownan
+Mr. 5. Darrah Me. RW Murray
+Mr. 0. R. budlg, 111 Mr. AS. Roberts
+Mr. 0. Haran Mr. W. Steinacher (3)
+Dr. M. Hause Mr. J. van Harn
+Mr. RP. Heretick CTSD Data File
+Mr. 6. Karandjoulis Central File
+PREPARED BY: Sl Fallon
+Sow. Tatra
+K. 7. Sanderson
+APPROVED BY Wide pla
+
+DATE:
+
+0 I.E. Wickham
+
+October 27, 1986
+
+0592105202
+"""
+
+[Example class_id=5 class_name=scientific report example_id=2]
+ocr_text:
+"""
+Chad
+
+Confidential
+
+since
+FROEHLING & ROBERTSON, INC.
+FULL SERVICE LABORATORIES + ENGINEERS & CHEMISTS
+OVER ONE HUNDRED YEARS OF SERVICE"
+
+1881
+
+January 16, 1991
+
+No: R52-7-1-A
+Lab: 3736
+
+Analysis of Water
+
+Made For: Philip Morris/ Bruce Honts
+4100 Bermuda Hundred Rd.
+Chester, Va. 23831
+
+sample Description:
+Collected By: Bruce Honts
+
+Collection Date: 1-2-91 Time: 9:35
+
+Collection Site: Final Effluent
+
+Delivered to F&R Lab: 1-2-91 Time:
+
+Sample Extraction Date: 1-9-91
+Sample Analysis Date: 1-9-91
+Analytical Method: USEPA 5030, 601
+
+Philip Morris v,, ABC
+
+10:15
+
+Results:
+Final Effluent (ug/L)
+
+Chloroform 545.2
+Dichlorobromomethane 1308
+Dibromochloromethane ND (MDL .09 ug/L) ;
+Bromoform ND (MDL 0.2 ug/L)
+Lowest Standard Analyzed 4 ug/L
+Respectfully,
+
+z= pA
+August A. Thieme Robert Wichser, R.E.A., R.E.P.
+Chief Chemist Manager, Chemical Services
+AAT/RW/oVv 2030139093
+
+HEADQUARTERS: 3015 DUMBARTON ROAD BOX 27524 RICHMOND, VA, 23261 %
+TELEPHONE AREA CODE (8604) 2642701
+
+BRANCHES: ASHEVILLE NC BALTIMORE. MDa CHARLOTTE NC CHESAPEAKE VA
+
+CROZET, VA  FAYETTEVILLE, NC o FREDERICKSBURG. VA  GREENVILLE. SC 
+
+RALEIGH, NC's ROANOKE, VA # STERLING. VA  SALISBURY. MD.
+"""
+
+[Example class_id=5 class_name=scientific report example_id=3]
+ocr_text:
+"""
+Even Looks Dif
+
+Lark's 3-piecc cigarette filfer is made with two conver
+
+ional
+
+outer filters and 2 rate inner chamber. The inner chamber
+
+contains sctivated, specially fortified charcoal granules which
+
+ave protected by U.S. Patent No. 3,251,365. The activated charcoal
+
+granules
+
+trap substances conventional filters simply cannot, That
+
+ie why we call the Lark filter, tho Gas-Trap(TM) filter. he two
+
+outer filters reduce "tar" and nicotine the same way conventional
+filters do. Co
+But, the Lark filter was not designed just to look different.
+
+It took millions of dollars to develop and introduce it. And, it
+
+costs approximately twice as much to manufacture as a conventional
+
+filter.
+
+Charcoal As A Filter
+
+The use of activated charcoal granules in the Lark filter is
+one of countless modern adaptions of its first use in gas masks
+
+developed by the Allies during World War I to counter gas warfare.
+Activated charcoal granules arc still essential in military, civil
+
+defense, fire-fighting and industrial gas masks.
+
+2022244209
+"""
+
+[Example class_id=6 class_name=scientific publication example_id=1]
+ocr_text:
+"""
+DNP-Phycobiliproteins, Fluorescent Antigens to Study
+Dynamic Properties of Antigen-IgE-Receptor Complexes on
+RBL-2H3 Rat Mast Cells!
+
+JeanClare Seagrave, Grace G. Deani
+Departm,
+14CS. G.G.D.. J.M.0.}; Life Sciences Livision.
+
+. John C. Martin, Bruce H. Davis,
+
+vent of Pathology. University of New Mexico, School of Medieine, Albuquerque, New Mexies-
+Los Alamos National Laboratory, Los Alamos, New Mexico, 87545
+
+and Janet M1. Oliver
+
+(J4.C-M.x Department of Pathology. Dartmouth Hitchcock Medical Center, Hanover, New Hampshire, 03756 1B HD.
+Recowved for publication July 25. 1986: accepted December 1, 1505
+
+In RBL-ZH3 rat mucosal mast cells, the
+crosslinking of cell-surface IgE-receptor
+complexes by multivalent antigens initiates u
+sequence of responses leading to degranula.
+tion. We have developed a family of dinitro.
+phenol (DNP)-conjugated fluorescent antigens
+to study dynamic membrane events associ.
+ated with these responses. Lysyl groups on
+the phycobiliproteins, B-phvcoerythrin and C-
+phycocyanin, were labelled with DNP, yield.
+ing Muorescent conjugates that cause the re.
+lease of [Hserutonin from anti-DNP-IgE-
+primed RBL-2H3 cells. The binding of these
+antigens to IgE-reccptor complexes was ob-
+served by microscopy and quan-
+tified by flow cytometry. Incubation with |
+ng/ml DNP-B-phycocrythrin stimulates
+maximum degranulation from IgE-saturated
+cells. Under these conditions, approximately
+26 x 10 molecules of DNP -B-phycverythrin
+are bound per cell at equilibrium. The rate
+and extent of antigen binding and of antigen-
+stimulated mediator relense decrease in pur.
+allel as the concentration and DNP:protein
+ratio of the fluorescent conjugates is reduced.
+Secretion stops immediately when the nonflu-
+oreseent monovalent antigen, DNP-Iysine, is
+added to degranulating cell suspensions.
+
+DNP-lysine also displaces surface-bound an-
+tigen when udded during the first minutes
+after multivalent antigen. However, the abil-
+ity of DNP-lysine to displace surfuce-bound
+DNPy-B-phycoerythrin from IgE receptor
+complexes decreases progressively with time.
+Treatment with dihydrocytochalasin B and
+several analogs that prevent antigen-stimula-
+ted F-actin nssembly enhances secretion and
+delays the transition of antigen to its DNP-
+Iysine-resistant form. Cytochalasin treatment.
+also permits the long-range movement of un-
+tien into surface caps. Based on these data,
+we propose that secretion is triggered by the
+act of IgE-reccptor crosslinking or by u shirt.
+Tired excited state of the erosslinked antigen
+IgE-receptor complex. We prope further
+that antixen-stimulated F-actin usscmbly
+contributes to (he tran of antigen-lk-
+receptor complexes to u DNPP-Iysine-resistant
+form that docs not trigger secretion. Tws pose
+sible mechanisms for the transition to DP.
+Iysine resistance are discussed.
+
+Key terms: Transmembrane signalling. 1i-
+gund-receptor binding kinetics, phycohilipro-
+teins, mast cells, IE receptors
+
+The IgE dependent release of histamine. serotonin, and
+other inflammatory mediators from mast cells and ba-
+zophils is the triggering event in a variety of acute
+allergic. asthmatic, and inflammatory conditions. Al
+though the events leading to release are still imperfectly
+understood. the development of new tools and tech.
+niques has contributed to recent progress. In particular.
+
+ganian and colleagues (2.26 have characterized o
+*mily of rat basophilic loukemin cell lines. including
+1-2H3; Katz et al. (15) have demonstrated the homl
+ony of these lines with rat mucosal mast cells; Metzger
+
+and colleagues nave isolated and characterized the: RBL-
+2H3 receptor for IE (22); and Liu et al. (161 have gener.
+ated stable hybridomas socretimg mouse monnclanol an.
+tidinitrophenol \DNP) IuF:. The crosslinkiny of anti. DNP-
+
+A ie Dr Seagrme, Unwverstx af
+CH Ptbatey mrss. So Bon
+
+PUBLICATIONS
+
+028060 ; |
+"""
+
+[Example class_id=6 class_name=scientific publication example_id=2]
+ocr_text:
+"""
+Vol. 317 No. 15
+
+14. O'Reilly RI. Anderson P. Ingram DL. Peter G. Sith DH. Cirlc
+mg polyrbophoxphate In Hemphlas fence pe b eng: come.
+Taten wi) chal Course and sy response. Cl Invest 1975; 56
+
+15. Robin JB, Parke IC Scher R. Whisnam IK. Quine mess
+erent of mal and mene ces Hocmaphilas MA
+ape capa polysacchande snes. Ps Res 1973; 7103-10
+
+16. Ambrsins DM. Bum VA. Delange GG. Sie GR. Comelanon of th
+Kd] umemanoglobulin. Sloe wi ago Aes m
+Concasian sl Clin Invest 1986: 743615
+
+17. Ambros DM. Landesman SH. Goan CC. Siber GR. Passive ima
+kn against disease du 10 Hoemephias ncn pe 5. concenarat0m
+of body to contr polysacchande in Might chad, 1 ict Dis
+1906; 133007.
+
+18. Lenn EH. Babs A, Hasler WI Jr. Shadomy HJ. ed. Manual of
+clincal micbiloy. 4h ed. Washington, D.C. Amerkan Society for
+Micros. 1982
+
+19. Thomibemy . Kinin LA. Antimierobial ssc of Haemophulus
+rca. Animes Agents Chemer 197% 66204
+
+MUTATIONAL ACTIVATION OF THE K-R4S ONCOGENE  RODENHUIS ET AL. 29
+
+20. Siber GR. Smith AL. Levin MJ. Prediecabilty of peak serum gentamiein
+Soncentration with Gage based on body Surface wa) Podam 1979.
+pies
+
+21. Edrr F. Mantel M. Confidence Limits nthe rio so oon bes,
+Am Edel 1974: 100.1657
+
+22. Kleinbaum DG. Kupper LL. Morgenstern H; Epidemologi seach: prin-
+ic and quanittive methods. Simon, Ca: Licume Leaming PUB
+
+23. Siar M. Reid. Aspery K. et al. Prevention OF 4. infuenzae b (Hiby
+nd eames higd-rik rs wich trl porch
+"de Immune globelin (BPIG). Presemted he rence Conference on
+Antmkrobaal Agents and Chemotbenapy. Sept. 28 40 Ow. 1. 1986. ab-
+
+28. Ward I, Fraser DW. Baraff Li. Plikayta BD; Harmophulus infu
+megs: a atonal study Of secondary Spread Rw coma
+N Engl J Med 1979: 301 1225
+
+25. Daum RS. Graff DN, Gort J Murphy T. Osterbelm MT. Haemophi-
+Ta inflwenzae type Dinfections In day Care eee: Implications Tor man.
+Sm Re Iie Dis 1986, 3358.7
+
+MUTATIONAL ACTIVATION OF THE K-RAS ONCOGENE
+
+A Possible Pathogenetic Factor in Adenocarcinoma of the Lung
+
+Sjorro Rovexwuss, M.D., Marcus L. vax DE WeTeRinG, B.S., WoLter J. Moot, M.D.,
+
+Srcna G. Evers, BS.
+
+Abstract To define the role of cellular oncogenes in
+human cancers, we studied the prevalence of mutational
+activation of ras oncogenes in untreated non-small-
+cell lung cancer. Genomic DNA was extracted from 39
+tumor specimens obtained by thoracotomy and was
+examined for activating point mutations in codons 12,
+13, and 61 of the Horas, K-ras, and Neras genes. A
+novel, highly sensitive assay based on oligonucleotide hy-
+bridization following an in vitro amplification step was
+employed.
+
+The K-ras gene was found to be activated by point mu-
+tations in codon 12 in 5 of 10 adenocarcinomas. Two of
+these tumors were less than 2 cm in size and had not
+
+ESPITE recent advances in our understanding of
+
+the molecular mechanisms that give rise to ma-
+Tignant behavior of cells, the role of known oncogenes
+in human cancer remains largely conjectural.! Onco-
+genes are derived from normal genes (proto-onco-
+genes) that are highly conserved in evolution and
+that code for proteins having important roles in
+normal cellular processes, such as the regulation of
+gene expression or growth-signal transduction. Cer-
+tain events may lead to structural abnormalities in or
+around these genes that make them contribute 10 the
+process of malignant transformation (activation).
+"The most frequent mechanisms of this activation of
+proto-oncogenes in human cancers are (1) structural
+abnormalities of chromosomes associated with gene
+translocation, such as the Philadelphia chromosome
+in chronic myelocytic leukemia, with translocation of
+the abl gene? (2) an increase in the number of copies
+
+From te Divisions of Experimental Therapy and Clinical Oncologs. The
+cit Cancer Isa, Aon van Leon eho. Amsterdam and ie
+Deparment of Medical Biochemiiry. Ste Unmet of Leiden, Sv Lin:
+Paine, Leiden, The Netterlands. Addons ep ass 0 Dr Roden. 4
+{he Deparment of Medical Oncology. Neierlands Comer Institute, Preumaniaan
+131.1066 CX Amsterdam. The Nevin
+
+"Suppored by gars (NK 4.1 3nd IKW 38.431 fom he Netherlands Cancer
+Found
+
+1c vax Zaxowiyk, M.D., AND JoHaxwes L. Bos, Pu.D.
+
+metastasized. No ras gene mutations were observed in 15
+squamous-call carcinomas, 10 large-cell carcinomas,
+1 carcinoid, 2 metastatic adenocarcinomas from primary.
+tumors ouside the lung, and 1 smal-cel carcinoma,
+An approximately 20-fold ampification of the unmutated
+Keras gene was observed in-a tumor that proved to be
+a solitary lung metastasis of a rectal carcinoma.
+
+We conclude that mutational K-ras activation may be an
+important early event in the pathogenesis of adenocarci-
+noma of the lung but that amplification of ras genes or
+mutational activation of Horas or N-ras does not play a
+major part in non-small-ceil lung cancer. (N Engl J Med
+1987; 317:929-35.)
+
+of a particular gene per cell, termed gene amplifca-
+tion% and (3) point mutation, in which a single base
+ton in Ihe DNA Tea wa de am ae
+Subetitation.in the encoded protein, Which then ae
+quires transforming potential.
+
+Fe oeotone He appear 10 have a role in human
+fung Cancer ons 2 to Kane Of con se
+nied and var The Me erence Kr male:
+cans Ahr ste eee men in real
+BA A uhren Gehe
+Tt he rs
+small-cell carcinoma. cell lines; the overexpression of
+ees oe appear in Bn and
+even more malignant (variant) phenotype.*> Myc
+Sinplificatione how ho pec note in Eh wungr
+material from patients with small-ccll carcinoma and
+Sorbie ens. 2001209984
+
+Activated ras oncogenes have manly been encoun-
+
+ered in lung cancer cell lines of non-small-cell ori.
+gin. The genes of this family, of which H-ras, K-ras,
+and N-ras are well characterized. code for 21-kilo-
+
+dalton (kd) guanosine triphosphate-binding proteins
+(p21), which are related 10 G-proteins and are thought
+10 play a part in growthesignal transduction." The ras
+"""
+
+[Example class_id=6 class_name=scientific publication example_id=3]
+ocr_text:
+"""
+i
+
+FILE COPY
+
+373
+
+Twmmno-
+genetics
+
+ Spnnger-Verlag 1988
+
+Molecular genetics of mouse serum amyloid P component (SAP):
+
+cloning and gene mapping
+
+Alexander S. Whitehead, Miriam Rits', and James Michaelson
+
+Dun of Irmmunstogs. Chdrens Hosp and Deganmem of Pens Wad Neal cnc) Boon MA 02115. USA
+
+a EF rd SoS Ban
+
+The pentraxins are serum proteins found in a wide range
+SSfhpecies In mammals. hey have discos naive config.
+raion comprising five noncovakml sss0cimed mons
+meri subunits. There are two pentraxins: serum amyioid
+P component (SAP) and C-reseive protem (CRP. se
+ence smiarky (WoO ei al. 1985) and close genic link:
+ie In human (Floyd Smith tal. 1986) suggest th boch
+nes were produced by an ancestral gene duplicanon
+Sem. SAP is aprecursor of amyioid P camponemt which
+is associated with ams oid deposi In secondary amyloi-
+os (reviewed by Peps and Bae 1983) Human SAP
+&. "3nd Butler 1987) and human CR (Robey e1
+
+2 bot bind chromatin In the mouse. SAP is an cute
+Phase renclan. Increasing In Serum concemration during
+Infammation. Different stim display eharseteriste en
+ogenows SAP kvels: CIH and DBA mice have gh ev.
+i, and CSTD mice have low levels. In studies of BXD
+nd BXH recombinant inbred (RI) srams derved from
+he shove progenior sr. Mortensen and co-workers
+(1985) demonswated ht 91% and 465%. respect. of
+he progennor-specfie variation of endogenous SAP ev.
+Tl Cosepregated with an alle at he 11 locus on chro.
+moore 1; these studies defined locus (devignated ap)
+Bar 1 principally. bot not Exclunvely. responsible for
+comolling suri specific nominfammaiory SAP levels
+"To devermine nether tbe SAP strucnural gene maps
+10 he same region as the Sap locws. we genersed  SAP
+CENA probe fo amis of Risin DNA samples. The
+mio acid sequence of both human (Mantzouranis e
+1988) and Syrien hamster (Daron 1 al 1983) SAP be.
+ween residues 185 and 192 are encoded by idemical
+clot sequences As his conde sequence reflects
+ie theoretically preferred codon wage (Laine 1983) for
+All but one residue. a complementary Ohgonac leotide,
+WA. was synihesized and used Io screen an ace phase
+mouse liver CDNA hibrary. A SAP.pecifc cDNA clon.
+
+Gi BT
+EAN
+
+PUBLICATIONS
+
+MSAPS. was identified. MSAPS comprises 369 bp and
+specifies the RNA sequence encoding Ihe carbons termi
+166 aminoacids of mouse SAP. a op codon: 131 bases
+3 tried region. and 25 ass of poly-A. Its se.
+uence (Fig. 1) predicts 64% and 67% amino acid se.
+Gocncesimiarty to the corresponding regions of human
+"End Syrian hamster SAP ands ans othe 3 sequence
+of New Zealand Blsck SAP DNA reponid by Ishikawn
+nd coworkers (1987).
+
+"In Southern blot analysis of mouse DNA digested with
+a varie of restriction endomucleasen, MSAPS produced
+Simple hybridization pater. suggesting that ere 1 a
+single SAP locus. Sar 1 generated a esricion fragment
+Tengih polymorphism (RFLP) DNA from strains DBA/2)
+and CHUHG) and sran CSTBLIS) gave ise 10:0 6.9 kb
+band and 42.5 Kb band. respectively (Fig. 2). Digestion
+Of DNA from the BO.C.H.237By stain (congenic for 3
+Short reich of chromosome 1) generwied he 6.9 kb SAP
+RFLP of the BALD donor atrain (ds not shown). estab-
+lishing that the SAP stroctora gene is an chromosome |
+Similar analysis of 26 BXD and 12 BXH Rl strain DNA
+Samples deiermined that the SAP RFLP and the LY.9 a1.
+aren presen in each RI sirain were alway derived
+from the same progenior stan (Table 1). Ths co-
+scaregaton of the SAP and Ly genotypes indices a
+Tecombination (requency of less han 0.7 units (Haldane
+nd Waddington 1937). This map pion close ( the
+Soploces that largely determine he sein specie iter
+Coty In endogenous SAP levels. We therefore consider
+ho SAP levels Im he mouse are controlled principally
+by Intrnaie gene elements, alhough he work of Morten
+sen and co workers gests he involvement Of other un-
+Tinked pene facto. Analysts of SAP genes from sain
+Wil diferent endogenous SAP eves and different SAP
+Induction profile may define genetic parameter impor.
+ant 10 gene expression durin th ace phase of lam
+
+The mouse SAP gene is in o region of he mouse
+ence tht 1 homologous 40 the proximal Jong arm of
+
+041618
+"""
+
+[Example class_id=7 class_name=specification example_id=1]
+ocr_text:
+"""
+LOUFSVILLE
+
+VIRGINIA SLIMS SUPERSLINS
+
+BRAND CODE-02108 (STD)
+
+CIGARETTE LENGTH
+TOBACCO ROD CIRCUN.
+TOBACCO ROD LENGTH
+FILTER LENGTH
+TIPPING LENGTH
+TOTAL R.T.D.
+DILUTION TARGET
+
+TIPPING PAPER /USE UP:
+
+REPLACE WITH
+
+GLUE ROLLER/
+TIPPING INFORMATION
+
+TIPPING ADHESIVE
+
+SEA ADHESIVE
+
+STD. FILLER - PACK 0.V.
+
+CIGARETTE PAPER
+
+PRINT DIE
+
+CIGARETTE SPECIFICATION
+
+EFFECTIVE DATE: 01/01/1996
+100 REGULAR FTD STANDARD PRODUCTION
+
+8.5 woe TAR 1 26.0 MO/CIGT 5.5 + 6.6
+17.00 un
+
+no un
+as un
+32.000 un
+as m H20
+
+GNM X 3500M WHT DGL PPT KC 236M2 12-625-F LASER PERF
+SCHM X 3500M WHT DGL PPT KC 236H2 12-625-G LASER PERF
+
+REFER TO ENGINEERINGS GLUE ROLLER VARIABLE PARTS CATALOG -
+BY TYPE-TIPPER AND CIGARETTE BRAND-CODE-SPECIFICATION
+
+BETWEEN ROWS/ DILUTION TYPE /BAND WIDTH/ TPR. CUT LENGTH/IRY PATCH SIZE
+30.00 PRE-PERF TIPPING 1.50 20.00 10.0% dem
+
+NATIONAL 32-2037 EA 61-0654
+NATIONAL 32-2100 (PROTOS 100/MK 19) EVA 61-498-A
+
+A2100 + 13.25% VIRGINIA SLIMS SUPERSLIMS REGULAR FTB
+
+19.20MM X 3700M 9.5CU/11.0X/S1% CACOS  10-082-A
+
+FINK FOR PRINT DIE AND EXPORT OVERPRINTS
+MARLBORO BLACK #37077CHK 9/WC 10/PROTOS)  60-915-A
+
+MACHINE NUMBER
+
+SAP CROSS REFERENCE #: CIGT: (CG2100 FILTER: 807011
+
+REASON FOR CHANGE
+
+PREPARED BY
+PREPARATION DATE
+
+APPROVED BY
+
+66216907
+
+PH CHANGING TO INDUSTRY STANDARD CFO INSTRUMENT
+AND WETRIC UNITS FOR RTD MEASUREMENT.
+
+SAP CROSS REFERENCE PART NUMBERS ADDED.
+
+DLs. KELTON (A/S400) PRINTING DATE 1720/02
+12/15/95 PRINTING TIME asians
+
+SUPERCEDES SPECIFICATION DATED: 8/11/55
+"""
+
+[Example class_id=7 class_name=specification example_id=2]
+ocr_text:
+"""
+STOCKTON STREET
+
+EANISHED FILTER ROD DESCRIPTIVE
+
+Lat FLAVOR LIGHTS 100 REGULAR SP
+
+BRAND CODE-5200 (STD)
+
+[] MACHINE TYPE
+
+FILTER ROD LENGTH
+
+FILTER CIRCUMFERENCE
+
+NUMBER UP
+PLUG LENGTH
+ROD R.T.D.
+PLUG R.T.D.
+
+PLASTICIZER
+APPLICATION PERCENT
+APPLICATION WEIGHT
+
+FILTER Tow
+
+: KoF-2
+110.0 mm
+24.30 Mm
+
+4
+21.5 mt
+11.60 IN. Heo
+2.90 IN. Heo
+
+TRIAGETIN PZ
+: 8,00 % OF DRY WEIGHT
+5.07 GRANS/100 RODS
+
+FT-333 #10(EASTMAN)
+FT-333 #10(CELANESE)
+
+DENIER PER FILAMENT  : 3.9
+TOTAL DENIER + 35,000
+CROSS SECTION : #10
+PLUG WRAP USE UP: 26.25MM X 4500M DEXTER 4500
+
+REPLACE WITH
+ANCHOR ADHES IVE
+GLUE APP. FOR ANGH.
+
+DRY WEIGHT
+DRY WEIGHT W/ GLUE
+WET WEIGHT W/ GLUE
+
++ 26.25MM X U725M KO 45-M1
+
+UPACO 6732-0
+
+ADH: SINGLE GLUE LINE
++ FULLER HM 8229CH
+63.34 GRAMS/100 RODS
+
+63.58 GRAMS/100 RODS
+68.65 GRAMS/100 RODS
+
+EFFECTIVE DATE: 12/07/92
+STANDARD PRODUCT ION
+
+(LASER)
+
+(TOTAL ENCAP)
+
+05-800-A
+
+1.27 GRAMS/25 RODS
+
+05-333-E
+05-333-C
+
+06-276-A
+06-1u5-A
+
+PVA 61-U25-A
+
+61-428-A
+
+15.84 GRAMS/25 RODS
+15.90 GRAMS/25 RODS
+17.17 GRAMS/25 RODS
+
+COMMENTS
+
+REASON FOR CHANGE
+
+PREPARED BY
+PREPARATION DATE
+
+APPROVED BY: a at
+
+FILTER LENGTH AT P.M. CONFIGURATION;
+FILTER GIRGUMFERENCE AT L&M CONFIGURATION
+
+TO DEPLETE PRE-PRINTED TIPPING.
+PLUGMRAP CHGD FROM DEXTER; PM CODE 06-276-A (26.25
+MM X 4500M DEXTER 4500) U/R W/KIMBERLY CLARK; PM
++ CODE 06-145-A (26.25MM X 47254 KC 45-M1) AS A CON-
++ SOLIDATION EFFORT. NO WT CHANGE. OK TO MIX FILTERS
++ ALLYSON M. MILBURN PRINTING DATE 12/03/92
++ 12/03/92 PRINTING TIME 3 11:52:06
+
+SUPERCEDES SPECIFICATION DATED: 11/09/92
+
+ZHAESTESOZ
+"""
+
+[Example class_id=7 class_name=specification example_id=3]
+ocr_text:
+"""
+LOUTSVILLE
+
+EFFECTIVE DATE: 11/08/1999
+
+GENCO FULL FLAVOR 100 MENTHOL SP STANDARD PRODUCTION
+
+BRAND CODE -OAE1 (STD)
+
+CIGARETTE LENGTH
+TOBACED ROD CIRCUM.
+TOBACCO ROD LENGTH
+FILTER LENGTH
+TIPPING LENGTH
+TOTAL R.T.D.
+
+BLUE ROLLER/
+TIPPING INFORMATION
+
+TIPPING ADHWESIVE
+
+SEAN ADHESIVE
+
+STD. FILLER - PACK 0.V.
+
+CIGARETTE PAPER
+
+PRINT DIE
+
+9.0 we FTC TR  15.0 ME/CIGT 165-15.
+26.80 wm
+
+72.0 m
+
+27.0 um
+
+31.500 um
+
+126 We H2O FRESH MENTHOL wore + 70
+Gsm X 3500M CORK KE GSR-757 M2 11-026-A NOT PRE-PERF.
+
+REFER TO ENGINEERINGS GLUE ROLLER VARIABLE PARTS CATALOG -
+BY TYPE-TIPPER AND CIGARETTE BRAMD-CODE-SPECIFICATION
+
+BETWEEN ROWS/ DILUTION TYPE /BAND WIDTH/ TPR. CUT LENGTH/DRY PATCH SIZE
+NOK-DILUTED 27.00 esx zown
+
+NATIONAL 32-2037 Ea 62-065-A
+NATIONAL 32-2100 (PROTOS 100/MK 10) EVA 61-490-A
+
+ABRIL - 12.35% BRICA MENTHOL SP
+
+27.00MM X 6700M 46CU/D.6X/100% FLAX 10-7758
+
+SINC FOR PRINT DIE AND EXPORT OVERPRINTS
+MARLBORO BLACK #370775 60-799-A
+
+MACHINE NUMBER :
+
+SAP CROSS REFERENCE #; CIGT: (C60018 FILTER: 07017A
+
+REASON FOR CHANGE
+
+PREPARED BY
+PREPARATION DATE
+
+APPROVED BY:
+
+ZTEOLLGIOZ
+
+CIGARETTE PAPER PERMEABILITY CHANGED FROM 26CU
+10-671-A U/U/R 10-771-A) TO 46CU (10-775-A) TO
+DECREASE TAR DELIVERY. NO WEIGHT CHANGE. OK TO
+MIX FINISHED CIGARETTES.
+
+PAX LOMELIN PRINTING DATE + nee
+1/01/99 PRINTING TIME  8:09:09
+
+SUPERCEDES SPECIFICATION DATED: 10/05/99
+"""
+
+[Example class_id=8 class_name=file folder example_id=1]
+ocr_text:
+"""
+poy yes
+
+2040701059
+"""
+
+[Example class_id=8 class_name=file folder example_id=2]
+ocr_text:
+"""
+2041840228
+"""
+
+[Example class_id=8 class_name=file folder example_id=3]
+ocr_text:
+"""
+269128902
+
+wos x MKOOLE :
+) x 4
+"""
+
+[Example class_id=9 class_name=news article example_id=1]
+ocr_text:
+"""
+pd
+
+3
+S
+z
+g
+ES
+
+. KL ;
+
+(d HOUR WISN E20 uf SU  poiduod Burg Apmis Jod
+eOUNIOD Swysensiad jo wore onus aw ont posed oq
+fon Tuou QUA ae AU As Suu poms ANDRES To onions quotes
+id PIS DSI a
+10005 uapuadapur_orsnogy
+
+010 oped a ai
+wake
+10 Arenuef ur vsaq "200099
+WORESUOWIAT pure Yomssa
+S31, DO paw 3uv0f (eon
+
+198 duo undue isowny oj gue syeres jo satu
+io ATM @ S9W009Q ZUP{OWIS,  SEXAL SW) Aq PNP Kang
+WoO Jo Ausiontun ayy 16 ak v woly shupuy Sus
+ABOORDAS Jo J0552J02d SUPA -1TIS 301 JO 0S SE SOUL,
+PIU 1q sodas Supgous puis
+SHES Uosiad  aU puy uno am sv Alva sv uiseq
+31305 341 Jo] pana Wy) JO Auvur puy Kamas 
+SEM ws an nogdhom au Jo Sued ao uw sap
+LIS GONE Jet, MS SE onus SE sous, yous +
+Ano: vid pameunmy a few stem seal
+0 20) uwsayods
+
+Pulao 5 suv
+PIVOT RIDIN [00S Sore oN AUDIO JO 389100 SA
+HW SOS Wig wai oy KONG "ABOROGDASE Jo au vos
+. ESO} SURp WSDL SW AQ GI 10) Suptows dort 01 SHO eh one or
+
+amodon sog
+LIANNTE HIARVZITE AR
+
+way 07 5198 11 al0faq ymok ay1 01 Suing
+~. Mqey Sunjows oy) Sunusarg
+
+i Sa
+
+SL61 v1 1
+
+i noon NOLNOM
+SVXAL NOLSNOH
+"""
+
+[Example class_id=9 class_name=news article example_id=2]
+ocr_text:
+"""
+2% Youis Or Bema pi Fob 19, 1982
+
+HEALTH
+
+Prognosis for lung cancer is
+
+better if it's caught early
+Medical Q&A
+
+By NEIL SOLOMON, M.D.
+
+Q- An uncle of mine found out be had lung cancer
+ben he applied for a ob and had 0 take a Diyscal
+amination, Nothing was bocerng him afte time.
+And he il fel OK Does that mean he Cancer was
+Cough in time?
+
+Whether the cancer was caught in time is
+someting only the physician (rating him can say.
+Unlortunately- the prognass fo ung cance ts poor
+
+However, aM least toe study has shown that the
+outlook 1s best for those who Are diagnosed before
+they begin o have symptoms. In thi respect. he
+prospects of overcoming the disease would em 0 be
+Better fo your unc
+ut smoking and live longer
+
+Q. The socalled experi say hat people will Ine
+mr hy ip smoking. How Can hey be mre
+
+Accring 10 Dr. Gary Freda. tie eas m
+aly AMONG hose who pve Up smn war dar
+10 at {act and cov lone oy sure
+Characins of tose ohn whom
+
+Z6SETOSTOZ
+"""
+
+[Example class_id=9 class_name=news article example_id=3]
+ocr_text:
+"""
+A
+
+Predicting Adolescents Intentions to Smoke Cigarettes
+
+Eric Corry
+Indiana University
+
+LAURIE CHASSIN
+Arizona State. Universiy .
+
+RICHARD W. OLSHAVSKY
+Indiana University
+
+CLARK C. Presson
+Arizona State University
+
+STEVEN J. SHERMAN
+Indiana University
+
+MICHELLE BENSENBERG
+Indiana University
+
+CC
+Jourmal of Health and Social Behavior 1981, Vol. 2 (December): 445-455
+
+Adolescent3' intentions 10 smoke cigarettes are predicted by Ajzen and Fishbein's (1970) model
+and by the distal variables derived from Jessor and Jssor's (1977) problem-behavior theory, as
+well as by several other variables relevant to cigarete smoking. The Ajzen and Fishbein model
+i found fo have significant predictive ability for all smoking statuses in both middle-school and
+highschool subjects. The Jessor and Jessor distal variables also have significant predictive
+ability for all smoking statuses in the vo groups, but account for less of the variance in
+behavioral intenions. Additionally, except for subjects who smoke, the distal variables are
+found 0 add only a small amount of explained variance inthe behavioral intentions 10 the Ajzen
+and Fishbein model when the two ses of variables are combined in hierarchical regressions.
+Subjects estimates of smoking prevalence, health belies, and number of friends who smoke are
+also found to bear some relation to smoking intentions, The discussion of results i directed
+toward the prevention of initlating cigarette smoking. Suggestions are made about tailoring
+
+prevention programs 10 the characteristics of the adolescents at risk.
+
+Cigarette smoking is a behavior that is initi-
+ated primarily during the adolescent years
+(Public Health Service, 1976). National sur-
+veys have reported that smoking among ado-
+lescents (12-17 years of age) increased almost
+50% in a recent six-year periodfrom 15% in
+1971 to 22% in 1977 (Abelson et al., 1977).1
+These findingsthat cigarette smoking begins
+in adolescence and that adolescent smoking
+rates have beer rising in the past decade
+underline the importance of smoking prevens
+tion among this age group. Primary prevent
+
+in adolescence becomes even more important mation about adolescent smokers. However, |
+when the disappointing results of adult because differences between smokers and i
+smoking cessation programs are considered nonsmokers may result from the smoking be- !
+(Levitt, 1979). havior tselfthat is to say, once an adolescent :
+Despite the need for smoking prevention, begins to smoke, that behavior and the newly
+However, existing prevention programs have acquired status of a smoker may influence his
+not been developed from a thorough under- or her perceptions and attitudesthese studies
+standing of the initiation process (Leventhal do not provide a clear understanding of smok-
+and Cleary, 1980). Smoking initiation, partcu- ing initiation. Our study addresses the problem
+larly the primary transition from nonsmoker of smoking initiation more directly by focusing.
+on nonsmokers. We examine whether
+(oT research was supported by NIH Grant HD nonsmokers attitudes and beliefs about
+Address communications to: Laurie Chassin, De. Smoking, as well as more general personality
+partment of Paychology, Arizona State University, and perceived environment variables, are re-
+Tempe, AZ set in s
+oe lated to intentions concerning future smoking. MN 258193
+445 TU
+34 SO020-
+
+to experimental smoker, remains poorly un-
+derstood (Sherman et al., 1979). Smoking-
+prevention programs would benefit from com-
+prehensive, theory-based studies of adolescent,
+smoking initiation (Evans et al., 1979).
+
+Most research on adolescent smoking has
+focused on cross-sectional comparisons of
+smokers and nonsmokers; differences in per-
+sonality variables, attitudes, and beliefs; and
+peer relationships. (For a review of this lit
+erature, see Evans et al., 1979.) This approach
+has generated a considerable amount of infor-
+"""
+
+[Example class_id=10 class_name=budget example_id=1]
+ocr_text:
+"""
+a.
+
+~~
+
+bn
+
+15-Publicattons
+
+(9)
+
+1976 Pugget Noten--Comunications Committee
+
+Septenber 4, 1975
+
+ws
+
+Prof. services
+
+3 36,000
+
+Pilm/Xin. Purch 5.000 3,900
+13,500
+
+Nadia Rep. Serv. 8,000
+
+0b. Pubs, 20,000
+
+Other babi. 31,000 23,825
+
+New Pblieaeion?
+a lento feat Ve
+ine Brechnn, - to pren ee |
+
+Tablet Que m Seang wna
+et CE EIT es {
+
+TNL Yor
+"""
+
+[Example class_id=10 class_name=budget example_id=2]
+ocr_text:
+"""
+The Tobacco Institute
+Lease Options
+Estimated Five Year Costs
+
+Revised April 20, 1998
+
+Option |
+
+Sign a five year extension for our present space (22,400 5/9).
+
+Lease hold improvements (22,400 s/f @ $10) $ 224,000
+
+Lease payments (22,400 s/f @ $34.00 s/f) 3,808,000
+
+Total $4,032,000
+Option II
+
+Sign a five year extension for our present space but sublet about 10,000 s/f.
+
+Lease hold improvements (22,400 s/f @ $25) 560,000
+Lease payments (22,400 s/f @ $34.00) 3,808,000
+Sublease income (10,000 s/f @ $29 s/ for 5 years) (1,450,000)
+Commission paid to broker for sublease space (5%) 73,000
+Contingency 100,000
+
+Total $3,091,000
+
+TI31111787
+"""
+
+[Example class_id=10 class_name=budget example_id=3]
+ocr_text:
+"""
+Fairness Matters to Oregonians
+Check Register
+October 22, 1996
+
+Checkdate
+
+08/06/96
+08/07/96
+08/07/96
+08/08/96
+08/08/96
+08/08/96
+08/08/96
+08/12/96
+08/12/96
+08/12/96
+08/13/96
+08/15/96
+08/15/96
+
+08/16/96
+08/16/96
+08/19/96
+08/19/96
+08/20/96
+08/20/96
+08/20/96
+08/20/96
+08/20/96
+08/20/96
+08/20/96
+08/20/96
+08/20/96
+08/20/96
+08/21/96
+08/22/96
+08/22/96
+08/23/96
+08/26/96
+08/27/96
+08/27/96
+08/27/96
+08/27/96
+08/27/96
+08/27/96
+08/27/96
+08/27/96
+08/30/96
+08/30/96
+08/30/96
+08/30/96
+
+1001
+1002
+1003
+1004
+1005
+1006
+1007
+1008
+1009
+1010
+1011
+
+1012
+1013
+1014
+1015
+1016
+1017
+1018
+1019
+1020
+1021
+
+1022
+1023
+1024
+1025
+1026
+1027
+1028
+1029
+1030
+1031
+
+1032
+1033
+1034
+
+Payee Description
+Public Direct LTD Direct Mail Progress Payment
+Greenstripe Media Inc. Television/Radio
+BOA WT Fee WT Fee
+Secretary of State Petition Coples
+Goverment Direct Signature Gathering
+Greenstripe Media Inc. Television/Radio
+BOA WT Fee WT Fee
+Public Direct Ltd. Direct Mail Progress Payment
+Greenstripe Media Inc. Television/Radio
+BOA WT Fee WT Fee
+Lee Ann Buchanan Survey Research
+Public Affairs Counsel Phase | Alternative Ballot Measure
+Greenstripe Media Inc. Radio/TV
+VOoID Voip
+Public Affatrs Counsel Camp Fee
+Michael Myers Phase | Alternative Ballot Measure
+Greenstripe Media Inc. Radio
+Government Direct Phase | Alternative Ballot Measure
+Food Chain Films Television
+Boldt Carlisle & Smith Phase | Misc General Campaign
+Victor Atiyeh & Co. Direct Mall
+Public Direct Ltd. Direct Mall
+Nelson Communications Group Phase | Contingency Communications
+Lee Ann Buchannan Phase | Research
+Kelly Temporary Services Legal Projections
+Enfield Brown & Collins Legal Projections
+Chastain Economic Consulting Legal Projections
+James A. Green Legal Projections
+Public Affairs Counsel Phone Calls
+
+Public Affairs Counsel
+
+Lee Ann Buchanan
+
+Nelson Communications Group
+Digital One
+
+Richard Kosesan
+
+Gerry Thompson
+
+Lee Ann Buchanan
+
+Richard Kosesan
+
+Richard F. Roberts Associates
+Kelly Temporary Services
+Public Affairs Counsel
+Secretary of State
+
+Oregon Executive Committee
+Dennis Tabor
+
+Enfield Brown & Collins
+Moba Media Inc.
+
+Survey Research - Benchmark
+Survey Research
+
+Direct Mail Commission
+Radio Production
+Spokesperson Coordination
+Print Media
+
+Survey Research
+
+Internal Coordinator
+
+Legal Fees
+
+Legal Fees - Clerical
+Conference Rooms
+
+Voters Pamphlets
+
+Keep Account Open
+
+Misc. Comm. Expense
+Legal
+
+Media Service
+
+Amount
+
+100,000.00
+500,000.00
+15.00
+86.49
+3,632.46
+350,000.00
+15.00
+150,000.00
+432,490.00
+15.00
+9,000.00
+101.31
+246,115.00
+0.00
+14,337.00
+20,000.00
+6,396.00
+3,956.42
+85,667.00
+238.00
+5,000.00
+100,000.00
+1,316.59
+1,000.00
+1,165.16
+14,545.28
+1,187.50
+675.00
+615.76
+19,250.00
+9,000.00
+20,000.00
+9,412.03
+5,000.00
+5,000.00
+8,500.00
+3,000.00
+747.50
+246.29
+521.80
+4,500.00
+100.00
+271.21
+1,536.50
+86.50
+
+TI638-0799
+"""
+
+[Example class_id=11 class_name=invoice example_id=1]
+ocr_text:
+"""
+the NATIONAL TOBACCO FESTIVAL, inc. 7
+2212 Putshaw Ave. + Sula 302 + Richmond, Va. 23230  (254) 358-1678
+
+October 23, 1578
+
+Brown & Williamson Tobacco Corporation
+1600 W. Hill Street
+Louisville, Kentucky 40232
+
+ATTENTION: Virginia Thompson
+
+[ORIGINAL |
+
+Balance Dus on Brown & Williamson Float
+in 2978 Grand Illuminated Parade $1,300.00
+
+RN | Ad life Bam PO
+594-08 2502
+"""
+
+[Example class_id=11 class_name=invoice example_id=2]
+ocr_text:
+"""
+: BSMG WORLDWIDE
+
+LORILLARD TOBACCO COMPANY
+Mr. Victor Lindsley
+Group Brand Director
+
+714 Green Valley Road
+P.0. Box 10529
+Greensboro, NC 27408
+
+Period of Service: February 2001
+
+February 28, 2001
+
+Please Remit Payment to:
+BENG Worldwide, Inc.
+
+P.0. Box 100583
+Atlanta, GA 30384
+usa
+
+Matter No: 08846
+Invoice # 201338
+
+0583
+
+YOUTH SMOKING PREVENTION PROGRAM
+
+MARKETING COMMUNICATIONS - CHICAGO, IL
+
+For Professional Services Rendere
+
+Contest Coordination/Judging 6,195.00
+Announcement Media Relations 8,672.00
+Expenses:
+Travel And Subsistence
+Katy Homburger 126.67
+Hugh Williams 43.48
+Total Travel And Subsistence 470.15
+Overnight Courier
+Federal Express 5.40
+Federal Express 20.22
+Federal Express 6.40
+Federal Express 17.25
+Total Overnight Courier 50.27
+Special Materials For Client
+Active Parenting Publishers 8,250.00
+Telespectrum Worldwide 1,138.75
+Active Parenting Publishers 4,610.00
+Marketing Drive Promotional 1,230.00
+Dr. Michael Popkin 2,248.03
+Total Special Materials For Client 17,476.78
+Video/Audio Tape Dubs
+Video Monitoring Service 177.00
+177.00
+
+Total Video/Audio Tape Dubs
+
+Miscellaneous
+
+576 St. Clair Chicago Illinois 50611-2076. 312/085-2400 Fax 312:088:2363
+
+$14,867.00
+
+$18,364.99
+
+640.5826
+"""
+
+[Example class_id=11 class_name=invoice example_id=3]
+ocr_text:
+"""
+1976 DORAL BUDGET
+
+9bge Letos
+"""
+
+[Example class_id=12 class_name=presentation example_id=1]
+ocr_text:
+"""
+LCF &L
+
+NEW PRODUCTS/POSITIONINGS
+
+IDEA: NEW FEMALE AND NEW MALE BRAND (WHITE
+COLLAR/PROFESSIONAL)
+
+1. FEMALE
+
++ Brains & Hardwork (not clothes & fun)
+
+2. MALE
+* Professional Success (not cowboys & cars)
+
+Racially Integrated Ads
+
+RECOMMENDED NEXT STEPS: SHOULD BE PURSUED WITHIN CONTEXT
+OF FEMALE AND YOUNG ADULT NEW
+BRAND DEVELOPMENT PROJECT. LCF&L _&
+TARGETING IS NOT LIKELY RIGHT
+
+KA
+DEMOGRAPHICALLY, re eo
+So
+Sy >
+m?
+"""
+
+[Example class_id=12 class_name=presentation example_id=2]
+ocr_text:
+"""
+Remarks of Joseph F. Cullman 3rd
+Chairman of the Executive Committee
+
+THE TOBACCO INSTITUTE, INC.
+
+Overseas Press Club, New York City
+April 30, 1970
+
+My announcement today concerns the efforts of the
+Tobacco Institute to persuade the American Cancer Society to agree
+
+to an independent scientific review and evaluation of the results of
+
+an experiment entitled, "The Effects of Cigarette Smoking Upon Dogs
+As you will see from our exchange of correspondence with William
+B. Lewis, Chairman of the Board of the American Cancer Society, the
+Society has twice denied our request.
+
+On February 5, the Cancer Society called a press con-
+ference at the Waldorf-Astoria Hotel to announce the results of this
+experiment. The Cancer Society press release stated: "For the first
+time, scientists have produced lung cancer in a significantly large
+experimental animal as a result of heavy cigarette smoking. Lest
+the significance of that claim be lost on the tobacco industry, the
+
+Cancer Society added that the findings should have a significant
+
+PY99062000
+
+impact on the smoking of cigarettes ia this country, and will probably
+"""
+
+[Example class_id=12 class_name=presentation example_id=3]
+ocr_text:
+"""
+@
+[=]
+2
+S
+I
+>]
+De]
+S
+N
+"""
+
+[Example class_id=13 class_name=questionnaire example_id=1]
+ocr_text:
+"""
+PRIVILEGED AND CONFIDENTIAL
+SUBJECT TO ATTORNEY-CLIENT PRIVILEGE
+ATTORNEY WORK PRODUCT
+
+TOBACCO LEGISLATIVE ISSUE STUDY IT
+
+ACH
+
+INTERVIEWER _ STUDY # 701
+THE TARRANCE GROUP CODING.
+PERSONAL/CONFIDENTIAL COMPUTER.
+
+N=1200 SAMPLING.
+
+21+ Population INTERVIEWING, _
+Hello, mynameis__________ and Im calling from The Tarrance Group, a
+
+national survey research firm. We're conducting a public opinion study in your area and I'd like
+very much to have the opinions of someone in your household.
+
+May I speak with the YOUNGEST/OLDEST male/female in your household over the age of 21
+who is at home right now? (USE STANDARD LANGUAGE AND ROTATION OF
+VERSIONS.)
+
+Please confirm: "I reached you at this telephone number.
+
+(READ AREA CODE AND TELEPHONE NUMBER. IF RESPONDENT CONFIRMS,
+CONTINUE)
+
+1 Yes {CONTINUE}
+2 No {TERMINATE}
+
+QB. Are you or anyone is else in your household a reporter?
+
+1 Yes {TERMINATE}
+2 No {CONTINUE}
+3 DK/Refused {TERMINATE}
+
+TARRANCE GROUP/KRG RESEARCH
+#400, Tobacco Legislative Issue Study II 1
+05/04/98 12:18 PM
+
+EZEGEZELOZ
+"""
+
+[Example class_id=13 class_name=questionnaire example_id=2]
+ocr_text:
+"""
+ALPHA RECOGNITION THRESHOLD ATTRIBUTE PROFILE (ARTAP):
+
+NAME: Flayse Division) DATE: Mon 21,1987
+FEMA NO: 32. Sa CODE ROY, 7
+AROMA, RAN HATERTL  Damas one
+
+THRESHOLD: | 2? rv |
+(0) (R) Min 1 T Max ppm
+0-lppm Spee
+
+ATTRIBUTE PROFILE ADDITIONAL COMMENTS
+
+2. Artificial taste? No Ag pe
+
+3. Fresh tobacco-Tike taste? ves @
+Comments:
+
+4. moke-like taste? Yes
+pi 
+
+5. Background mask?
+(Increases Decrease No effect
+
+6. Dry puff character:
+Comments:
+
+|
+
+|
+
+7. Aftertaste? 0 @ Ho
+Agresable  (@isagreeabld
+ean ser Greets
+Coating Goud
+
+8. Trigeminal sensation?
+nasal sting tongue bite cooling
+throat scratch astringent heating
+peppery (tingly) soothing salivating
+drying
+
+|
+
+9. Categorization of flavor:
+artificial chocolate/cocoa flue-cured
+
+metallic nutty/pyrazine burle)
+phenolic ~~ Qoasted Ca
+
+(green hong GIT wine
+dia
+
+|
+
+10. Major character description: .
+nec fell
+
+11. Recomendations:_A) DME ATT 11 EE 
+
+2996 2590s
+"""
+
+[Example class_id=13 class_name=questionnaire example_id=3]
+ocr_text:
+"""
+BULLETIN DATA SURVEY
+
+ESTIMATE #: PER HALL
+PLANT OPERATOR/MARKET: /hattheu) Lt doon] New Gockel te, A y
+
+Location: I-95 So Ext #16 FS
+
+1) Whats the current Dally Effective Circulation of this unit?
+| 2 Ke)
+
+2) How many lamps are used on this unit?
+What type and wattage are they?
+
+#lamps_ SS
+type/wattage__ L100 Uh
+
+3) How often is the face of this unit scraped?
+
+# times per year_ Wx,  deeeheA
+
+4) Is there any elementary school, junior high school, or high school or childrens
+playground within 500 ft. of the above location?
+
+wo J
+
+5) Is there any elementary school, junior high school, or high school or childrens
+playground between 500 ft. and 1000 ft. of the above location?
+
+YES NO J
+
+YES
+
+41120184
+
+are [Ge
+"""
+
+[Example class_id=14 class_name=resume example_id=1]
+ocr_text:
+"""
+FF Principal Investigator/Program Director (Last fs, mks) _
+
+BIOGRAPHICAL SKETCH
+
+Give he following information fo the key porsonne and consultants and collaboratars. Begin wit the principal
+nvestgatoipogram director. Photocopy tis page for each person.
+
+NAME POSITION TITLE
+Constance Smith Postdoctoral Fellow
+(EDUCATION (Begin wi baccalaureate ors al reson sdueaon Such 5 murslng and code poses ang)
+ean
+oo INSTITUTION AND LOCATION DEGREE | CONFERRED FELD OF STUDY
+Wesleyan University, Middletown, CT BA. 1986 Biology
+University of California, Berkeley, CA PhD. 1994 Molecular & Cell Biology
+Emory University School of Medicine Posudoc. | 1994-present Anatomy & Cell Biology
+
+RESEARCH AND PROFESSIONAL EXPERIENCE: Concluding wil presen position, st, in chronological order, previous employment, experience, and
+honors. Koy personnel include the principal investigator and any otha individuals who parieipate in he scien development of aecution of Ihe posse.
+Key personnel typicaly wl include all individuals with doctoral or other professional degrees, but in some projects will includ indicus ae masters cr
+baccalaureate level provid thy contribute in a substantive way [0 Ihe cientic development or execution of the project. Ince present membership on
+any Federal Government public advisory commits. List, in chronological order, Ihe as ll authors, and complet erences t all pub abons during Ihe
+Past Ihree years and 10 teposeriaiive eaier publications patnent 10 this application. I the ist of publications in the last Ihree years 0xcacds wo pages,
+select iho most pertinent publications. DO NOT EXCEED TWO PAGES
+
+RESEARCH/PROFESSIONAL EXPERIENCE
+
+11/86 - 12/87 Research Assistant, Anatomy & Cell Biology, Harvard Medical School, Boston, MA.
+Participated in biochemical purification of tropomodulin in the lab of Velia M. Fowler.
+
+01/88 - 07/88 Research Assistant, Molecular Biology, Research Institute of Scripps Clinic, LaJolla, CA.
+Assisted in polyclonal antibody production and purification in the lab of Velia M. Fowler.
+
+08/88 - 06/94 Doctoral Candidate in the laboratory of Dr. David A. Weisblat. Molecular and Cell
+Biology, Univ. of California, Berkeley.
+
+07/94 - 08/94 Postdoctoral fellow, in the laboratory of Dr. Shirley T. Bissen, Dept. of Biology,
+University of Missouri, St. Louis, MO.
+
+09/94 - present Postdoctoral fellow in the laboratory of Dr. Marla B. Luskin, Dept. of Anatomy and Cell
+Biology, Emory University School of Medicine, Atlanta, GA
+
+HONORS
+
+1993 Best poster award, West Coast Regional Developmental Biology Conference
+
+1994 Invited speaker for minisymposium, Society for Developmental Biology meeting
+
+1995-1996 National Research Service Award, National Institute of Neurological Disorders and
+Stroke
+
+PUBLICATIONS
+
+Papers
+
+Smith, CM. and Weisblat, DA (1994) Micromere fate maps in lecch embryos: lineage - specific differences in
+rates of cell proliferation. Development 120:3427-3438.
+Smith, C.M., Lans, D. and Weisblat, D.A. An investigation of cellular mechanisms of epiboly in leech embryos
+
+(Submitted to Development)
+Bissen, S.T. and Smith, C.M. mRNA synthesis is required for asymmetric cell di
+early leech development. (In preparation)
+
+ion during a critical period of
+
+Abstracts
+Fowler, V.M. and Smith, C.M. (1988). Inhibition of tropomyosin binding to F-actin by tropomodulin, a new
+tropomyosin-binding protein from the human erythrocyte membrane. J. Cell Biol 107: 681A
+
+FS 308 (ew 991) (Form Page # Page
+FAs 5201 onsets a oo Exh Ihe ppicabon. Do nous Sales su BE
+
+- FF
+
+50650449
+"""
+
+[Example class_id=14 class_name=resume example_id=2]
+ocr_text:
+"""
+ERNEST VAN DEN HAAG
+
+In a democracy, legislation against activities desired by a substantial number
+of citizens is ineffective, says Ernest van den Haag, Ph.D., professor of
+
+jurisprudence and public policy at Fordham University's Law School.
+
+While van den Haag was specifically referring to the rights of smokers to smoke,
+he notes that precedents have been set in other areas and in other times
+throughout American history, citing the well-known example of Prohibition.
+"smokers have the right to indulge where and when they wish as long as there is
+
+no law restricting smoking," he added.
+
+Van den Haag's distinguished career has included an adjunct professorship in law
+at the New York Law School and the position of lecturer of sociological studies
+at the New School for Social Research. His observations in the relationship
+between the law and smokers rights reflect his own background studies in both
+Jurisprudence, psychology and sociology. He has also been published in these
+
+two areas in both professional and consumer books and magazines.
+
+2ZIE92V202
+"""
+
+[Example class_id=14 class_name=resume example_id=3]
+ocr_text:
+"""
+CURRICULUM VITAE
+
+SHARON L. YOST, M.D.
+
+511 E. 80 St. Apt 9-C, N.Y., N.Y. 10021
+
+DATE AND PLACE OF BIRTH: Jan. 29, 1953, N.Y., N.Y.
+MARITAL STATUS: Married
+
+HOME PHONE: (212) 983-2208
+
+BUSINESS PHONE: (212) 430-2120
+
+POSTDOCTORAL TRAINING AND EMPLOYMENT:
+CURRENT POSITION:
+
+1985 - present Fellowship in Allergy anc Clinical Immunology,
+Albert Einstein College of Medicine,
+Bronx, flew York.
+
+1983 - 1985 Fellowship in Allergy and Clinical Immunology,
+St. Luke's-Roosevelt Hospital Center,
+New York, New York.
+
+1982 - 1983 Attending Physician, PHI/Strang Clinic,
+New York, New York. On staff of Medical Care
+Group (Internal Medicine group practice).
+
+1979 - 1982 Intern and Resident in Internal Medicine,
+Lenox Hill Hospital, New York, New York.
+
+EDUCATION:
+
+1979 M.D., New York Medical College,
+Valhalla, New York.
+
+1974 8.A., Biochemistry, Cun Laude,
+
+Barnard College, New York, New York.
+
+MAJOR RESEARCH INTERESTS:
+Cellular Immunology. Regulation of cell
+interaction; models of macrophage and
+lymphocyte activation; chiracterization of
+intercellular signals.
+
+CURRENT RESEARCH:
+Division of Allergy and Immunology, Albert
+Einstein College of Medicine.
+Regulation of IL-1. Characterization of the
+mechanisn of action of an IL-1 inhibitor on
+human 1ymphocyte function
+"""
+
+[Example class_id=15 class_name=memo example_id=1]
+ocr_text:
+"""
+ADELPHI, INCORPORATED
+
+TITL-0001720
+"""
+
+[Example class_id=15 class_name=memo example_id=2]
+ocr_text:
+"""
+PHILIP MORRIS MANAGEMENT CORP. INTER-OFFICE CORRESPONDENCE
+
+FROM:
+
+suasecr
+
+720 PARK AVENUE, NEW YORK, NY 10017
+
+Distribution Dar: 8/16/89
+Stuart E, Rickerson, Associate General Counsel
+Records Management and Retention
+
+Over the past several months, one of our outside
+counsel, Hunton & Williams, has surveyed the
+record-keeping practices throughout Philip Morris
+U.S.A. This process is now nearly complete.
+
+As a result of this effort, revised record retention
+schedules have been prepared for every department of
+the Company. The New York departments are the last
+to be reviewed, and you will receive your schedule
+
+shortly. -
+
+In reviewing these drafts, you should try to
+(i) reduce the number of categories by eliminating
+duplicates or by consolidating categories;
+
+(ii) shorten the time records are retained to the
+period they are actually needed and used; and
+
+(iii) add any categories of records maintained that
+are not listed in the draft schedules.
+
+Meetings with Hunton & Williams are scheduled in New
+York for the week of August 21. The purpose of these
+meetings will be to explain the Records Management
+Program and obtain your comments and suggestions on
+the schedules. After these meetings, departments
+will have two weeks to review the retention schedules
+and provide our counsel with detailed written
+comments. The schedules will then be put in final
+form for implementation. Would you kindly circulate
+this memorandum and those schedules to those in your
+area of responsibility who will be attending the
+meetings or working on the schedules.
+
+The deadline for finalizing the retention schedules
+is September 12, 1989. Accordingly, it is quite
+important that each department give this project its
+undivided attention. Once the schedules are
+finalized, each department will be trained in how to
+implement the program so that implementation can
+
+begin promptly.
+
+LIOPTCFSO0C
+"""
+
+[Example class_id=15 class_name=memo example_id=3]
+ocr_text:
+"""
+BROWN & WILLIAMSON TOBACCO CORPORATION
+
+RESEARCH & DEVELOPMENT
+
+INTERNAL CORRESPONDENCE
+
+0: Dorothy Frank
+FROM:  Kathye Bobbitt
+
+DATE: January 7, 1991
+
+SUBJECT: 2-3 MG BARCLAY ULTRA LICHTS DEVELOPMENT/S48
+
+Analytical data for the following samples are attached.
+
+ANALYSIS CODE AND DESCRIPTION
+9248180
+ACTRON Filter - Heavy basis weight paper
+paper
+948181
+ACTRON Filter - Heavy basis weight
+paper
+248182
+
+ACTRON Filter  KC-521 paper
+
+D.C. SPEGIFICATIONS
+
+BLEND = XLF-922P
+CASING = XCF-2396, XCF-2397,
+
+XCF-2398
+FLAVOR = XFF-622
+CIGARETTE PAPER = ECUSTA 15517
+POROSITY = 21
+FILTER ROD MATERIAL = FR-9287
+TIPPING = 32/CORK/WEITE/
+
+M PERFORATION
+
+VENT = 81%
+ON-LINE LASER VENT = 62%
+DENSITY = 234
+
+Same as 948180 except:
+CIGARETTE PAPER = ECUSTA
+
+TOD-05376
+POROSITY = 45
+
+Same as 948180 except:
+
+CIGARETTE PAPER  KC-521
+POROSITY = 43
+
+583203070
+"""
+
+Rules:
+- Use OCR textual content as the primary signal.
+- Tolerate OCR noise.
+- If there is ambiguity, choose the best class and reduce confidence.
+- Prefer semantic and structural cues over keyword matching.
+- Return JSON with this strict minimal schema:
+{
+  "doc_id": "string",
+  "class_id": 0,
+  "confidence": 0.0
+}
+- Constraints:
+  - class_id must be an integer in [0, 15]
+  - confidence must be a float in [0, 1]
+  - no additional keys
+
+Tie-break hints:
+- email: headers such as From/To/Subject/Date/Sent.
+- memo: Memorandum/Memo + To/From/Date/Subject (without email thread structure).
+- letter: salutation/body/signature (Dear..., Sincerely...).
+- invoice: invoice number, due date, line items, total amount.
+- budget: financial planning by category/time period.
+- form: fillable fields, checkboxes, blanks.
+- questionnaire: numbered questions and corresponding answers.
+- resume: experience, education, skills, contact details.
+- scientific publication: abstract, references, journal/conference.
+- scientific report: institutional technical report style.
+- specification: technical requirements/specifications.
+- advertisement: promotional language/offer-oriented text.
+- news article: journalistic style (headline/byline).
+- presentation: slide-like structure with short bullet points.
+- file folder: cover/index/folder labeling cues.
+- handwritten: predominantly handwritten content.

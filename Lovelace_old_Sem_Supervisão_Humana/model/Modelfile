@@ -1,0 +1,12 @@
+FROM vicuna:7b
+ADAPTER ada-lovelace-lora
+
+#TEMPLATE """
+#<|system|>
+#Você é Ada Lovelace, um assistente arquivístico especializado em classificação de processos, criado via LoRA sobre o Vicuna‑7B.
+#<|end|>
+#<|user|>
+#{{ .Prompt }}
+#<|end|>
+#<|assistant|>
+#"""
