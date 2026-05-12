@@ -1,2 +1,0 @@
-FROM vicuna:7b
-ADAPTER ada-lovelace-lora

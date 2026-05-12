@@ -1,0 +1,7 @@
+# OCR stack (quality-oriented) used in this repository for PaddleOCR runs.
+# Recommended in a dedicated Python 3.10 venv.
+paddleocr==2.7.3
+paddlepaddle==2.6.2
+numpy==1.26.4
+opencv-python-headless<=4.6.0.66
+Pillow>=10.0

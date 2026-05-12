@@ -1,0 +1,2 @@
+FROM vicuna:7b
+ADAPTER C:\\Users\\aless\\Documents\\GitHub\\Lovelace\\model\\ada-lovelace-lora
